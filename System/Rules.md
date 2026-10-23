@@ -36,7 +36,11 @@ A leg is a **BET** only if all of these hold:
 4. No thesis built on: head-to-head history, last 1–5 games, ATS/quarter trends, or an affiliate site's pick.
 5. **SGP or parlay:** only with an actual quoted payout and timestamp. Never log "product pricing".
 
-Anything else → **PAPER** (worth tracking) or **PASS**. Log all three.
+6. **Blend check:** the market-weighted (0.75) probability must beat break-even by **≥ 2 pts**.
+7. **Too-good-to-be-true check:** if the model disagrees with the sharp consensus by **> 10 pts**, it's WATCH (investigate missing info), never a bet.
+8. **Stale-price path:** a side also qualifies if ≥ 2 *other* books' devigged consensus beats our break-even by ≥ 2.5 pts, the model doesn't say it's > 3 pts below break-even, and check 6 passes.
+
+Anything else → **WATCH** (tracked, no stake) or **PASS**. Log all three. Items 6–8 came from the synthetic test of [[NBA Engine]] (2026-10-23), where they cut fake edges on fair lines from ~6% of sides to ~0.
 
 ## 4. Allowed price sources
 | Use | Sources |
@@ -71,4 +75,5 @@ Reject the row if `odds_ts > logged_at` or `logged_at > start_time`.
 - **Kill switch:** rolling-200 CLV ≤ 0, or drawdown > 35%, sends you back to paper.
 
 ## Changelog
+- 2026-10-23 v2: added §3 items 6–8 (blend ≥ 2 pts, >10-pt disagreement = WATCH, stale-price path) and the WATCH decision.
 - 2026-10-23 v1: created after the 2026-10-22 audit. Supersedes the Daily Workflow "2% cap", the Guide's "Brier < 0.25" and its 300–500 ROI sample, and the probability-blend.

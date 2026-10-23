@@ -17,6 +17,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[Daily Workflow]] — the checklist for every slate
 - [[Roles & Automation]] — who does what: Perplexity = Scout (sourced facts → `Inbox/`), Claude = Engine + Auditor, Python = data layer, you = Decider; the daily ET clock
 - [[Perplexity Prompt]] — standing instructions for Perplexity (Jobs A–E)
+- [[NBA Engine]] — v1 projection engine (minutes → rates → market-anchored sim), how it decides, how to run it on Windows
 - [[MLB Module]] — MLB chains (pitcher Ks, batter H/TB/HRR), World Series micro-slate plan, Scout MLB fields
 - [[Researcher Prompt]] — reusable facts-only researcher + separate falsifying reviewer
 - [[Upgrade Roadmap]] — what to build next, in order
