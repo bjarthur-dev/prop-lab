@@ -22,6 +22,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[MLB Module]] — MLB chains (pitcher Ks, batter H/TB/HRR), World Series micro-slate plan, Scout MLB fields
 - [[Researcher Prompt]] — reusable facts-only researcher + separate falsifying reviewer
 - [[Upgrade Roadmap]] — what to build next, in order
+- [[Research - Advanced NFL and MLB mechanisms]] — NFL engine v1 design (volume → shares → simulated tails), K model v1 (PA-by-PA, hook, park), N1–N10 + M1–M8 theories
 - [[Research - Advanced NBA mechanisms]] — shot zones, schemes, rotations, reb/ast tracking, market patterns; engine v1.5 plan + tracker v2 (H4–H8)
 - [[Research - Upgrade Report]] — the full audit + research behind all of this
 - [[The Guide]] — the full methodology (17 chapters: math, per-sport modeling, parlays, pick'em, form/streaks)

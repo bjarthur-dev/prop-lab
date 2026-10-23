@@ -35,6 +35,25 @@ Every theory gets **frozen before tip-off** (definition, price, timestamp) and g
 
 **H4–H8 and P1 triggers are computed by code** (engine data: nba_api tracking endpoints), not by an LLM. Until the PC data pull is running, only H1–H3 can be logged.
 
+## NFL theories (N) and MLB theories (M), pre-registered 2026-10-23
+Full trigger/side/control table: [[Research - Advanced NFL and MLB mechanisms]] (final section). **NFL and MLB have no sourced side-bias prior, so every entry needs a control from the first night**; the grader reports "NONE: needs controls" otherwise.
+
+| ID | One-line trigger | Side | Loggable this weekend from Scout facts alone? |
+|---|---|---|---|
+| N1 | RB/TE receiving-yards line ≤ 24.5 | Under | ✅ |
+| N2 | Simulated mean−median gap ≥ 12% of line | Under | engine needed |
+| N3 | Replacement RB after confirmed RB1 OUT, line ≥ 85% of RB1's usual | Rush att under | ✅ |
+| N4 | WR1 (≥ 25% share) OUT → next WR by routes | Rec yds under | ✅ |
+| N5 | Backup QB (< 4 starts) → WR1 | Receptions over | check McKee |
+| N6 | Favored QB ≤ −3.5, PROE blend > 0 | Pass att over | engine needed |
+| N7 | Outdoor, wind ≥ 12 mph or rain at kickoff, aDOT ≥ 11 | Rec yds / longest under | ✅ |
+| N8 | Sack-prone QB vs top-10 pressure | Pass att under | engine needed |
+| N9 | Best ATD yes price ≥ 3 pts better than the Kalshi mid | ATD yes | ✅ (needs Kalshi mids) |
+| N10 | Placebo: weak pass-yards-allowed defense, other indices neutral | WR rec yds over | expected to fail |
+| M1–M8 | Short-hook K unders, P/PA outs unders, whiff-drop, top-K reputational unders, slots 1–4 vs elite pen TB unders, AmFam hits unders, platoon risk, BvP placebo | see report | WS = dry run; graduation needs 2027 |
+
+**Sample-size reality:** an NFL arm adds ~20–40 entries a week, so 400 entries take 10–20 weeks, longer than the season. **For NFL, CLV against the devigged close and log-loss carry the evaluation**, and hit rates are secondary.
+
 ## Daily routine
 1. The Scout's Job C includes a **broad board** (see [[Perplexity Prompt]]), so controls can be picked from players with no mechanism.
 2. Claude freezes theory entries plus one control each in `Record/mechanism_tracker.csv` before the first tip.

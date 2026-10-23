@@ -4,7 +4,8 @@ the matched CONTROL arm's edge for the same hypothesis, net = edge - control edg
 Until a hypothesis has controls, it is graded against the documented side bias (unders ~+1.5 pts, overs ~-1.5 pts,
 SickFade 396k NBA props at close) so an under theory doesn't get credit for 'unders lose less'."""
 import numpy as np, pandas as pd
-SIDE_BIAS = {"under": 0.015, "over": -0.015}
+SIDE_BIAS = {"NBA": {"under": 0.015, "over": -0.015}}   # only the NBA has a closing-price study (SickFade)
+# NFL/MLB: no sourced side bias -> those arms MUST log controls; without them the grader reports "no baseline".
 
 def clustered_se(df):
     g = df.groupby("game")["resid"].sum()
@@ -23,10 +24,12 @@ def main(path="Record/mechanism_tracker.csv"):
     for h, g in d.groupby("hyp_id"):
         hyp, ctl = g[g["arm"] == "hyp"], g[g["arm"] == "control"]
         edge = hyp["resid"].mean() if len(hyp) else np.nan
-        base = ctl["resid"].mean() if len(ctl) else hyp["side"].map(SIDE_BIAS).mean()
+        sport = str(hyp["sport"].iloc[0]) if "sport" in hyp.columns and len(hyp) else "NBA"
+        bias = SIDE_BIAS.get(sport)
+        base = ctl["resid"].mean() if len(ctl) else (hyp["side"].map(bias).mean() if bias else np.nan)
         rows.append(dict(hyp=h, n=len(hyp), n_control=len(ctl), hit=round(hyp["hit"].mean(), 3), p_mkt=round(hyp["p_market_side"].mean(), 3),
                          edge_pts=round(100 * edge, 1), baseline_pts=round(100 * base, 1), net_pts=round(100 * (edge - base), 1),
-                         se_pts=round(100 * clustered_se(hyp), 1), baseline="control arm" if len(ctl) else "side-bias prior"))
+                         se_pts=round(100 * clustered_se(hyp), 1), baseline="control arm" if len(ctl) else ("side-bias prior" if bias else "NONE: needs controls")))
     out = pd.DataFrame(rows)
     print(out.to_string(index=False))
     print("\nRead: |net| < 2*se is noise. ~150 entries -> +/-4 pts; a real 5-pt edge needs ~400, 3-pt ~1,100.")
