@@ -26,7 +26,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[Master Prompt - NFL]] / [[Master Prompt - NBA]] — archived one-game dossiers (superseded by [[Researcher Prompt]])
 
 ## Tonight / recent slates
-- [[2026-10-23 NBA + WS G1]] — 12 NBA + World Series G1: large slate, paper only, Job C requests R6–R10 out
+- [[2026-10-23 NBA + WS G1]] — 12 NBA + World Series G1: 124 NBA props scanned → all PASS; 1 paper bet (Misiorowski u6.5 K)
 - [[2026-10-22 TNF + NBA]] — Patriots-Bears + Nuggets-Thunder: the first full two-sport slate
 
 ## The record

@@ -1,0 +1,22 @@
+Misiorowski: talent K% 0.348 | vs-lineup p 0.306 | BF mean 20.5 | K mean 6.27
+Martinez: talent K% 0.164 | vs-lineup p 0.164 | BF mean 17.5 | K mean 2.88
+
+Misiorowski
+  over 6.5: model p 0.439 | FD -132 BE 0.569 | EV -22.8% | raw edge -13.0 pts | shrunk(0.4) -5.2 | Pinnacle fair 0.530
+  under 6.5: model p 0.561 | FD 104 BE 0.490 | EV +14.4% | raw edge +7.0 pts | shrunk(0.4) +2.8 | Pinnacle fair 0.470
+  alt 5+ at FD -900: model p 0.761 BE 0.900 EV -15.5%
+  alt 6+ at FD -350: model p 0.606 BE 0.778 EV -22.1%
+  alt 8+ at FD 136: model p 0.290 BE 0.424 EV -31.7%
+  alt 9+ at FD 280: model p 0.173 BE 0.263 EV -34.1%
+  alt 10+ at FD 540: model p 0.095 BE 0.156 EV -39.0%
+
+Martinez
+  over 3.5: model p 0.329 | FD 144 BE 0.410 | EV -19.7% | raw edge -8.1 pts | shrunk(0.4) -3.2 | Pinnacle fair 0.402
+  under 3.5: model p 0.671 | FD -186 BE 0.650 | EV +3.2% | raw edge +2.1 pts | shrunk(0.4) +0.8 | Pinnacle fair 0.598
+  alt 3+ at FD -225: model p 0.550 BE 0.692 EV -20.5%
+  alt 5+ at FD 310: model p 0.166 BE 0.244 EV -32.1%
+  alt 6+ at FD 680: model p 0.072 BE 0.128 EV -43.5%
+Martinez (long-leash scenario): talent K% 0.164 | vs-lineup p 0.164 | BF mean 21.0 | K mean 3.45
+  P(>=4) 0.455
+Misiorowski (short-leash 19 BF): talent K% 0.348 | vs-lineup p 0.306 | BF mean 19.0 | K mean 5.81
+  P(>=7) 0.362
