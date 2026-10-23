@@ -26,7 +26,10 @@ def main():
     caps = {}
     if a.caps and os.path.exists(a.caps):
         caps = {norm_name(r.player): float(r.minutes) for r in pd.read_csv(a.caps).itertuples()}
-    proj = pd.concat([project_game(base, g.home, g.away, g.spread_home, g.total, out_keys=outs, min_overrides=caps,
+    mset = {}
+    if os.path.exists(f"{out}/min_set.csv"):   # confirmed starters / replacement roles: player,minutes
+        mset = {norm_name(r.player): float(r.minutes) for r in pd.read_csv(f"{out}/min_set.csv").itertuples()}
+    proj = pd.concat([project_game(base, g.home, g.away, g.spread_home, g.total, out_keys=outs, min_overrides=caps, min_set=mset,
                                    league_total=lg_total) for g in slate.dropna(subset=["spread_home", "total"]).itertuples()],
                      ignore_index=True)
     proj.to_csv(f"{out}/projections.csv", index=False)

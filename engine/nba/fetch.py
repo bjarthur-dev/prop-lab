@@ -21,5 +21,23 @@ def main():
                     print(f"retry {attempt+1} {season} {kind}: {e}"); time.sleep(5 * (attempt + 1))
             time.sleep(1.5)
 
+def fetch_positions():
+    """Roster positions (G/F/C, e.g. 'G-F') for the current season -> engine/data/positions.csv"""
+    from nba_api.stats.endpoints import commonteamroster
+    from nba_api.stats.static import teams
+    import pandas as pd
+    rows = []
+    for t in teams.get_teams():
+        for attempt in range(3):
+            try:
+                df = commonteamroster.CommonTeamRoster(team_id=t["id"], season=C.SEASON_CUR, timeout=60).get_data_frames()[0]
+                rows.append(df[["PLAYER_ID", "PLAYER", "POSITION"]].assign(team=t["abbreviation"])); break
+            except Exception as e:
+                print("retry roster", t["abbreviation"], e); time.sleep(4)
+        time.sleep(1.2)
+    out = pd.concat(rows).rename(columns={"PLAYER_ID": "player_id", "PLAYER": "player", "POSITION": "pos"})
+    out.to_csv(f"{C.DATA_DIR}/positions.csv", index=False); print("saved positions:", len(out))
+
 if __name__ == "__main__":
     main()
+    fetch_positions()

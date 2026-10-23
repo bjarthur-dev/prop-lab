@@ -1,6 +1,6 @@
 ---
 tags: [system, engine, nba]
-version: v1
+version: v1.1
 updated: 2026-10-23
 code: engine/nba/
 status: built and tested on synthetic leagues; awaiting first real-data run + backtest on your PC
@@ -37,6 +37,20 @@ Two ways to qualify, and both must pass the **blend check**: market-weighted (0.
 1. **Once:** install Python 3.11+ (tick "Add to PATH"), then double-click `engine/setup_windows.bat`. It installs packages, runs the tests, pulls 2025-26 and 2026-27 logs (`nba_api`), and writes `engine/out/backtest_report.txt`. **Send me that report**; it's how we tune the half-lives and shrinkage on real data.
 2. **Daily:** after the Scout's Job C file is in `Inbox/Perplexity/`, double-click `engine/run_nba_slate.bat` and enter the date. Output: `engine/out/DATE/summary.md` (+ `candidates.csv`, `projections.csv`).
 3. Until your PC runs it on a schedule, the same files can be run by Claude whenever the logs are in the vault.
+
+## v1.1 fixes (2026-10-23, from the advanced-mechanisms research)
+- **Blowout rule no longer undone.** The starter→bench transfer now happens *after* normalizing to 241 minutes and is zero-sum. Test: at −9.5 a star loses 0.88 min (rule: 0.875). Before the fix: 0.26.
+- **Vacated minutes go to the replacement, not the stars.** Bench players absorb first (weight 1.0 vs starters 0.2); starters can rise at most +2 min. With positions (`engine/data/positions.csv`, pulled by `fetch.py`), 70% of an OUT player's minutes go to same-position bench players. Test: starting C out → backup C 18 → 30 min, star +1.3. Before: backup +2.6, stars to the 38 cap.
+- **`min_set.csv`** (player, minutes) for Scout-confirmed replacement starters, alongside `min_caps.csv`.
+- Tests: `engine/nba/tests/test_minutes.py` (new) + `test_synthetic.py` (still passes).
+
+## Next (v1.5 plan, in order, from [[Research - Advanced NBA mechanisms]])
+1. Threes = 3PA/min × 3P% padded 240 attempts toward the player's prior (prior padded 750 toward league); Binomial.
+2. Usage redistribution ∝ usage^k (k ≈ 1.5–2) with an efficiency cost, replacing the uniform team factor.
+3. Rebounds = DREB/OREB pools × lineup-aware share × opponent reb% (team-rebound deductions 5.6% / 25.1%).
+4. Assists = potential assists × receivers' expected conversion (fixes: shooter out should *lower* a passer's assists).
+5. Final-margin draw per simulation with coach pull curves, OT and late-FT branches (replaces the linear blowout rule).
+6. Opponent 3PA-rate and rim-frequency indices (regressed 40%); ignore opponent 3P% allowed.
 
 ## Known limits (v1)
 - No position or matchup data yet (rebounds don't know who guards whom); no referee or rest effects. All of it is deliberately left out until the backtest shows the base is calibrated.

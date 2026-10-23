@@ -74,36 +74,82 @@ def player_baselines(df, asof, cur_season_id):
             k = C.SHRINK_MIN[s]
             rec[f"{s}_pm"] = float(((w * g[s].values).sum() + k * lg[s]) / (mins + k))
         rows.append(rec)
-    return pd.DataFrame(rows), lg
+    out = pd.DataFrame(rows)
+    pos_path = f"{C.DATA_DIR}/positions.csv"
+    import os
+    if os.path.exists(pos_path) and len(out):
+        pos = pd.read_csv(pos_path)[["player_id", "pos"]]
+        out = out.merge(pos, on="player_id", how="left")
+    return out, lg
 
 
-def project_game(base, home, away, spread_home, total, out_keys=(), min_overrides=None, league_total=None, lg_team_pts=None):
+def _fill_minutes(rot, fixed, target):
+    """Fill the team to `target` minutes. Bench players absorb vacated minutes first (weight BENCH_ABSORB),
+    starters only a little (STARTER_ABSORB) and never above their own headroom. Fixed players don't move."""
+    for _ in range(8):
+        gap = target - rot["min_proj"].sum()
+        if abs(gap) < 0.05:
+            break
+        starter = rot["min_base"] >= C.STARTER_MIN
+        ceil = np.where(starter, np.minimum(C.MAX_MIN, rot["min_base"] + C.STARTER_HEADROOM),
+                        np.minimum(C.MAX_MIN, np.maximum(rot["min_base"] + C.BENCH_HEADROOM, C.BENCH_CEILING_FLOOR)))
+        if gap > 0:
+            free = ~fixed & (rot["min_proj"] < ceil - 1e-9)
+            w = rot["min_proj"].clip(lower=4.0) * np.where(starter, C.STARTER_ABSORB, C.BENCH_ABSORB)
+        else:
+            free = ~fixed & (rot["min_proj"] > 1e-9)
+            w = rot["min_proj"].copy()
+        if free.sum() == 0:
+            break
+        w = w.where(free, 0.0)
+        add = gap * w / w.sum()
+        rot["min_proj"] = np.where(gap > 0, np.minimum(rot["min_proj"] + add, ceil), np.maximum(rot["min_proj"] + add, 0.0))
+    return rot
+
+
+def project_game(base, home, away, spread_home, total, out_keys=(), min_overrides=None, min_set=None,
+                 league_total=None, lg_team_pts=None):
     """Project both teams. spread_home < 0 means home favored. out_keys: normalized names ruled OUT.
-    min_overrides: {key: minutes cap}. Returns per-player frame with stat means and sim params."""
+    min_overrides: {key: minutes cap} (upper bound). min_set: {key: target minutes} (confirmed role / replacement starter).
+    Order (v1.1): drop OUTs -> apply set/caps -> fill to team minutes (bench absorbs vacated minutes)
+    -> blowout transfer starters->bench AFTER normalization (zero-sum, so it is not undone)."""
     min_overrides = min_overrides or {}
+    min_set = min_set or {}
     implied = {home: (total - spread_home) / 2, away: (total + spread_home) / 2}
     res = []
     for team in (home, away):
-        t = base[(base["team"] == team) & (~base["key"].isin(out_keys))].copy()
-        t["min_proj"] = t["min_base"]
+        full = base[base["team"] == team]
+        t = full[~full["key"].isin(out_keys)].copy()
+        t["min_proj"] = t["min_base"].astype(float)
+        # v1.1: route most of an absent player's minutes to bench players at his position (if positions known)
+        if "pos" in full.columns:
+            for _, o in full[full["key"].isin(out_keys)].iterrows():
+                if pd.isna(o.get("pos")) or o["min_base"] < C.ROTATION_MIN:
+                    continue
+                cand = t[(t["min_base"] < C.STARTER_MIN) & (t["min_base"] >= 4) & ~t["key"].isin(min_set.keys())
+                         & t["pos"].astype(str).str.contains(str(o["pos"])[0], regex=False)]
+                if len(cand):
+                    give = C.SAME_POS_SHARE * o["min_base"]
+                    w = cand["min_base"] / cand["min_base"].sum()
+                    t.loc[cand.index, "min_proj"] += give * w
+        for k, v in min_set.items():
+            t.loc[t["key"] == k, "min_proj"] = v
         for k, cap in min_overrides.items():
             t.loc[t["key"] == k, "min_proj"] = np.minimum(t.loc[t["key"] == k, "min_proj"], cap)
         t = t.sort_values("min_proj", ascending=False)
         rot = t.head(C.ROTATION_SIZE)
         rot = rot[rot["min_proj"] >= C.ROTATION_MIN].copy()
-        # blowout: starters lose minutes, bench absorbs
+        fixed = rot["key"].isin(list(min_overrides.keys()) + list(min_set.keys()))
+        rot = _fill_minutes(rot, fixed, C.TEAM_MINUTES)
+        # blowout: zero-sum transfer from starters to bench, applied after normalization
         excess = max(0.0, abs(spread_home) - C.BLOWOUT_START) * C.BLOWOUT_MIN_PER_PT
-        starters = rot["min_proj"] >= C.STARTER_MIN
-        rot.loc[starters, "min_proj"] -= excess
-        # normalize to team minutes, respecting caps
-        capped = rot["key"].isin(min_overrides.keys())
-        for _ in range(5):
-            free = ~capped & (rot["min_proj"] < C.MAX_MIN)
-            gap = C.TEAM_MINUTES - rot["min_proj"].sum()
-            if abs(gap) < 0.1 or free.sum() == 0:
-                break
-            share = rot.loc[free, "min_proj"] / rot.loc[free, "min_proj"].sum()
-            rot.loc[free, "min_proj"] = np.minimum(rot.loc[free, "min_proj"] + gap * share, C.MAX_MIN)
+        starters = (rot["min_proj"] >= C.STARTER_MIN) & ~fixed
+        bench = ~starters & ~fixed
+        if excess > 0 and starters.any() and bench.any():
+            taken = np.minimum(rot.loc[starters, "min_proj"], excess)
+            rot.loc[starters, "min_proj"] -= taken
+            share = rot.loc[bench, "min_proj"] / rot.loc[bench, "min_proj"].sum()
+            rot.loc[bench, "min_proj"] += taken.sum() * share
         # means before team scaling
         for s in STATS:
             rot[f"{s}_mu"] = rot[f"{s}_pm"] * rot["min_proj"]

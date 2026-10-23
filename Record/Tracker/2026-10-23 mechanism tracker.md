@@ -30,3 +30,5 @@ Locked in **before tip-off** at the time-stamped price. No money, paper or real.
 **Grading:** Job A tomorrow (R14) pulls these 15 stat lines; Claude fills `actual`/`hit` in `Record/mechanism_tracker.csv` and keeps a running table by hypothesis in [[Market Intel]].
 
 **Why these and not bets:** FanDuel's prices matched the other books on all of them, and with no calibrated NBA model yet there was no edge to stake. The tracker is how we find out which of these stories is real before the engine starts acting on them.
+
+**v2 relabel (16:55 ET, before the 7 pm tips; no entries changed):** Miller, Davis, Curry, Banchero, Flagg → H1a; Reid, K. George → H1b; Smith, Gafford, Hayes → H2 (confirmed-start rule unverified); Leonard, Avdija, Siakam, Doncic, Reaves → H3-legacy (spreads below the v2 ≥10 threshold). No controls tonight → graded vs the side-bias prior. See [[Mechanism Tracker]].

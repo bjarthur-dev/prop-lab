@@ -115,6 +115,11 @@ Schema per prop:
     quotes: [{book: , line: , over: , under: , price_type: executable|reference, url: , retrieved_at: }]
     exchange: [{venue: , line: , yes_bid: , yes_ask: , fee_shown: , depth_note: , url: , retrieved_at: }]
 
+### Job C, standing item — BROAD BOARD (for control arms)
+In addition to the requests, every Job C also returns FanDuel points / rebounds / assists / threes lines (both sides,
+timestamp) for the **top 4 players by minutes on EVERY team playing tonight**, including teams with no injury news.
+Same schema as R9. Claude uses these to pick matched controls for the mechanism tracker.
+
 ### Job D — LATE NEWS (each start window, T-90 to T-45 min)
 Only changes since Job C: inactives (NFL ~90 min before kick), late scratches, starting lineups,
 minutes restrictions, weather changes, and re-quotes of the requested props. Keep it short and fast.

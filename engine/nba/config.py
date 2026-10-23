@@ -53,3 +53,11 @@ MAX_MODEL_VS_MARKET_PTS = 10.0  # (H) bigger disagreement with a sharp market = 
 MIN_STALE_EDGE_PTS = 2.5     # (H) path B: sharp consensus (excl. the book we bet) beats break-even by this much
 MIN_REF_BOOKS = 2            # path B needs at least this many other books at the same line
 MODEL_VETO_PTS = 3.0         # (H) path B is vetoed only if the model says the side is >3 pts below break-even
+
+# v1.1 minutes allocation (fixes: blowout rule undone by normalization; vacated minutes flowing to stars)
+BENCH_ABSORB = 1.0        # (H) bench players' weight when absorbing vacated minutes
+STARTER_ABSORB = 0.2      # (H) starters absorb some, much less
+STARTER_HEADROOM = 2.0    # (H) a starter can rise at most this many minutes above his baseline
+BENCH_HEADROOM = 12.0     # (H) a bench player can rise up to baseline + this ...
+BENCH_CEILING_FLOOR = 28.0  # (H) ... or to at least this (a backup center stepping into a starting role)
+SAME_POS_SHARE = 0.7      # (H) share of an OUT player's minutes pre-routed to same-position bench players (needs data/positions.csv)
