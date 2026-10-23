@@ -1,0 +1,79 @@
+filters:
+  and:
+    - file.inFolder("Record/Bets")
+    - 'file.name != "_Bet Template"'
+formulas:
+  calib_bucket: "(p_model * 20).round() / 20"
+views:
+  - type: table
+    name: Open bets
+    filters:
+      and:
+        - 'result == "pending"'
+    order:
+      - file.name
+      - start_et
+      - game_id
+      - book
+      - odds
+      - p_model
+      - shrunk_edge_pts
+      - stake_pct
+      - verified
+  - type: table
+    name: Exposure by game
+    filters:
+      and:
+        - 'result == "pending"'
+    groupBy:
+      property: game_id
+      direction: ASC
+    order:
+      - file.name
+      - corr_group
+      - stake_pct
+    summaries:
+      stake_pct: Sum
+  - type: table
+    name: CLV by market
+    filters:
+      and:
+        - 'result != "pending"'
+    groupBy:
+      property: market
+      direction: ASC
+    order:
+      - file.name
+      - clv_pct
+      - pnl_units
+    summaries:
+      clv_pct: Average
+      pnl_units: Sum
+  - type: table
+    name: Reason-code ledger
+    filters:
+      and:
+        - 'result != "pending"'
+    groupBy:
+      property: reason_code
+      direction: ASC
+    order:
+      - file.name
+      - slate_class
+      - clv_pct
+      - pnl_units
+    summaries:
+      clv_pct: Average
+      pnl_units: Sum
+  - type: table
+    name: Calibration bins
+    filters:
+      and:
+        - 'result != "pending"'
+    groupBy:
+      property: formula.calib_bucket
+      direction: ASC
+    order:
+      - file.name
+      - p_model
+      - result
