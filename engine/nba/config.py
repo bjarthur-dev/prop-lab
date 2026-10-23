@@ -8,7 +8,7 @@ HL_MINUTES = 6           # (H) minutes react faster to role changes
 PRIOR_SEASON_DISCOUNT = 0.7   # (H) extra weight multiplier on last season's games
 
 # Bayesian shrinkage toward league per-minute rate, in "minutes of prior" (H)
-SHRINK_MIN = {"pts": 120, "reb": 100, "ast": 100, "fg3m": 300}
+SHRINK_MIN = {"pts": 120, "reb": 100, "ast": 100, "fg3m": 300, "fg3a": 100}
 MIN_PRIOR_GAMES = 4      # (H) last season's avg minutes counts as this many games
 NO_CUR_GAMES_MIN_FACTOR = 0.9  # (H) role uncertainty for players with no current-season game
 
@@ -61,3 +61,8 @@ STARTER_HEADROOM = 2.0    # (H) a starter can rise at most this many minutes abo
 BENCH_HEADROOM = 12.0     # (H) a bench player can rise up to baseline + this ...
 BENCH_CEILING_FLOOR = 28.0  # (H) ... or to at least this (a backup center stepping into a starting role)
 SAME_POS_SHARE = 0.7      # (H) share of an OUT player's minutes pre-routed to same-position bench players (needs data/positions.csv)
+
+# v1.2 threes (sourced paddings: Medvedovsky ~240 3PA in-season; Blackport ~750 3PA reliability point)
+P3_PAD = 240        # current-season 3P% padded with this many attempts of the player's prior
+P3_PRIOR_PAD = 750  # the player's prior (earlier seasons) padded toward league 3P% with this many attempts
+P3_BETA_N = 400     # (H) remaining uncertainty in true 3P% for the simulation

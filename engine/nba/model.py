@@ -22,18 +22,22 @@ def load_logs(paths):
 
 def league_rates(df):
     rot = df[df["min"] >= 15]
-    return {s: rot[s].sum() / rot["min"].sum() for s in STATS}
+    lg = {s: rot[s].sum() / rot["min"].sum() for s in STATS}
+    if "fg3a" in rot.columns:
+        lg["fg3a"] = rot["fg3a"].sum() / rot["min"].sum()
+        lg["p3"] = rot["fg3m"].sum() / max(rot["fg3a"].sum(), 1)
+    return lg
 
 
 def fit_vmr(df, rates_by_player=None):
     """Variance/mean of each stat around player-season rate x minutes (rotation games)."""
     d = df[df["min"] >= 15].copy()
     out = {}
-    for s in STATS:
+    for s in STATS + (["fg3a"] if "fg3a" in d.columns else []):
         r = d.groupby(["player_id", "season_id"])[[s, "min"]].transform("sum")
         exp = r[s] / r["min"] * d["min"]
         m = exp.mean()
-        out[s] = float(np.clip(((d[s] - exp) ** 2).mean() / m, 1.0, 4.0)) if m > 0 else C.VMR_DEFAULT[s]
+        out[s] = float(np.clip(((d[s] - exp) ** 2).mean() / m, 1.0, 4.0)) if m > 0 else C.VMR_DEFAULT.get(s, 1.3)
     return out
 
 
@@ -73,6 +77,14 @@ def player_baselines(df, asof, cur_season_id):
         for s in STATS:
             k = C.SHRINK_MIN[s]
             rec[f"{s}_pm"] = float(((w * g[s].values).sum() + k * lg[s]) / (mins + k))
+        if "fg3a" in g.columns:
+            # v1.2 threes: volume (3PA/min, light padding) x make rate padded toward the player's own prior
+            k = C.SHRINK_MIN["fg3a"]
+            rec["fg3a_pm"] = float(((w * g["fg3a"].values).sum() + k * lg["fg3a"]) / (mins + k))
+            prior_p = (prior["fg3m"].sum() + C.P3_PRIOR_PAD * lg["p3"]) / (prior["fg3a"].sum() + C.P3_PRIOR_PAD)
+            rec["p3"] = float((cur["fg3m"].sum() + C.P3_PAD * prior_p) / (cur["fg3a"].sum() + C.P3_PAD))
+            rec["p3_raw_cur"] = float(cur["fg3m"].sum() / cur["fg3a"].sum()) if cur["fg3a"].sum() > 0 else np.nan
+            rec["fg3a_cur"] = int(cur["fg3a"].sum())
         rows.append(rec)
     out = pd.DataFrame(rows)
     pos_path = f"{C.DATA_DIR}/positions.csv"
@@ -156,7 +168,11 @@ def project_game(base, home, away, spread_home, total, out_keys=(), min_override
         f_pts = np.clip(implied[team] / rot["pts_mu"].sum(), *C.TEAM_PTS_CLIP)
         f_reb = (total / league_total) ** C.REB_EXP if league_total else 1.0
         rot["pts_mu"] *= f_pts
-        rot["fg3m_mu"] *= f_pts
+        if "fg3a_pm" in rot.columns and rot["fg3a_pm"].notna().all():
+            rot["fg3a_mu"] = rot["fg3a_pm"] * rot["min_proj"] * f_pts
+            rot["fg3m_mu"] = rot["fg3a_mu"] * rot["p3"]
+        else:
+            rot["fg3m_mu"] *= f_pts
         rot["ast_mu"] *= f_pts ** C.AST_EXP
         rot["reb_mu"] *= f_reb
         rot["f_pts"], rot["implied_team_pts"] = f_pts, implied[team]
@@ -173,6 +189,12 @@ def simulate(row, vmr, n=C.N_SIMS, seed=11, mult=1.0):
     out = {}
     for s in STATS:
         out[s] = nb_draw(rng, row[f"{s}_mu"] * mult * scale, vmr[s])
+    if "fg3a_mu" in row.index and pd.notna(row.get("fg3a_mu")):
+        # threes = Binomial(3PA, p3), 3PA overdispersed, p3 uncertain (Beta around the padded estimate)
+        fg3a = nb_draw(rng, row["fg3a_mu"] * mult * scale, vmr.get("fg3a", 1.3))
+        p3 = rng.beta(row["p3"] * C.P3_BETA_N, (1 - row["p3"]) * C.P3_BETA_N, n)
+        out["fg3m"] = rng.binomial(fg3a, p3)
+        out["fg3a"] = fg3a
     out["pra"] = out["pts"] + out["reb"] + out["ast"]
     out["pr"] = out["pts"] + out["reb"]
     out["pa"] = out["pts"] + out["ast"]

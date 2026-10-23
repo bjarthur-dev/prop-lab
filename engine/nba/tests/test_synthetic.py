@@ -18,7 +18,8 @@ def make_league():
         mins = np.array([35, 33, 31, 29, 27, 22, 20, 17, 14, 12, 0, 0, 0], float)
         for j, m in enumerate(mins):
             players.append(dict(pid=len(players), name=f"P{len(players)}", team=t, min=m,
-                                pts=rng.uniform(0.35, 0.9), reb=rng.uniform(0.1, 0.4), ast=rng.uniform(0.05, 0.3), fg3m=rng.uniform(0.0, 0.12)))
+                                pts=rng.uniform(0.35, 0.9), reb=rng.uniform(0.1, 0.4), ast=rng.uniform(0.05, 0.3), fg3m=rng.uniform(0.02, 0.12),
+                                p3=rng.uniform(0.30, 0.42)))
     return pd.DataFrame(players)
 
 def play(P, season_id, start, n_days):
@@ -32,8 +33,10 @@ def play(P, season_id, start, n_days):
                 if m <= 0: continue
                 rec = dict(SEASON_ID=season_id, PLAYER_ID=r.pid, PLAYER_NAME=r.name, TEAM_ABBREVIATION=t, GAME_ID=f"{t}{d}",
                            GAME_DATE=date.date(), MIN=round(m))
-                for s in ("pts", "reb", "ast", "fg3m"):
+                for s in ("pts", "reb", "ast"):
                     rec[s.upper()] = int(nb_draw(rng, np.array([getattr(r, s) * m]), VMR_TRUE[s])[0])
+                a3 = int(nb_draw(rng, np.array([r.fg3m / r.p3 * m]), 1.3)[0])
+                rec["FG3A"], rec["FG3M"] = a3, int(rng.binomial(a3, r.p3))
                 rows.append(rec)
     return pd.DataFrame(rows)
 
@@ -52,6 +55,10 @@ def main():
     for s in ("pts", "reb", "ast"):
         err = (m[f"{s}_pm"] - m[s]).abs().mean() / m[s].mean()
         print(f"rate recovery {s}: mean abs error {err*100:.1f}% of avg"); assert err < 0.12
+    # 1b) threes: padded 3P% beats raw current-season 3P% (the H4 mechanism)
+    mm = m[m["fg3a_cur"] >= 15]
+    e_pad, e_raw = (mm["p3_x"] - mm["p3_y"]).abs().mean(), (mm["p3_raw_cur"] - mm["p3_y"]).abs().mean()
+    print(f"3P% error: padded {e_pad*100:.1f} pts vs raw current {e_raw*100:.1f} pts (n={len(mm)})"); assert e_pad < e_raw
     # 2) project a neutral game, compare projected means to truth (no market scaling: implied = truth sum)
     home, away = "T00", "T01"
     truth_pts = {t: (P[P.team == t]["min"] * P[P.team == t]["pts"]).sum() for t in (home, away)}

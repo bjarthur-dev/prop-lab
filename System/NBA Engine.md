@@ -1,6 +1,6 @@
 ---
 tags: [system, engine, nba]
-version: v1.1
+version: v1.2
 updated: 2026-10-23
 code: engine/nba/
 status: built and tested on synthetic leagues; awaiting first real-data run + backtest on your PC
@@ -44,8 +44,13 @@ Two ways to qualify, and both must pass the **blend check**: market-weighted (0.
 - **`min_set.csv`** (player, minutes) for Scout-confirmed replacement starters, alongside `min_caps.csv`.
 - Tests: `engine/nba/tests/test_minutes.py` (new) + `test_synthetic.py` (still passes).
 
+## v1.2 (2026-10-23): threes = attempts × padded 3P%
+- 3PA/min with light padding (100 min) × 3P% padded **240 attempts toward the player's own prior**, the prior padded **750 attempts toward league** (Medvedovsky / Blackport). Simulated as Binomial(3PA, p) with 3PA overdispersed and p uncertain (Beta, n=400).
+- Synthetic test: padded 3P% lands **2.1 pts** from the truth vs **7.5 pts** for raw season-to-date 3P% (234 players). That gap is the H4 mechanism.
+- Outputs `p3`, `p3_raw_cur` and `fg3a_cur` per player, which is everything needed to compute H4 triggers.
+
 ## Next (v1.5 plan, in order, from [[Research - Advanced NBA mechanisms]])
-1. Threes = 3PA/min × 3P% padded 240 attempts toward the player's prior (prior padded 750 toward league); Binomial.
+1. ~~Threes~~ done in v1.2.
 2. Usage redistribution ∝ usage^k (k ≈ 1.5–2) with an efficiency cost, replacing the uniform team factor.
 3. Rebounds = DREB/OREB pools × lineup-aware share × opponent reb% (team-rebound deductions 5.6% / 25.1%).
 4. Assists = potential assists × receivers' expected conversion (fixes: shooter out should *lower* a passer's assists).
