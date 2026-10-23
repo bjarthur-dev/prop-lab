@@ -17,6 +17,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[Daily Workflow]] — the checklist for every slate
 - [[Roles & Automation]] — who does what: Perplexity = Scout (sourced facts → `Inbox/`), Claude = Engine + Auditor, Python = data layer, you = Decider; the daily ET clock
 - [[Perplexity Prompt]] — standing instructions for Perplexity (Jobs A–E)
+- [[MLB Module]] — MLB chains (pitcher Ks, batter H/TB/HRR), World Series micro-slate plan, Scout MLB fields
 - [[Researcher Prompt]] — reusable facts-only researcher + separate falsifying reviewer
 - [[Upgrade Roadmap]] — what to build next, in order
 - [[Research - Upgrade Report]] — the full audit + research behind all of this
@@ -28,7 +29,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[2026-10-22 TNF + NBA]] — Patriots-Bears + Nuggets-Thunder: the first full two-sport slate
 
 ## The record
-- [[Bet Log]] — 2026-10-22: 4–3 with Douglas + SGP pending — see [[2026-10-22 Review]] and [[2026-10-22 Audit]]
+- [[Bet Log]] — 2026-10-22 settled **4–5, −$14.17** at $10 stakes (−$1.42 at 1%), 0/9 closes captured — see [[2026-10-22 Review]] and [[2026-10-22 Audit]]
 - `Record/Bets.base` — Bases views: open bets, exposure by game, CLV by market, reason-code ledger, calibration bins (one note per bet from [[_Bet Template]])
 - [[Review Template]] — run after every slate settles
 
@@ -37,6 +38,9 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[_Player Template]] — one note per player you track (form/streak protocol)
 - [[_Slate Template]] — copy for each new slate
 
-## Where things live (cloud side)
+## Where things live
+- **Source of truth: GitHub** https://github.com/bjarthur-dev/prop-lab — Claude commits here; Perplexity reads it; Obsidian (PC + phone) pulls it via the Obsidian Git plugin.
+
+## Older cloud-side notes
 - Guide: `player-prop-projection-guide.md` · Engine: `prop-engine/` · Log: `prop-engine/bets.csv`
 - Target state ([[Upgrade Roadmap]] #4, #11): a local DuckDB is the source of truth, and the vault mirrors it. Until then, treat `bets.csv` as canonical and note any changes made on the cloud side here.

@@ -17,6 +17,9 @@ updated: 2026-10-23
 
 Why this split: Perplexity's strength is fast, cited, current web search. Claude's is reasoning, code and keeping a consistent record. The failure we're designing out is the 2026-10-22 one, where research ("angles", small samples, media prices) flowed straight into bets with nothing checking it.
 
+## Where the vault lives
+GitHub repo **bjarthur-dev/prop-lab** is the source of truth. Claude commits every change there (works even with the PC off). Perplexity reads raw links and returns job files in its reply; Claude commits them to `Inbox/Perplexity/`. Obsidian on PC and phone pulls the repo via the Obsidian Git plugin.
+
 ## Folder ownership (no two agents edit the same file)
 ```
 Prop-Lab/
@@ -46,6 +49,7 @@ Staggered start windows (7:00 / 7:30 / 10:00 NBA; 1:00 / 4:05 / 4:25 / 8:20 NFL)
 2. **Model mean (Claude):**
    - NBA: minutes distribution (role, spread/blowout, b2b, OT) × per-minute rates (season blended with prior, shrunk; 3P% shrunk hard) × pace × opponent (shrunk).
    - NFL: team plays × pass rate (spread/total script, wind) → dropbacks/carries × player share (routes, targets, carries, red-zone) × efficiency regressed hard → skewed yards, Poisson TDs.
+   - MLB: batters faced (pitch count, postseason leash) × log5 K% vs lineup handedness (ABS-era umpire down-weight); batters: lineup-slot PA × shrunk rates × pitcher + bullpen + park/roof — see [[MLB Module]].
    - **v0 (now):** built from Scout-sourced season stats in the files. **v1:** built from nba_api/nflreadpy on your PC.
 3. **Adjustments only via sourced deltas:** vacated usage/targets, status changes, wind ≥ 12 mph. Never head-to-head, last-3 streaks or affiliate angles.
 4. **Blend means**, market weight 0.75 → convert to p with the right distribution (NB for counts, skewed for yards).

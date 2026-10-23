@@ -41,6 +41,7 @@ updated: 2026-10-23
 | National TV / holidays / playoffs | Micro slate, peak attention | Micro rules; playoffs: tighter rotations → minutes edges |
 | Late season | Tanking and rest volatility | React to news; fade stale starter lines |
 | Wind ≥ 12 mph (NFL) | Passing −8%, unders 59% at 12–14 mph | Adjust passing volume and efficiency; at 15+ mph the line already has it |
+| MLB postseason (one game a night) | Micro slate, shorter starter leash, more high-leverage relievers | Paper by default; K props first ([[MLB Module]]) |
 | Thursday NFL | No meaningful under effect (46.8% overs vs 48.7%) | Don't add a TNF adjustment |
 
 ## 5. 2026-27 market changes
