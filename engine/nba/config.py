@@ -60,6 +60,9 @@ STARTER_ABSORB = 0.2      # (H) starters absorb some, much less
 STARTER_HEADROOM = 2.0    # (H) a starter can rise at most this many minutes above his baseline
 BENCH_HEADROOM = 12.0     # (H) a bench player can rise up to baseline + this ...
 BENCH_CEILING_FLOOR = 28.0  # (H) ... or to at least this (a backup center stepping into a starting role)
+MAX_BOARD_LEAN_PTS = 4.0   # v1.4: if model-minus-market on overs averages beyond +/-4 pts board-wide, no bets (model health gate)
+ROLE_TIERS = [(0, 12), (12, 20), (20, 28), (28, 49)]   # v1.4: minutes tiers for shrinkage priors
+STARTER_TRIM = 0.25       # (H) v1.4: starters' weight when trimming a team above 241 min (bench 1.0)
 SAME_POS_SHARE = 0.7      # (H) share of an OUT player's minutes pre-routed to same-position bench players (needs data/positions.csv)
 
 # v1.2 threes (sourced paddings: Medvedovsky ~240 3PA in-season; Blackport ~750 3PA reliability point)

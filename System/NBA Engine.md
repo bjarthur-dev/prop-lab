@@ -1,6 +1,6 @@
 ---
 tags: [system, engine, nba]
-version: v1.3
+version: v1.4
 updated: 2026-10-23
 code: engine/nba/
 status: real-data backtest done (2025-26); calibrated v1.3; paper/watch only until CLV record builds
@@ -55,6 +55,14 @@ Data pulled on the laptop: 26,651 player-games (2025-26), 640 (2026-27 so far), 
 - **Rebounds / assists:** mean accuracy = naive (no gain yet; v1.5's opportunity models are the fix), but v1.2 was **overconfident by ~5 pts** at p ≥ 0.55 (fitted dispersion 1.04/1.05 was too tight).
 - **Fix (tuned on that backtest):** dispersion floors (reb 1.5, ast 1.35) + 10% true-rate uncertainty per simulation. Result in the 55–65% bin: reb **58.3% predicted vs 58.2% actual**, ast 59.0 vs 60.5, pts 59.4 vs 59.7. Brier improved (reb .2458 → .2446, ast .2435 → .2431). Report: `engine/out/backtest_report_v1.3.txt`.
 - Meaning: probabilities are now trustworthy as probabilities. Whether they beat *the market* is a separate question that only the CLV record answers.
+
+## v1.4 (2026-10-24): fixes found by the first live card
+The first cloud card found the model leaning under on the whole board (−11 pts on overs across 213 DraftKings sides). Three bugs, all in steps the v1.3 backtest never exercised (it tested baselines, not `project_game`):
+1. **Ghost players:** players with no game this season (injured, released, traded) stayed in their old team's rotation and took starters' minutes (PHI: Payne/Martin/Watford ate ~45 min; Maxey 33 → 37 after the fix). Now excluded once the team has played, unless the Scout confirms a role (`min_set`).
+2. **Double-counted absences:** an OUT player's minutes were re-routed to his backups even when he'd already been missing games (DEN: Bagley/Brazile 18 → 27, Jokic cut to 28). Now only a **fresh** absence (he played the team's last game) is routed, and trimming a team above 241 min comes mostly off the bench (`STARTER_TRIM` 0.25).
+3. **Shrinkage toward the wrong average:** every player was pulled toward the all-rotation scoring rate, which inflated 10–20-min players by **14%**; the team-total scaling then cut stars. Now each player is pulled toward his **role tier** (0–12 / 12–20 / 20–28 / 28+ min). 2025-26 check (15 dates): bench points bias 1.143 → 1.042, stars 0.974 → 0.980, rebounds/assists within ±2.5% in every tier.
+- **Model-health gate:** if model-minus-market on overs averages beyond ±4 pts across the board, every BET/PAPER becomes WATCH. After the fixes the lean is −7.4 (pts), −5 (reb/ast); means now sit within 0.7 pts of the lines, so the remaining gap is the **shape** of the distribution (our ranges are wide and right-skewed). That can only be settled with CLV and tracker data, not by tuning tonight.
+- **Next:** backtest the full `project_game` pipeline (not just baselines) and refit the dispersion floors on live tracker outcomes.
 
 ## Next (v1.5 plan, in order, from [[Research - Advanced NBA mechanisms]])
 1. ~~Threes~~ done in v1.2.

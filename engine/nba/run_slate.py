@@ -36,6 +36,16 @@ def main():
     print(f"projected {len(proj)} players | VMR {dict((k, round(v, 2)) for k, v in vmr.items())} | league total {lg_total:.1f}")
     if os.path.exists(f"{out}/board.csv"):
         cand = price_board(proj, pd.read_csv(f"{out}/board.csv"), vmr, a.cls)
+        # v1.4 model-health gate: if the model disagrees with the market in the SAME direction across the whole board,
+        # that's a model problem, not dozens of edges. Downgrade every BET/PAPER to WATCH.
+        gp = cand.dropna(subset=["p_model", "p_market"])
+        over = gp[gp["side"] == "over"]
+        lean = float(100 * (over["p_model"] - over["p_market"]).mean()) if len(over) >= 20 else 0.0
+        print(f"board lean (model - market on overs): {lean:+.1f} pts over {len(over)} sides")
+        if abs(lean) > C.MAX_BOARD_LEAN_PTS:
+            hit = cand["decision"].isin(["BET", "PAPER"])
+            cand.loc[hit, "why"] = f"board-wide lean {lean:+.1f} pts > {C.MAX_BOARD_LEAN_PTS} (model health gate)"
+            cand.loc[hit, ["decision", "stake_pct"]] = ["WATCH", 0.0]
         cand.to_csv(f"{out}/candidates.csv", index=False)
         keep = cand[cand["decision"].isin(["BET", "PAPER", "WATCH"])].sort_values(["decision", "blend_edge_pts"], ascending=[True, False])
         cols = ["player", "market", "line", "side", "book", "price", "mu", "p_model", "p_market", "p_blend", "break_even", "shrunk_edge_pts", "market_edge_pts", "blend_edge_pts", "path", "decision", "stake_pct", "why"]

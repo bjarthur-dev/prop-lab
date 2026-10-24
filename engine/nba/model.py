@@ -26,7 +26,23 @@ def league_rates(df):
     if "fg3a" in rot.columns:
         lg["fg3a"] = rot["fg3a"].sum() / rot["min"].sum()
         lg["p3"] = rot["fg3m"].sum() / max(rot["fg3a"].sum(), 1)
+    # v1.4: role-tier priors. Shrinking a bench player toward the all-rotation rate inflated 10-20 min players by ~14%
+    # (2025-26 check). Each player is shrunk toward the rate of players with similar average minutes instead.
+    pm = df[df["min"] > 0].groupby("player_id").agg(m=("min", "mean"), **{s: (s, "sum") for s in STATS}, tm=("min", "sum"))
+    tiers = {}
+    for lo, hi in C.ROLE_TIERS:
+        g = pm[(pm["m"] >= lo) & (pm["m"] < hi)]
+        if g["tm"].sum() > 500:
+            tiers[(lo, hi)] = {st: g[st].sum() / g["tm"].sum() for st in STATS}
+    lg["tiers"] = tiers
     return lg
+
+
+def tier_rate(lg, s, min_avg):
+    for (lo, hi), r in lg.get("tiers", {}).items():
+        if lo <= min_avg < hi:
+            return r[s]
+    return lg[s]
 
 
 def fit_vmr(df, rates_by_player=None):
@@ -74,10 +90,12 @@ def player_baselines(df, asof, cur_season_id):
         w = _weights(len(g), C.HL_RATES) * np.where(g["season_id"].astype(str) == str(cur_season_id), 1.0, C.PRIOR_SEASON_DISCOUNT)
         mins = (w * g["min"].values).sum()
         rec = {"player_id": pid, "player": g["player_name"].iloc[-1], "key": g["key"].iloc[-1], "team": team,
-               "min_base": float(min_proj), "sd_min": sd_min, "n_cur": len(cur), "n_prior": len(prior)}
+               "min_base": float(min_proj), "sd_min": sd_min, "n_cur": len(cur), "n_prior": len(prior),
+               "last_game": cur["game_date"].max() if len(cur) else pd.NaT}
+        role_min = float(np.average(g["min"].values, weights=w)) if len(g) else min_proj
         for s in STATS:
             k = C.SHRINK_MIN[s]
-            rec[f"{s}_pm"] = float(((w * g[s].values).sum() + k * lg[s]) / (mins + k))
+            rec[f"{s}_pm"] = float(((w * g[s].values).sum() + k * tier_rate(lg, s, role_min)) / (mins + k))
         if "fg3a" in g.columns:
             # v1.2 threes: volume (3PA/min, light padding) x make rate padded toward the player's own prior
             k = C.SHRINK_MIN["fg3a"]
@@ -110,8 +128,9 @@ def _fill_minutes(rot, fixed, target):
             free = ~fixed & (rot["min_proj"] < ceil - 1e-9)
             w = rot["min_proj"].clip(lower=4.0) * np.where(starter, C.STARTER_ABSORB, C.BENCH_ABSORB)
         else:
+            # v1.4: trimming excess minutes comes mostly off the bench (starters keep their role)
             free = ~fixed & (rot["min_proj"] > 1e-9)
-            w = rot["min_proj"].copy()
+            w = rot["min_proj"] * np.where(starter, C.STARTER_TRIM, 1.0)
         if free.sum() == 0:
             break
         w = w.where(free, 0.0)
@@ -133,11 +152,20 @@ def project_game(base, home, away, spread_home, total, out_keys=(), min_override
     for team in (home, away):
         full = base[base["team"] == team]
         t = full[~full["key"].isin(out_keys)].copy()
+        # v1.4: once a team has played this season, players with no game for it this season (injured, released,
+        # traded, G-League) are not in the rotation unless the Scout confirms a role via min_set.
+        if "n_cur" in t.columns and (t["n_cur"] > 0).any():
+            t = t[(t["n_cur"] > 0) | t["key"].isin(list(min_set.keys()))].copy()
         t["min_proj"] = t["min_base"].astype(float)
         # v1.1: route most of an absent player's minutes to bench players at his position (if positions known)
         if "pos" in full.columns:
+            team_last = full["last_game"].max() if "last_game" in full.columns else pd.NaT
             for _, o in full[full["key"].isin(out_keys)].iterrows():
                 if pd.isna(o.get("pos")) or o["min_base"] < C.ROTATION_MIN:
+                    continue
+                # v1.4: only a FRESH absence (he played the team's most recent game) frees minutes. If he has already
+                # been missing games, teammates' recent minutes already reflect it; routing again double-counts.
+                if "last_game" in full.columns and (pd.isna(o.get("last_game")) or o["last_game"] < team_last):
                     continue
                 cand = t[(t["min_base"] < C.STARTER_MIN) & (t["min_base"] >= 4) & ~t["key"].isin(min_set.keys())
                          & t["pos"].astype(str).str.contains(str(o["pos"])[0], regex=False)]
