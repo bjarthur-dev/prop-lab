@@ -101,6 +101,6 @@ def main():
     os.makedirs("status", exist_ok=True); p = "status/actions.json"
     s = json.load(open(p)) if os.path.exists(p) else {}
     s[f"odds_{tag}"] = dict(last_ok=now.isoformat(timespec="seconds"), **info); json.dump(s, open(p, "w"), indent=1)
-    if left["remaining"] and int(float(left["remaining"])) < 1500: print(f"::warning::Odds API credits low: {left['remaining']}")
+    if left["remaining"] and int(float(left["remaining"])) < (1500 if TIER == "paid" else 60): print(f"::warning::Odds API credits low: {left['remaining']}")
 
 if __name__ == "__main__": main()
