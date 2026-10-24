@@ -21,9 +21,9 @@ def team_volume(rng, team_spread, total, proe_cur=0.0, proe_prior=0.0, sack=C.SA
     rushes = plays.astype(int) - dropbacks
     return dict(margin=margin, plays=plays, dropbacks=dropbacks, attempts=attempts, rushes=rushes, scrambles=scr)
 
-def _beta_share(rng, share, n):
-    share = float(np.clip(share, 1e-4, 0.95))
-    return rng.beta(share * C.SHARE_CONC, (1 - share) * C.SHARE_CONC, n)
+def _beta_share(rng, share, n, conc=None):
+    share = float(np.clip(share, 1e-4, 0.95)); conc = conc or C.SHARE_CONC
+    return rng.beta(share * conc, (1 - share) * conc, n)
 
 def _gamma_sum(rng, counts, mean, sd):
     k = (mean / sd) ** 2; theta = sd ** 2 / mean
@@ -49,16 +49,20 @@ def simulate_player(rng, row, vol, team_pts, weather="calm"):
         out.update(targets=tg, receptions=rec, rec_yds=_gamma_sum(rng, rec, mean, sd * mean / C.CATCH_YDS.get(row["pos"], C.CATCH_YDS["WR"])[0]),
                    longest_rec=_longest(rng, rec, mean, sd))
     if row.get("carry_share", 0) > 0:
-        car = rng.binomial(vol["rushes"], _beta_share(rng, row["carry_share"], n))
+        car = rng.binomial(vol["rushes"], _beta_share(rng, row["carry_share"], n, C.CARRY_CONC))
         ypc = float(row.get("ypc_rush", 4.2))
         pbig, mbig = C.CARRY_YDS_BIG
-        core = ypc - pbig * mbig
+        core = (ypc - pbig * mbig) / (1 - pbig)          # mean of non-explosive carries so the total mean = ypc
         big = rng.binomial(car, pbig)
-        yds = rng.normal(core * (car - big), 3.0 * np.sqrt(np.maximum(car - big, 1))) + _gamma_sum(rng, big, mbig, mbig)
+        tail = mbig - 15.0                                # explosive carry = 15 + exponential(tail)
+        yds = rng.normal(core * (car - big), C.CARRY_SD * np.sqrt(np.maximum(car - big, 1))) + 15.0 * big + _gamma_sum(rng, big, tail, tail)
         out.update(carries=car, rush_yds=yds)
     # anytime TD: lambda from team TD pool x role shares (Poisson per sim, scaled by realized volume)
     tds = team_pts * C.TD_PTS_SHARE / 7.0
-    lam = tds * (C.RUSH_TD_SHARE * float(row.get("rz_carry_share", 0)) + (1 - C.RUSH_TD_SHARE) * float(row.get("ez_tgt_share", 0)))
+    rush_part = C.TD_RZ_W_RUSH * float(row.get("rz_carry_share", 0)) + (1 - C.TD_RZ_W_RUSH) * float(row.get("carry_share", 0))
+    pass_part = C.TD_RZ_W_PASS * float(row.get("ez_tgt_share", 0)) + (1 - C.TD_RZ_W_PASS) * float(row.get("tgt_share", 0))
+    lam = tds * (C.RUSH_TD_SHARE * rush_part + (1 - C.RUSH_TD_SHARE) * pass_part)
+    lam = C.TD_CAL[0] * lam ** C.TD_CAL[1] if lam > 0 else 0.0
     out["td"] = rng.poisson(lam, n); out["td_lambda"] = lam
     return out
 

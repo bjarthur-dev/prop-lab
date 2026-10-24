@@ -7,7 +7,7 @@ from model import team_volume, simulate_game
 rng = np.random.default_rng(0)
 fav, dog = team_volume(rng, -7.0, 44), team_volume(rng, +7.0, 44)
 d = dog["attempts"].mean() - fav["attempts"].mean()
-print(f"pass attempts: 7-pt dog {dog['attempts'].mean():.1f} vs 7-pt fav {fav['attempts'].mean():.1f} (diff {d:.1f})"); assert 3 < d < 15
+print(f"pass attempts: 7-pt dog {dog['attempts'].mean():.1f} vs 7-pt fav {fav['attempts'].mean():.1f} (diff {d:.1f}; real 2023-26: +0.9)"); assert 0 < d < 4
 print(f"rushes: fav {fav['rushes'].mean():.1f} vs dog {dog['rushes'].mean():.1f}"); assert fav["rushes"].mean() > dog["rushes"].mean()
 shares = pd.DataFrame([
     dict(player="WR1", team="HOU", pos="WR", tgt_share=0.27, catch_rate=0.66, ez_tgt_share=0.25),

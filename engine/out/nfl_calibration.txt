@@ -1,0 +1,13 @@
+team-games: 1820 (seasons [np.int64(2023), np.int64(2024), np.int64(2025), np.int64(2026)])
+PLAYS: base 61.3 at 44 total, slope 0.080/pt, resid sd 8.4
+MARGIN_SD: 12.57  (bias +0.00)
+PASS RATE: base 0.606, spread slope +0.0024/pt, script term -0.0548 per 14 pts surprise (engine sign: -SCRIPT_K)
+SACK_RATE 0.0657  SCRAMBLE_RATE 0.0561
+TD_PTS_SHARE (7*off TDs / pts): 0.736   RUSH_TD_SHARE 0.385
+implied-points check: mean pts 22.62 vs implied 22.08; corr 0.412
+off TDs per team-game: 2.38; slope vs implied pts 0.153/pt
+wind 10-15: yds/dropback ratio 0.976 (n=8550)
+wind 15-20: yds/dropback ratio 0.914 (n=2663)
+wind 20-60: yds/dropback ratio 0.921 (n=416)
+per-catch yds overall: mean 10.90 sd 9.86
+carries: ypc 4.22, share >=15 yds 0.043, mean yds of those 24.4, sd of rest 3.57
