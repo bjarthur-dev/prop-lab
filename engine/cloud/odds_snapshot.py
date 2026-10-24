@@ -13,7 +13,8 @@ KEY = KEYS[0] if KEYS else ""   # key 1 first; switch to the next key only when 
 BOOKS = "fanduel,draftkings,betmgm,williamhill_us,espnbet,fanatics,betrivers,pinnacle,betonlineag,bovada"
 TIER = os.environ.get("ODDS_TIER", "free")   # free = 500 credits/month: NBA board (pts/reb/ast) + closes only for games with logged bets
 SPORTS_FREE = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists"),
-               "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds")}
+               "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds"),
+               "mlb": ("baseball_mlb", "pitcher_strikeouts,pitcher_outs")}   # 1 World Series game = 2 credits
 SPORTS = {
     "nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
     "nfl": ("americanfootball_nfl", "player_receptions,player_reception_yds,player_rush_yds,player_rush_attempts,player_anytime_td"),
@@ -54,7 +55,7 @@ def main():
     now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
     if TIER != "paid" and tag == "open": print("::notice::free tier: no open snapshot"); return
-    if TIER != "paid" and tag == "board" and now.weekday() != 6: sports = {"nba": sports["nba"]}   # NFL board only on Sundays
+    if TIER != "paid" and tag == "board" and now.weekday() != 6: sports = {k: sports[k] for k in ("nba", "mlb")}   # NFL board only on Sundays
     bet_games = set()
     if TIER != "paid" and tag == "close":
         try:

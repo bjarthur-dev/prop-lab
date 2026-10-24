@@ -28,6 +28,9 @@ updated: 2026-10-24
 - **Odds snapshots / close capture.** Built (`odds.yml`); waits for your The Odds API key as the GitHub secret `ODDS_API_KEY` (the-odds-api.com, $30/mo for 20K credits ≈ NBA + NFL open/board/close). Note: committing raw odds to a public repo may be against the provider's terms; making the repo private is cleaner but Actions minutes then count (2,000/mo free).
 - **Claude pricing runs** (NBA slate, NFL Sunday) are still done in conversation; they can become cloud scheduled tasks once Job C arrives reliably by issue.
 
+## Odds API budget (2 free keys, 500 credits each; key 1 had 429 left on 2026-10-24)
+Key 1 is used first; the job switches to key 2 only when key 1 is out. Free mode (`ODDS_TIER` unset): NBA points/rebounds/assists board at 13:37 daily (~24 credits on an 8-game night), MLB K + outs (2 per game), NFL receiving/rushing yards board on Sundays (~28), and T-10 closes only for games with a logged bet. ≈ 30–35 credits a day → about 26 days on ~930 credits. Remaining credits are logged in status/actions.json; the job warns under 1,500 (that warning is for the paid tier; ignore it on free). Health check that costs 0: run the `odds` workflow with tag `check`.
+
 ## Credit budget (2026-10-24)
 Perplexity Computer runs cost credits ($1 per 100; ~100-900 per run). Weekly included usage ran out 2026-10-24; resets Thu 09:00. Until then only the Sunday NFL Job C runs; A, B, C and D are paused, Claude covers slate/results itself, and the watchdog Scout check is off (SCOUT_CHECKS in .github/scripts/watchdog.py). After the reset: resume A and C only, measure credits per run, keep B/D off while everything is paper.
 
