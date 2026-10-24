@@ -26,6 +26,9 @@ updated: 2026-10-24
 - **Odds snapshots / close capture.** Planned with The Odds API ($30/mo tier, ~20K credits; the-odds-api.com, not theoddsapi.com). Needs your API key as a GitHub secret `ODDS_API_KEY`; until then Perplexity's Job E does it.
 - **Claude pricing runs** (NBA slate, NFL Sunday) are still done in conversation; they can become cloud scheduled tasks once Job C arrives reliably by issue.
 
+## Credit budget (2026-10-24)
+Perplexity Computer runs cost credits ($1 per 100; ~100-900 per run). Weekly included usage ran out 2026-10-24; resets Thu 09:00. Until then only the Sunday NFL Job C runs; A, B, C and D are paused, Claude covers slate/results itself, and the watchdog Scout check is off (SCOUT_CHECKS in .github/scripts/watchdog.py). After the reset: resume A and C only, measure credits per run, keep B/D off while everything is paper.
+
 ## Your one-time setup (Perplexity)
 1. Paste the updated [[Perplexity Prompt]] (DELIVERY section is new).
 2. In Perplexity Computer: Plugins → GitHub → connect `bjarthur-dev/prop-lab` → Tools → set **create issue** to **Always allow**.

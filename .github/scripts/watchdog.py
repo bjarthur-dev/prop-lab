@@ -20,7 +20,10 @@ except FileNotFoundError:
 except Exception as e:
     probs.append(f"bad Claude heartbeat ({e})")
 slate = os.path.exists(f"Inbox/Requests/{today} requests.md") or any(f.startswith(today) for f in os.listdir("Slates"))
-for f, by in ((f"{today} B slate.md", 12), (f"{today} C board.md", 15)):
+# Scout checks are OFF while Perplexity jobs are paused to save credits (until weekly usage resets Thu 2026-10-29).
+# Turn back on by setting SCOUT_CHECKS = True.
+SCOUT_CHECKS = False
+for f, by in (((f"{today} C board.md", 15),) if SCOUT_CHECKS else ()):
     if slate and now.hour >= by and not os.path.exists(f"Inbox/Perplexity/{f}"):
         probs.append(f"Scout file missing: Inbox/Perplexity/{f} (due before {by}:00 ET)")
 print("ok=" + ("true" if not probs else "false"))
