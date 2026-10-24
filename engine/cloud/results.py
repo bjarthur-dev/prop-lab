@@ -13,7 +13,7 @@ def get(url, tries=4):
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
                 return json.load(r)
         except Exception as e:
-            print(f"  retry {i+1} {url}: {e}"); time.sleep(3 * (i + 1))
+            print(f"::warning::retry {i+1} {url[:90]}: {e}"); time.sleep(3 * (i + 1))
     raise RuntimeError(f"failed: {url}")
 
 def num(x):
@@ -89,12 +89,12 @@ def main():
         try:
             df = fn(date)
         except Exception as e:
-            print(f"{sport}: ERROR {e}"); info[sport] = f"error: {e}"[:200]; continue
+            print(f"::error::{sport}: {e}"); info[sport] = f"error: {e}"[:200]; continue
         info[sport] = len(df)
         if df.empty: print(f"{sport}: no final games"); continue
         os.makedirs(f"data/results/{sport}", exist_ok=True)
         df.to_csv(f"data/results/{sport}/{date}.csv", index=False)
-        print(f"{sport}: {df.game.nunique()} games, {len(df)} player rows -> data/results/{sport}/{date}.csv")
+        print(f"::notice::{sport} {date}: {df.game.nunique()} games, {len(df)} player rows")
     heartbeat("results", info)
     if any(str(v).startswith("error") for v in info.values()): sys.exit(1)
 

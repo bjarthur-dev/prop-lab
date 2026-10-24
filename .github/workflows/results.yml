@@ -23,11 +23,13 @@ jobs:
       - name: Pull box scores (ESPN NBA, MLB statsapi)
         run: python engine/cloud/results.py ${{ inputs.date }}
       - name: Autosettle tracker rows
+        if: always()
         run: python engine/cloud/autosettle.py ${{ inputs.date }} && python engine/tracker.py | tail -25
       - name: Refresh NFL play-by-play (Mon/Tue/Fri)
         run: |
           case "$(TZ=America/New_York date +%u)" in 1|2|5) python engine/nfl/fetch_nfl.py || echo "nflverse refresh failed (non-fatal)";; *) echo "skip";; esac
       - name: Commit
+        if: always()
         env: { COMMIT_MSG: "bot: results + autosettle" }
         run: .github/scripts/commit.sh data status Record engine/data/nfl
       - name: Fire Claude morning audit (optional)

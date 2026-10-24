@@ -28,6 +28,6 @@ def main():
         t.at[i, "hit"] = "" if a == line else str(int((a > line) == (str(r.side).lower() == "over")))
         src = "ESPN box" if sp == "nba" else "MLB statsapi"
         t.at[i, "notes"] = f"{r.notes if isinstance(r.notes, str) else ''} | auto: {src}".strip(" |"); filled += 1
-    t.to_csv(p, index=False); print(f"autosettle {date}: filled {filled} tracker rows")
+    t.to_csv(p, index=False); print(f"::notice::autosettle {date}: filled {filled} tracker rows")
 
 if __name__ == "__main__": main()
