@@ -1,0 +1,17 @@
+{
+  "Misiorowski WS G1 (as priced pregame)": {
+    "inputs": {"rs_k": 252, "rs_bf": 665, "ps_k": 11, "ps_bf": 37, "bb_pct": 0.066, "team_k": 0.191,
+               "park_k_factor": 0.12, "park_weight": 0.5, "p_per_pa": 4.8, "hook_pitches": 90, "hook_sd": 10},
+    "lines": [["k", 6.5], ["k", 5.5], ["outs", 16.5]]
+  },
+  "Misiorowski - regular-season efficiency (4.3 P/PA)": {
+    "inputs": {"rs_k": 252, "rs_bf": 665, "ps_k": 11, "ps_bf": 37, "bb_pct": 0.066, "team_k": 0.191,
+               "park_k_factor": 0.12, "park_weight": 0.5, "p_per_pa": 4.3, "hook_pitches": 95, "hook_sd": 10},
+    "lines": [["k", 6.5], ["outs", 16.5]]
+  },
+  "Martinez WS G1": {
+    "inputs": {"rs_k": 109, "rs_bf": 722, "ps_k": 6, "ps_bf": 34, "bb_pct": 0.036, "team_k": 0.223,
+               "park_k_factor": 0.12, "park_weight": 0.5, "p_per_pa": 3.9, "hook_pitches": 72, "hook_sd": 10},
+    "lines": [["k", 3.5], ["outs", 12.5], ["outs", 13.5]]
+  }
+}

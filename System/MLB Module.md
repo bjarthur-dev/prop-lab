@@ -34,3 +34,10 @@ Probable starters (official), handedness, each starter's last 3 starts (pitch co
 1. **Pitcher K over/under:** most structure, most two-way prices.
 2. Batter hits 0.5 / TB 1.5 at a sharp two-way book.
 3. Skip HR and RBI props in the Series (high hold, mostly variance).
+
+## K model v1 (2026-10-23): `engine/mlb/k_model_v1.py`
+- **PA-by-PA simulation:** each PA draws K / BB / ball in play (log5 per lineup slot × half-weight park K factor × smooth decay per batter, no third-time-through cliff) and a pitch count. The starter is pulled when pitches exceed a **hook** drawn per sim. **K and outs come from the same draw**, so they're priced consistently.
+- Talent K% = own regular season blended with the postseason sample at n/(n+70) (K% reliability ~70 BF).
+- **`market_implied_hook()` — standing rule:** before pricing Ks, fit the hook so the model reproduces the **devigged outs-recorded market**. Then any K edge left is about strikeout *rate*, not a leash guess. If our K edge only exists with our own hook, it's a leash bet, and the outs market is where to test it.
+- **Game 1 lesson:** with the leash fitted to the outs market (~106 pitches), v1 says Misiorowski K under 6.5 = **42.5%** vs Pinnacle's 46.8%. The v0 under (56%) was entirely a short-leash assumption that the outs market contradicted. The WATCH call and the −4.6% CLV agree. Martinez under 3.5 = 64.7% vs Pinnacle 59.8% (+4.9 pts, but FanDuel's −186/−192 needs 65.0%): pass.
+- Inputs per pitcher in a JSON (see `example_inputs.json`): RS/PS K and BF, BB%, team or per-slot lineup K% vs hand, park factor, P/PA, hook. The Scout supplies outs lines both sides (Job C).
