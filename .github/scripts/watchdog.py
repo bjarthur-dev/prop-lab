@@ -7,7 +7,7 @@ try:
     s = json.load(open("status/actions.json"))["results"]
     age = (now - dt.datetime.fromisoformat(s["last_ok"])).total_seconds() / 3600
     if age > 26: probs.append(f"results.yml last succeeded {age:.0f} h ago")
-    for k in ("nba", "mlb"):
+    for k in ("mlb",):
         if str(s.get(k, "")).startswith("error"): probs.append(f"results {k}: {s[k]}")
 except Exception as e:
     probs.append(f"no results heartbeat ({e})")

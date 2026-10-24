@@ -1,6 +1,9 @@
 """Cloud results puller (runs in GitHub Actions; laptop not needed).
     python engine/cloud/results.py [YYYY-MM-DD]      (default: yesterday, US/Eastern)
-NBA: ESPN public JSON (stats.nba.com / cdn.nba.com block cloud IPs). MLB: statsapi.mlb.com (official).
+MLB: statsapi.mlb.com (official; works from GitHub's servers).
+NBA: OFF in the cloud. ESPN returns 403 to GitHub runners and stats.nba.com/cdn.nba.com block cloud IPs; we don't
+spoof browsers to get around that. NBA results come from the Scout's Job A (Perplexity) and from nba_api on the laptop.
+Pass --nba to try ESPN anyway (e.g. from the laptop).
 Writes data/results/<sport>/<date>.csv (one row per player-game) and appends status/actions.json."""
 import os, sys, json, time, datetime as dt, urllib.request
 from zoneinfo import ZoneInfo
@@ -83,9 +86,11 @@ def heartbeat(job, info):
     json.dump(s, open(p, "w"), indent=1)
 
 def main():
-    date = sys.argv[1] if len(sys.argv) > 1 else (dt.datetime.now(ZoneInfo("America/New_York")).date() - dt.timedelta(days=1)).isoformat()
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    date = args[0] if args else (dt.datetime.now(ZoneInfo("America/New_York")).date() - dt.timedelta(days=1)).isoformat()
     info = {"date": date}
-    for sport, fn in (("nba", nba), ("mlb", mlb)):
+    sports = (("nba", nba), ("mlb", mlb)) if "--nba" in sys.argv else (("mlb", mlb),)
+    for sport, fn in sports:
         try:
             df = fn(date)
         except Exception as e:
