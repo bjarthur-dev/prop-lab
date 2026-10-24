@@ -38,6 +38,7 @@ def fit_vmr(df, rates_by_player=None):
         exp = r[s] / r["min"] * d["min"]
         m = exp.mean()
         out[s] = float(np.clip(((d[s] - exp) ** 2).mean() / m, 1.0, 4.0)) if m > 0 else C.VMR_DEFAULT.get(s, 1.3)
+        out[s] = max(out[s], getattr(C, "VMR_FLOOR", {}).get(s, 1.0))   # v1.3 floors (backtest-tuned)
     return out
 
 
@@ -186,6 +187,8 @@ def simulate(row, vmr, n=C.N_SIMS, seed=11, mult=1.0):
     rng = np.random.default_rng(seed)
     mins = np.clip(rng.normal(row["min_proj"], row["sd_min"], n), 0, 48)
     scale = mins / max(row["min_proj"], 1e-6)
+    cv = getattr(C, "RATE_CV", 0.0)
+    scale = scale * np.exp(rng.normal(0, cv, n) - cv ** 2 / 2)   # v1.3 true-rate uncertainty
     out = {}
     for s in STATS:
         out[s] = nb_draw(rng, row[f"{s}_mu"] * mult * scale, vmr[s])

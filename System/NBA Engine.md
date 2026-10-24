@@ -1,9 +1,9 @@
 ---
 tags: [system, engine, nba]
-version: v1.2
+version: v1.3
 updated: 2026-10-23
 code: engine/nba/
-status: built and tested on synthetic leagues; awaiting first real-data run + backtest on your PC
+status: real-data backtest done (2025-26); calibrated v1.3; paper/watch only until CLV record builds
 ---
 
 # NBA Engine v1
@@ -48,6 +48,13 @@ Two ways to qualify, and both must pass the **blend check**: market-weighted (0.
 - 3PA/min with light padding (100 min) × 3P% padded **240 attempts toward the player's own prior**, the prior padded **750 attempts toward league** (Medvedovsky / Blackport). Simulated as Binomial(3PA, p) with 3PA overdispersed and p uncertain (Beta, n=400).
 - Synthetic test: padded 3P% lands **2.1 pts** from the truth vs **7.5 pts** for raw season-to-date 3P% (234 players). That gap is the H4 mechanism.
 - Outputs `p3`, `p3_raw_cur` and `fg3a_cur` per player, which is everything needed to compute H4 triggers.
+
+## v1.3 (2026-10-23): first real-data backtest + calibration fix
+Data pulled on the laptop: 26,651 player-games (2025-26), 640 (2026-27 so far), 519 roster positions. Walk-forward backtest: 18 dates, 5,856 player-games, each projected from games *before* that date only.
+- **Points:** MAE 4.97 vs naive season average 5.07 (**+1.9%**); calibrated.
+- **Rebounds / assists:** mean accuracy = naive (no gain yet; v1.5's opportunity models are the fix), but v1.2 was **overconfident by ~5 pts** at p ≥ 0.55 (fitted dispersion 1.04/1.05 was too tight).
+- **Fix (tuned on that backtest):** dispersion floors (reb 1.5, ast 1.35) + 10% true-rate uncertainty per simulation. Result in the 55–65% bin: reb **58.3% predicted vs 58.2% actual**, ast 59.0 vs 60.5, pts 59.4 vs 59.7. Brier improved (reb .2458 → .2446, ast .2435 → .2431). Report: `engine/out/backtest_report_v1.3.txt`.
+- Meaning: probabilities are now trustworthy as probabilities. Whether they beat *the market* is a separate question that only the CLV record answers.
 
 ## Next (v1.5 plan, in order, from [[Research - Advanced NBA mechanisms]])
 1. ~~Threes~~ done in v1.2.

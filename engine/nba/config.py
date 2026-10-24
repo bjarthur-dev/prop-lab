@@ -66,3 +66,9 @@ SAME_POS_SHARE = 0.7      # (H) share of an OUT player's minutes pre-routed to s
 P3_PAD = 240        # current-season 3P% padded with this many attempts of the player's prior
 P3_PRIOR_PAD = 750  # the player's prior (earlier seasons) padded toward league 3P% with this many attempts
 P3_BETA_N = 400     # (H) remaining uncertainty in true 3P% for the simulation
+
+# v1.3 (2026-10-23) — tuned on the real 2025-26 walk-forward backtest (5,856 player-games, 18 dates).
+# Fitted VMR around each player's own season rate understates real game-to-game spread (reb 1.04, ast 1.05 -> overconfident
+# by ~5 pts at p>=0.55). Floors + rate uncertainty below cut that to ~+1 (reb) / ~-1 (ast) with the best log-loss.
+VMR_FLOOR = {"pts": 2.0, "reb": 1.5, "ast": 1.35, "fg3m": 1.0, "fg3a": 1.2}
+RATE_CV = 0.10            # lognormal uncertainty on each player's true per-minute rate, per simulation

@@ -24,7 +24,9 @@ def main(season_file=f"{C.DATA_DIR}/players_{C.SEASON_PRIOR}.csv", season_id=Non
             mu = day[f"{s}_pm"] * day["min_base"]
             line = np.floor(day[f"{s}_naive"]) + 0.5
             mins = np.clip(rng.normal(day["min_base"].values[:, None], day["sd_min"].values[:, None], (len(day), 4000)), 0, 48)
-            sims = nb_draw(rng, (day[f"{s}_pm"].values[:, None] * mins), vmr[s])
+            cv = getattr(C, "RATE_CV", 0.0)
+            rate = day[f"{s}_pm"].values[:, None] * np.exp(rng.normal(0, cv, mins.shape) - cv ** 2 / 2)
+            sims = nb_draw(rng, rate * mins, vmr[s])
             p = (sims > line.values[:, None]).mean(axis=1)
             rows.append(pd.DataFrame({"stat": s, "date": d, "actual": day[s].values, "proj": mu.values, "naive": day[f"{s}_naive"].values,
                                       "p_over": p, "hit": (day[s].values > line.values).astype(int)}))
