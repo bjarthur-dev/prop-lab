@@ -1,26 +1,26 @@
-NFL engine v1 walk-forward backtest | 37 weeks | 542 games | hl=4.0 prior_w=0.3 conc=80.0 cconc=8.0
+NFL engine v1 walk-forward backtest | 37 weeks | 542 games | hl=3.0 prior_w=0.1 conc=80.0 cconc=8.0
 
-rec_yds: n=4239  MAE median 23.45 vs naive season-avg 24.44 (+4.0%)  bias(mean-actual) +0.35
-  P(over own-median line): predicted 0.500 actual 0.496 | below q10 0.085 above q90 0.097 (target .10/.10)
-  bin 0.45-0.55: n=4239 pred 0.500 actual 0.496
+rec_yds: n=4251  MAE median 23.31 vs naive season-avg 24.56 (+5.1%)  bias(mean-actual) +0.23
+  P(over own-median line): predicted 0.500 actual 0.499 | below q10 0.085 above q90 0.099 (target .10/.10)
+  bin 0.45-0.55: n=4251 pred 0.500 actual 0.499
 
-receptions: n=4239  MAE median 1.69 vs naive season-avg 1.76 (+4.4%)  bias(mean-actual) +0.08
-  P(over own-median line): predicted 0.409 actual 0.387 | below q10 0.059 above q90 0.075 (target .10/.10)
-  bin 0.00-0.45: n=3070 pred 0.383 actual 0.356
-  bin 0.45-0.55: n=1169 pred 0.475 actual 0.466
+receptions: n=4251  MAE median 1.67 vs naive season-avg 1.78 (+6.0%)  bias(mean-actual) +0.07
+  P(over own-median line): predicted 0.409 actual 0.389 | below q10 0.060 above q90 0.074 (target .10/.10)
+  bin 0.00-0.45: n=3067 pred 0.384 actual 0.369
+  bin 0.45-0.55: n=1184 pred 0.475 actual 0.443
 
-rush_yds: n=1405  MAE median 26.81 vs naive season-avg 26.80 (-0.0%)  bias(mean-actual) -0.30
-  P(over own-median line): predicted 0.500 actual 0.487 | below q10 0.127 above q90 0.107 (target .10/.10)
-  bin 0.45-0.55: n=1405 pred 0.500 actual 0.487
+rush_yds: n=1373  MAE median 26.65 vs naive season-avg 27.00 (+1.3%)  bias(mean-actual) -0.27
+  P(over own-median line): predicted 0.500 actual 0.482 | below q10 0.122 above q90 0.109 (target .10/.10)
+  bin 0.45-0.55: n=1373 pred 0.500 actual 0.482
 
-carries: n=1405  MAE median 4.60 vs naive season-avg 4.40 (-4.4%)  bias(mean-actual) +0.08
-  P(over own-median line): predicted 0.464 actual 0.460 | below q10 0.107 above q90 0.085 (target .10/.10)
-  bin 0.00-0.45: n=409 pred 0.438 actual 0.408
-  bin 0.45-0.55: n=996 pred 0.475 actual 0.481
+carries: n=1373  MAE median 4.42 vs naive season-avg 4.43 (+0.3%)  bias(mean-actual) +0.05
+  P(over own-median line): predicted 0.465 actual 0.466 | below q10 0.096 above q90 0.082 (target .10/.10)
+  bin 0.00-0.45: n=387 pred 0.439 actual 0.460
+  bin 0.45-0.55: n=986 pred 0.475 actual 0.469
 
-anytime TD: n=5117 predicted 0.291 actual 0.298  Brier 0.1993 vs base-rate 0.2094
-  bin 0.00-0.15: n=669 pred 0.119 actual 0.181
-  bin 0.15-0.25: n=1569 pred 0.201 actual 0.216
-  bin 0.25-0.35: n=1415 pred 0.295 actual 0.311
-  bin 0.35-0.45: n=737 pred 0.395 actual 0.373
-  bin 0.45-1.00: n=727 pred 0.530 actual 0.484
+anytime TD: n=5103 predicted 0.297 actual 0.302  Brier 0.2003 vs base-rate 0.2109
+  bin 0.00-0.15: n=279 pred 0.130 actual 0.154
+  bin 0.15-0.25: n=1607 pred 0.204 actual 0.202
+  bin 0.25-0.35: n=1768 pred 0.297 actual 0.314
+  bin 0.35-0.45: n=940 pred 0.395 actual 0.384
+  bin 0.45-1.00: n=509 pred 0.500 actual 0.507
