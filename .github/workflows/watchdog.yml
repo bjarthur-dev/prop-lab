@@ -1,0 +1,24 @@
+# Hourly check that every automated job actually produced its output. Opens/updates one "pipeline-alert" issue
+# (GitHub emails the owner) when something is stale; closes it when everything is healthy.
+name: watchdog
+on:
+  schedule: [ { cron: "17 * * * *" } ]
+  workflow_dispatch:
+permissions: { contents: read, issues: write }
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check heartbeats
+        id: chk
+        run: python3 .github/scripts/watchdog.py >> "$GITHUB_OUTPUT"
+      - name: Alert
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          N=$(gh issue list -R ${{ github.repository }} --state open --search "pipeline-alert in:title" --json number --jq '.[0].number')
+          if [ "${{ steps.chk.outputs.ok }}" = "true" ]; then
+            [ -n "$N" ] && gh issue close "$N" -R ${{ github.repository }} -c "All checks healthy again."; exit 0; fi
+          BODY="${{ steps.chk.outputs.problems }}"
+          if [ -n "$N" ]; then gh issue comment "$N" -R ${{ github.repository }} -b "$BODY"
+          else gh issue create -R ${{ github.repository }} -t "pipeline-alert" -b "$BODY"; fi

@@ -1,7 +1,8 @@
 .obsidian/workspace*.json
 .obsidian/cache
 .trash/
-engine/data/
+engine/data/*
+!engine/data/nfl/
 engine/out/*/
 __pycache__/
 engine/out/nfl_backtest_rows.csv

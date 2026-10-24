@@ -1,0 +1,34 @@
+# Perplexity (Scout) delivers a file by opening an issue titled "scout: <file name>" (e.g. "scout: 2026-10-24 B slate").
+# This copies the issue body to Inbox/Perplexity/<file name>.md, commits it, and closes the issue.
+# Only issues opened by the repo owner are accepted (the repo is public).
+name: ingest-scout
+on:
+  issues: { types: [opened, edited] }
+permissions: { contents: write, issues: write }
+concurrency: { group: writer-actions, cancel-in-progress: false }
+jobs:
+  ingest:
+    if: startsWith(github.event.issue.title, 'scout:') && github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write file
+        env: { TITLE: "${{ github.event.issue.title }}", BODY: "${{ github.event.issue.body }}" }
+        run: |
+          python3 - <<'PY'
+          import os, re
+          name = re.sub(r'[\\/:*?"<>|]', "-", os.environ["TITLE"].split(":", 1)[1].strip())[:120]
+          os.makedirs("Inbox/Perplexity", exist_ok=True)
+          path = f"Inbox/Perplexity/{name}.md"
+          open(path, "w").write(os.environ["BODY"] or "")
+          open(os.environ["GITHUB_ENV"], "a").write(f"SCOUT_PATH={path}\n")
+          print("wrote", path)
+          PY
+      - name: Heartbeat + commit
+        env: { COMMIT_MSG: "scout: ${{ github.event.issue.title }}" }
+        run: |
+          python3 -c "import json,os,datetime as d;p='status/scout.json';os.makedirs('status',exist_ok=True);s=json.load(open(p)) if os.path.exists(p) else {};s[os.environ['SCOUT_PATH']]=d.datetime.utcnow().isoformat()+'Z';json.dump(s,open(p,'w'),indent=1)"
+          .github/scripts/commit.sh Inbox status
+      - name: Close issue
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: gh issue close ${{ github.event.issue.number }} -R ${{ github.repository }} -c "Saved to \`${{ env.SCOUT_PATH }}\`"

@@ -1,0 +1,16 @@
+# Every push: run the engine test suites so a bad edit by any of the three writers is caught immediately.
+name: tests
+on:
+  push: { paths: ["engine/**"] }
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pandas==2.2.3 numpy==2.1.3 scipy==1.14.1
+      - run: cd engine/nba && python tests/test_synthetic.py && python tests/test_minutes.py
+      - run: python engine/nfl/tests/test_nfl.py
+      - run: python engine/mlb/k_model_v1.py engine/mlb/example_inputs.json | tail -5
