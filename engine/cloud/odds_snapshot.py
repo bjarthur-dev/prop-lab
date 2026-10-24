@@ -54,6 +54,8 @@ def main():
         return
     now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
+    if tag == "mlbhrr":   # on-demand: MLB batter hits+runs+RBIs and hits (1 credit per market per game)
+        sports = {"mlb": ("baseball_mlb", "batter_hits_runs_rbis,batter_hits")}
     if TIER != "paid" and tag == "open": print("::notice::free tier: no open snapshot"); return
     if TIER != "paid" and tag == "board" and now.weekday() != 6: sports = {k: sports[k] for k in ("nba", "mlb")}   # NFL board only on Sundays
     bet_games = set()
