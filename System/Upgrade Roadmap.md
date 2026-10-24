@@ -16,7 +16,7 @@ Order: fix the record → then risk → then the model. Reasoning is in [[Resear
 - [ ] 6. **Prediction-market + pick'em chapter** in The Guide: ask + live fee, depth, DNP = No, displayed-multiplier break-evens *(hours)*
 - [ ] 7. **Researcher + reviewer** workflow live ([[Researcher Prompt]]) *(1 day)*
 - [x] 8. **NBA engine v1 built 2026-10-23** ([[NBA Engine]]; synthetic tests pass; real-data backtest pending on your PC). Original spec:: minutes distribution (spread / back-to-back / OT) × time-decayed shrunk per-possession rates × pace × opponent → NB/Poisson simulation; pre-computed "if X sits" scenarios *(1–3 weeks)*
-- [ ] 9. **NFL engine**: script-simulated volume → route/carry shares → regressed efficiency → skewed yards, Poisson TDs, wind *(1–3 weeks)*
+- [x] 9. **NFL engine v1 built 2026-10-23** ([[NFL Engine]]; volume + shares + simulated tails; backtest pending). Spec:: script-simulated volume → route/carry shares → regressed efficiency → skewed yards, Poisson TDs, wind *(1–3 weeks)*
 - [ ] 10. **Blend redesign**: blend means, market weight 0.7–0.8, refit at ~200 bets
 - [ ] 11. **Automation** (below)
 - [ ] 12. Tune the slate classes and graduation gate from data
