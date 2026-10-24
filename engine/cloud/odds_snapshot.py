@@ -8,7 +8,8 @@ import os, sys, json, time, datetime as dt, urllib.request, urllib.parse
 from zoneinfo import ZoneInfo
 import pandas as pd
 ET = ZoneInfo("America/New_York")
-KEY = os.environ.get("ODDS_API_KEY", "")
+KEYS = [k for k in (os.environ.get("ODDS_API_KEY_1", ""), os.environ.get("ODDS_API_KEY_2", ""), os.environ.get("ODDS_API_KEY", "")) if k]
+KEY = KEYS[0] if KEYS else ""   # key 1 first; switch to the next key only when one is out of credits (401/429)
 BOOKS = "fanduel,draftkings,betmgm,williamhill_us,espnbet,fanatics,betrivers,pinnacle,betonlineag,bovada"
 TIER = os.environ.get("ODDS_TIER", "free")   # free = 500 credits/month: NBA board (pts/reb/ast) + closes only for games with logged bets
 SPORTS_FREE = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists"),
@@ -21,6 +22,7 @@ SPORTS = {
 left = {"remaining": None, "used": None}
 
 def get(path, **q):
+    global KEY
     q["apiKey"] = KEY
     url = f"https://api.the-odds-api.com/v4/{path}?{urllib.parse.urlencode(q)}"
     for i in range(3):
@@ -29,6 +31,10 @@ def get(path, **q):
                 left["remaining"] = r.headers.get("x-requests-remaining"); left["used"] = r.headers.get("x-requests-used")
                 return json.load(r)
         except urllib.error.HTTPError as e:
+            if e.code in (401, 429) and KEY in KEYS and KEYS.index(KEY) + 1 < len(KEYS):
+                KEY = KEYS[KEYS.index(KEY) + 1]; q["apiKey"] = KEY
+                url = f"https://api.the-odds-api.com/v4/{path}?{urllib.parse.urlencode(q)}"
+                print(f"::warning::key out of credits ({e.code}); switching to next key"); continue
             if e.code in (401, 422, 429): print(f"::error::odds api {e.code} on {path}"); return None
             time.sleep(3 * (i + 1))
         except Exception as e:
@@ -36,8 +42,15 @@ def get(path, **q):
     return None
 
 def main():
+    global KEY
     tag = sys.argv[1] if len(sys.argv) > 1 else "board"
     if not KEY: print("::notice::ODDS_API_KEY not set; skipping odds snapshot"); return
+    if tag == "check":   # 0-credit health check: sports + events lists only
+        for i, k in enumerate(KEYS, 1):
+            KEY = k
+            sp = get("sports"); ev = get("sports/basketball_nba/events") or []
+            print(f"::notice::key {i}: ok={sp is not None}, NBA events listed={len(ev)}, credits remaining={left['remaining']}, used={left['used']}")
+        return
     now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
     if TIER != "paid" and tag == "open": print("::notice::free tier: no open snapshot"); return

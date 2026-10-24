@@ -8,7 +8,7 @@ on:
     - cron: "2-59/15 16-23,0-3 * * *"  # close dispatcher, 12:00-23:59 EDT
   workflow_dispatch:
     inputs:
-      tag: { description: "open|board|close", required: false, default: "board" }
+      tag: { description: "open|board|close|check", required: false, default: "board" }
 permissions: { contents: write }
 concurrency: { group: writer-actions, cancel-in-progress: false }
 jobs:
@@ -16,7 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
-      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY_1 || secrets.ODDS_API_KEY }}
+      ODDS_API_KEY_1: ${{ secrets.ODDS_API_KEY_1 }}
+      ODDS_API_KEY_2: ${{ secrets.ODDS_API_KEY_2 }}
       ODDS_TIER: ${{ vars.ODDS_TIER || 'free' }}
     steps:
       - name: Skip if no key
@@ -36,6 +38,6 @@ jobs:
           if [ -z "$TAG" ]; then case "${{ github.event.schedule }}" in "37 14 * * *") TAG=open;; "37 17 * * *") TAG=board;; *) TAG=close;; esac; fi
           python engine/cloud/odds_snapshot.py "$TAG"
       - name: Commit
-        if: ${{ env.ODDS_API_KEY != '' }}
+        if: ${{ env.ODDS_API_KEY != '' && inputs.tag != 'check' }}
         env: { COMMIT_MSG: "bot: odds snapshot" }
         run: .github/scripts/commit.sh data status
