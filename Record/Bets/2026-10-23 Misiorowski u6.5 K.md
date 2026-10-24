@@ -38,8 +38,11 @@ close_odds_opp: -132
 close_line: 6.5
 close_ts: "2026-10-23T19:57:32-04:00"
 clv_pct: -4.6
-result: pending
-pnl_units: 
+result: win
+pnl_units: 0
+actual: 3
+settled_at: "2026-10-24T08:32:00-04:00"
+settle_sources: "MLB statsapi (data/results/mlb/2026-10-23.csv: 3 K, 15 outs, 78 pitches); Fox Sports/AP recap (5 IP, 4 H, 1 R, season-low 3 K)"
 ---
 
 # Misiorowski under 6.5 K (WATCH, reclassified from PAPER at 17:40 ET)
@@ -63,3 +66,5 @@ pnl_units:
 - The model input "Rays K% vs RHP 19.1%" came from the Scout (MLB Stats API split). The research couldn't find it independently, so verify it on Savant.
 
 **Close (Scout Job E, 19:57 ET):** FanDuel 6.5 o−132 / **u+104** (unchanged from our entry; it touched −138/+108 at 19:53). Pinnacle o−126 / u+104 → fair under **46.8%**. **CLV vs the Pinnacle close: -4.6%.** The market never moved toward the under, so by the system's main yardstick this entry was a small loser before the result. The WATCH call was right.
+
+**Settled 2026-10-24 (morning, cloud):** 3 K in 15 outs (5.0 IP), 78 pitches, 18 BF. Two sources agree: MLB statsapi box score and the AP recap on Fox Sports ("season-low three strikeouts"). Under 6.5 **wins**, but it's WATCH at stake 0, so P&L is 0. BF 18 and 78 pitches came in at the short end of our 20.5 ± 3.5 leash assumption, which supports the hook thesis. One result can't undo the −4.6% CLV verdict, though: the market price was fair and we got the coin flip.

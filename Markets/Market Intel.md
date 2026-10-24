@@ -16,6 +16,14 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - **Integer pick'em lines ≠ half-point lines**: PM's "6+ assists at 62¢" and the books' "6.5 over at 48%" are the SAME probability once you add the P(exactly 6) mass (~13-14 points). Don't confuse a line-construction artifact with a disagreement.
 - **Pick'em apps vs sportsbook pricing**: fixed multipliers demand 54.7-57.7% per leg vs 52.4% at -110 — the same pick can be +EV at a book and -EV on an app. Check both every time.
 
+### 2026-10-23 (12 NBA + WS G1), see [[2026-10-23 Review]]
+- WATCH Misiorowski u6.5 K won (3 K, 18 BF), but CLV was −4.6% vs the Pinnacle close: a winning ticket on a fair price is not evidence.
+- The postseason short leash showed up again (78 pitches, 18 BF). Keep the pitch-budget hook in the K model.
+- Tracker: H1 vacated usage 0/7, H2 1/3, H3-legacy 3/5 against market p ≈ 0.50. All within noise (n=15, no controls).
+- H1 stars on gutted teams get dragged into blowouts and injuries (CHA −47, Flagg 17 min, Banchero ankle). Log spread and final margin to split that out.
+- H2 needs official starters before freezing: Hayes came off the bench despite "replaces Nurkic".
+- Cloud verification: Rotowire/NBC notes plus the AP recap are a reliable pair. CBS gametracker pages can be stale snapshots marked FINAL.
+
 ## Reference — the break-even table
 | Price | Break-even |
 |---|---:|
