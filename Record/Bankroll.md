@@ -4,12 +4,16 @@ tags: [record, bankroll]
 
 # Bankroll (live pilot, Rules §9)
 
-starting_bankroll: UNSET   # the user sets this (the money set aside for betting only)
-current_bankroll: UNSET
+starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
+current_bankroll: 30.00
+venues: [DraftKings Sportsbook, DraftKings Pick6]
 pilot_start: 2026-10-24
-stake_straight_pct: 0.5
-stake_slip_entry_pct: 0.25
-daily_cap_pct: 2.0
-kill_switch: "drawdown >= 15% of starting_bankroll, or mean CLV <= 0 after 50 live bets, or an unlogged bet"
+stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
+stake_pick6_entry_usd: 1.00
+max_bets_per_day: 3          # $3/day max = 10% of bankroll
+per_game_max_usd: 2.00
+per_player_max_usd: 1.00
+kill_switch: "back to paper if current_bankroll < 20.00, or mean CLV <= 0 after 50 live bets, or a bet placed that wasn't on the card"
+user_preference_noted: "user asked for 4 x $5 bets; capped at 3 x $1 because $20/day on a $30 roll risks ruin in 1-2 bad days. Revisit at 50 live bets with CLV data."
 
-Until starting_bankroll is set, cards show stakes in % only.
+Cards show $ stakes from these numbers. Update current_bankroll after each settlement (the morning task does it).

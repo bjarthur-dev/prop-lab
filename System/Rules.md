@@ -76,13 +76,13 @@ Reject the row if `odds_ts > logged_at` or `logged_at > start_time`.
 
 ## 9. Live pilot (real money, started 2026-10-24 at the user's request)
 The graduation gate in §8 has **not** been met (9 settled paper bets, no CLV record yet). The pilot is the user's choice; these limits keep it small enough to learn from without risking the bankroll.
-- **Stake:** 0.5% of bankroll per straight bet; pick'em/parlay entries 0.25% each. Never more, whatever the edge.
+- **Stake:** 0.5% of bankroll per straight bet; pick'em/parlay entries 0.25% each, **or the app's minimum if that is larger** (with the $30 pilot roll: $1 a bet, max 3 a day; see [[Bankroll]]). Never more, whatever the edge.
 - **Daily cap:** 2% total across everything (≈ 4 straights). Per game 1%, per player 0.5%.
 - **What qualifies as LIVE:** only a side that passes **all** of §3 (executable price at a book you hold, shrunk edge ≥ 3, model vs sharp 3–10 pts, blend ≥ 2) or the §3.8 stale-price path. WATCH never goes live. NFL and MLB stay PAPER until each engine has 50 paper bets with closes captured; NBA is the only live sport at the start.
 - **Slips (pick'em / parlays):** build one only when **every leg is LIVE on its own** at the slip's per-leg break-even (PrizePicks 2-Power 57.7%, 3-Power 58.5%, 6-Flex 54.2%; Underdog 3-pick 55.0%; a sportsbook parlay = product of each leg's price). Max 3 legs, legs from different games unless the correlation is the thesis. Never a slip to "make the price worth it": a parlay of non-edges is a bigger non-edge.
 - **Price discipline:** bet at the listed price or better. If the line moved past the model's break-even, it's a PASS.
 - **Every live bet is logged before it's placed** (the Record/Bets note + bets.csv row, decision LIVE), with both closing sides captured (Job E or the odds Action).
-- **Kill switch → back to paper:** drawdown ≥ 15% of the starting pilot bankroll, or after 50 live bets mean CLV ≤ 0, or any bet placed that wasn't logged first.
+- **Kill switch → back to paper:** drawdown ≥ 15% of the starting pilot bankroll (with the $30 roll: below $20, because $1 minimums make 15% only ~4 bets), or after 50 live bets mean CLV ≤ 0, or any bet placed that wasn't logged first.
 - **Review at 100 live bets:** if CLV ≥ +1.5% with t > 2, the stakes move toward the §1 sizes (1%); otherwise they don't.
 
 ## Changelog

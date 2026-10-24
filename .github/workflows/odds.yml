@@ -17,6 +17,7 @@ jobs:
     timeout-minutes: 10
     env:
       ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      ODDS_TIER: ${{ vars.ODDS_TIER || 'free' }}
     steps:
       - name: Skip if no key
         if: ${{ env.ODDS_API_KEY == '' }}

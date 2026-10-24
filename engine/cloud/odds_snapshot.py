@@ -10,6 +10,9 @@ import pandas as pd
 ET = ZoneInfo("America/New_York")
 KEY = os.environ.get("ODDS_API_KEY", "")
 BOOKS = "fanduel,draftkings,betmgm,williamhill_us,espnbet,fanatics,betrivers,pinnacle,betonlineag,bovada"
+TIER = os.environ.get("ODDS_TIER", "free")   # free = 500 credits/month: NBA board (pts/reb/ast) + closes only for games with logged bets
+SPORTS_FREE = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists"),
+               "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds")}
 SPORTS = {
     "nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
     "nfl": ("americanfootball_nfl", "player_receptions,player_reception_yds,player_rush_yds,player_rush_attempts,player_anytime_td"),
@@ -35,8 +38,17 @@ def get(path, **q):
 def main():
     tag = sys.argv[1] if len(sys.argv) > 1 else "board"
     if not KEY: print("::notice::ODDS_API_KEY not set; skipping odds snapshot"); return
-    now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag}
-    for sp, (key, markets) in SPORTS.items():
+    now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
+    sports = SPORTS if TIER == "paid" else SPORTS_FREE
+    if TIER != "paid" and tag == "open": print("::notice::free tier: no open snapshot"); return
+    if TIER != "paid" and tag == "board" and now.weekday() != 6: sports = {"nba": sports["nba"]}   # NFL board only on Sundays
+    bet_games = set()
+    if TIER != "paid" and tag == "close":
+        try:
+            b = pd.read_csv("Record/bets.csv"); bet_games = set(b[b["date"] == today]["notes"].astype(str))
+        except Exception: pass
+        if not bet_games: return
+    for sp, (key, markets) in sports.items():
         evs = get(f"sports/{key}/events") or []
         sel = []
         for e in evs:
@@ -49,6 +61,7 @@ def main():
         rows = []
         for e, t in sel:
             if tag == "close" and os.path.exists(f"data/odds/{sp}/{today}/close_{e['id']}.done"): continue
+            if tag == "close" and TIER != "paid" and not any(e["home_team"].split()[-1] in g or e["away_team"].split()[-1] in g for g in bet_games): continue
             o = get(f"sports/{key}/events/{e['id']}/odds", bookmakers=BOOKS, markets=markets, oddsFormat="american")
             if not o: continue
             game = f"{e['away_team']}@{e['home_team']}"
