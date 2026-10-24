@@ -1,0 +1,40 @@
+# Prop odds snapshots (The Odds API). Does nothing until the repo secret ODDS_API_KEY exists.
+# open 10:37 ET, board 13:37 ET, close every 15 min 12:00-23:59 ET (snapshots games starting in 5-20 min).
+name: odds
+on:
+  schedule:
+    - cron: "37 14 * * *"          # 10:37 EDT open
+    - cron: "37 17 * * *"          # 13:37 EDT board
+    - cron: "2-59/15 16-23,0-3 * * *"  # close dispatcher, 12:00-23:59 EDT
+  workflow_dispatch:
+    inputs:
+      tag: { description: "open|board|close", required: false, default: "board" }
+permissions: { contents: write }
+concurrency: { group: writer-actions, cancel-in-progress: false }
+jobs:
+  odds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+    steps:
+      - name: Skip if no key
+        if: ${{ env.ODDS_API_KEY == '' }}
+        run: echo "ODDS_API_KEY not set; nothing to do"
+      - uses: actions/checkout@v4
+        if: ${{ env.ODDS_API_KEY != '' }}
+      - uses: actions/setup-python@v5
+        if: ${{ env.ODDS_API_KEY != '' }}
+        with: { python-version: "3.12" }
+      - if: ${{ env.ODDS_API_KEY != '' }}
+        run: pip install pandas==2.2.3
+      - name: Snapshot
+        if: ${{ env.ODDS_API_KEY != '' }}
+        run: |
+          TAG="${{ inputs.tag }}"
+          if [ -z "$TAG" ]; then case "${{ github.event.schedule }}" in "37 14 * * *") TAG=open;; "37 17 * * *") TAG=board;; *) TAG=close;; esac; fi
+          python engine/cloud/odds_snapshot.py "$TAG"
+      - name: Commit
+        if: ${{ env.ODDS_API_KEY != '' }}
+        env: { COMMIT_MSG: "bot: odds snapshot" }
+        run: .github/scripts/commit.sh data status

@@ -38,11 +38,11 @@ SHRINK_EDGE = 0.4
 MIN_SHRUNK_EDGE_PTS = 3.0
 MIN_MODEL_VS_MARKET_PTS = 3.0
 PAPER_SHRUNK_EDGE_PTS = 1.5
-LIVE = False             # paper-only until the graduation gate in Rules §8
-UNIT_PCT = 1.0
-PER_GAME_CAP = 3.0
-PER_PLAYER_CAP = 2.0
-SLATE_CAP = {"micro": 5.0, "small": 8.0, "medium": 12.0, "large": 10.0}  # large capped at 10 while paper/v1
+LIVE = True              # Rules §9 live pilot (2026-10-24): qualifying sides are BET (real money) at pilot stakes
+UNIT_PCT = 0.5           # §9: 0.5% per straight bet during the pilot (§1 says 1% after graduation)
+PER_GAME_CAP = 1.0       # §9
+PER_PLAYER_CAP = 0.5     # §9
+SLATE_CAP = {"micro": 2.0, "small": 2.0, "medium": 2.0, "large": 2.0}  # §9: 2% per day during the pilot
 
 SEASON_ID_CUR = "22026"   # nba_api LeagueGameLog SEASON_ID for 2026-27 regular season
 LEAGUE_AVG_TOTAL = 230.0  # (H) refreshed by run_slate from the logs when available

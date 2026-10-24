@@ -3,6 +3,9 @@
 .trash/
 engine/data/*
 !engine/data/nfl/
+!engine/data/players_*.csv
+!engine/data/teams_*.csv
+!engine/data/positions.csv
 engine/out/*/
 __pycache__/
 engine/out/nfl_backtest_rows.csv
