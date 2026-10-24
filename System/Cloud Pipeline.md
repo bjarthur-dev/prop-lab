@@ -23,6 +23,12 @@ updated: 2026-10-24
 - `ingest-scout.yml`: a test issue was saved to `Inbox/Perplexity/` and closed within a minute (test file then removed). ✅
 - `watchdog.yml` ran clean (no alert). `tests.yml` passed on GitHub. ✅
 
+## Learning loop (shadow grading, added 2026-10-24)
+- The afternoon card saves **every** priced prop (model p, market p, decision) to `data/shadow/<sport>/DATE.csv`.
+- The morning settlement runs `python engine/shadow.py`, which grades them against results and writes Record/Shadow/Shadow Report.md: Brier skill vs the market, calibration bins, and whether disagreeing with the market pays.
+- NBA results come from the laptop's `engine/update_nba_data_auto.bat` (Windows Task Scheduler, at logon) or the manual `update_nba_data.bat`.
+- ~200–400 graded NBA props a day → ~1,000 in under a week → enough to retune the model-health gate (Rules §9).
+
 ## What can't run in the cloud (yet)
 - **NBA box scores and logs.** ESPN returns 403 to GitHub's servers and stats.nba.com / cdn.nba.com block cloud IPs. We don't disguise requests to get past that. NBA results come from Perplexity's Job A; NBA game logs for the engine come from `nba_api` on the laptop (`engine/setup_windows.bat`) when it's on. Options to close the gap: a paid NBA data API, or a small always-on home machine.
 - **Odds snapshots / close capture.** Built (`odds.yml`); waits for your The Odds API key as the GitHub secret `ODDS_API_KEY` (the-odds-api.com, $30/mo for 20K credits ≈ NBA + NFL open/board/close). Note: committing raw odds to a public repo may be against the provider's terms; making the repo private is cleaner but Actions minutes then count (2,000/mo free).

@@ -1,0 +1,433 @@
+date,model_version,player,team,opp,market,line,side,book,price,ts,min_proj,mu,p_model,p_market,n_ref_books,break_even,ev_model_pct,shrunk_edge_pts,model_vs_market_pts,market_edge_pts,decision,why,p_blend,blend_edge_pts,path,stake_pct
+2026-10-24,nba v1.4,Aaron Gordon,DEN,NOP,ast,2.5,over,draftkings,-138.0,2026-10-24T14:54:19-04:00,28.2,2.73,0.481,0.535,6.0,0.58,-17.0,-3.95,-5.4,-4.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Aaron Gordon,DEN,NOP,ast,2.5,under,draftkings,105.0,2026-10-24T14:54:19-04:00,28.2,2.73,0.519,0.465,6.0,0.488,6.4,1.24,5.4,-2.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Aaron Gordon,DEN,NOP,pts,16.5,over,draftkings,-127.0,2026-10-24T14:54:19-04:00,28.2,15.4,0.393,0.523,3.0,0.559,-29.7,-6.64,-12.9,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Aaron Gordon,DEN,NOP,pts,16.5,under,draftkings,100.0,2026-10-24T14:54:19-04:00,28.2,15.4,0.607,0.477,3.0,0.5,21.3,4.26,12.9,-2.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.52,1.97,,0.0
+2026-10-24,nba v1.4,Aaron Gordon,DEN,NOP,reb,6.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,28.2,5.8,0.366,0.456,7.0,0.51,-28.3,-5.77,-9.1,-5.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Aaron Gordon,DEN,NOP,reb,6.5,under,draftkings,-127.0,2026-10-24T14:54:19-04:00,28.2,5.8,0.634,0.544,7.0,0.559,13.4,3.0,9.1,-1.6,WATCH,edge below the Rules §3 bar,0.569,0.98,,0.0
+2026-10-24,nba v1.4,Alex Sarr,WAS,CHI,pts,11.5,over,draftkings,-114.0,2026-10-24T14:54:19-04:00,24.6,13.21,0.563,0.503,7.0,0.533,5.8,1.23,6.0,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alex Sarr,WAS,CHI,pts,11.5,under,draftkings,-111.0,2026-10-24T14:54:19-04:00,24.6,13.21,0.437,0.497,7.0,0.526,-17.0,-3.58,-6.0,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alex Sarr,WAS,CHI,reb,6.5,over,draftkings,103.0,2026-10-24T14:54:19-04:00,24.6,6.5,0.446,0.469,7.0,0.493,-9.4,-1.85,-2.3,-2.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alex Sarr,WAS,CHI,reb,6.5,under,draftkings,-136.0,2026-10-24T14:54:19-04:00,24.6,6.5,0.554,0.531,7.0,0.576,-3.9,-0.91,2.3,-4.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alperen Sengun,HOU,ATL,ast,5.5,over,draftkings,111.0,2026-10-24T14:54:19-04:00,31.6,5.5,0.454,0.446,7.0,0.474,-4.2,-0.8,0.8,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alperen Sengun,HOU,ATL,ast,5.5,under,draftkings,-147.0,2026-10-24T14:54:19-04:00,31.6,5.5,0.546,0.554,7.0,0.595,-8.2,-1.96,-0.8,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alperen Sengun,HOU,ATL,pts,20.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,31.6,18.67,0.369,0.475,3.0,0.512,-27.9,-5.71,-10.6,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alperen Sengun,HOU,ATL,pts,20.5,under,draftkings,-122.0,2026-10-24T14:54:19-04:00,31.6,18.67,0.631,0.525,3.0,0.55,14.7,3.24,10.6,-2.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.549,-0.02,,0.0
+2026-10-24,nba v1.4,Alperen Sengun,HOU,ATL,reb,9.5,over,draftkings,106.0,2026-10-24T14:54:19-04:00,31.6,8.13,0.326,0.459,1.0,0.485,-32.9,-6.4,-13.4,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Alperen Sengun,HOU,ATL,reb,9.5,under,draftkings,-139.0,2026-10-24T14:54:19-04:00,31.6,8.13,0.674,0.541,1.0,0.582,16.0,3.71,13.4,-4.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.576,-0.6,,0.0
+2026-10-24,nba v1.4,Amen Thompson,HOU,ATL,ast,4.5,over,draftkings,-147.0,2026-10-24T14:54:19-04:00,34.6,4.68,0.477,0.573,4.0,0.595,-19.9,-4.73,-9.6,-2.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Amen Thompson,HOU,ATL,ast,4.5,under,draftkings,112.0,2026-10-24T14:54:19-04:00,34.6,4.68,0.523,0.427,4.0,0.472,10.9,2.06,9.6,-4.4,WATCH,edge below the Rules §3 bar,0.451,-2.09,,0.0
+2026-10-24,nba v1.4,Amen Thompson,HOU,ATL,pts,16.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,34.6,16.87,0.48,0.52,5.0,0.558,-13.9,-3.09,-4.0,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Amen Thompson,HOU,ATL,pts,16.5,under,draftkings,-102.0,2026-10-24T14:54:19-04:00,34.6,16.87,0.52,0.48,5.0,0.505,3.0,0.6,4.0,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Amen Thompson,HOU,ATL,reb,8.5,over,draftkings,102.0,2026-10-24T14:54:19-04:00,34.6,7.28,0.33,0.462,7.0,0.495,-33.2,-6.58,-13.2,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Amen Thompson,HOU,ATL,reb,8.5,under,draftkings,-135.0,2026-10-24T14:54:19-04:00,34.6,7.28,0.67,0.538,7.0,0.574,16.6,3.8,13.2,-3.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.563,-1.15,,0.0
+2026-10-24,nba v1.4,Andrew Wiggins,MIA,CHA,pts,12.5,over,draftkings,-128.0,2026-10-24T14:54:19-04:00,28.8,13.45,0.515,0.529,5.0,0.561,-8.3,-1.86,-1.4,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Andrew Wiggins,MIA,CHA,pts,12.5,under,draftkings,101.0,2026-10-24T14:54:19-04:00,28.8,13.45,0.485,0.471,5.0,0.498,-2.5,-0.5,1.4,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Andrew Wiggins,MIA,CHA,reb,4.5,over,draftkings,-102.0,2026-10-24T14:54:19-04:00,28.8,4.68,0.469,0.465,7.0,0.505,-7.0,-1.42,0.4,-4.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Andrew Wiggins,MIA,CHA,reb,4.5,under,draftkings,-129.0,2026-10-24T14:54:19-04:00,28.8,4.68,0.531,0.535,7.0,0.563,-5.8,-1.31,-0.4,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Anthony Davis,WAS,CHI,ast,2.5,over,draftkings,-120.0,2026-10-24T14:54:19-04:00,31.3,2.92,0.519,0.519,3.0,0.545,-4.9,-1.08,-0.0,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Anthony Davis,WAS,CHI,ast,2.5,under,draftkings,-110.0,2026-10-24T14:54:19-04:00,31.3,2.92,0.481,0.481,3.0,0.524,-8.1,-1.69,0.0,-4.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Anthony Davis,WAS,CHI,pts,23.5,over,draftkings,-117.0,2026-10-24T14:54:19-04:00,31.3,19.49,0.276,0.5,7.0,0.539,-48.8,-10.51,-22.4,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Anthony Davis,WAS,CHI,pts,23.5,under,draftkings,-109.0,2026-10-24T14:54:19-04:00,31.3,19.49,0.724,0.5,7.0,0.522,38.8,8.09,22.4,-2.2,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.556,3.46,,0.0
+2026-10-24,nba v1.4,Anthony Davis,WAS,CHI,reb,11.5,over,draftkings,-101.0,2026-10-24T14:54:19-04:00,31.3,10.17,0.343,0.469,7.0,0.502,-31.7,-6.38,-12.6,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Anthony Davis,WAS,CHI,reb,11.5,under,draftkings,-130.0,2026-10-24T14:54:19-04:00,31.3,10.17,0.657,0.531,7.0,0.565,16.2,3.67,12.6,-3.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.556,-0.91,,0.0
+2026-10-24,nba v1.4,Bam Adebayo,MIA,CHA,ast,3.5,over,draftkings,-110.0,2026-10-24T14:54:19-04:00,30.3,3.05,0.359,0.48,7.0,0.524,-31.4,-6.58,-12.0,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Bam Adebayo,MIA,CHA,ast,3.5,under,draftkings,-119.0,2026-10-24T14:54:19-04:00,30.3,3.05,0.641,0.52,7.0,0.543,17.9,3.89,12.0,-2.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.551,0.79,,0.0
+2026-10-24,nba v1.4,Bam Adebayo,MIA,CHA,pts,17.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,30.3,17.01,0.426,0.485,2.0,0.517,-17.7,-3.65,-5.9,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Bam Adebayo,MIA,CHA,pts,17.5,under,draftkings,-119.0,2026-10-24T14:54:19-04:00,30.3,17.01,0.574,0.515,2.0,0.543,5.7,1.24,5.9,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Bam Adebayo,MIA,CHA,reb,9.5,over,draftkings,-106.0,2026-10-24T14:54:19-04:00,30.3,8.92,0.403,0.469,7.0,0.515,-21.7,-4.47,-6.7,-4.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Bam Adebayo,MIA,CHA,reb,9.5,under,draftkings,-124.0,2026-10-24T14:54:19-04:00,30.3,8.92,0.597,0.531,7.0,0.554,7.9,1.75,6.7,-2.3,WATCH,edge below the Rules §3 bar,0.545,-0.81,,0.0
+2026-10-24,nba v1.4,Brandon Miller,CHA,MIA,ast,3.5,over,draftkings,104.0,2026-10-24T14:54:19-04:00,30.1,3.44,0.432,0.437,7.0,0.49,-11.9,-2.34,-0.6,-5.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Brandon Miller,CHA,MIA,ast,3.5,under,draftkings,-137.0,2026-10-24T14:54:19-04:00,30.1,3.44,0.568,0.563,7.0,0.578,-1.7,-0.39,0.6,-1.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Brandon Miller,CHA,MIA,pts,22.5,over,draftkings,-116.0,2026-10-24T14:54:19-04:00,30.1,21.14,0.398,0.492,7.0,0.537,-25.9,-5.56,-9.4,-4.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Brandon Miller,CHA,MIA,pts,22.5,under,draftkings,-110.0,2026-10-24T14:54:19-04:00,30.1,21.14,0.602,0.508,7.0,0.524,14.9,3.12,9.4,-1.6,WATCH,edge below the Rules §3 bar,0.533,0.96,,0.0
+2026-10-24,nba v1.4,Brandon Miller,CHA,MIA,reb,5.5,over,draftkings,106.0,2026-10-24T14:54:19-04:00,30.1,4.84,0.36,0.441,7.0,0.485,-25.8,-5.02,-8.1,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Brandon Miller,CHA,MIA,reb,5.5,under,draftkings,-140.0,2026-10-24T14:54:19-04:00,30.1,4.84,0.64,0.559,7.0,0.583,9.7,2.26,8.1,-2.4,WATCH,edge below the Rules §3 bar,0.579,-0.47,,0.0
+2026-10-24,nba v1.4,Caleb Wilson,CHI,WAS,ast,1.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,32.6,2.73,0.701,0.541,3.0,0.558,25.6,5.72,16.0,-1.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.583,2.56,,0.0
+2026-10-24,nba v1.4,Caleb Wilson,CHI,WAS,ast,1.5,under,draftkings,-105.0,2026-10-24T14:54:19-04:00,32.6,2.73,0.299,0.459,3.0,0.512,-41.5,-8.51,-16.0,-5.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Caleb Wilson,CHI,WAS,pts,17.5,over,draftkings,-124.0,2026-10-24T14:54:19-04:00,32.6,18.15,0.494,0.506,6.0,0.554,-10.8,-2.39,-1.2,-4.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Caleb Wilson,CHI,WAS,pts,17.5,under,draftkings,-103.0,2026-10-24T14:54:19-04:00,32.6,18.15,0.506,0.494,6.0,0.507,-0.3,-0.05,1.2,-1.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Caleb Wilson,CHI,WAS,reb,6.5,over,draftkings,101.0,2026-10-24T14:54:19-04:00,32.6,5.69,0.358,0.455,5.0,0.498,-28.1,-5.59,-9.7,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Caleb Wilson,CHI,WAS,reb,6.5,under,draftkings,-133.0,2026-10-24T14:54:19-04:00,32.6,5.69,0.642,0.545,5.0,0.571,12.5,2.85,9.7,-2.5,WATCH,edge below the Rules §3 bar,0.572,0.12,,0.0
+2026-10-24,nba v1.4,Christian Braun,DEN,NOP,pts,12.5,over,draftkings,-111.0,2026-10-24T14:54:19-04:00,29.3,11.8,0.402,0.505,7.0,0.526,-23.7,-4.98,-10.4,-2.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Christian Braun,DEN,NOP,pts,12.5,under,draftkings,-115.0,2026-10-24T14:54:19-04:00,29.3,11.8,0.598,0.495,7.0,0.535,11.9,2.54,10.4,-4.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.514,-2.06,,0.0
+2026-10-24,nba v1.4,Christian Braun,DEN,NOP,reb,4.5,over,draftkings,-150.0,2026-10-24T14:54:19-04:00,29.3,4.62,0.459,0.525,7.0,0.6,-23.5,-5.63,-6.6,-7.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Christian Braun,DEN,NOP,reb,4.5,under,draftkings,114.0,2026-10-24T14:54:19-04:00,29.3,4.62,0.541,0.475,7.0,0.467,15.7,2.94,6.6,0.7,WATCH,edge below the Rules §3 bar,0.494,2.62,,0.0
+2026-10-24,nba v1.4,CJ McCollum,ATL,HOU,ast,3.5,over,draftkings,123.0,2026-10-24T14:54:19-04:00,24.4,3.18,0.382,0.417,5.0,0.448,-14.7,-2.65,-3.4,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,CJ McCollum,ATL,HOU,ast,3.5,under,draftkings,-163.0,2026-10-24T14:54:19-04:00,24.4,3.18,0.618,0.583,5.0,0.62,-0.3,-0.08,3.4,-3.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,CJ McCollum,ATL,HOU,pts,16.5,over,draftkings,-123.0,2026-10-24T14:54:19-04:00,24.4,14.93,0.374,0.491,6.0,0.552,-32.2,-7.11,-11.7,-6.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,CJ McCollum,ATL,HOU,pts,16.5,under,draftkings,-104.0,2026-10-24T14:54:19-04:00,24.4,14.93,0.626,0.509,6.0,0.51,22.8,4.66,11.7,-0.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.536,2.58,,0.0
+2026-10-24,nba v1.4,CJ McCollum,ATL,HOU,reb,2.5,over,draftkings,-138.0,2026-10-24T14:54:19-04:00,24.4,2.8,0.486,0.533,6.0,0.58,-16.2,-3.75,-4.7,-4.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,CJ McCollum,ATL,HOU,reb,2.5,under,draftkings,105.0,2026-10-24T14:54:19-04:00,24.4,2.8,0.514,0.467,6.0,0.488,5.4,1.05,4.7,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Collin Gillespie,PHX,GSW,ast,3.5,over,draftkings,118.0,2026-10-24T14:54:19-04:00,28.0,4.17,0.555,0.425,5.0,0.459,21.1,3.86,13.0,-3.4,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.462,0.28,,0.0
+2026-10-24,nba v1.4,Collin Gillespie,PHX,GSW,ast,3.5,under,draftkings,-155.0,2026-10-24T14:54:19-04:00,28.0,4.17,0.445,0.575,5.0,0.608,-26.8,-6.53,-13.0,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Collin Gillespie,PHX,GSW,pts,10.5,over,draftkings,-102.0,2026-10-24T14:54:19-04:00,28.0,11.57,0.527,0.48,3.0,0.505,4.4,0.89,4.8,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Collin Gillespie,PHX,GSW,pts,10.5,under,draftkings,-126.0,2026-10-24T14:54:19-04:00,28.0,11.57,0.473,0.52,3.0,0.558,-15.2,-3.39,-4.8,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Daniel Gafford,DAL,SAS,pts,8.5,over,draftkings,-119.0,2026-10-24T14:54:19-04:00,29.0,12.94,0.762,0.5,6.0,0.543,40.2,8.73,26.2,-4.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.578,3.46,,0.0
+2026-10-24,nba v1.4,Daniel Gafford,DAL,SAS,pts,8.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.0,12.94,0.238,0.5,6.0,0.517,-53.9,-11.15,-26.2,-1.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Daniel Gafford,DAL,SAS,reb,6.5,over,draftkings,-123.0,2026-10-24T14:54:19-04:00,29.0,8.52,0.662,0.508,6.0,0.552,19.9,4.4,15.4,-4.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.547,-0.42,,0.0
+2026-10-24,nba v1.4,Daniel Gafford,DAL,SAS,reb,6.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.0,8.52,0.338,0.492,6.0,0.517,-34.5,-7.14,-15.4,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Davion Mitchell,MIA,CHA,ast,6.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.7,5.88,0.377,0.455,7.0,0.517,-27.0,-5.59,-7.7,-6.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Davion Mitchell,MIA,CHA,ast,6.5,under,draftkings,-123.0,2026-10-24T14:54:19-04:00,29.7,5.88,0.623,0.545,7.0,0.552,12.9,2.85,7.7,-0.6,WATCH,edge below the Rules §3 bar,0.566,1.39,,0.0
+2026-10-24,nba v1.4,Davion Mitchell,MIA,CHA,pts,9.5,over,draftkings,-130.0,2026-10-24T14:54:19-04:00,29.7,10.19,0.5,0.523,2.0,0.565,-11.6,-2.61,-2.3,-4.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Davion Mitchell,MIA,CHA,pts,9.5,under,draftkings,102.0,2026-10-24T14:54:19-04:00,29.7,10.19,0.5,0.477,2.0,0.495,1.0,0.2,2.3,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Davion Mitchell,MIA,CHA,reb,2.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,29.7,2.95,0.51,0.515,6.0,0.558,-8.5,-1.89,-0.5,-4.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Davion Mitchell,MIA,CHA,reb,2.5,under,draftkings,-104.0,2026-10-24T14:54:19-04:00,29.7,2.95,0.49,0.485,6.0,0.51,-3.9,-0.8,0.5,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Day'Ron Sharpe,BKN,CLE,ast,3.5,over,draftkings,129.0,2026-10-24T14:54:19-04:00,22.2,2.51,0.262,0.407,2.0,0.437,-40.0,-6.98,-14.5,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Day'Ron Sharpe,BKN,CLE,ast,3.5,under,draftkings,-171.0,2026-10-24T14:54:19-04:00,22.2,2.51,0.738,0.593,2.0,0.631,16.9,4.28,14.5,-3.8,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.631,0.04,,0.0
+2026-10-24,nba v1.4,Day'Ron Sharpe,BKN,CLE,pts,10.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,22.2,9.38,0.362,0.497,6.0,0.528,-31.5,-6.66,-13.5,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Day'Ron Sharpe,BKN,CLE,pts,10.5,under,draftkings,-113.0,2026-10-24T14:54:19-04:00,22.2,9.38,0.638,0.503,6.0,0.531,20.3,4.3,13.5,-2.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.535,0.42,,0.0
+2026-10-24,nba v1.4,Day'Ron Sharpe,BKN,CLE,reb,8.5,over,draftkings,-124.0,2026-10-24T14:54:19-04:00,22.2,7.29,0.335,0.534,6.0,0.554,-39.4,-8.73,-19.9,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Day'Ron Sharpe,BKN,CLE,reb,8.5,under,draftkings,-106.0,2026-10-24T14:54:19-04:00,22.2,7.29,0.665,0.466,6.0,0.515,29.2,6.0,19.9,-4.8,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.51,-0.49,,0.0
+2026-10-24,nba v1.4,De'Aaron Fox,SAS,DAL,ast,5.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,29.9,5.83,0.495,0.505,7.0,0.512,-3.4,-0.69,-1.0,-0.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,De'Aaron Fox,SAS,DAL,ast,5.5,under,draftkings,-125.0,2026-10-24T14:54:19-04:00,29.9,5.83,0.505,0.495,7.0,0.556,-9.1,-2.02,1.0,-6.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,De'Aaron Fox,SAS,DAL,pts,14.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.9,16.9,0.596,0.506,7.0,0.517,15.4,3.18,9.0,-1.1,WATCH,edge below the Rules §3 bar,0.528,1.11,,0.0
+2026-10-24,nba v1.4,De'Aaron Fox,SAS,DAL,pts,14.5,under,draftkings,-119.0,2026-10-24T14:54:19-04:00,29.9,16.9,0.404,0.494,7.0,0.543,-25.7,-5.59,-9.0,-4.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,De'Aaron Fox,SAS,DAL,reb,3.5,over,draftkings,-123.0,2026-10-24T14:54:19-04:00,29.9,3.88,0.495,0.52,6.0,0.552,-10.2,-2.25,-2.5,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,De'Aaron Fox,SAS,DAL,reb,3.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.9,3.88,0.505,0.48,6.0,0.517,-2.4,-0.49,2.5,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dejounte Murray,NOP,DEN,ast,5.5,over,draftkings,-123.0,2026-10-24T14:54:19-04:00,26.8,4.86,0.362,0.524,7.0,0.552,-34.4,-7.59,-16.2,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dejounte Murray,NOP,DEN,ast,5.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,26.8,4.86,0.638,0.476,7.0,0.517,23.5,4.86,16.2,-4.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.509,-0.8,,0.0
+2026-10-24,nba v1.4,Dejounte Murray,NOP,DEN,pts,17.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,26.8,14.02,0.264,0.476,6.0,0.517,-49.0,-10.13,-21.2,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dejounte Murray,NOP,DEN,pts,17.5,under,draftkings,-119.0,2026-10-24T14:54:19-04:00,26.8,14.02,0.736,0.524,6.0,0.543,35.5,7.72,21.2,-1.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.572,2.86,,0.0
+2026-10-24,nba v1.4,Dejounte Murray,NOP,DEN,reb,5.5,over,draftkings,107.0,2026-10-24T14:54:19-04:00,26.8,4.93,0.372,0.449,7.0,0.483,-22.9,-4.42,-7.6,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dejounte Murray,NOP,DEN,reb,5.5,under,draftkings,-141.0,2026-10-24T14:54:19-04:00,26.8,4.93,0.627,0.551,7.0,0.585,7.3,1.7,7.6,-3.4,WATCH,edge below the Rules §3 bar,0.567,-1.77,,0.0
+2026-10-24,nba v1.4,DeMar DeRozan,DEN,NOP,ast,2.5,over,draftkings,-169.0,2026-10-24T14:54:19-04:00,28.0,3.8,0.666,0.592,4.0,0.628,6.0,1.51,7.4,-3.7,WATCH,edge below the Rules §3 bar,0.607,-2.16,,0.0
+2026-10-24,nba v1.4,DeMar DeRozan,DEN,NOP,ast,2.5,under,draftkings,128.0,2026-10-24T14:54:19-04:00,28.0,3.8,0.334,0.408,4.0,0.439,-23.8,-4.18,-7.4,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,DeMar DeRozan,DEN,NOP,pts,15.5,over,draftkings,-113.0,2026-10-24T14:54:19-04:00,28.0,16.59,0.522,0.49,2.0,0.531,-1.7,-0.35,3.2,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,DeMar DeRozan,DEN,NOP,pts,15.5,under,draftkings,-112.0,2026-10-24T14:54:19-04:00,28.0,16.59,0.478,0.51,2.0,0.528,-9.5,-2.0,-3.2,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,DeMar DeRozan,DEN,NOP,reb,2.5,over,draftkings,-156.0,2026-10-24T14:54:19-04:00,28.0,2.82,0.489,0.545,6.0,0.609,-19.7,-4.81,-5.6,-6.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,DeMar DeRozan,DEN,NOP,reb,2.5,under,draftkings,118.0,2026-10-24T14:54:19-04:00,28.0,2.82,0.511,0.455,6.0,0.459,11.4,2.09,5.6,-0.4,WATCH,edge below the Rules §3 bar,0.459,-0.02,,0.0
+2026-10-24,nba v1.4,Dennis Schröder,CHA,MIA,ast,6.5,over,draftkings,111.0,2026-10-24T14:54:19-04:00,25.8,5.21,0.293,0.422,4.0,0.474,-38.1,-7.23,-12.9,-5.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dennis Schröder,CHA,MIA,ast,6.5,under,draftkings,-146.0,2026-10-24T14:54:19-04:00,25.8,5.21,0.707,0.578,4.0,0.593,19.1,4.53,12.9,-1.6,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.617,2.31,,0.0
+2026-10-24,nba v1.4,Dennis Schröder,CHA,MIA,pts,13.5,over,draftkings,-122.0,2026-10-24T14:54:19-04:00,25.8,12.45,0.384,0.52,1.0,0.55,-30.1,-6.62,-13.6,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dennis Schröder,CHA,MIA,pts,13.5,under,draftkings,-104.0,2026-10-24T14:54:19-04:00,25.8,12.45,0.616,0.48,1.0,0.51,20.8,4.25,13.6,-3.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.517,0.68,,0.0
+2026-10-24,nba v1.4,Dennis Schröder,CHA,MIA,reb,3.5,over,draftkings,108.0,2026-10-24T14:54:19-04:00,25.8,3.14,0.373,0.457,6.0,0.481,-22.3,-4.29,-8.3,-2.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dennis Schröder,CHA,MIA,reb,3.5,under,draftkings,-143.0,2026-10-24T14:54:19-04:00,25.8,3.14,0.627,0.543,6.0,0.588,6.5,1.52,8.3,-4.5,WATCH,edge below the Rules §3 bar,0.561,-2.79,,0.0
+2026-10-24,nba v1.4,Devin Booker,PHX,GSW,ast,5.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,32.5,5.3,0.422,0.472,7.0,0.51,-17.1,-3.5,-4.9,-3.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Booker,PHX,GSW,ast,5.5,under,draftkings,-126.0,2026-10-24T14:54:19-04:00,32.5,5.3,0.578,0.528,7.0,0.558,3.6,0.8,4.9,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Booker,PHX,GSW,pts,23.5,over,draftkings,-116.0,2026-10-24T14:54:19-04:00,32.5,23.57,0.469,0.52,3.0,0.537,-12.7,-2.72,-5.1,-1.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Booker,PHX,GSW,pts,23.5,under,draftkings,-110.0,2026-10-24T14:54:19-04:00,32.5,23.57,0.531,0.48,3.0,0.524,1.4,0.29,5.1,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Booker,PHX,GSW,reb,3.5,over,draftkings,-152.0,2026-10-24T14:54:19-04:00,32.5,3.83,0.491,0.569,7.0,0.603,-18.7,-4.5,-7.9,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Booker,PHX,GSW,reb,3.5,under,draftkings,115.0,2026-10-24T14:54:19-04:00,32.5,3.83,0.509,0.431,7.0,0.465,9.5,1.77,7.9,-3.4,WATCH,edge below the Rules §3 bar,0.436,-2.94,,0.0
+2026-10-24,nba v1.4,Devin Vassell,SAS,DAL,ast,1.5,over,draftkings,-183.0,2026-10-24T14:54:19-04:00,29.8,2.51,0.653,0.605,2.0,0.647,1.0,0.27,4.8,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Vassell,SAS,DAL,ast,1.5,under,draftkings,138.0,2026-10-24T14:54:19-04:00,29.8,2.51,0.347,0.395,2.0,0.42,-17.5,-2.94,-4.8,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Vassell,SAS,DAL,pts,12.5,over,draftkings,101.0,2026-10-24T14:54:19-04:00,29.8,13.19,0.498,0.469,1.0,0.498,0.1,0.03,2.9,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Vassell,SAS,DAL,pts,12.5,under,draftkings,-128.0,2026-10-24T14:54:19-04:00,29.8,13.19,0.502,0.531,1.0,0.561,-10.6,-2.39,-2.9,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Vassell,SAS,DAL,reb,3.5,over,draftkings,-125.0,2026-10-24T14:54:19-04:00,29.8,4.12,0.538,0.516,6.0,0.556,-3.2,-0.71,2.1,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Devin Vassell,SAS,DAL,reb,3.5,under,draftkings,-105.0,2026-10-24T14:54:19-04:00,29.8,4.12,0.462,0.484,6.0,0.512,-9.8,-2.0,-2.1,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dillon Brooks,PHX,GSW,pts,16.5,over,draftkings,-106.0,2026-10-24T14:54:19-04:00,29.5,17.83,0.535,0.485,6.0,0.515,4.0,0.81,5.0,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dillon Brooks,PHX,GSW,pts,16.5,under,draftkings,-120.0,2026-10-24T14:54:19-04:00,29.5,17.83,0.465,0.515,6.0,0.545,-14.7,-3.21,-5.0,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dillon Brooks,PHX,GSW,reb,3.5,over,draftkings,-123.0,2026-10-24T14:54:19-04:00,29.5,3.77,0.482,0.534,6.0,0.552,-12.5,-2.77,-5.1,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dillon Brooks,PHX,GSW,reb,3.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.5,3.77,0.518,0.466,6.0,0.517,0.1,0.03,5.1,-5.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Donovan Mitchell,CLE,BKN,ast,4.5,over,draftkings,-132.0,2026-10-24T14:54:19-04:00,31.6,4.84,0.499,0.52,7.0,0.569,-12.2,-2.78,-2.1,-4.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Donovan Mitchell,CLE,BKN,ast,4.5,under,draftkings,100.0,2026-10-24T14:54:19-04:00,31.6,4.84,0.501,0.48,7.0,0.5,0.1,0.02,2.1,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Donovan Mitchell,CLE,BKN,pts,25.5,over,draftkings,-114.0,2026-10-24T14:54:19-04:00,31.6,23.21,0.362,0.51,7.0,0.533,-32.1,-6.84,-14.8,-2.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Donovan Mitchell,CLE,BKN,pts,25.5,under,draftkings,-112.0,2026-10-24T14:54:19-04:00,31.6,23.21,0.638,0.49,7.0,0.528,20.8,4.4,14.8,-3.8,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.527,-0.13,,0.0
+2026-10-24,nba v1.4,Donovan Mitchell,CLE,BKN,reb,4.5,over,draftkings,-132.0,2026-10-24T14:54:19-04:00,31.6,4.55,0.448,0.51,7.0,0.569,-21.2,-4.82,-6.2,-5.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Donovan Mitchell,CLE,BKN,reb,4.5,under,draftkings,100.0,2026-10-24T14:54:19-04:00,31.6,4.55,0.552,0.49,7.0,0.5,10.3,2.06,6.2,-1.0,WATCH,edge below the Rules §3 bar,0.505,0.5,,0.0
+2026-10-24,nba v1.4,Dylan Harper,SAS,DAL,ast,3.5,over,draftkings,-147.0,2026-10-24T14:54:19-04:00,26.3,4.03,0.53,0.567,5.0,0.595,-11.0,-2.61,-3.7,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dylan Harper,SAS,DAL,ast,3.5,under,draftkings,111.0,2026-10-24T14:54:19-04:00,26.3,4.03,0.47,0.433,5.0,0.474,-0.8,-0.15,3.7,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dylan Harper,SAS,DAL,pts,17.5,over,draftkings,-110.0,2026-10-24T14:54:19-04:00,26.3,13.21,0.222,0.48,6.0,0.524,-57.7,-12.08,-25.8,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dylan Harper,SAS,DAL,pts,17.5,under,draftkings,-116.0,2026-10-24T14:54:19-04:00,26.3,13.21,0.778,0.52,6.0,0.537,44.9,9.65,25.8,-1.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.589,5.15,,0.0
+2026-10-24,nba v1.4,Dylan Harper,SAS,DAL,reb,4.5,over,draftkings,-118.0,2026-10-24T14:54:19-04:00,26.3,4.0,0.369,0.51,7.0,0.541,-31.8,-6.89,-14.1,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dylan Harper,SAS,DAL,reb,4.5,under,draftkings,-111.0,2026-10-24T14:54:19-04:00,26.3,4.0,0.631,0.49,7.0,0.526,19.9,4.19,14.1,-3.6,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.52,-0.56,,0.0
+2026-10-24,nba v1.4,Dyson Daniels,ATL,HOU,ast,4.5,over,draftkings,-118.0,2026-10-24T14:54:19-04:00,30.8,5.12,0.537,0.5,7.0,0.541,-0.8,-0.16,3.7,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dyson Daniels,ATL,HOU,ast,4.5,under,draftkings,-111.0,2026-10-24T14:54:19-04:00,30.8,5.12,0.463,0.5,7.0,0.526,-12.0,-2.53,-3.7,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dyson Daniels,ATL,HOU,pts,10.5,over,draftkings,-116.0,2026-10-24T14:54:19-04:00,30.8,11.89,0.557,0.52,7.0,0.537,3.8,0.81,3.7,-1.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dyson Daniels,ATL,HOU,pts,10.5,under,draftkings,-110.0,2026-10-24T14:54:19-04:00,30.8,11.89,0.443,0.48,7.0,0.524,-15.5,-3.25,-3.7,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dyson Daniels,ATL,HOU,reb,6.5,over,draftkings,106.0,2026-10-24T14:54:19-04:00,30.8,6.53,0.453,0.448,7.0,0.485,-6.7,-1.3,0.5,-3.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Dyson Daniels,ATL,HOU,reb,6.5,under,draftkings,-139.0,2026-10-24T14:54:19-04:00,30.8,6.53,0.547,0.552,7.0,0.582,-5.9,-1.38,-0.5,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Egor Dëmin,BKN,CLE,ast,3.5,over,draftkings,103.0,2026-10-24T14:54:19-04:00,27.0,3.2,0.384,0.481,6.0,0.493,-22.1,-4.35,-9.7,-1.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Egor Dëmin,BKN,CLE,ast,3.5,under,draftkings,-135.0,2026-10-24T14:54:19-04:00,27.0,3.2,0.616,0.519,6.0,0.574,7.3,1.67,9.7,-5.5,WATCH,edge below the Rules §3 bar,0.549,-2.52,,0.0
+2026-10-24,nba v1.4,Egor Dëmin,BKN,CLE,pts,10.5,over,draftkings,-111.0,2026-10-24T14:54:19-04:00,27.0,10.26,0.429,0.507,4.0,0.526,-18.4,-3.86,-7.8,-1.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Egor Dëmin,BKN,CLE,pts,10.5,under,draftkings,-114.0,2026-10-24T14:54:19-04:00,27.0,10.26,0.571,0.493,4.0,0.533,7.1,1.51,7.8,-4.0,WATCH,edge below the Rules §3 bar,0.521,-1.16,,0.0
+2026-10-24,nba v1.4,Egor Dëmin,BKN,CLE,reb,3.5,over,draftkings,125.0,2026-10-24T14:54:19-04:00,27.0,3.56,0.446,0.43,6.0,0.444,0.3,0.05,1.5,-1.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Egor Dëmin,BKN,CLE,reb,3.5,under,draftkings,-165.0,2026-10-24T14:54:19-04:00,27.0,3.56,0.554,0.57,6.0,0.623,-11.0,-2.73,-1.5,-5.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Evan Mobley,CLE,BKN,ast,3.5,over,draftkings,104.0,2026-10-24T14:54:19-04:00,30.3,3.14,0.377,0.442,6.0,0.49,-23.0,-4.52,-6.5,-4.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Evan Mobley,CLE,BKN,ast,3.5,under,draftkings,-137.0,2026-10-24T14:54:19-04:00,30.3,3.14,0.623,0.558,6.0,0.578,7.7,1.79,6.5,-2.0,WATCH,edge below the Rules §3 bar,0.585,0.69,,0.0
+2026-10-24,nba v1.4,Evan Mobley,CLE,BKN,pts,17.5,over,draftkings,-108.0,2026-10-24T14:54:19-04:00,30.3,16.13,0.383,0.494,6.0,0.519,-26.3,-5.47,-11.1,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Evan Mobley,CLE,BKN,pts,17.5,under,draftkings,-118.0,2026-10-24T14:54:19-04:00,30.3,16.13,0.617,0.506,6.0,0.541,14.1,3.05,11.1,-3.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.533,-0.79,,0.0
+2026-10-24,nba v1.4,Evan Mobley,CLE,BKN,reb,8.5,over,draftkings,-124.0,2026-10-24T14:54:19-04:00,30.3,8.44,0.45,0.506,7.0,0.554,-18.7,-4.14,-5.6,-4.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Evan Mobley,CLE,BKN,reb,8.5,under,draftkings,-106.0,2026-10-24T14:54:19-04:00,30.3,8.44,0.55,0.494,7.0,0.515,6.9,1.41,5.6,-2.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Giannis Antetokounmpo,MIA,CHA,ast,6.5,over,draftkings,108.0,2026-10-24T14:54:19-04:00,29.4,4.69,0.229,0.454,5.0,0.481,-52.4,-10.08,-22.5,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Giannis Antetokounmpo,MIA,CHA,ast,6.5,under,draftkings,-142.0,2026-10-24T14:54:19-04:00,29.4,4.69,0.771,0.546,5.0,0.587,31.4,7.38,22.5,-4.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.602,1.56,,0.0
+2026-10-24,nba v1.4,Giannis Antetokounmpo,MIA,CHA,pts,28.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,29.4,24.41,0.301,0.49,5.0,0.51,-41.0,-8.36,-18.9,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Giannis Antetokounmpo,MIA,CHA,pts,28.5,under,draftkings,-123.0,2026-10-24T14:54:19-04:00,29.4,24.41,0.699,0.51,5.0,0.552,26.8,5.9,18.9,-4.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.553,0.18,,0.0
+2026-10-24,nba v1.4,Giannis Antetokounmpo,MIA,CHA,reb,10.5,over,draftkings,-131.0,2026-10-24T14:54:19-04:00,29.4,9.1,0.334,0.51,7.0,0.567,-41.2,-9.34,-17.6,-5.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Giannis Antetokounmpo,MIA,CHA,reb,10.5,under,draftkings,-101.0,2026-10-24T14:54:19-04:00,29.4,9.1,0.666,0.49,7.0,0.502,32.6,6.55,17.6,-1.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.535,3.25,,0.0
+2026-10-24,nba v1.4,Jabari Smith Jr.,HOU,ATL,pts,14.5,over,draftkings,-108.0,2026-10-24T14:54:19-04:00,33.2,15.13,0.493,0.5,5.0,0.519,-5.0,-1.04,-0.7,-1.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jabari Smith Jr.,HOU,ATL,pts,14.5,under,draftkings,-118.0,2026-10-24T14:54:19-04:00,33.2,15.13,0.507,0.5,5.0,0.541,-6.4,-1.39,0.7,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jabari Smith Jr.,HOU,ATL,reb,6.5,over,draftkings,106.0,2026-10-24T14:54:19-04:00,33.2,6.29,0.423,0.437,5.0,0.485,-12.9,-2.51,-1.5,-4.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jabari Smith Jr.,HOU,ATL,reb,6.5,under,draftkings,-139.0,2026-10-24T14:54:19-04:00,33.2,6.29,0.577,0.563,5.0,0.582,-0.7,-0.17,1.5,-1.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaime Jaquez Jr.,MIL,PHI,ast,4.5,over,draftkings,109.0,2026-10-24T14:54:19-04:00,27.9,4.29,0.416,0.426,6.0,0.478,-13.1,-2.51,-1.0,-5.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaime Jaquez Jr.,MIL,PHI,ast,4.5,under,draftkings,-143.0,2026-10-24T14:54:19-04:00,27.9,4.29,0.584,0.574,6.0,0.588,-0.7,-0.17,1.0,-1.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaime Jaquez Jr.,MIL,PHI,pts,14.5,over,draftkings,-122.0,2026-10-24T14:54:19-04:00,27.9,14.92,0.485,0.52,4.0,0.55,-11.7,-2.58,-3.5,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaime Jaquez Jr.,MIL,PHI,pts,14.5,under,draftkings,-105.0,2026-10-24T14:54:19-04:00,27.9,14.92,0.515,0.48,4.0,0.512,0.5,0.11,3.5,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaime Jaquez Jr.,MIL,PHI,reb,5.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,27.9,4.99,0.378,0.455,6.0,0.51,-25.8,-5.26,-7.7,-5.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaime Jaquez Jr.,MIL,PHI,reb,5.5,under,draftkings,-127.0,2026-10-24T14:54:19-04:00,27.9,4.99,0.622,0.545,6.0,0.559,11.1,2.49,7.7,-1.5,WATCH,edge below the Rules §3 bar,0.568,0.88,,0.0
+2026-10-24,nba v1.4,Jalen Green,PHX,GSW,ast,3.5,over,draftkings,-151.0,2026-10-24T14:54:19-04:00,26.7,2.76,0.305,0.554,7.0,0.602,-49.4,-11.88,-24.9,-4.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Green,PHX,GSW,ast,3.5,under,draftkings,114.0,2026-10-24T14:54:19-04:00,26.7,2.76,0.695,0.446,7.0,0.467,48.8,9.13,24.9,-2.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.51,4.28,,0.0
+2026-10-24,nba v1.4,Jalen Green,PHX,GSW,pts,19.5,over,draftkings,-119.0,2026-10-24T14:54:19-04:00,26.7,15.8,0.267,0.51,1.0,0.543,-50.9,-11.06,-24.3,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Green,PHX,GSW,pts,19.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,26.7,15.8,0.733,0.49,1.0,0.517,41.8,8.65,24.3,-2.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.547,3.06,,0.0
+2026-10-24,nba v1.4,Jalen Green,PHX,GSW,reb,4.5,over,draftkings,122.0,2026-10-24T14:54:19-04:00,26.7,3.77,0.334,0.433,7.0,0.45,-26.0,-4.68,-9.9,-1.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Green,PHX,GSW,reb,4.5,under,draftkings,-161.0,2026-10-24T14:54:19-04:00,26.7,3.77,0.666,0.567,7.0,0.617,8.0,1.98,9.9,-5.0,WATCH,edge below the Rules §3 bar,0.59,-2.74,,0.0
+2026-10-24,nba v1.4,Jalen Johnson,ATL,HOU,ast,6.5,over,draftkings,-109.0,2026-10-24T14:54:19-04:00,32.1,6.69,0.48,0.495,6.0,0.522,-8.0,-1.68,-1.6,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Johnson,ATL,HOU,ast,6.5,under,draftkings,-121.0,2026-10-24T14:54:19-04:00,32.1,6.69,0.52,0.505,6.0,0.548,-5.0,-1.08,1.6,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Johnson,ATL,HOU,pts,19.5,over,draftkings,-115.0,2026-10-24T14:54:19-04:00,32.1,19.43,0.459,0.516,5.0,0.535,-14.1,-3.02,-5.7,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Johnson,ATL,HOU,pts,19.5,under,draftkings,-111.0,2026-10-24T14:54:19-04:00,32.1,19.43,0.541,0.484,5.0,0.526,2.8,0.58,5.7,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Johnson,ATL,HOU,reb,9.5,over,draftkings,-117.0,2026-10-24T14:54:19-04:00,32.1,9.09,0.42,0.5,7.0,0.539,-22.1,-4.76,-8.0,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Johnson,ATL,HOU,reb,9.5,under,draftkings,-112.0,2026-10-24T14:54:19-04:00,32.1,9.09,0.58,0.5,7.0,0.528,9.8,2.07,8.0,-2.8,WATCH,edge below the Rules §3 bar,0.527,-0.17,,0.0
+2026-10-24,nba v1.4,Jalen Smith,CHI,WAS,ast,1.5,over,draftkings,105.0,2026-10-24T14:54:19-04:00,21.1,1.28,0.344,0.459,3.0,0.488,-29.4,-5.75,-11.5,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Smith,CHI,WAS,ast,1.5,under,draftkings,-138.0,2026-10-24T14:54:19-04:00,21.1,1.28,0.656,0.541,3.0,0.58,13.1,3.04,11.5,-3.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.57,-0.97,,0.0
+2026-10-24,nba v1.4,Jalen Smith,CHI,WAS,pts,13.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,21.1,9.98,0.234,0.48,7.0,0.51,-54.0,-11.02,-24.5,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Smith,CHI,WAS,pts,13.5,under,draftkings,-122.0,2026-10-24T14:54:19-04:00,21.1,9.98,0.766,0.52,7.0,0.55,39.3,8.65,24.5,-2.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.58,3.08,,0.0
+2026-10-24,nba v1.4,Jalen Smith,CHI,WAS,reb,8.5,over,draftkings,-101.0,2026-10-24T14:54:19-04:00,21.1,6.62,0.268,0.455,7.0,0.502,-46.6,-9.37,-18.7,-4.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jalen Smith,CHI,WAS,reb,8.5,under,draftkings,-131.0,2026-10-24T14:54:19-04:00,21.1,6.62,0.732,0.545,7.0,0.567,29.1,6.59,18.7,-2.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.593,2.55,,0.0
+2026-10-24,nba v1.4,Jamal Murray,DEN,NOP,ast,6.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,32.8,6.24,0.42,0.531,4.0,0.558,-24.7,-5.51,-11.1,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jamal Murray,DEN,NOP,ast,6.5,under,draftkings,-104.0,2026-10-24T14:54:19-04:00,32.8,6.24,0.58,0.469,4.0,0.51,13.8,2.82,11.1,-4.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.485,-2.51,,0.0
+2026-10-24,nba v1.4,Jamal Murray,DEN,NOP,pts,22.5,over,draftkings,-114.0,2026-10-24T14:54:19-04:00,32.8,22.38,0.454,0.5,1.0,0.533,-14.8,-3.14,-4.6,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jamal Murray,DEN,NOP,pts,22.5,under,draftkings,-112.0,2026-10-24T14:54:19-04:00,32.8,22.38,0.546,0.5,1.0,0.528,3.3,0.7,4.6,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jamal Murray,DEN,NOP,reb,4.5,over,draftkings,-102.0,2026-10-24T14:54:19-04:00,32.8,4.44,0.433,0.456,7.0,0.505,-14.2,-2.87,-2.3,-4.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jamal Murray,DEN,NOP,reb,4.5,under,draftkings,-129.0,2026-10-24T14:54:19-04:00,32.8,4.44,0.567,0.544,7.0,0.563,0.6,0.14,2.3,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,James Harden,CLE,BKN,ast,6.5,over,draftkings,-134.0,2026-10-24T14:54:19-04:00,32.4,6.54,0.461,0.543,6.0,0.573,-19.4,-4.45,-8.2,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,James Harden,CLE,BKN,ast,6.5,under,draftkings,102.0,2026-10-24T14:54:19-04:00,32.4,6.54,0.539,0.457,6.0,0.495,8.8,1.74,8.2,-3.8,WATCH,edge below the Rules §3 bar,0.476,-1.95,,0.0
+2026-10-24,nba v1.4,James Harden,CLE,BKN,pts,17.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,32.4,19.18,0.553,0.507,6.0,0.558,-0.8,-0.19,4.6,-5.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,James Harden,CLE,BKN,pts,17.5,under,draftkings,-101.0,2026-10-24T14:54:19-04:00,32.4,19.18,0.447,0.493,6.0,0.502,-11.0,-2.21,-4.6,-0.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,James Harden,CLE,BKN,reb,4.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,32.4,4.51,0.449,0.437,7.0,0.517,-13.2,-2.74,1.1,-8.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,James Harden,CLE,BKN,reb,4.5,under,draftkings,-123.0,2026-10-24T14:54:19-04:00,32.4,4.51,0.551,0.563,7.0,0.552,-0.0,-0.0,-1.1,1.1,WATCH,edge below the Rules §3 bar,0.555,0.34,,0.0
+2026-10-24,nba v1.4,Jarrett Allen,CLE,BKN,ast,1.5,over,draftkings,135.0,2026-10-24T14:54:19-04:00,26.2,1.6,0.437,0.405,4.0,0.426,2.6,0.45,3.2,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jarrett Allen,CLE,BKN,ast,1.5,under,draftkings,-179.0,2026-10-24T14:54:19-04:00,26.2,1.6,0.563,0.595,4.0,0.642,-12.2,-3.13,-3.2,-4.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jarrett Allen,CLE,BKN,pts,13.5,over,draftkings,-124.0,2026-10-24T14:54:19-04:00,26.2,13.51,0.453,0.503,2.0,0.554,-18.2,-4.03,-5.0,-5.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jarrett Allen,CLE,BKN,pts,13.5,under,draftkings,-103.0,2026-10-24T14:54:19-04:00,26.2,13.51,0.547,0.497,2.0,0.507,7.8,1.59,5.0,-1.0,WATCH,edge below the Rules §3 bar,0.51,0.24,,0.0
+2026-10-24,nba v1.4,Jarrett Allen,CLE,BKN,reb,8.5,over,draftkings,105.0,2026-10-24T14:54:19-04:00,26.2,7.8,0.389,0.455,6.0,0.488,-20.2,-3.94,-6.5,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jarrett Allen,CLE,BKN,reb,8.5,under,draftkings,-138.0,2026-10-24T14:54:19-04:00,26.2,7.8,0.611,0.545,6.0,0.58,5.3,1.24,6.5,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaylen Brown,PHI,MIL,ast,4.5,over,draftkings,-114.0,2026-10-24T14:54:19-04:00,33.1,4.29,0.414,0.472,7.0,0.533,-22.3,-4.76,-5.9,-6.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaylen Brown,PHI,MIL,ast,4.5,under,draftkings,-116.0,2026-10-24T14:54:19-04:00,33.1,4.29,0.586,0.528,7.0,0.537,9.2,1.97,5.9,-0.9,WATCH,edge below the Rules §3 bar,0.545,0.8,,0.0
+2026-10-24,nba v1.4,Jaylen Brown,PHI,MIL,pts,24.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,33.1,22.0,0.347,0.483,4.0,0.528,-34.3,-7.25,-13.6,-4.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaylen Brown,PHI,MIL,pts,24.5,under,draftkings,-114.0,2026-10-24T14:54:19-04:00,33.1,22.0,0.653,0.517,4.0,0.533,22.6,4.81,13.6,-1.6,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.546,1.32,,0.0
+2026-10-24,nba v1.4,Jaylen Brown,PHI,MIL,reb,6.5,over,draftkings,-130.0,2026-10-24T14:54:19-04:00,33.1,6.62,0.468,0.521,6.0,0.565,-17.2,-3.89,-5.3,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaylen Brown,PHI,MIL,reb,6.5,under,draftkings,-101.0,2026-10-24T14:54:19-04:00,33.1,6.62,0.532,0.479,6.0,0.502,5.9,1.18,5.3,-2.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaylon Tyson,CLE,BKN,pts,9.5,over,draftkings,-103.0,2026-10-24T14:54:19-04:00,25.2,11.1,0.567,0.48,6.0,0.507,11.8,2.4,8.8,-2.8,WATCH,edge below the Rules §3 bar,0.502,-0.56,,0.0
+2026-10-24,nba v1.4,Jaylon Tyson,CLE,BKN,pts,9.5,under,draftkings,-123.0,2026-10-24T14:54:19-04:00,25.2,11.1,0.433,0.52,6.0,0.552,-21.6,-4.76,-8.8,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaylon Tyson,CLE,BKN,reb,4.5,over,draftkings,-116.0,2026-10-24T14:54:19-04:00,25.2,4.74,0.478,0.496,6.0,0.537,-10.9,-2.34,-1.8,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jaylon Tyson,CLE,BKN,reb,4.5,under,draftkings,-114.0,2026-10-24T14:54:19-04:00,25.2,4.74,0.522,0.504,6.0,0.533,-2.1,-0.45,1.8,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jeremiah Fears,NOP,DEN,ast,2.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,22.1,2.57,0.445,0.503,6.0,0.528,-15.8,-3.34,-5.8,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jeremiah Fears,NOP,DEN,ast,2.5,under,draftkings,-117.0,2026-10-24T14:54:19-04:00,22.1,2.57,0.555,0.497,6.0,0.539,3.0,0.64,5.8,-4.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jeremiah Fears,NOP,DEN,pts,12.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,22.1,10.56,0.321,0.478,6.0,0.51,-37.1,-7.56,-15.7,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jeremiah Fears,NOP,DEN,pts,12.5,under,draftkings,-123.0,2026-10-24T14:54:19-04:00,22.1,10.56,0.679,0.522,6.0,0.552,23.2,5.11,15.7,-2.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.553,0.16,,0.0
+2026-10-24,nba v1.4,Jeremiah Fears,NOP,DEN,reb,2.5,over,draftkings,-153.0,2026-10-24T14:54:19-04:00,22.1,3.19,0.55,0.563,5.0,0.605,-9.1,-2.19,-1.3,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Jeremiah Fears,NOP,DEN,reb,2.5,under,draftkings,116.0,2026-10-24T14:54:19-04:00,22.1,3.19,0.45,0.437,5.0,0.463,-2.8,-0.52,1.3,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Joel Embiid,PHI,MIL,ast,4.5,over,draftkings,113.0,2026-10-24T14:54:19-04:00,30.2,3.33,0.264,0.444,7.0,0.469,-43.7,-8.21,-17.9,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Joel Embiid,PHI,MIL,ast,4.5,under,draftkings,-148.0,2026-10-24T14:54:19-04:00,30.2,3.33,0.736,0.556,7.0,0.597,23.3,5.56,17.9,-4.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.599,0.24,,0.0
+2026-10-24,nba v1.4,Joel Embiid,PHI,MIL,pts,23.5,over,draftkings,-122.0,2026-10-24T14:54:19-04:00,30.2,20.4,0.32,0.52,2.0,0.55,-41.8,-9.18,-20.0,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Joel Embiid,PHI,MIL,pts,23.5,under,draftkings,-105.0,2026-10-24T14:54:19-04:00,30.2,20.4,0.68,0.48,2.0,0.512,32.7,6.71,20.0,-3.2,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.537,2.51,,0.0
+2026-10-24,nba v1.4,Joel Embiid,PHI,MIL,reb,8.5,over,draftkings,-117.0,2026-10-24T14:54:19-04:00,30.2,7.26,0.327,0.498,7.0,0.539,-39.3,-8.47,-17.1,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Joel Embiid,PHI,MIL,reb,8.5,under,draftkings,-112.0,2026-10-24T14:54:19-04:00,30.2,7.26,0.673,0.502,7.0,0.528,27.3,5.77,17.1,-2.6,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.544,1.58,,0.0
+2026-10-24,nba v1.4,Josh Giddey,CHI,WAS,ast,9.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,29.7,7.88,0.303,0.472,7.0,0.512,-40.8,-8.36,-16.9,-4.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Josh Giddey,CHI,WAS,ast,9.5,under,draftkings,-125.0,2026-10-24T14:54:19-04:00,29.7,7.88,0.697,0.528,7.0,0.556,25.4,5.65,16.9,-2.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.578,2.21,,0.0
+2026-10-24,nba v1.4,Josh Giddey,CHI,WAS,pts,12.5,over,draftkings,-118.0,2026-10-24T14:54:19-04:00,29.7,14.33,0.571,0.507,6.0,0.541,5.5,1.18,6.4,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Josh Giddey,CHI,WAS,pts,12.5,under,draftkings,-108.0,2026-10-24T14:54:19-04:00,29.7,14.33,0.429,0.493,6.0,0.519,-17.4,-3.61,-6.4,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Josh Giddey,CHI,WAS,reb,6.5,over,draftkings,-141.0,2026-10-24T14:54:19-04:00,29.7,7.48,0.561,0.541,6.0,0.585,-4.2,-0.98,1.9,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Josh Giddey,CHI,WAS,reb,6.5,under,draftkings,107.0,2026-10-24T14:54:19-04:00,29.7,7.48,0.439,0.459,6.0,0.483,-9.0,-1.75,-1.9,-2.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Julius Randle,BKN,CLE,ast,4.5,over,draftkings,-139.0,2026-10-24T14:54:19-04:00,33.0,4.58,0.462,0.567,3.0,0.582,-20.6,-4.78,-10.5,-1.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Julius Randle,BKN,CLE,ast,4.5,under,draftkings,106.0,2026-10-24T14:54:19-04:00,33.0,4.58,0.538,0.433,3.0,0.485,10.8,2.1,10.5,-5.2,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.454,-3.16,,0.0
+2026-10-24,nba v1.4,Julius Randle,BKN,CLE,pts,20.5,over,draftkings,-116.0,2026-10-24T14:54:19-04:00,33.0,19.53,0.414,0.481,6.0,0.537,-22.9,-4.93,-6.7,-5.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Julius Randle,BKN,CLE,pts,20.5,under,draftkings,-110.0,2026-10-24T14:54:19-04:00,33.0,19.53,0.586,0.519,6.0,0.524,11.9,2.49,6.7,-0.4,WATCH,edge below the Rules §3 bar,0.541,1.76,,0.0
+2026-10-24,nba v1.4,Julius Randle,BKN,CLE,reb,6.5,over,draftkings,-137.0,2026-10-24T14:54:19-04:00,33.0,6.56,0.459,0.535,7.0,0.578,-20.5,-4.75,-7.6,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Julius Randle,BKN,CLE,reb,6.5,under,draftkings,104.0,2026-10-24T14:54:19-04:00,33.0,6.56,0.541,0.465,7.0,0.49,10.3,2.02,7.6,-2.6,WATCH,edge below the Rules §3 bar,0.477,-1.31,,0.0
+2026-10-24,nba v1.4,Keon Ellis,BKN,CLE,ast,2.5,over,draftkings,138.0,2026-10-24T14:54:19-04:00,24.6,1.45,0.198,0.386,6.0,0.42,-52.9,-8.89,-18.8,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Keon Ellis,BKN,CLE,ast,2.5,under,draftkings,-182.0,2026-10-24T14:54:19-04:00,24.6,1.45,0.802,0.614,6.0,0.645,24.3,6.27,18.8,-3.2,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.662,1.71,,0.0
+2026-10-24,nba v1.4,Keon Ellis,BKN,CLE,pts,7.5,over,draftkings,-113.0,2026-10-24T14:54:19-04:00,24.6,7.84,0.471,0.49,6.0,0.531,-11.1,-2.36,-1.8,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Keon Ellis,BKN,CLE,pts,7.5,under,draftkings,-113.0,2026-10-24T14:54:19-04:00,24.6,7.84,0.528,0.51,6.0,0.531,-0.4,-0.08,1.8,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Keon Ellis,BKN,CLE,reb,2.5,over,draftkings,-106.0,2026-10-24T14:54:19-04:00,24.6,2.57,0.436,0.449,6.0,0.515,-15.2,-3.12,-1.3,-6.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Keon Ellis,BKN,CLE,reb,2.5,under,draftkings,-124.0,2026-10-24T14:54:19-04:00,24.6,2.57,0.564,0.551,6.0,0.554,1.8,0.4,1.3,-0.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kevin Durant,HOU,ATL,ast,4.5,over,draftkings,118.0,2026-10-24T14:54:19-04:00,34.7,4.59,0.459,0.42,6.0,0.459,-0.0,-0.0,3.9,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kevin Durant,HOU,ATL,ast,4.5,under,draftkings,-156.0,2026-10-24T14:54:19-04:00,34.7,4.59,0.541,0.58,6.0,0.609,-11.2,-2.72,-3.9,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kevin Durant,HOU,ATL,pts,24.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,34.7,23.26,0.407,0.483,1.0,0.512,-20.5,-4.2,-7.6,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kevin Durant,HOU,ATL,pts,24.5,under,draftkings,-121.0,2026-10-24T14:54:19-04:00,34.7,23.26,0.593,0.517,1.0,0.548,8.3,1.82,7.6,-3.1,WATCH,edge below the Rules §3 bar,0.524,-2.3,,0.0
+2026-10-24,nba v1.4,Kevin Durant,HOU,ATL,reb,5.5,over,draftkings,115.0,2026-10-24T14:54:19-04:00,34.7,5.41,0.438,0.437,7.0,0.465,-5.9,-1.1,0.1,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kevin Durant,HOU,ATL,reb,5.5,under,draftkings,-152.0,2026-10-24T14:54:19-04:00,34.7,5.41,0.562,0.563,7.0,0.603,-6.8,-1.63,-0.1,-4.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,ast,1.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,pts,7.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,pts,8.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,pts,9.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,pts,10.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,pts,11.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,reb,7.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,reb,8.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,reb,9.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Khaman Maluach,,,reb,10.5,,,,,,,,,,,,,,,PASS,no projection (not in rotation / name mismatch),,,,0.0
+2026-10-24,nba v1.4,Klay Thompson,MIA,CHA,pts,10.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,20.4,9.88,0.402,0.488,5.0,0.528,-23.9,-5.04,-8.5,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Klay Thompson,MIA,CHA,pts,10.5,under,draftkings,-113.0,2026-10-24T14:54:19-04:00,20.4,9.88,0.598,0.512,5.0,0.531,12.7,2.69,8.5,-1.8,WATCH,edge below the Rules §3 bar,0.524,-0.63,,0.0
+2026-10-24,nba v1.4,Kyle Kuzma,MIL,PHI,pts,10.5,over,draftkings,-122.0,2026-10-24T14:54:19-04:00,26.7,12.16,0.572,0.523,5.0,0.55,4.1,0.91,5.0,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyle Kuzma,MIL,PHI,pts,10.5,under,draftkings,-104.0,2026-10-24T14:54:19-04:00,26.7,12.16,0.428,0.477,5.0,0.51,-16.1,-3.28,-5.0,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyle Kuzma,MIL,PHI,reb,4.5,over,draftkings,-122.0,2026-10-24T14:54:19-04:00,26.7,4.71,0.469,0.527,7.0,0.55,-14.7,-3.23,-5.9,-2.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyle Kuzma,MIL,PHI,reb,4.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,26.7,4.71,0.531,0.473,7.0,0.517,2.7,0.57,5.9,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyrie Irving,DAL,SAS,ast,3.5,over,draftkings,-115.0,2026-10-24T14:54:19-04:00,25.5,2.62,0.278,0.523,5.0,0.535,-48.1,-10.29,-24.5,-1.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyrie Irving,DAL,SAS,ast,3.5,under,draftkings,-114.0,2026-10-24T14:54:19-04:00,25.5,2.62,0.722,0.477,5.0,0.533,35.6,7.59,24.5,-5.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.537,0.44,,0.0
+2026-10-24,nba v1.4,Kyrie Irving,DAL,SAS,pts,21.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,25.5,14.07,0.127,0.475,2.0,0.517,-75.4,-15.6,-34.8,-4.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyrie Irving,DAL,SAS,pts,21.5,under,draftkings,-119.0,2026-10-24T14:54:19-04:00,25.5,14.07,0.873,0.525,2.0,0.543,60.7,13.18,34.8,-1.8,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.615,7.17,,0.0
+2026-10-24,nba v1.4,Kyrie Irving,DAL,SAS,reb,3.5,over,draftkings,-110.0,2026-10-24T14:54:19-04:00,25.5,3.88,0.497,0.477,5.0,0.524,-5.1,-1.07,2.0,-4.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyrie Irving,DAL,SAS,reb,3.5,under,draftkings,-119.0,2026-10-24T14:54:19-04:00,25.5,3.88,0.503,0.523,5.0,0.543,-7.4,-1.61,-2.0,-2.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyshawn George,WAS,CHI,ast,3.5,over,draftkings,129.0,2026-10-24T14:54:19-04:00,28.0,4.1,0.54,0.408,3.0,0.437,23.7,4.14,13.2,-2.8,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.44,0.31,,0.0
+2026-10-24,nba v1.4,Kyshawn George,WAS,CHI,ast,3.5,under,draftkings,-171.0,2026-10-24T14:54:19-04:00,28.0,4.1,0.46,0.592,3.0,0.631,-27.1,-6.85,-13.2,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyshawn George,WAS,CHI,pts,14.5,over,draftkings,-101.0,2026-10-24T14:54:19-04:00,28.0,14.62,0.461,0.474,5.0,0.502,-8.3,-1.67,-1.3,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyshawn George,WAS,CHI,pts,14.5,under,draftkings,-126.0,2026-10-24T14:54:19-04:00,28.0,14.62,0.539,0.526,5.0,0.558,-3.3,-0.73,1.3,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Kyshawn George,WAS,CHI,reb,4.5,over,draftkings,118.0,2026-10-24T14:54:19-04:00,28.0,4.9,0.497,0.427,2.0,0.459,8.4,1.54,7.0,-3.2,WATCH,edge below the Rules §3 bar,0.446,-1.31,,0.0
+2026-10-24,nba v1.4,Kyshawn George,WAS,CHI,reb,4.5,under,draftkings,-155.0,2026-10-24T14:54:19-04:00,28.0,4.9,0.503,0.573,2.0,0.608,-17.3,-4.2,-7.0,-3.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Leonard Miller,CHI,WAS,pts,11.5,over,draftkings,100.0,2026-10-24T14:54:19-04:00,18.8,8.58,0.253,0.469,1.0,0.5,-49.5,-9.89,-21.7,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Leonard Miller,CHI,WAS,pts,11.5,under,draftkings,-127.0,2026-10-24T14:54:19-04:00,18.8,8.58,0.747,0.531,1.0,0.559,33.6,7.52,21.7,-2.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.567,0.75,,0.0
+2026-10-24,nba v1.4,Leonard Miller,CHI,WAS,reb,5.5,over,draftkings,115.0,2026-10-24T14:54:19-04:00,18.8,4.55,0.323,0.437,1.0,0.465,-30.5,-5.67,-11.3,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Leonard Miller,CHI,WAS,reb,5.5,under,draftkings,-152.0,2026-10-24T14:54:19-04:00,18.8,4.55,0.677,0.563,1.0,0.603,12.2,2.94,11.3,-4.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.591,-1.23,,0.0
+2026-10-24,nba v1.4,Matas Buzelis,CHI,WAS,ast,1.5,over,draftkings,-149.0,2026-10-24T14:54:19-04:00,26.7,2.01,0.549,0.557,4.0,0.598,-8.2,-1.97,-0.8,-4.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Matas Buzelis,CHI,WAS,ast,1.5,under,draftkings,113.0,2026-10-24T14:54:19-04:00,26.7,2.01,0.451,0.443,4.0,0.469,-4.0,-0.75,0.8,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Matas Buzelis,CHI,WAS,pts,14.5,over,draftkings,-116.0,2026-10-24T14:54:19-04:00,26.7,14.69,0.468,0.51,6.0,0.537,-12.9,-2.78,-4.2,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Matas Buzelis,CHI,WAS,pts,14.5,under,draftkings,-110.0,2026-10-24T14:54:19-04:00,26.7,14.69,0.532,0.49,6.0,0.524,1.6,0.34,4.2,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Matas Buzelis,CHI,WAS,reb,5.5,over,draftkings,-111.0,2026-10-24T14:54:19-04:00,26.7,5.58,0.454,0.48,7.0,0.526,-13.6,-2.87,-2.5,-4.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Matas Buzelis,CHI,WAS,reb,5.5,under,draftkings,-118.0,2026-10-24T14:54:19-04:00,26.7,5.58,0.546,0.52,7.0,0.541,0.8,0.18,2.5,-2.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Max Christie,DAL,SAS,ast,2.5,over,draftkings,123.0,2026-10-24T14:54:19-04:00,29.2,2.16,0.358,0.418,5.0,0.448,-20.3,-3.64,-6.0,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Max Christie,DAL,SAS,ast,2.5,under,draftkings,-163.0,2026-10-24T14:54:19-04:00,29.2,2.16,0.642,0.582,5.0,0.62,3.7,0.91,6.0,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Max Christie,DAL,SAS,pts,12.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,29.2,12.75,0.469,0.488,5.0,0.51,-8.0,-1.64,-1.9,-2.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Max Christie,DAL,SAS,pts,12.5,under,draftkings,-123.0,2026-10-24T14:54:19-04:00,29.2,12.75,0.531,0.512,5.0,0.552,-3.7,-0.82,1.9,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Max Christie,DAL,SAS,reb,3.5,over,draftkings,-116.0,2026-10-24T14:54:19-04:00,29.2,3.34,0.411,0.49,6.0,0.537,-23.4,-5.02,-7.8,-4.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Max Christie,DAL,SAS,reb,3.5,under,draftkings,-113.0,2026-10-24T14:54:19-04:00,29.2,3.34,0.589,0.51,6.0,0.531,10.9,2.32,7.8,-2.0,WATCH,edge below the Rules §3 bar,0.532,0.14,,0.0
+2026-10-24,nba v1.4,Michael Porter Jr.,BKN,CLE,ast,2.5,over,draftkings,126.0,2026-10-24T14:54:19-04:00,31.7,2.84,0.501,0.425,5.0,0.442,13.3,2.35,7.7,-1.8,WATCH,edge below the Rules §3 bar,0.446,0.35,,0.0
+2026-10-24,nba v1.4,Michael Porter Jr.,BKN,CLE,ast,2.5,under,draftkings,-166.0,2026-10-24T14:54:19-04:00,31.7,2.84,0.499,0.575,5.0,0.624,-20.1,-5.02,-7.7,-4.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Michael Porter Jr.,BKN,CLE,pts,21.5,over,draftkings,-117.0,2026-10-24T14:54:19-04:00,31.7,21.45,0.46,0.488,6.0,0.539,-14.8,-3.18,-2.8,-5.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Michael Porter Jr.,BKN,CLE,pts,21.5,under,draftkings,-109.0,2026-10-24T14:54:19-04:00,31.7,21.45,0.54,0.512,6.0,0.522,3.6,0.76,2.8,-0.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Michael Porter Jr.,BKN,CLE,reb,6.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,31.7,6.72,0.477,0.48,7.0,0.528,-9.6,-2.04,-0.2,-4.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Michael Porter Jr.,BKN,CLE,reb,6.5,under,draftkings,-117.0,2026-10-24T14:54:19-04:00,31.7,6.72,0.523,0.52,7.0,0.539,-3.1,-0.66,0.2,-1.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Miles Bridges,PHX,GSW,ast,2.5,over,draftkings,-155.0,2026-10-24T14:54:19-04:00,30.4,2.94,0.523,0.539,5.0,0.608,-13.9,-3.38,-1.5,-6.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Miles Bridges,PHX,GSW,ast,2.5,under,draftkings,118.0,2026-10-24T14:54:19-04:00,30.4,2.94,0.477,0.461,5.0,0.459,3.9,0.72,1.5,0.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Miles Bridges,PHX,GSW,pts,15.5,over,draftkings,-114.0,2026-10-24T14:54:19-04:00,30.4,15.45,0.458,0.49,3.0,0.533,-14.1,-2.99,-3.2,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Miles Bridges,PHX,GSW,pts,15.5,under,draftkings,-111.0,2026-10-24T14:54:19-04:00,30.4,15.45,0.542,0.51,3.0,0.526,3.1,0.64,3.2,-1.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Miles Bridges,PHX,GSW,reb,5.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,30.4,5.59,0.462,0.52,7.0,0.512,-9.9,-2.02,-5.9,0.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Miles Bridges,PHX,GSW,reb,5.5,under,draftkings,-126.0,2026-10-24T14:54:19-04:00,30.4,5.59,0.538,0.48,7.0,0.558,-3.4,-0.77,5.9,-7.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Moussa Diabaté,CHA,MIA,ast,2.5,over,draftkings,138.0,2026-10-24T14:54:19-04:00,27.1,2.42,0.415,0.391,1.0,0.42,-1.2,-0.2,2.4,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Moussa Diabaté,CHA,MIA,ast,2.5,under,draftkings,-183.0,2026-10-24T14:54:19-04:00,27.1,2.42,0.585,0.609,1.0,0.647,-9.6,-2.47,-2.4,-3.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Moussa Diabaté,CHA,MIA,pts,9.5,over,draftkings,-109.0,2026-10-24T14:54:19-04:00,27.1,9.32,0.43,0.494,6.0,0.522,-17.6,-3.66,-6.4,-2.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Moussa Diabaté,CHA,MIA,pts,9.5,under,draftkings,-117.0,2026-10-24T14:54:19-04:00,27.1,9.32,0.57,0.506,6.0,0.539,5.7,1.23,6.4,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Moussa Diabaté,CHA,MIA,reb,9.5,over,draftkings,-108.0,2026-10-24T14:54:19-04:00,27.1,8.41,0.354,0.495,7.0,0.519,-31.7,-6.59,-14.0,-2.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Moussa Diabaté,CHA,MIA,reb,9.5,under,draftkings,-122.0,2026-10-24T14:54:19-04:00,27.1,8.41,0.645,0.505,7.0,0.55,17.5,3.84,14.0,-4.4,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.526,-2.4,,0.0
+2026-10-24,nba v1.4,Myles Turner,MIL,PHI,pts,10.5,over,draftkings,-123.0,2026-10-24T14:54:19-04:00,28.8,12.06,0.562,0.49,3.0,0.552,1.9,0.42,7.2,-6.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Myles Turner,MIL,PHI,pts,10.5,under,draftkings,-104.0,2026-10-24T14:54:19-04:00,28.8,12.06,0.438,0.51,3.0,0.51,-14.1,-2.88,-7.2,0.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Myles Turner,MIL,PHI,reb,5.5,over,draftkings,109.0,2026-10-24T14:54:19-04:00,28.8,5.5,0.446,0.441,7.0,0.478,-6.8,-1.29,0.5,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Myles Turner,MIL,PHI,reb,5.5,under,draftkings,-144.0,2026-10-24T14:54:19-04:00,28.8,5.5,0.554,0.559,7.0,0.59,-6.1,-1.45,-0.5,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Naji Marshall,DAL,SAS,ast,4.5,over,draftkings,-103.0,2026-10-24T14:54:19-04:00,28.6,3.56,0.298,0.49,5.0,0.507,-41.2,-8.36,-19.1,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Naji Marshall,DAL,SAS,ast,4.5,under,draftkings,-127.0,2026-10-24T14:54:19-04:00,28.6,3.56,0.702,0.51,5.0,0.559,25.4,5.69,19.1,-4.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.558,-0.1,,0.0
+2026-10-24,nba v1.4,Naji Marshall,DAL,SAS,pts,17.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,28.6,15.43,0.342,0.49,5.0,0.528,-35.3,-7.47,-14.8,-3.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Naji Marshall,DAL,SAS,pts,17.5,under,draftkings,-114.0,2026-10-24T14:54:19-04:00,28.6,15.43,0.658,0.51,5.0,0.533,23.6,5.03,14.8,-2.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.551,1.88,,0.0
+2026-10-24,nba v1.4,Naji Marshall,DAL,SAS,reb,5.5,over,draftkings,100.0,2026-10-24T14:54:19-04:00,28.6,4.39,0.297,0.45,5.0,0.5,-40.6,-8.11,-15.3,-5.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Naji Marshall,DAL,SAS,reb,5.5,under,draftkings,-132.0,2026-10-24T14:54:19-04:00,28.6,4.39,0.703,0.55,5.0,0.569,23.5,5.36,15.3,-1.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.577,0.82,,0.0
+2026-10-24,nba v1.4,Naz Reid,CHA,MIA,ast,3.5,over,draftkings,118.0,2026-10-24T14:54:19-04:00,27.7,2.62,0.28,0.425,6.0,0.459,-38.9,-7.14,-14.5,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Naz Reid,CHA,MIA,ast,3.5,under,draftkings,-156.0,2026-10-24T14:54:19-04:00,27.7,2.62,0.72,0.575,6.0,0.609,18.1,4.42,14.5,-3.4,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.619,0.91,,0.0
+2026-10-24,nba v1.4,Naz Reid,CHA,MIA,pts,17.5,over,draftkings,-104.0,2026-10-24T14:54:19-04:00,27.7,15.64,0.351,0.488,7.0,0.51,-31.1,-6.34,-13.6,-2.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Naz Reid,CHA,MIA,pts,17.5,under,draftkings,-122.0,2026-10-24T14:54:19-04:00,27.7,15.64,0.649,0.512,7.0,0.55,18.0,3.97,13.6,-3.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.546,-0.37,,0.0
+2026-10-24,nba v1.4,Naz Reid,CHA,MIA,reb,7.5,over,draftkings,-128.0,2026-10-24T14:54:19-04:00,27.7,6.45,0.338,0.516,7.0,0.561,-39.8,-8.94,-17.9,-4.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Naz Reid,CHA,MIA,reb,7.5,under,draftkings,-103.0,2026-10-24T14:54:19-04:00,27.7,6.45,0.662,0.484,7.0,0.507,30.5,6.19,17.9,-2.4,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.515,0.76,,0.0
+2026-10-24,nba v1.4,Nickeil Alexander-Walker,ATL,HOU,ast,2.5,over,draftkings,-175.0,2026-10-24T14:54:19-04:00,30.8,3.43,0.611,0.583,2.0,0.636,-4.0,-1.03,2.8,-5.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nickeil Alexander-Walker,ATL,HOU,ast,2.5,under,draftkings,132.0,2026-10-24T14:54:19-04:00,30.8,3.43,0.389,0.417,2.0,0.431,-9.7,-1.67,-2.8,-1.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nickeil Alexander-Walker,ATL,HOU,pts,18.5,over,draftkings,-102.0,2026-10-24T14:54:19-04:00,30.8,18.95,0.483,0.484,5.0,0.505,-4.3,-0.86,-0.0,-2.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nickeil Alexander-Walker,ATL,HOU,pts,18.5,under,draftkings,-125.0,2026-10-24T14:54:19-04:00,30.8,18.95,0.517,0.516,5.0,0.556,-7.0,-1.56,0.0,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nickeil Alexander-Walker,ATL,HOU,reb,3.5,over,draftkings,117.0,2026-10-24T14:54:19-04:00,30.8,3.35,0.41,0.406,5.0,0.461,-11.1,-2.05,0.4,-5.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nickeil Alexander-Walker,ATL,HOU,reb,3.5,under,draftkings,-154.0,2026-10-24T14:54:19-04:00,30.8,3.35,0.59,0.594,5.0,0.606,-2.6,-0.63,-0.4,-1.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nikola Jokić,DEN,NOP,ast,10.5,over,draftkings,103.0,2026-10-24T14:54:19-04:00,32.1,9.14,0.334,0.459,7.0,0.493,-32.2,-6.34,-12.5,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nikola Jokić,DEN,NOP,ast,10.5,under,draftkings,-136.0,2026-10-24T14:54:19-04:00,32.1,9.14,0.666,0.541,7.0,0.576,15.5,3.58,12.5,-3.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.564,-1.24,,0.0
+2026-10-24,nba v1.4,Nikola Jokić,DEN,NOP,pts,26.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,32.1,23.7,0.346,0.51,2.0,0.528,-34.5,-7.29,-16.4,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nikola Jokić,DEN,NOP,pts,26.5,under,draftkings,-114.0,2026-10-24T14:54:19-04:00,32.1,23.7,0.654,0.49,2.0,0.533,22.7,4.85,16.4,-4.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.538,0.5,,0.0
+2026-10-24,nba v1.4,Nikola Jokić,DEN,NOP,reb,13.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,32.1,11.32,0.292,0.469,3.0,0.512,-43.0,-8.8,-17.7,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Nikola Jokić,DEN,NOP,reb,13.5,under,draftkings,-126.0,2026-10-24T14:54:19-04:00,32.1,11.32,0.708,0.531,3.0,0.558,27.0,6.01,17.7,-2.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.583,2.56,,0.0
+2026-10-24,nba v1.4,Norman Powell,CHI,WAS,ast,1.5,over,draftkings,-186.0,2026-10-24T14:54:19-04:00,29.1,2.4,0.634,0.597,4.0,0.65,-2.5,-0.65,3.7,-5.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Norman Powell,CHI,WAS,ast,1.5,under,draftkings,141.0,2026-10-24T14:54:19-04:00,29.1,2.4,0.366,0.403,4.0,0.415,-11.8,-1.96,-3.7,-1.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Norman Powell,CHI,WAS,pts,20.5,over,draftkings,-119.0,2026-10-24T14:54:19-04:00,29.1,19.61,0.414,0.51,3.0,0.543,-23.9,-5.19,-9.6,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Norman Powell,CHI,WAS,pts,20.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.1,19.61,0.586,0.49,3.0,0.517,13.4,2.78,9.6,-2.7,WATCH,edge below the Rules §3 bar,0.506,-1.04,,0.0
+2026-10-24,nba v1.4,Norman Powell,CHI,WAS,reb,3.5,over,draftkings,121.0,2026-10-24T14:54:19-04:00,29.1,3.78,0.482,0.396,3.0,0.452,6.5,1.17,8.6,-5.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Norman Powell,CHI,WAS,reb,3.5,under,draftkings,-160.0,2026-10-24T14:54:19-04:00,29.1,3.78,0.518,0.604,3.0,0.615,-15.8,-3.89,-8.6,-1.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Onyeka Okongwu,ATL,HOU,ast,2.5,over,draftkings,137.0,2026-10-24T14:54:19-04:00,28.4,2.9,0.513,0.398,5.0,0.422,21.6,3.64,11.5,-2.4,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.434,1.17,,0.0
+2026-10-24,nba v1.4,Onyeka Okongwu,ATL,HOU,ast,2.5,under,draftkings,-181.0,2026-10-24T14:54:19-04:00,28.4,2.9,0.487,0.602,5.0,0.644,-24.4,-6.28,-11.5,-4.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Onyeka Okongwu,ATL,HOU,pts,12.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,28.4,13.17,0.494,0.505,6.0,0.517,-4.5,-0.92,-1.1,-1.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Onyeka Okongwu,ATL,HOU,pts,12.5,under,draftkings,-120.0,2026-10-24T14:54:19-04:00,28.4,13.17,0.506,0.495,6.0,0.545,-7.2,-1.57,1.1,-5.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Onyeka Okongwu,ATL,HOU,reb,6.5,over,draftkings,-109.0,2026-10-24T14:54:19-04:00,28.4,6.59,0.461,0.48,7.0,0.522,-11.5,-2.4,-1.8,-4.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Onyeka Okongwu,ATL,HOU,reb,6.5,under,draftkings,-121.0,2026-10-24T14:54:19-04:00,28.4,6.59,0.539,0.52,7.0,0.548,-1.6,-0.36,1.8,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Peyton Watson,CLE,BKN,ast,1.5,over,draftkings,-156.0,2026-10-24T14:54:19-04:00,27.6,2.07,0.559,0.577,6.0,0.609,-8.3,-2.02,-1.8,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Peyton Watson,CLE,BKN,ast,1.5,under,draftkings,118.0,2026-10-24T14:54:19-04:00,27.6,2.07,0.441,0.423,6.0,0.459,-3.9,-0.71,1.8,-3.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Peyton Watson,CLE,BKN,pts,11.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,27.6,13.16,0.563,0.531,1.0,0.558,0.9,0.21,3.2,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Peyton Watson,CLE,BKN,pts,11.5,under,draftkings,-101.0,2026-10-24T14:54:19-04:00,27.6,13.16,0.437,0.469,1.0,0.502,-13.0,-2.61,-3.2,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Peyton Watson,CLE,BKN,reb,4.5,over,draftkings,111.0,2026-10-24T14:54:19-04:00,27.6,4.47,0.437,0.44,6.0,0.474,-7.7,-1.46,-0.3,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Peyton Watson,CLE,BKN,reb,4.5,under,draftkings,-147.0,2026-10-24T14:54:19-04:00,27.6,4.47,0.563,0.56,6.0,0.595,-5.5,-1.3,0.3,-3.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,P.J. Washington,DAL,SAS,ast,1.5,over,draftkings,-142.0,2026-10-24T14:54:19-04:00,29.9,1.82,0.499,0.554,5.0,0.587,-14.9,-3.5,-5.5,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,P.J. Washington,DAL,SAS,ast,1.5,under,draftkings,108.0,2026-10-24T14:54:19-04:00,29.9,1.82,0.501,0.446,5.0,0.481,4.1,0.79,5.5,-3.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,P.J. Washington,DAL,SAS,pts,14.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,29.9,14.24,0.439,0.49,4.0,0.512,-14.2,-2.91,-5.1,-2.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,P.J. Washington,DAL,SAS,pts,14.5,under,draftkings,-122.0,2026-10-24T14:54:19-04:00,29.9,14.24,0.561,0.51,4.0,0.55,2.0,0.44,5.1,-4.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,P.J. Washington,DAL,SAS,reb,7.5,over,draftkings,103.0,2026-10-24T14:54:19-04:00,29.9,6.66,0.362,0.442,6.0,0.493,-26.5,-5.22,-8.0,-5.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,P.J. Washington,DAL,SAS,reb,7.5,under,draftkings,-135.0,2026-10-24T14:54:19-04:00,29.9,6.66,0.638,0.558,6.0,0.574,11.1,2.54,8.0,-1.7,WATCH,edge below the Rules §3 bar,0.586,1.14,,0.0
+2026-10-24,nba v1.4,Ryan Rollins,MIL,PHI,ast,4.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,29.2,4.78,0.491,0.492,7.0,0.528,-7.0,-1.48,-0.0,-3.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Ryan Rollins,MIL,PHI,ast,4.5,under,draftkings,-117.0,2026-10-24T14:54:19-04:00,29.2,4.78,0.509,0.508,7.0,0.539,-5.7,-1.22,0.0,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Ryan Rollins,MIL,PHI,pts,14.5,over,draftkings,-107.0,2026-10-24T14:54:19-04:00,29.2,15.01,0.489,0.488,7.0,0.517,-5.4,-1.11,0.1,-2.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Ryan Rollins,MIL,PHI,pts,14.5,under,draftkings,-119.0,2026-10-24T14:54:19-04:00,29.2,15.01,0.511,0.512,7.0,0.543,-6.0,-1.3,-0.1,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Ryan Rollins,MIL,PHI,reb,4.5,over,draftkings,105.0,2026-10-24T14:54:19-04:00,29.2,4.39,0.43,0.425,5.0,0.488,-11.9,-2.32,0.5,-6.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Ryan Rollins,MIL,PHI,reb,4.5,under,draftkings,-138.0,2026-10-24T14:54:19-04:00,29.2,4.39,0.57,0.575,5.0,0.58,-1.7,-0.39,-0.5,-0.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Sam Merrill,CLE,BKN,pts,8.5,over,draftkings,-106.0,2026-10-24T14:54:19-04:00,24.9,10.48,0.603,0.49,7.0,0.515,17.2,3.54,11.3,-2.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.524,0.97,,0.0
+2026-10-24,nba v1.4,Sam Merrill,CLE,BKN,pts,8.5,under,draftkings,-120.0,2026-10-24T14:54:19-04:00,24.9,10.48,0.397,0.51,7.0,0.545,-27.2,-5.94,-11.3,-3.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Sion James,CHA,MIA,ast,2.5,over,draftkings,103.0,2026-10-24T14:54:19-04:00,24.0,2.52,0.434,0.463,6.0,0.493,-11.8,-2.33,-2.9,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Sion James,CHA,MIA,ast,2.5,under,draftkings,-136.0,2026-10-24T14:54:19-04:00,24.0,2.52,0.566,0.537,6.0,0.576,-1.8,-0.42,2.9,-3.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Sion James,CHA,MIA,pts,7.5,over,draftkings,-110.0,2026-10-24T14:54:19-04:00,24.0,6.91,0.388,0.49,6.0,0.524,-26.0,-5.45,-10.2,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Sion James,CHA,MIA,pts,7.5,under,draftkings,-115.0,2026-10-24T14:54:19-04:00,24.0,6.91,0.612,0.51,6.0,0.535,14.5,3.1,10.2,-2.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.531,-0.41,,0.0
+2026-10-24,nba v1.4,Sion James,CHA,MIA,reb,3.5,over,draftkings,-128.0,2026-10-24T14:54:19-04:00,24.0,3.91,0.497,0.537,6.0,0.561,-11.5,-2.58,-4.0,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Sion James,CHA,MIA,reb,3.5,under,draftkings,-103.0,2026-10-24T14:54:19-04:00,24.0,3.91,0.503,0.463,6.0,0.507,-0.8,-0.17,4.0,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Stephon Castle,SAS,DAL,ast,5.5,over,draftkings,-143.0,2026-10-24T14:54:19-04:00,28.5,6.48,0.578,0.563,6.0,0.588,-1.8,-0.43,1.4,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Stephon Castle,SAS,DAL,ast,5.5,under,draftkings,108.0,2026-10-24T14:54:19-04:00,28.5,6.48,0.422,0.437,6.0,0.481,-12.2,-2.34,-1.4,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Stephon Castle,SAS,DAL,pts,17.5,over,draftkings,-108.0,2026-10-24T14:54:19-04:00,28.5,15.57,0.352,0.492,6.0,0.519,-32.1,-6.68,-14.0,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Stephon Castle,SAS,DAL,pts,17.5,under,draftkings,-118.0,2026-10-24T14:54:19-04:00,28.5,15.57,0.648,0.508,6.0,0.541,19.7,4.26,14.0,-3.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.546,0.47,,0.0
+2026-10-24,nba v1.4,Stephon Castle,SAS,DAL,reb,5.5,over,draftkings,-105.0,2026-10-24T14:54:19-04:00,28.5,5.28,0.417,0.469,7.0,0.512,-18.5,-3.8,-5.2,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Stephon Castle,SAS,DAL,reb,5.5,under,draftkings,-126.0,2026-10-24T14:54:19-04:00,28.5,5.28,0.583,0.531,7.0,0.558,4.5,1.01,5.2,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tari Eason,HOU,ATL,pts,9.5,over,draftkings,-117.0,2026-10-24T14:54:19-04:00,17.9,6.91,0.245,0.509,6.0,0.539,-54.5,-11.75,-26.4,-3.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tari Eason,HOU,ATL,pts,9.5,under,draftkings,-109.0,2026-10-24T14:54:19-04:00,17.9,6.91,0.755,0.491,6.0,0.522,44.7,9.32,26.4,-3.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.56,3.85,,0.0
+2026-10-24,nba v1.4,Trae Young,WAS,CHI,ast,10.5,over,draftkings,-130.0,2026-10-24T14:54:19-04:00,28.8,7.55,0.193,0.531,3.0,0.565,-65.9,-14.89,-33.8,-3.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trae Young,WAS,CHI,ast,10.5,under,draftkings,-102.0,2026-10-24T14:54:19-04:00,28.8,7.55,0.807,0.469,3.0,0.505,59.8,12.08,33.8,-3.6,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.557,5.23,,0.0
+2026-10-24,nba v1.4,Trae Young,WAS,CHI,pts,21.5,over,draftkings,-110.0,2026-10-24T14:54:19-04:00,28.8,17.23,0.252,0.504,4.0,0.524,-52.0,-10.89,-25.2,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trae Young,WAS,CHI,pts,21.5,under,draftkings,-116.0,2026-10-24T14:54:19-04:00,28.8,17.23,0.748,0.496,4.0,0.537,39.3,8.45,25.2,-4.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.549,1.17,,0.0
+2026-10-24,nba v1.4,Trae Young,WAS,CHI,reb,2.5,over,draftkings,124.0,2026-10-24T14:54:19-04:00,28.8,2.75,0.476,0.429,4.0,0.446,6.6,1.17,4.7,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trae Young,WAS,CHI,reb,2.5,under,draftkings,-164.0,2026-10-24T14:54:19-04:00,28.8,2.75,0.524,0.571,4.0,0.621,-15.6,-3.88,-4.7,-5.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trey Murphy III,NOP,DEN,ast,2.5,over,draftkings,-123.0,2026-10-24T14:54:19-04:00,31.7,3.08,0.549,0.528,6.0,0.552,-0.4,-0.09,2.2,-2.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trey Murphy III,NOP,DEN,ast,2.5,under,draftkings,-107.0,2026-10-24T14:54:19-04:00,31.7,3.08,0.451,0.472,6.0,0.517,-12.8,-2.65,-2.2,-4.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trey Murphy III,NOP,DEN,pts,16.5,over,draftkings,-113.0,2026-10-24T14:54:19-04:00,31.7,16.29,0.447,0.5,5.0,0.531,-15.8,-3.36,-5.3,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trey Murphy III,NOP,DEN,pts,16.5,under,draftkings,-113.0,2026-10-24T14:54:19-04:00,31.7,16.29,0.553,0.5,5.0,0.531,4.3,0.92,5.3,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trey Murphy III,NOP,DEN,reb,4.5,over,draftkings,-143.0,2026-10-24T14:54:19-04:00,31.7,5.11,0.53,0.545,7.0,0.588,-9.9,-2.33,-1.4,-4.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Trey Murphy III,NOP,DEN,reb,4.5,under,draftkings,108.0,2026-10-24T14:54:19-04:00,31.7,5.11,0.47,0.455,7.0,0.481,-2.3,-0.44,1.4,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyler Herro,MIL,PHI,ast,4.5,over,draftkings,-101.0,2026-10-24T14:54:19-04:00,29.5,4.02,0.375,0.444,7.0,0.502,-25.4,-5.11,-6.9,-5.9,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyler Herro,MIL,PHI,ast,4.5,under,draftkings,-131.0,2026-10-24T14:54:19-04:00,29.5,4.02,0.625,0.556,7.0,0.567,10.2,2.32,6.9,-1.1,WATCH,edge below the Rules §3 bar,0.575,0.77,,0.0
+2026-10-24,nba v1.4,Tyler Herro,MIL,PHI,pts,20.5,over,draftkings,-122.0,2026-10-24T14:54:19-04:00,29.5,18.47,0.356,0.544,2.0,0.55,-35.3,-7.76,-18.8,-0.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyler Herro,MIL,PHI,pts,20.5,under,draftkings,-105.0,2026-10-24T14:54:19-04:00,29.5,18.47,0.644,0.456,2.0,0.512,25.8,5.29,18.8,-5.6,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.497,-1.57,,0.0
+2026-10-24,nba v1.4,Tyler Herro,MIL,PHI,reb,4.5,over,draftkings,118.0,2026-10-24T14:54:19-04:00,29.5,4.53,0.446,0.425,4.0,0.459,-2.7,-0.5,2.1,-3.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyler Herro,MIL,PHI,reb,4.5,under,draftkings,-155.0,2026-10-24T14:54:19-04:00,29.5,4.53,0.554,0.575,4.0,0.608,-8.9,-2.17,-2.1,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyrese Maxey,PHI,MIL,ast,6.5,over,draftkings,117.0,2026-10-24T14:54:19-04:00,37.0,5.36,0.308,0.461,7.0,0.461,-33.1,-6.1,-15.3,0.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyrese Maxey,PHI,MIL,ast,6.5,under,draftkings,-155.0,2026-10-24T14:54:19-04:00,37.0,5.36,0.692,0.539,7.0,0.608,13.8,3.35,15.3,-6.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.571,-3.7,,0.0
+2026-10-24,nba v1.4,Tyrese Maxey,PHI,MIL,pts,25.5,over,draftkings,-106.0,2026-10-24T14:54:19-04:00,37.0,22.64,0.332,0.495,7.0,0.515,-35.5,-7.31,-16.3,-2.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyrese Maxey,PHI,MIL,pts,25.5,under,draftkings,-120.0,2026-10-24T14:54:19-04:00,37.0,22.64,0.668,0.505,7.0,0.545,22.5,4.91,16.3,-4.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.551,0.54,,0.0
+2026-10-24,nba v1.4,Tyrese Maxey,PHI,MIL,reb,3.5,over,draftkings,-124.0,2026-10-24T14:54:19-04:00,37.0,4.16,0.55,0.528,7.0,0.554,-0.7,-0.15,2.2,-2.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Tyrese Maxey,PHI,MIL,reb,3.5,under,draftkings,-106.0,2026-10-24T14:54:19-04:00,37.0,4.16,0.45,0.472,7.0,0.515,-12.5,-2.57,-2.2,-4.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Victor Wembanyama,SAS,DAL,ast,2.5,over,draftkings,-155.0,2026-10-24T14:54:19-04:00,28.7,3.06,0.542,0.575,6.0,0.608,-10.9,-2.65,-3.4,-3.3,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Victor Wembanyama,SAS,DAL,ast,2.5,under,draftkings,117.0,2026-10-24T14:54:19-04:00,28.7,3.06,0.458,0.425,6.0,0.461,-0.5,-0.1,3.4,-3.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Victor Wembanyama,SAS,DAL,pts,27.5,over,draftkings,-112.0,2026-10-24T14:54:19-04:00,28.7,22.77,0.271,0.506,5.0,0.528,-48.6,-10.27,-23.5,-2.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Victor Wembanyama,SAS,DAL,pts,27.5,under,draftkings,-114.0,2026-10-24T14:54:19-04:00,28.7,22.77,0.729,0.494,5.0,0.533,36.8,7.83,23.5,-3.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.557,2.43,,0.0
+2026-10-24,nba v1.4,Victor Wembanyama,SAS,DAL,reb,11.5,over,draftkings,-124.0,2026-10-24T14:54:19-04:00,28.7,10.81,0.404,0.531,6.0,0.554,-27.1,-6.0,-12.8,-2.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Victor Wembanyama,SAS,DAL,reb,11.5,under,draftkings,-106.0,2026-10-24T14:54:19-04:00,28.7,10.81,0.596,0.469,6.0,0.515,15.9,3.27,12.8,-4.6,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.496,-1.82,,0.0
+2026-10-24,nba v1.4,VJ Edgecombe,PHI,MIL,ast,3.5,over,draftkings,-103.0,2026-10-24T14:54:19-04:00,32.7,3.54,0.451,0.451,6.0,0.507,-11.1,-2.25,0.0,-5.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,VJ Edgecombe,PHI,MIL,ast,3.5,under,draftkings,-127.0,2026-10-24T14:54:19-04:00,32.7,3.54,0.549,0.549,6.0,0.559,-1.9,-0.42,-0.0,-1.0,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,VJ Edgecombe,PHI,MIL,pts,13.5,over,draftkings,-113.0,2026-10-24T14:54:19-04:00,32.7,13.11,0.428,0.504,6.0,0.531,-19.4,-4.11,-7.6,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,VJ Edgecombe,PHI,MIL,pts,13.5,under,draftkings,-113.0,2026-10-24T14:54:19-04:00,32.7,13.11,0.572,0.496,6.0,0.531,7.9,1.67,7.6,-3.5,WATCH,edge below the Rules §3 bar,0.519,-1.13,,0.0
+2026-10-24,nba v1.4,VJ Edgecombe,PHI,MIL,reb,5.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,32.7,5.4,0.438,0.525,2.0,0.558,-21.4,-4.77,-8.7,-3.2,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,VJ Edgecombe,PHI,MIL,reb,5.5,under,draftkings,-105.0,2026-10-24T14:54:19-04:00,32.7,5.4,0.562,0.475,2.0,0.512,9.7,1.99,8.7,-3.8,WATCH,edge below the Rules §3 bar,0.496,-1.62,,0.0
+2026-10-24,nba v1.4,Yaxel Lendeborg,GSW,PHX,ast,3.5,over,draftkings,-126.0,2026-10-24T14:54:19-04:00,32.6,4.24,0.568,0.506,5.0,0.558,1.9,0.42,6.2,-5.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Yaxel Lendeborg,GSW,PHX,ast,3.5,under,draftkings,-105.0,2026-10-24T14:54:19-04:00,32.6,4.24,0.432,0.494,5.0,0.512,-15.7,-3.21,-6.2,-1.8,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Yaxel Lendeborg,GSW,PHX,pts,17.5,over,draftkings,-118.0,2026-10-24T14:54:19-04:00,32.6,17.61,0.466,0.505,3.0,0.541,-14.0,-3.02,-3.9,-3.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Yaxel Lendeborg,GSW,PHX,pts,17.5,under,draftkings,-108.0,2026-10-24T14:54:19-04:00,32.6,17.61,0.534,0.495,3.0,0.519,2.9,0.6,3.9,-2.4,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Yaxel Lendeborg,GSW,PHX,reb,7.5,over,draftkings,112.0,2026-10-24T14:54:19-04:00,32.6,6.52,0.346,0.441,6.0,0.472,-26.6,-5.01,-9.4,-3.1,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Yaxel Lendeborg,GSW,PHX,reb,7.5,under,draftkings,-148.0,2026-10-24T14:54:19-04:00,32.6,6.52,0.654,0.559,6.0,0.597,9.5,2.28,9.4,-3.8,WATCH,edge below the Rules §3 bar,0.581,-1.54,,0.0
+2026-10-24,nba v1.4,Zion Williamson,NOP,DEN,ast,2.5,over,draftkings,-149.0,2026-10-24T14:54:19-04:00,28.2,2.69,0.472,0.563,6.0,0.598,-21.2,-5.07,-9.1,-3.5,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Zion Williamson,NOP,DEN,ast,2.5,under,draftkings,113.0,2026-10-24T14:54:19-04:00,28.2,2.69,0.528,0.437,6.0,0.469,12.6,2.36,9.1,-3.2,WATCH,edge below the Rules §3 bar,0.465,-0.41,,0.0
+2026-10-24,nba v1.4,Zion Williamson,NOP,DEN,pts,17.5,over,draftkings,-121.0,2026-10-24T14:54:19-04:00,28.2,16.81,0.418,0.52,1.0,0.548,-23.7,-5.2,-10.3,-2.7,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Zion Williamson,NOP,DEN,pts,17.5,under,draftkings,-106.0,2026-10-24T14:54:19-04:00,28.2,16.81,0.582,0.48,1.0,0.515,13.2,2.71,10.3,-3.5,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.508,-0.62,,0.0
+2026-10-24,nba v1.4,Zion Williamson,NOP,DEN,reb,5.5,over,draftkings,116.0,2026-10-24T14:54:19-04:00,28.2,5.26,0.418,0.437,7.0,0.463,-9.8,-1.82,-2.0,-2.6,PASS,no edge,,,,0.0
+2026-10-24,nba v1.4,Zion Williamson,NOP,DEN,reb,5.5,under,draftkings,-153.0,2026-10-24T14:54:19-04:00,28.2,5.26,0.582,0.563,7.0,0.605,-3.7,-0.89,2.0,-4.2,PASS,no edge,,,,0.0

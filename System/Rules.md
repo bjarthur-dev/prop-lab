@@ -83,6 +83,7 @@ The graduation gate in §8 has **not** been met (9 settled paper bets, no CLV re
 - **Price discipline:** bet at the listed price or better. If the line moved past the model's break-even, it's a PASS.
 - **Every live bet is logged before it's placed** (the Record/Bets note + bets.csv row, decision LIVE), with both closing sides captured (Job E or the odds Action).
 - **Kill switch → back to paper:** drawdown ≥ 15% of the starting pilot bankroll (with the $30 roll: below $20, because $1 minimums make 15% only ~4 bets), or after 50 live bets mean CLV ≤ 0, or any bet placed that wasn't logged first.
+- **Shadow grading decides when the model is trusted** (`engine/shadow.py` → Record/Shadow/Shadow Report.md grades every priced prop daily, not just bets). The NBA model-health gate (board lean > ±4 pts = no bets) is retuned once **≥ 1,000 graded NBA props** exist: if model or blend skill vs market is ≥ 0 and the over/under lean is explained, the gate relaxes. NFL and MLB go LIVE when their own shadow skill vs market is ≥ 0 over ≥ 500 graded props (plus the 50 paper bets above).
 - **Review at 100 live bets:** if CLV ≥ +1.5% with t > 2, the stakes move toward the §1 sizes (1%); otherwise they don't.
 
 ## Changelog
