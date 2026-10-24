@@ -3,6 +3,8 @@ tags: [system, roles, automation]
 updated: 2026-10-23
 ---
 
+> **Update 2026-10-24:** the hub is GitHub and the jobs run in the cloud. See [[Cloud Pipeline]] for the current schedule and who writes where.
+
 # Roles & Automation — who does what
 
 **One sentence:** Perplexity finds and sources facts. Claude verifies them, does all the math, enforces [[Rules]], and keeps the record. Python scripts eventually own every number that can be fetched by code. You make the final call and place the bets.

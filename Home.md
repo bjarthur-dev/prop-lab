@@ -21,7 +21,8 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[NBA Engine]] — v1 projection engine (minutes → rates → market-anchored sim), how it decides, how to run it on Windows
 - [[Mechanism Tracker]] — v2: zero-stake theory tests with matched controls, H1a–H8 + DvP placebo, grader `engine/tracker.py`
 - [[MLB Module]] — MLB chains (pitcher Ks, batter H/TB/HRR), World Series micro-slate plan, Scout MLB fields
-- [[Morning Settlement Task]] — the 08:15 scheduled-task prompt (create it in the Claude desktop app)
+- [[Cloud Pipeline]] — **what runs with the laptop off**: GitHub Actions (results, Scout ingest, watchdog, tests), Claude cloud morning settlement 08:17, Perplexity delivery by GitHub issue
+- [[Morning Settlement Task]] — the morning settlement prompt (now a cloud scheduled task)
 - [[Researcher Prompt]] — reusable facts-only researcher + separate falsifying reviewer
 - [[Upgrade Roadmap]] — what to build next, in order
 - [[Research - Advanced NFL and MLB mechanisms]] — NFL engine v1 design (volume → shares → simulated tails), K model v1 (PA-by-PA, hook, park), N1–N10 + M1–M8 theories

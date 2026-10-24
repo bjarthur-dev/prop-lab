@@ -11,6 +11,14 @@ try:
         if str(s.get(k, "")).startswith("error"): probs.append(f"results {k}: {s[k]}")
 except Exception as e:
     probs.append(f"no results heartbeat ({e})")
+try:
+    c = json.load(open("status/claude.json"))["morning_settlement"]
+    age = (now - dt.datetime.fromisoformat(c["last_ok"])).total_seconds() / 3600
+    if now.hour >= 10 and age > 26: probs.append(f"Claude morning settlement last ran {age:.0f} h ago")
+except FileNotFoundError:
+    if now.hour >= 10 and now.date() > dt.date(2026, 10, 24): probs.append("no Claude heartbeat (status/claude.json)")
+except Exception as e:
+    probs.append(f"bad Claude heartbeat ({e})")
 slate = os.path.exists(f"Inbox/Requests/{today} requests.md") or any(f.startswith(today) for f in os.listdir("Slates"))
 for f, by in ((f"{today} B slate.md", 12), (f"{today} C board.md", 15)):
     if slate and now.hour >= by and not os.path.exists(f"Inbox/Perplexity/{f}"):

@@ -3,7 +3,9 @@ tags: [system, automation]
 schedule: "Daily 08:15 ET"
 ---
 
-# Morning Settlement Task (paste into a Claude scheduled task)
+# Morning Settlement Task
+
+> **2026-10-24: now runs in the cloud** as the scheduled task "Prop-Lab morning settlement (cloud)", daily 08:17 ET, laptop not needed (see [[Cloud Pipeline]]). The laptop version below is paused; kept for reference.
 
 **How to create it (Claude desktop app on this laptop):** open the Claude desktop app → **Scheduled tasks** → **New task** → name it *Prop-Lab morning settlement* → schedule **Daily, 8:15 AM** → turn on **"Require this computer"** and select the folder `C:\Users\bray bray\Documents\Prop-Lab` → paste the prompt below → save. It only runs while the laptop is awake and the app is open.
 
