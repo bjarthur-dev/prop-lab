@@ -22,6 +22,8 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[Mechanism Tracker]] — v2: zero-stake theory tests with matched controls, H1a–H8 + DvP placebo, grader `engine/tracker.py`
 - [[MLB Module]] — MLB chains (pitcher Ks, batter H/TB/HRR), World Series micro-slate plan, Scout MLB fields
 - [[Cloud Pipeline]] — **what runs with the laptop off**: GitHub Actions (results, Scout ingest, watchdog, tests), Claude cloud morning settlement 08:17, Perplexity delivery by GitHub issue
+- [[Afternoon Card Task]] — the daily 14:52 bet card (live pilot, [[Rules]] §9) — create it in the Claude app
+- [[Bankroll]] — live-pilot bankroll and limits
 - [[Morning Settlement Task]] — the morning settlement prompt (now a cloud scheduled task)
 - [[Researcher Prompt]] — reusable facts-only researcher + separate falsifying reviewer
 - [[Upgrade Roadmap]] — what to build next, in order

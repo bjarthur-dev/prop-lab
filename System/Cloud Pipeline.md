@@ -14,6 +14,8 @@ updated: 2026-10-24
 | 08:17 daily | **Claude cloud scheduled task** "Prop-Lab morning settlement (cloud)" | Verify, settle bets + tracker, write the review, push to main | `Record/`, `Markets/`, `Home.md`, `status/claude.json` |
 | 11:00 / 13:30 / hourly evening | Perplexity Jobs B, C, D, E | Slate, board, late news, closes | issues → `Inbox/Perplexity/` |
 | Hourly :17 | **GitHub Action** `watchdog.yml` | Checks heartbeats + due Scout files | opens/updates a `pipeline-alert` issue (GitHub emails you); closes it when healthy |
+| 10:37 / 13:37 / every 15 min 12:00–23:59 | **GitHub Action** `odds.yml` | Prop odds snapshots from The Odds API: open, board, T-10 close (idle until the `ODDS_API_KEY` secret exists) | `data/odds/<sport>/DATE/` |
+| 14:52 daily (create it: [[Afternoon Card Task]]) | **Claude cloud scheduled task** | Facts (Perplexity files or its own research) → engine → **bet card** `Slates/DATE card.md` + tracker rows | `Slates/`, `Record/`, `Inbox/Claude/` |
 | Every push to `engine/` | **GitHub Action** `tests.yml` | NBA, NFL, MLB test suites | red X on the commit if anything broke |
 
 ## Tested 2026-10-24
@@ -23,7 +25,7 @@ updated: 2026-10-24
 
 ## What can't run in the cloud (yet)
 - **NBA box scores and logs.** ESPN returns 403 to GitHub's servers and stats.nba.com / cdn.nba.com block cloud IPs. We don't disguise requests to get past that. NBA results come from Perplexity's Job A; NBA game logs for the engine come from `nba_api` on the laptop (`engine/setup_windows.bat`) when it's on. Options to close the gap: a paid NBA data API, or a small always-on home machine.
-- **Odds snapshots / close capture.** Planned with The Odds API ($30/mo tier, ~20K credits; the-odds-api.com, not theoddsapi.com). Needs your API key as a GitHub secret `ODDS_API_KEY`; until then Perplexity's Job E does it.
+- **Odds snapshots / close capture.** Built (`odds.yml`); waits for your The Odds API key as the GitHub secret `ODDS_API_KEY` (the-odds-api.com, $30/mo for 20K credits ≈ NBA + NFL open/board/close). Note: committing raw odds to a public repo may be against the provider's terms; making the repo private is cleaner but Actions minutes then count (2,000/mo free).
 - **Claude pricing runs** (NBA slate, NFL Sunday) are still done in conversation; they can become cloud scheduled tasks once Job C arrives reliably by issue.
 
 ## Credit budget (2026-10-24)
