@@ -39,6 +39,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[2026-10-22 TNF + NBA]] — Patriots-Bears + Nuggets-Thunder: the first full two-sport slate
 
 ## The record
+- [[2026-10-24 Review]]: 0 staked bets; paper-track 1–3 (Mitchell u AST and Harden u REB lost at **+2.5% / +2.0% CLV**, Rasmussen o5.5 K lost at −3.7%; Pick6 HRR slip won, $0). Tracker hyp 4/6 vs controls 4/7. Running CLV 4 entries, −0.95%. Bankroll $30.00
 - [[2026-10-23 Review]] — 0 staked bets; WATCH Misiorowski u6.5 K won (3 K) at **−4.6% CLV**; tracker 4/15 vs market p 0.50 (H1 0/7, H2 1/3, H3-legacy 3/5; noise). Live pilot bankroll $30.00
 - [[Bet Log]] — 2026-10-22 settled **4–5, −$14.17** at $10 stakes (−$1.42 at 1%), 0/9 closes captured — see [[2026-10-22 Review]] and [[2026-10-22 Audit]]
 - `Record/Bets.base` — Bases views: open bets, exposure by game, CLV by market, reason-code ledger, calibration bins (one note per bet from [[_Bet Template]])

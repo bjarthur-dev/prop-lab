@@ -24,6 +24,13 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - H2 needs official starters before freezing: Hayes came off the bench despite "replaces Nurkic".
 - Cloud verification: Rotowire/NBC notes plus the AP recap are a reliable pair. CBS gametracker pages can be stale snapshots marked FINAL.
 
+### 2026-10-24 (8 NBA + WS G2), see [[2026-10-24 Review]]
+- The gate-blocked NBA unders (D. Mitchell u6.5 AST, Harden u4.5 REB) beat the Pinnacle close (+2.5%, +2.0%) and both lost. Track CLV on gate-blocked sides as a test of whether the under lean is real.
+- Postseason K overs: Rasmussen 4 K in 89 pitches / 11 outs, −3.7% CLV. Both WS K entries so far have negative CLV. Price the pitch-budget hook.
+- Running CLV: 4 entries, mean −0.95% (NBA +2.3%, MLB −4.2%). Noise.
+- Tracker, first night with controls: hypothesis rows 4/6, controls 4/7. H1a Irving was void (b2b rest DNP). Check for rest on the 2nd night of a back-to-back before freezing H1 rows.
+- Yahoo game pages can serve cached in-progress box scores. Accept only pages that show "Final".
+
 ## Reference — the break-even table
 | Price | Break-even |
 |---|---:|
