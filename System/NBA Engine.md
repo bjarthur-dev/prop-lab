@@ -1,6 +1,6 @@
 ---
 tags: [system, engine, nba]
-version: v1.4
+version: v1.5
 updated: 2026-10-23
 code: engine/nba/
 status: real-data backtest done (2025-26); calibrated v1.3; paper/watch only until CLV record builds
@@ -64,7 +64,12 @@ The first cloud card found the model leaning under on the whole board (−11 pts
 - **Model-health gate:** if model-minus-market on overs averages beyond ±4 pts across the board, every BET/PAPER becomes WATCH. After the fixes the lean is −7.4 (pts), −5 (reb/ast); means now sit within 0.7 pts of the lines, so the remaining gap is the **shape** of the distribution (our ranges are wide and right-skewed). That can only be settled with CLV and tracker data, not by tuning tonight.
 - **Next:** backtest the full `project_game` pipeline (not just baselines) and refit the dispersion floors on live tracker outcomes.
 
-## Next (v1.5 plan, in order, from [[Research - Advanced NBA mechanisms]])
+## v1.5 (2026-10-25): learning from shadow grading
+First shadow read (282 graded props, Oct 23–24): **overs hit 49.3% vs the market's 49.2%**, so the market's level is right; the model said 43.4% (≈2 SE too low). But the model's **ranking** carries signal: where it liked overs more than the market, overs beat the market by +3.9 to +7.4 pts; the 75/25 market/model blend beat the market by **+4.4%** Brier skill (small sample).
+- **Level correction:** `price.shadow_offset()` adds the shrunk gap (actual over rate − model's average P(over)) × n/(n+300) to every P(over), starting at 200 graded props. At 282 → +2.8 pts; board lean −5.9 → −3.0. Raw values are kept in `p_model_raw`.
+- **Gate:** the board-lean gate checks raw p until **1,000** graded props (Rules §9), then corrected p. So bets can start flowing once the correction is earned with data, not before.
+
+## Next (v1.6 plan, in order, from [[Research - Advanced NBA mechanisms]])
 1. ~~Threes~~ done in v1.2.
 2. Usage redistribution ∝ usage^k (k ≈ 1.5–2) with an efficiency cost, replacing the uniform team factor.
 3. Rebounds = DREB/OREB pools × lineup-aware share × opponent reb% (team-rebound deductions 5.6% / 25.1%).
