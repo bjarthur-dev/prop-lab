@@ -40,7 +40,11 @@ def main():
         # that's a model problem, not dozens of edges. Downgrade every BET/PAPER to WATCH.
         gp = cand.dropna(subset=["p_model", "p_market"])
         over = gp[gp["side"] == "over"]
-        lean = float(100 * (over["p_model"] - over["p_market"]).mean()) if len(over) >= 20 else 0.0
+        from price import shadow_offset
+        _, n_sh = shadow_offset()
+        pcol = "p_model" if n_sh >= C.SHADOW_GATE_ROWS or "p_model_raw" not in over.columns else "p_model_raw"
+        lean = float(100 * (over[pcol] - over["p_market"]).mean()) if len(over) >= 20 else 0.0
+        print(f"shadow graded props: {n_sh}; gate uses {pcol}")
         print(f"board lean (model - market on overs): {lean:+.1f} pts over {len(over)} sides")
         if abs(lean) > C.MAX_BOARD_LEAN_PTS:
             hit = cand["decision"].isin(["BET", "PAPER"])

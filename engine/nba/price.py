@@ -25,8 +25,25 @@ def market_mult(row, vmr, market, line, p_target):
     return (lo + hi) / 2
 
 
+def shadow_offset(path="data/shadow/nba_graded.csv"):
+    """v1.5 level correction learned from shadow grading: how far the model's P(over) has run below/above the actual
+    over hit rate, shrunk by n/(n+SHADOW_PRIOR_N). Pooled across markets (per-market estimates are too noisy yet).
+    Returns (offset, n). The model's ranking is kept; only its level is corrected."""
+    import os
+    if not os.path.exists(path):
+        return 0.0, 0
+    g = pd.read_csv(path)
+    g = g[(g.get("status") == "graded") & g["hit"].notna() & g["p_model"].notna()]
+    n = len(g)
+    if n < C.SHADOW_MIN_ROWS:
+        return 0.0, n
+    raw = float(g["hit"].mean() - g["p_model"].mean())
+    return raw * n / (n + C.SHADOW_PRIOR_N), n
+
+
 def price_board(proj, board, vmr, slate_class="large"):
     """board columns: player, market, line, book, over, under, executable (bool), ts"""
+    off, n_shadow = shadow_offset()
     board = board.copy()
     board["key"] = board["player"].map(norm_name)
     board["mk"] = board["market"].str.lower().map(MARKETS)
@@ -39,7 +56,8 @@ def price_board(proj, board, vmr, slate_class="large"):
         row = proj.loc[key]
         if key not in cache:
             cache[key] = simulate(row, vmr, seed=abs(hash(key)) % 2**31)
-        po = p_over(cache[key], mk, line)
+        po_raw = p_over(cache[key], mk, line)
+        po = float(np.clip(po_raw + off, 0.02, 0.98))
         two = grp.dropna(subset=["over", "under"])
         if two.empty:
             continue
@@ -60,7 +78,7 @@ def price_board(proj, board, vmr, slate_class="large"):
             mkt_edge = (pk - be) * 100
             rec = {"player": row["player"], "team": row["team"], "opp": row["opp"], "market": mk, "line": line, "side": side,
                    "book": b["book"], "price": b[side], "ts": b.get("ts", ""), "min_proj": round(row["min_proj"], 1),
-                   "mu": round(float(np.mean(cache[key][mk])), 2), "p_model": round(pm, 3), "p_market": round(pk, 3),
+                   "mu": round(float(np.mean(cache[key][mk])), 2), "p_model": round(pm, 3), "p_model_raw": round(po_raw if side == "over" else 1 - po_raw, 3), "shadow_offset": round(off, 3), "p_market": round(pk, 3),
                    "n_ref_books": int(len(refs)), "break_even": round(be, 3),
                    "ev_model_pct": round((pm * american_to_dec(b[side]) - 1) * 100, 1),
                    "shrunk_edge_pts": round(shrunk, 2), "model_vs_market_pts": round(gap, 1), "market_edge_pts": round(mkt_edge, 1)}
