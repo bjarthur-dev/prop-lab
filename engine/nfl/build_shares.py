@@ -1,6 +1,6 @@
 """Build engine/out/DATE/nfl_shares.csv for a slate from nflverse pbp (v1.1 fitted weights).
     python engine/nfl/build_shares.py 2026-10-25 --season 2026 --week 7
-Optional engine/out/DATE/nfl_out.csv (column: player, using pbp names like "J.Chase" or full names) = OUT players:
+Optional engine/out/DATE/nfl_out.csv (columns: player[, team], using pbp names like "J.Chase" or full names) = OUT players:
 they are dropped and their target/carry shares are handed to teammates in proportion to existing shares (v1.1 simple rule).
 Run fetch_nfl.py first each week so the latest games are in."""
 import os, sys, argparse, re
@@ -26,15 +26,29 @@ def main():
     f["key"] = f["name"].map(key)
     outp = f"{out}/nfl_out.csv"
     if os.path.exists(outp):
-        outs = set(pd.read_csv(outp)["player"].map(key))
-        hit = f[f.key.isin(outs)]
-        print("OUT applied:", ", ".join(hit["name"]) or "none matched")
+        o = pd.read_csv(outp)
+        # match last name (+ team when given) and require the full first name to start with the pbp initials:
+        # key() alone collides ("Brian Robinson" and "Bi.Robinson" both -> "brobinson")
+        def parts(n):
+            n = re.sub(r"[^a-z. ]", "", str(n).lower()).replace(" jr", "").replace(" sr", "").strip()
+            p = [x for x in re.split(r"[. ]+", n) if x]; return (p[0], "".join(p[1:])) if len(p) > 1 else (n, n)
+        fp = f["name"].map(parts); f["_m"] = False
+        for _, row in o.iterrows():
+            first, last = parts(row["player"])
+            m = fp.map(lambda t: t[1] == last and first.startswith(t[0]))
+            if "team" in o.columns and isinstance(row.get("team"), str): m &= f["team"].astype(str) == row["team"]
+            f.loc[m, "_m"] = True
+        outs = {True}
+        hit = f[f._m]
+        print("OUT applied:", ", ".join(hit["name"] + " (" + hit["team"] + ")") or "none matched")
         for team, grp in hit.groupby("team"):
-            keep = (f.team == team) & ~f.key.isin(outs)
+            keep = (f.team == team) & ~f._m
             for col in ("tgt_share", "carry_share", "rz_carry_share", "ez_tgt_share"):
                 lost, have = grp[col].sum(), f.loc[keep, col].sum()
-                if have > 0: f.loc[keep, col] = (f.loc[keep, col] * (1 + lost / have)).clip(upper=0.45)
-        f = f[~f.key.isin(outs)]
+                cap = 0.45 if "tgt" in col else 0.75   # targets cap at 45%; carry shares (of all team rushes) top out near 75%
+                if have > 0:   # never cut an existing share (the old flat 0.45 clip cut RB1 carry shares, e.g. 0.65 -> 0.45)
+                    cur = f.loc[keep, col]; f.loc[keep, col] = np.maximum(cur, (cur * (1 + lost / have)).clip(upper=cap))
+        f = f[~f._m]
     cols = ["name", "team", "pos", "tgt_share", "catch_rate", "ypc", "carry_share", "ypc_rush", "rz_carry_share", "ez_tgt_share", "n_cur", "last_week", "missed_last"]
     r = f.reset_index()[["pid"] + cols].rename(columns={"name": "player"})
     r.loc[r.carry_share < 0.05, "carry_share"] = 0
