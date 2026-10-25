@@ -1,6 +1,6 @@
 ---
 tags: [system, engine, nfl]
-version: v1.1
+version: v1.2
 updated: 2026-10-24
 code: engine/nfl/
 status: fitted to 2023-26 nflverse pbp + walk-forward backtest (v1.1); PAPER/WATCH until CLV record builds
@@ -61,6 +61,14 @@ What this proves: the engine's *probabilities* are honest and its means beat a s
 2. `python engine/nfl/build_shares.py 2026-10-25 --season 2026 --week 7` → `engine/out/DATE/nfl_shares.csv` (329 players, all 32 teams). Put OUT players in `engine/out/DATE/nfl_out.csv` (column `player`) first; their shares go to teammates in proportion. `missed_last=True` = absent from his team's last game (byes excluded): check the injury report.
 3. `nfl_games.csv` (spread, total, weather) + `nfl_board.csv` (lines from the Scout's Job C) → `python engine/nfl/run_nfl.py DATE`.
 Names: pbp uses "J.Chase" style; build_shares matches full names by first initial + last name.
+
+## v1.2 (2026-10-25): availability + name fixes from the first NFL Sunday card
+- **Stale players dropped:** a player who missed his team's last 2+ games and has **no props today** is treated as unavailable (IR/injured) and removed, without redistributing his share (teammates' recent shares already reflect his absence). Example: De'Von Achane (IR since Week 3) had kept 56% of MIA carries, which made Ollie Gordon look like a 39-pt under.
+- **Returning players added:** a player with props today but no 2026 game yet (back from injury) is added at 80% of last season's share, and teammates are scaled down to make room. Example: Josh Jacobs (GB) 51% of carries; Strong/Lloyd reduced. Uses `data/odds/nfl/DATE/board_*.csv` automatically (or `--board`).
+- **OUT redistribution only for fresh absences** (he played the team's last game), same rule as NBA v1.4.
+- **Name collisions fixed:** `run_nfl.py` keys players by `short|TEAM` and resolves board names (full names + the board's `game` column) to a unique player (Malik Washington MIA ≠ Mike Washington LV).
+- **Shadow grading for NFL:** `engine/shadow.py` grades `data/shadow/nfl/` from play-by-play once the results Action refreshes it (Mon/Tue/Fri).
+- **Known:** the NFL model leans under on yardage overs too (−5 to −6 pts vs market on Oct 25), the same distribution-shape issue as NBA; shadow grading will measure and correct it.
 
 ## Known limits (v1) / next
 - Shares come from targets/carries, not routes (no TPRR/participation data yet). Injury redistribution is proportional, not role-aware (v1.2: route-tree / same-position routing like NBA v1.1).

@@ -60,11 +60,14 @@ def price_board(proj, board, vmr, slate_class="large"):
         po = float(np.clip(po_raw + off, 0.02, 0.98))
         two = grp.dropna(subset=["over", "under"])
         if two.empty:
+            out.append({"player": row["player"], "market": mk, "line": line, "decision": "PASS", "why": "no two-sided price at this line"})
             continue
         ex = grp[grp["executable"].astype(str).str.lower().isin(["true", "1", "yes"])]
         for side in ("over", "under"):
             best = ex.dropna(subset=[side])
             if best.empty:
+                out.append({"player": row["player"], "market": mk, "line": line, "side": side, "decision": "PASS",
+                            "why": "no executable (DraftKings) price at this line"})
                 continue
             b = best.loc[best[side].map(american_to_dec).idxmax()]
             refs = two[two["book"] != b["book"]]
@@ -106,6 +109,13 @@ def price_board(proj, board, vmr, slate_class="large"):
                 rec["decision"], rec["why"] = "PASS", "no edge"
             out.append(rec)
     res = pd.DataFrame(out)
+    # keep a "no price" reason only when the player-market got no priced row at any line (alt-line ladders are noise)
+    if len(res) and "why" in res.columns:
+        priced = set(map(tuple, res.dropna(subset=["p_model"])[["player", "market"]].values)) if "p_model" in res.columns else set()
+        nop = res["why"].astype(str).str.startswith("no executable") | res["why"].astype(str).str.startswith("no two-sided")
+        res = res[~(nop & res[["player", "market"]].apply(tuple, axis=1).isin(priced))]
+        nop = res["why"].astype(str).str.startswith("no executable") | res["why"].astype(str).str.startswith("no two-sided")
+        res = pd.concat([res[~nop], res[nop].drop_duplicates(subset=["player", "market"], keep="first")])
     return apply_caps(res, slate_class)
 
 

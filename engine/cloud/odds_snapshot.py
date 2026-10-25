@@ -65,18 +65,30 @@ def main():
         except Exception: pass
         if not bet_games: return
     for sp, (key, markets) in sports.items():
+        if tag in ("board", "open"):   # v1.2: game lines for the slate (spreads + totals, 3 books = 2 credits per sport)
+            gl = get(f"sports/{key}/odds", markets="spreads,totals", bookmakers="draftkings,fanduel,pinnacle", oddsFormat="american") or []
+            grows = []
+            for e in gl:
+                for bk in e.get("bookmakers", []):
+                    for m in bk.get("markets", []):
+                        for oc in m.get("outcomes", []):
+                            grows.append(dict(snap_et=now.isoformat(timespec="seconds"), sport=sp.upper(), event_id=e["id"], home=e["home_team"],
+                                              away=e["away_team"], start=e["commence_time"], book=bk["key"], market=m["key"], name=oc["name"],
+                                              point=oc.get("point"), price=oc.get("price")))
+            if grows:
+                os.makedirs(f"data/odds/{sp}/{today}", exist_ok=True)
+                pd.DataFrame(grows).to_csv(f"data/odds/{sp}/{today}/games_{now:%H%M}.csv", index=False)
         evs = get(f"sports/{key}/events") or []
         sel = []
         for e in evs:
             t = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET)
             if t.date().isoformat() != today: continue
             mins = (t - now).total_seconds() / 60
-            if tag == "close" and not (5 <= mins <= 20): continue
+            if tag == "close" and not (0 < mins <= 75): continue
             if tag != "close" and mins < 0: continue
             sel.append((e, t))
         rows = []
         for e, t in sel:
-            if tag == "close" and os.path.exists(f"data/odds/{sp}/{today}/close_{e['id']}.done"): continue
             if tag == "close" and TIER != "paid" and not any(e["home_team"].split()[-1] in g or e["away_team"].split()[-1] in g for g in bet_games): continue
             o = get(f"sports/{key}/events/{e['id']}/odds", bookmakers=BOOKS, markets=markets, oddsFormat="american")
             if not o: continue
@@ -91,8 +103,6 @@ def main():
                         rows.append(dict(snap_et=now.isoformat(timespec="seconds"), tag=tag, sport=sp.upper(), event_id=e["id"], game=game,
                                          start_et=t.isoformat(timespec="minutes"), book=b["key"], market=m["key"], player=player, line=line,
                                          over=pr.get("over", pr.get("yes")), under=pr.get("under", pr.get("no")), last_update=m.get("last_update")))
-            if tag == "close":
-                os.makedirs(f"data/odds/{sp}/{today}", exist_ok=True); open(f"data/odds/{sp}/{today}/close_{e['id']}.done", "w").write(now.isoformat())
         info[sp] = len(rows)
         if rows:
             os.makedirs(f"data/odds/{sp}/{today}", exist_ok=True)

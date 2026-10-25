@@ -14,7 +14,7 @@ updated: 2026-10-24
 | 08:17 daily | **Claude cloud scheduled task** "Prop-Lab morning settlement (cloud)" | Verify, settle bets + tracker, write the review, push to main | `Record/`, `Markets/`, `Home.md`, `status/claude.json` |
 | 11:00 / 13:30 / hourly evening | Perplexity Jobs B, C, D, E | Slate, board, late news, closes | issues → `Inbox/Perplexity/` |
 | Hourly :17 | **GitHub Action** `watchdog.yml` | Checks heartbeats + due Scout files | opens/updates a `pipeline-alert` issue (GitHub emails you); closes it when healthy |
-| 10:37 / 13:37 / every 15 min 12:00–23:59 | **GitHub Action** `odds.yml` | Prop odds snapshots from The Odds API: open, board, T-10 close (idle until the `ODDS_API_KEY` secret exists) | `data/odds/<sport>/DATE/` |
+| 10:37 / 13:37 / every 15 min 12:00–23:59 | **GitHub Action** `odds.yml` | Prop odds + game spreads/totals (`games_*.csv`) from The Odds API: board, and closes for logged bets (looks 75 min ahead because GitHub runs the 15-min schedule ~hourly) (idle until the `ODDS_API_KEY` secret exists) | `data/odds/<sport>/DATE/` |
 | 14:52 daily (create it: [[Afternoon Card Task]]) | **Claude cloud scheduled task** | Facts (Perplexity files or its own research) → engine → **bet card** `Slates/DATE card.md` + tracker rows | `Slates/`, `Record/`, `Inbox/Claude/` |
 | Every push to `engine/` | **GitHub Action** `tests.yml` | NBA, NFL, MLB test suites | red X on the commit if anything broke |
 

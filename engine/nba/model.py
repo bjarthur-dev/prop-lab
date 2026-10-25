@@ -173,6 +173,7 @@ def project_game(base, home, away, spread_home, total, out_keys=(), min_override
                     give = C.SAME_POS_SHARE * o["min_base"]
                     w = cand["min_base"] / cand["min_base"].sum()
                     t.loc[cand.index, "min_proj"] += give * w
+        t["min_proj"] = t["min_proj"].clip(upper=C.MAX_MIN)        # v1.5: routing can't push anyone past the max
         for k, v in min_set.items():
             t.loc[t["key"] == k, "min_proj"] = v
         for k, cap in min_overrides.items():

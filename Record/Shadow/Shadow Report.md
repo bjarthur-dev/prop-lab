@@ -39,3 +39,6 @@ Does disagreeing with the market pay? (over hit vs market p, by model−market g
 | (0.1, 1.0] | 11 | 0.545 | 0.471 | +7.4 pts |
 
 Noise check: with 282 props one standard error on a hit rate is about ±3.0 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
+
+## NFL
+No graded props yet (play-by-play for the logged dates isn't in yet; the results Action refreshes it Mon/Tue/Fri).

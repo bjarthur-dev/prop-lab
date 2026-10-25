@@ -34,6 +34,40 @@ def grade_nba():
             rows.append(dict(r, actual=v, hit=float(v > r["line"]), status="graded"))
     return pd.DataFrame(rows)
 
+def nfl_actuals(season=2026):
+    f = f"engine/data/nfl/pbp_{season}_slim.csv.gz"
+    if not os.path.exists(f): return None
+    d = pd.read_csv(f, low_memory=False)
+    d = d[d.play_type.isin(["pass", "run"]) & (d.two_point_attempt != 1)]
+    rec = d[d.receiver_player_name.notna()].groupby(["game_date", "posteam", "receiver_player_name"]).agg(
+        rec_yds=("receiving_yards", "sum"), receptions=("complete_pass", "sum")).reset_index().rename(columns={"receiver_player_name": "short"})
+    ru = d[(d.play_type == "run") & (d.qb_scramble != 1) & d.rusher_player_name.notna()].groupby(["game_date", "posteam", "rusher_player_name"]).agg(
+        rush_yds=("rushing_yards", "sum"), carries=("rush_attempt", "size")).reset_index().rename(columns={"rusher_player_name": "short"})
+    a = rec.merge(ru, on=["game_date", "posteam", "short"], how="outer").fillna(0)
+    a["key"] = a["short"] + "|" + a["posteam"]
+    return a, set(d["game_date"].astype(str).unique())
+
+def grade_nfl():
+    got = nfl_actuals(); rows = []
+    if got is None: return pd.DataFrame()
+    acts, dates = got
+    for f in sorted(glob.glob("data/shadow/nfl/*.csv")):
+        s = pd.read_csv(f)
+        s = s[(s["side"] == "over") & s["p_model"].notna() & s["p_market"].notna()].copy()
+        if s.empty: continue
+        date = str(s["date"].iloc[0])
+        if date not in dates: continue                     # game not in pbp yet (refreshed Mon/Tue/Fri)
+        if "key" not in s.columns:
+            s["key"] = s["player"].astype(str) + "|" + s.get("team", pd.Series("", index=s.index)).astype(str)
+        a = acts[acts["game_date"].astype(str) == date].set_index("key")
+        played = set(a.index)
+        for _, r in s.drop_duplicates(["key", "market", "line"]).iterrows():
+            if r["market"] not in ("rec_yds", "rush_yds", "receptions", "carries"): continue
+            if r["key"] not in played:
+                rows.append(dict(r, actual=np.nan, hit=np.nan, status="DNP/void")); continue
+            v = float(a.loc[r["key"], r["market"]]); rows.append(dict(r, actual=v, hit=float(v > r["line"]), status="graded"))
+    return pd.DataFrame(rows)
+
 def report(g, sport):
     out = [f"## {sport}"]
     g = g[g["status"] == "graded"].copy()
@@ -67,6 +101,9 @@ def main():
     g = grade_nba()
     if len(g): g.to_csv("data/shadow/nba_graded.csv", index=False)
     lines += report(g, "NBA") if len(g) else ["## NBA", "No graded props yet (results for the logged dates aren't in engine/data yet)."]
+    n = grade_nfl()
+    if len(n): n.to_csv("data/shadow/nfl_graded.csv", index=False)
+    lines += [""] + (report(n, "NFL") if len(n) else ["## NFL", "No graded props yet (play-by-play for the logged dates isn't in yet; the results Action refreshes it Mon/Tue/Fri)."])
     open("Record/Shadow/Shadow Report.md", "w").write("\n".join(lines) + "\n")
     print("\n".join(lines[8:]))
 

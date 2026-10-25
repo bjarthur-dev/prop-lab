@@ -15,10 +15,41 @@ def dec(a): a = float(a); return 1 + a / 100 if a > 0 else 1 + 100 / -a
 def imp(a): return 1 / dec(a)
 def devig(o, u): po, pu = imp(o), imp(u); return po / (po + pu)
 
+NFL_TEAMS = {"Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens": "BAL", "Buffalo Bills": "BUF", "Carolina Panthers": "CAR",
+    "Chicago Bears": "CHI", "Cincinnati Bengals": "CIN", "Cleveland Browns": "CLE", "Dallas Cowboys": "DAL", "Denver Broncos": "DEN",
+    "Detroit Lions": "DET", "Green Bay Packers": "GB", "Houston Texans": "HOU", "Indianapolis Colts": "IND", "Jacksonville Jaguars": "JAX",
+    "Kansas City Chiefs": "KC", "Las Vegas Raiders": "LV", "Los Angeles Chargers": "LAC", "Los Angeles Rams": "LA", "Miami Dolphins": "MIA",
+    "Minnesota Vikings": "MIN", "New England Patriots": "NE", "New Orleans Saints": "NO", "New York Giants": "NYG", "New York Jets": "NYJ",
+    "Philadelphia Eagles": "PHI", "Pittsburgh Steelers": "PIT", "San Francisco 49ers": "SF", "Seattle Seahawks": "SEA",
+    "Tampa Bay Buccaneers": "TB", "Tennessee Titans": "TEN", "Washington Commanders": "WAS"}
+
+def _parts(n):
+    import re
+    n = re.sub(r"[^a-z. ]", "", str(n).lower()).replace(" jr", "").replace(" sr", "").replace(" iii", "").replace(" ii", "").strip()
+    p = [x for x in re.split(r"[. ]+", n) if x]; return (p[0], "".join(p[1:])) if len(p) > 1 else (n, n)
+
+def resolve(board, shares):
+    """v1.2: map board names (full names like 'Bijan Robinson', or 'B.Robinson', optionally 'X|TEAM') to a unique shares key
+    'short|TEAM'. Disambiguates same-short-name players with the board's game/team (fixes M. Washington MIA vs LV)."""
+    sp = [(k, _parts(k.split("|")[0]), k.split("|")[1]) for k in shares["key"]]
+    out = []
+    for _, r in board.iterrows():
+        name = str(r["player"]); team = name.split("|")[1] if "|" in name else None
+        teams = {team} if team else ({NFL_TEAMS.get(t.strip(), t.strip()) for t in str(r["game"]).split("@")} if "game" in board.columns else set())
+        first, last = _parts(name.split("|")[0])
+        c = [k for k, (f0, l0), t in sp if l0 == last and first.startswith(f0) and (not teams or t in teams)]
+        out.append(c[0] if len(c) == 1 else None)
+    return out
+
 def main(date):
     out = f"engine/out/{date}"
     games, shares = pd.read_csv(f"{out}/nfl_games.csv"), pd.read_csv(f"{out}/nfl_shares.csv")
     board = pd.read_csv(f"{out}/nfl_board.csv")
+    shares["key"] = shares["player"].astype(str).str.split("|").str[0] + "|" + shares["team"].astype(str)
+    shares = shares.assign(player=shares["key"])               # simulate keyed by short|TEAM: no collisions
+    board["display"] = board["player"]; board["player"] = resolve(board, shares)
+    unresolved = board[board["player"].isna()]["display"].unique()
+    board = board.dropna(subset=["player"])
     sims = {}
     for i, g in games.iterrows():
         proe = {g.home: (g.get("proe_home_cur", 0) or 0, g.get("proe_home_prior", 0) or 0),
@@ -45,13 +76,14 @@ def main(date):
             pb = MW * pk + (1 - MW) * pm if pk == pk else np.nan     # v1: probability blend (NBA uses mean blend)
             ok = pk == pk and shrunk >= MIN_SHRUNK and 3 <= gap <= MAX_GAP and 100 * (pb - be) >= MIN_BLEND
             dec_ = "PAPER" if ok else ("WATCH" if shrunk >= 1.5 else "PASS")
-            rows.append(dict(player=pl, market=mk, line=ln, side=side, book=b["book"], price=b[side], mean=round(float(np.mean(x)), 1),
+            rows.append(dict(player=grp["display"].iloc[0], key=pl, market=mk, line=ln, side=side, book=b["book"], price=b[side], mean=round(float(np.mean(x)), 1),
                              median=round(float(np.median(x)), 1), p_model=round(pm, 3), p_market=round(pk, 3) if pk == pk else None,
                              p_blend=round(pb, 3) if pb == pb else None, break_even=round(be, 3), shrunk_edge_pts=round(shrunk, 1),
                              model_vs_market_pts=round(gap, 1) if gap == gap else None, decision=dec_))
+    rows += [dict(player=n, market=None, line=None, decision="PASS", why="no projection / ambiguous name") for n in unresolved]
     res = pd.DataFrame(rows); res.to_csv(f"{out}/nfl_candidates.csv", index=False)
     # tracker trigger candidates (N1: RB/TE rec yds <= 24.5 under; N7: weather flag) — logged by Claude with controls
-    pos = shares.set_index("player")["pos"].to_dict()
+    pos = shares.set_index("key")["pos"].to_dict()
     n1 = board[(board.market == "rec_yds") & (board.line <= 24.5) & board.player.map(pos).isin(["RB", "TE"])]
     with open(f"{out}/nfl_summary.md", "w", encoding="utf-8") as f:
         keep = res[res.decision.isin(["PAPER", "WATCH"])] if "decision" in res else res
