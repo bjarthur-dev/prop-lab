@@ -56,6 +56,10 @@ def main():
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
     if tag == "nbaalt":   # on-demand: NBA alternate ladders (one-sided X+ rungs) for parlay building
         sports = {"nba": ("basketball_nba", "player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate")}
+    if tag == "pregame":   # on-demand: main + alternate props for games starting in the next WINDOW_MIN minutes (all games, not just bet games)
+        sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes,player_points_alternate,player_rebounds_alternate,player_assists_alternate"),
+                  "mlb": ("baseball_mlb", "batter_hits_runs_rbis,batter_hits,batter_rbis,batter_runs_scored,batter_total_bases,pitcher_strikeouts"),
+                  "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_reception_yds_alternate,player_rush_yds_alternate")}
     if tag == "nflalt":   # on-demand: NFL alternate yardage/reception ladders (Sundays)
         sports = {"nfl": ("americanfootball_nfl", "player_reception_yds_alternate,player_rush_yds_alternate,player_receptions_alternate")}
     if tag == "mlbprops":   # on-demand: MLB batter/pitcher props for promo-token hunting (two-sided markets)
@@ -97,6 +101,7 @@ def main():
             if t.date().isoformat() != today: continue
             mins = (t - now).total_seconds() / 60
             if tag == "close" and not (0 < mins <= 75): continue
+            if tag == "pregame" and not (0 < mins <= float(os.environ.get("WINDOW_MIN", "150"))): continue
             if tag != "close" and mins < 0: continue
             sel.append((e, t))
         rows = []

@@ -8,7 +8,8 @@ on:
     - cron: "2-59/15 16-23,0-3 * * *"  # close dispatcher, 12:00-23:59 EDT (GitHub often runs it ~hourly; the script looks 75 min ahead)
   workflow_dispatch:
     inputs:
-      tag: { description: "open|board|close|check|mlbhrr|mlbprops|nbaalt|nflalt", required: false, default: "board" }
+      tag: { description: "open|board|close|check|mlbhrr|mlbprops|nbaalt|nflalt|pregame", required: false, default: "board" }
+      window: { description: "pregame: minutes ahead to include", required: false, default: "150" }
 permissions: { contents: write }
 concurrency: { group: writer-actions, cancel-in-progress: false }
 jobs:
@@ -20,6 +21,7 @@ jobs:
       ODDS_API_KEY_1: ${{ secrets.ODDS_API_KEY_1 }}
       ODDS_API_KEY_2: ${{ secrets.ODDS_API_KEY_2 }}
       ODDS_TIER: ${{ vars.ODDS_TIER || 'free' }}
+      WINDOW_MIN: ${{ inputs.window || '150' }}
     steps:
       - name: Skip if no key
         if: ${{ env.ODDS_API_KEY == '' }}
