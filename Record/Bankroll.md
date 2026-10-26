@@ -10,6 +10,8 @@ venues: [DraftKings Sportsbook, DraftKings Pick6]
 pilot_start: 2026-10-24
 stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
 stake_pick6_entry_usd: 1.00
+stake_cash_slip_usd: 5.00     # user decision 2026-10-26: one $5 cash slip per day (doubling plan), plus no-sweat tokens on slips
+cash_slip_rule: "under $15 bankroll -> $3 slips until back over $20; at $60+ set $30 aside"
 max_bets_per_day: 3          # $3/day max = 10% of bankroll
 per_game_max_usd: 2.00
 per_player_max_usd: 1.00
