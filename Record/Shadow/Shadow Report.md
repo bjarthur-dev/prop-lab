@@ -41,4 +41,35 @@ Does disagreeing with the market pay? (over hit vs market p, by model−market g
 Noise check: with 282 props one standard error on a hit rate is about ±3.0 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
 
 ## NFL
-No graded props yet (play-by-play for the logged dates isn't in yet; the results Action refreshes it Mon/Tue/Fri).
+Graded props: **160** over 1 day(s). Over hit rate 0.444 vs market's average 0.500 vs model's 0.520.
+Brier: model 0.2576 · market 0.2505 · blend 0.2490 → **model skill vs market -2.8%**, blend skill +0.6% (positive = better than the market).
+
+| market | n | over hit | market p | model p | model skill vs mkt |
+|---|---:|---:|---:|---:|---:|
+| carries | 7 | 0.429 | 0.513 | 0.539 | -37.4% |
+| rec_yds | 118 | 0.424 | 0.500 | 0.513 | +1.6% |
+| rush_yds | 35 | 0.514 | 0.498 | 0.539 | -10.3% |
+
+Model calibration (P(over)):
+
+| model p bin | n | predicted | actual | market p |
+|---|---:|---:|---:|---:|
+| (0.0, 0.3] | 7 | 0.234 | 0.429 | 0.502 |
+| (0.3, 0.4] | 21 | 0.364 | 0.476 | 0.497 |
+| (0.4, 0.5] | 49 | 0.460 | 0.367 | 0.501 |
+| (0.5, 0.6] | 43 | 0.554 | 0.419 | 0.500 |
+| (0.6, 0.7] | 21 | 0.634 | 0.429 | 0.496 |
+| (0.7, 1.0] | 19 | 0.746 | 0.684 | 0.505 |
+
+Does disagreeing with the market pay? (over hit vs market p, by model−market gap)
+
+| gap bin | n | over hit | market p | hit − market |
+|---|---:|---:|---:|---:|
+| (-1.0, -0.1] | 31 | 0.452 | 0.501 | -4.9 pts |
+| (-0.1, -0.05] | 16 | 0.188 | 0.501 | -31.3 pts |
+| (-0.05, 0.0] | 28 | 0.464 | 0.500 | -3.6 pts |
+| (0.0, 0.05] | 18 | 0.389 | 0.498 | -10.9 pts |
+| (0.05, 0.1] | 28 | 0.429 | 0.500 | -7.1 pts |
+| (0.1, 1.0] | 39 | 0.564 | 0.500 | +6.4 pts |
+
+Noise check: with 160 props one standard error on a hit rate is about ±4.0 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
