@@ -6,16 +6,23 @@ When the laptop runs fetch.py (official nba_api), that file replaces everything,
 import os, sys, json, time, datetime as dt, urllib.request, urllib.parse, subprocess
 from zoneinfo import ZoneInfo
 import pandas as pd
-ET = ZoneInfo("America/New_York"); KEY = os.environ.get("NBA_API_KEY", ""); BASE = "https://v2.nba.api-sports.io"
+ET = ZoneInfo("America/New_York"); KEYS = [k for k in (os.environ.get("SPORTS_API_KEY_1", ""), os.environ.get("SPORTS_API_KEY_2", ""), os.environ.get("NBA_API_KEY", "")) if k]
+KEY = KEYS[0] if KEYS else ""; BASE = "https://v2.nba.api-sports.io"
 
 def get(path, **q):
+    global KEY
     url = f"{BASE}/{path}?{urllib.parse.urlencode(q)}"
-    for i in range(3):
+    for i in range(4):
         try:
             req = urllib.request.Request(url, headers={"x-apisports-key": KEY})
             with urllib.request.urlopen(req, timeout=30) as r:
+                left = r.headers.get("x-ratelimit-requests-remaining")
                 d = json.load(r)
-                if d.get("errors"): print(f"::warning::api errors {d['errors']}")
+                errs = d.get("errors")
+                if errs:
+                    print(f"::warning::api errors {errs} (requests left today: {left})")
+                    if ("requests" in str(errs).lower() or "limit" in str(errs).lower()) and KEY in KEYS and KEYS.index(KEY) + 1 < len(KEYS):
+                        KEY = KEYS[KEYS.index(KEY) + 1]; print("::warning::switching to the next sports API key"); continue
                 return d.get("response", [])
         except Exception as e:
             print(f"::warning::retry {path}: {e}"); time.sleep(4 * (i + 1))
@@ -29,10 +36,11 @@ def mins(v):
     except ValueError: return 0.0
 
 def main():
-    if not KEY: print("::notice::NBA_API_KEY not set; skipping cloud NBA box scores"); return
-    date = sys.argv[1] if len(sys.argv) > 1 else (dt.datetime.now(ET).date() - dt.timedelta(days=1)).isoformat()
+    if not KEY: print("::notice::SPORTS_API_KEY_1 not set; skipping cloud NBA box scores"); return
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]; check = "--check" in sys.argv
+    date = args[0] if args else (dt.datetime.now(ET).date() - dt.timedelta(days=1)).isoformat()
     logs = pd.read_csv("engine/data/players_2026-27.csv")
-    if (logs["GAME_DATE"].astype(str).str[:10] == date).any():
+    if not check and (logs["GAME_DATE"].astype(str).str[:10] == date).any():
         print(f"::notice::{date} already in NBA logs; nothing to do"); return
     d0 = dt.date.fromisoformat(date)
     games = get("games", date=date) + get("games", date=(d0 + dt.timedelta(days=1)).isoformat())   # API dates are UTC
@@ -54,6 +62,19 @@ def main():
                              team_final=final.get(t), source=f"api-sports game {g['id']}"))
         time.sleep(6.5)   # free plan: 10 requests/minute
     if not rows: print(f"::warning::no finished NBA games found for {date}"); return
+    if check:   # compare against the official nba_api rows already in the logs; change nothing
+        sys.path.insert(0, "engine/nba"); from common import norm_name
+        b = pd.DataFrame(rows); b["key"] = b["player"].map(norm_name)
+        o = logs[logs["GAME_DATE"].astype(str).str[:10] == date].copy(); o["key"] = o["PLAYER_NAME"].map(norm_name)
+        m = b.merge(o, on="key", how="outer", indicator=True)
+        both = m[m["_merge"] == "both"]
+        diffs = sum(int((both[a] != both[b_]).sum()) for a, b_ in (("pts", "PTS"), ("reb", "REB"), ("ast", "AST"), ("fg3m", "FG3M")))
+        teams_ok = sum(1 for _, g in b.groupby(["game", "team"]) if int(g["pts"].sum()) == int(g["team_final"].iloc[0]))
+        print(f"::notice::CHECK {date}: api players {len(b)}, official {len(o)}, matched {len(both)}, unmatched api {int((m._merge=='left_only').sum())}, unmatched official {int((m._merge=='right_only').sum())}, stat mismatches (pts/reb/ast/3pm) {diffs}, team totals ok {teams_ok}/{b.groupby(['game','team']).ngroups}")
+        bad = both[(both["pts"] != both["PTS"]) | (both["reb"] != both["REB"]) | (both["ast"] != both["AST"])]
+        for _, r in bad.head(10).iterrows(): print(f"::warning::mismatch {r['player']}: api {r['pts']}/{r['reb']}/{r['ast']} vs official {r['PTS']}/{r['REB']}/{r['AST']}")
+        for n in m[m._merge == "left_only"]["player"].head(8): print(f"::warning::api-only name: {n}")
+        return
     os.makedirs("data/box/nba", exist_ok=True); path = f"data/box/nba/{date}.csv"
     pd.DataFrame(rows).to_csv(path, index=False)
     out = subprocess.run([sys.executable, "engine/nba/append_box.py", path], capture_output=True, text=True).stdout

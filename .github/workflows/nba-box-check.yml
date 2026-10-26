@@ -1,0 +1,15 @@
+# Manual: compare API-NBA box scores for a date against the official nba_api rows already in the logs. Changes nothing.
+name: nba-box-check
+on:
+  workflow_dispatch:
+    inputs: { date: { description: "YYYY-MM-DD", required: true } }
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env: { SPORTS_API_KEY_1: "${{ secrets.SPORTS_API_KEY_1 }}", SPORTS_API_KEY_2: "${{ secrets.SPORTS_API_KEY_2 }}" }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pandas==2.2.3
+      - run: python engine/cloud/nba_box.py ${{ inputs.date }} --check
