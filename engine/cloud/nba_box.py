@@ -21,7 +21,7 @@ def get(path, **q):
                 errs = d.get("errors")
                 if errs:
                     print(f"::warning::api errors {errs} (requests left today: {left})")
-                    if ("requests" in str(errs).lower() or "limit" in str(errs).lower()) and KEY in KEYS and KEYS.index(KEY) + 1 < len(KEYS):
+                    if any(w in str(errs).lower() for w in ("requests", "limit", "suspend", "access", "token")) and KEY in KEYS and KEYS.index(KEY) + 1 < len(KEYS):
                         KEY = KEYS[KEYS.index(KEY) + 1]; print("::warning::switching to the next sports API key"); continue
                 return d.get("response", [])
         except Exception as e:
