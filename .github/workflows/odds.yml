@@ -8,7 +8,7 @@ on:
     - cron: "2-59/15 16-23,0-3 * * *"  # close dispatcher, 12:00-23:59 EDT (GitHub often runs it ~hourly; the script looks 75 min ahead)
   workflow_dispatch:
     inputs:
-      tag: { description: "open|board|close|check|mlbhrr", required: false, default: "board" }
+      tag: { description: "open|board|close|check|mlbhrr|mlbprops", required: false, default: "board" }
 permissions: { contents: write }
 concurrency: { group: writer-actions, cancel-in-progress: false }
 jobs:

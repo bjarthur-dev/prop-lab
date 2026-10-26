@@ -54,9 +54,12 @@ def main():
         return
     now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
+    if tag == "mlbprops":   # on-demand: MLB batter/pitcher props for promo-token hunting (two-sided markets)
+        sports = {"mlb": ("baseball_mlb", "batter_rbis,batter_runs_scored,batter_total_bases,batter_home_runs,batter_hits,batter_hits_runs_rbis,pitcher_strikeouts")}
     if tag == "mlbhrr":   # on-demand: MLB batter hits+runs+RBIs and hits (1 credit per market per game)
         sports = {"mlb": ("baseball_mlb", "batter_hits_runs_rbis,batter_hits")}
     if TIER != "paid" and tag == "open": print("::notice::free tier: no open snapshot"); return
+    if tag in ("mlbprops",): pass
     if tag == "board" and os.environ.get("FORCE") != "1":   # credit saver: one afternoon board per day is enough
         import glob as _g
         recent = [f for f in _g.glob(f"data/odds/nba/{today}/board_*.csv") if f[-8:-4] >= "1200"]
