@@ -315,9 +315,9 @@ player_id,player,pos,team
 1630178,Tyrese Maxey,G,PHI
 1642889,Labaron Philon Jr.,G,PHI
 203484,Kentavious Caldwell-Pope,G,PHI
-1631126,Caleb Love,G,PHI
 1629014,Anfernee Simons,G,PHI
 1627759,Jaylen Brown,G-F,PHI
+1631126,Caleb Love,G,PHI
 1642348,Justin Edwards,F,PHI
 1641712,Rayan Rupert,G-F,PHI
 203954,Joel Embiid,C-F,PHI
@@ -330,6 +330,7 @@ player_id,player,pos,team
 1642845,VJ Edgecombe,G,PHI
 1629605,Tacko Fall,C,PHI
 1642346,Ryan Dunn,F,PHX
+1631166,Drew Timme,F,PHX
 1628415,Dillon Brooks,G-F,PHX
 1630224,Jalen Green,G,PHX
 1628379,Luke Kennard,G,PHX
@@ -338,7 +339,6 @@ player_id,player,pos,team
 1631221,Collin Gillespie,G,PHX
 1626164,Devin Booker,G,PHX
 1631123,Jamaree Bouyea,G,PHX
-1631166,Drew Timme,F,PHX
 1643520,Koa Peat,F,PHX
 1642853,Rasheer Fleming,F,PHX
 1628970,Miles Bridges,F,PHX
@@ -346,7 +346,6 @@ player_id,player,pos,team
 1631109,Mark Williams,C,PHX
 1641871,Duop Reath,C,PHX
 1630311,Pat Spencer,G,PHX
-1643257,Jayson Kent,F,POR
 203081,Damian Lillard,G,POR
 1630703,Scoot Henderson,G,POR
 1629630,Ja Morant,G,POR
@@ -360,6 +359,7 @@ player_id,player,pos,team
 1631101,Shaedon Sharpe,G,POR
 1642270,Donovan Clingan,C,POR
 1630249,Vít Krejčí,G,POR
+1643257,Jayson Kent,F,POR
 1641739,Toumani Camara,F,POR
 1629057,Robert Williams III,C-F,POR
 1631321,Sidy Cissoko,G,POR
@@ -404,9 +404,9 @@ player_id,player,pos,team
 1631114,Jalen Williams,G-F,OKC
 1627936,Alex Caruso,G,OKC
 1642850,Thomas Sorber,C,OKC
-1642923,Otega Oweh,G,OKC
 1642892,Bennett Stirtz,G,OKC
 1643530,Aday Mara,C,OKC
+1642877,Micah Peavy,G-F,OKC
 1643717,Josh Dix,G,OKC
 1641717,Cason Wallace,G,OKC
 1642964,Brooks Barnhizer,G,OKC
@@ -414,13 +414,13 @@ player_id,player,pos,team
 1629026,Kenrich Williams,G-F,OKC
 1642260,Nikola Topić,G,OKC
 1628392,Isaiah Hartenstein,C-F,OKC
-1642927,Nate Bittle,C,TOR
 1642347,Jamal Shead,G,TOR
 202695,Kawhi Leonard,F,TOR
 1630567,Scottie Barnes,F-G,TOR
 1630193,Immanuel Quickley,G,TOR
 1643558,Jaden Bradley,G,TOR
 1629628,RJ Barrett,F-G,TOR
+1642927,Nate Bittle,C,TOR
 203937,Kyle Anderson,F-G,TOR
 1642266,Ja'Kobe Walter,G,TOR
 1641869,Malachi Smith,G,TOR
@@ -433,6 +433,7 @@ player_id,player,pos,team
 1631127,Harrison Ingram,F,UTA
 1642271,Kyle Filipowski,C,UTA
 1641718,Keyonte George,G,UTA
+1641723,Kobe Bufkin,G,UTA
 1630182,Josh Green,G,UTA
 1642268,Isaiah Collier,G,UTA
 1629004,Svi Mykhailiuk,G-F,UTA
@@ -501,8 +502,6 @@ player_id,player,pos,team
 1642449,Tolu Smith,F,DET
 1629130,Duncan Robinson,F,DET
 1641989,Elijah Harkless,G,DET
-1642369,Michael Ajayi,G,CHA
-1643573,Kylan Boswell,G,CHA
 1626220,Royce O'Neale,F,CHA
 1629675,Naz Reid,C-F,CHA
 1629684,Grant Williams,F,CHA
@@ -511,10 +510,12 @@ player_id,player,pos,team
 1643515,Christian Anderson,G,CHA
 1642851,Kon Knueppel,G-F,CHA
 1628960,Grayson Allen,G,CHA
+1642369,Michael Ajayi,G,CHA
 1641750,Ryan Kalkbrenner,C,CHA
 1631217,Moussa Diabaté,F,CHA
 1641790,PJ Hall,C,CHA
 203471,Dennis Schröder,G,CHA
+1643573,Kylan Boswell,G,CHA
 1643419,Hannes Steinbach,F,CHA
 1641706,Brandon Miller,F,CHA
 1642275,Tidjane Salaün,F,CHA
