@@ -1,0 +1,27 @@
+# Phone alert when a card is posted or updated: opens an issue (author: github-actions bot, so GitHub notifies you)
+# titled with the card's headline, then closes the previous card alerts.
+name: notify
+on:
+  push:
+    branches: [main]
+    paths: ["Slates/**card*.md"]
+permissions: { contents: read, issues: write }
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - name: Post card alert
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          for f in $(git diff --name-only HEAD~1 HEAD -- 'Slates/*card*.md'); do
+            head=$(grep -m1 -E '^## ' "$f" | sed 's/^## //')
+            live=$(grep -m1 -E '^live:' "$f" | awk '{print $2}')
+            title="Card: $(basename "$f" .md) | ${live:-0} live | ${head}"
+            for n in $(gh issue list -R ${{ github.repository }} --state open --search "Card: in:title" --json number --jq '.[].number'); do
+              gh issue close "$n" -R ${{ github.repository }} >/dev/null; done
+            gh issue create -R ${{ github.repository }} -t "$title" -b "$(head -c 60000 "$f")
+
+          Open in the repo: https://github.com/${{ github.repository }}/blob/main/$(echo "$f" | sed 's/ /%20/g')"
+          done
