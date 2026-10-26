@@ -71,6 +71,9 @@ def main():
         diffs = sum(int((both[a] != both[b_]).sum()) for a, b_ in (("pts", "PTS"), ("reb", "REB"), ("ast", "AST"), ("fg3m", "FG3M")))
         teams_ok = sum(1 for _, g in b.groupby(["game", "team"]) if int(g["pts"].sum()) == int(g["team_final"].iloc[0]))
         print(f"::notice::CHECK {date}: api players {len(b)}, official {len(o)}, matched {len(both)}, unmatched api {int((m._merge=='left_only').sum())}, unmatched official {int((m._merge=='right_only').sum())}, stat mismatches (pts/reb/ast/3pm) {diffs}, team totals ok {teams_ok}/{b.groupby(['game','team']).ngroups}")
+        for (gm, tm), g in b.groupby(["game", "team"]):
+            s_, f_ = int(g["pts"].sum()), int(g["team_final"].iloc[0]); oo = o[o["TEAM_ABBREVIATION"] == tm]
+            print(f"::notice::team {gm} {tm}: api players {len(g)} sum {s_} final {f_} | official players {len(oo)} sum {int(oo['PTS'].sum())}")
         bad = both[(both["pts"] != both["PTS"]) | (both["reb"] != both["REB"]) | (both["ast"] != both["AST"])]
         for _, r in bad.head(10).iterrows(): print(f"::warning::mismatch {r['player']}: api {r['pts']}/{r['reb']}/{r['ast']} vs official {r['PTS']}/{r['REB']}/{r['AST']}")
         for n in m[m._merge == "left_only"]["player"].head(8): print(f"::warning::api-only name: {n}")
