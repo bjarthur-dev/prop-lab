@@ -15,11 +15,11 @@ jobs:
       - name: Post card alert
         env: { GH_TOKEN: "${{ github.token }}" }
         run: |
-          for f in $(git diff --name-only HEAD~1 HEAD -- 'Slates/*card*.md'); do
+          git diff --name-only HEAD~1 HEAD -- 'Slates/*card*.md' | while IFS= read -r f; do
             head=$(grep -m1 -E '^## ' "$f" | sed 's/^## //')
             live=$(grep -m1 -E '^live:' "$f" | awk '{print $2}')
             title="Card: $(basename "$f" .md) | ${live:-0} live | ${head}"
-            for n in $(gh issue list -R ${{ github.repository }} --state open --search "Card: in:title" --json number --jq '.[].number'); do
+            gh issue list -R ${{ github.repository }} --state open --search "Card: in:title" --json number --jq '.[].number' | while read -r n; do
               gh issue close "$n" -R ${{ github.repository }} >/dev/null; done
             gh issue create -R ${{ github.repository }} -t "$title" -b "$(head -c 60000 "$f")
 
