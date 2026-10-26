@@ -13,22 +13,29 @@ def dec(a): a = float(a); return 1 + a / 100 if a > 0 else 1 + 100 / -a
 def scan(date, min_ev=2.0):
     rows = []
     for sport_dir in glob.glob(f"data/odds/*/{date}"):
-        files = sorted(glob.glob(f"{sport_dir}/board_*.csv"))
+        files = sorted(glob.glob(f"{sport_dir}/board_*.csv"))[-1:] + sorted(glob.glob(f"{sport_dir}/mlbprops_*.csv"))[-1:]
         if not files: continue
-        b = pd.read_csv(files[-1]).dropna(subset=["over", "under"])
+        b = pd.concat([pd.read_csv(f) for f in files]).dropna(subset=["over", "under"])
         for (pl, mk, ln), g in b.groupby(["player", "market", "line"]):
             dk = g[g.book == "draftkings"]; oth = g[g.book != "draftkings"]; sh = oth[oth.book.isin(["pinnacle", "fanduel"])]
-            if dk.empty or len(oth) < 2 or sh.empty: continue
-            f_sh = np.mean([imp(o) / (imp(o) + imp(u)) for o, u in zip(sh.over, sh.under)])
+            if dk.empty or len(oth) < 2: continue
+            f_sh = np.mean([imp(o) / (imp(o) + imp(u)) for o, u in zip(sh.over, sh.under)]) if len(sh) else np.nan
             f_all = np.mean([imp(o) / (imp(o) + imp(u)) for o, u in zip(oth.over, oth.under)])
             d = dk.iloc[0]
             for side, ps, pa, price in (("over", f_sh, f_all, d.over), ("under", 1 - f_sh, 1 - f_all, d.under)):
+                if pd.isna(price): continue
                 rows.append(dict(sport=d.sport, game=d.game, start=d.start_et, player=pl, market=mk, line=ln, side=side, dk_price=int(price),
-                                 fair_sharp=round(ps, 3), fair_all=round(pa, 3), ev_sharp=round(100 * (ps * dec(price) - 1), 1),
+                                 fair_sharp=round(ps, 3) if ps == ps else None, fair_all=round(pa, 3),
+                                 token_ev_5=round(5 * ((pa * dec(price) - 1) + (1 - pa) * 0.70), 2),
+                                 ev_sharp=round(100 * (ps * dec(price) - 1), 1) if ps == ps else None,
                                  ev_all=round(100 * (pa * dec(price) - 1), 1), n_books=len(oth), snap=d.snap_et))
     r = pd.DataFrame(rows)
     if r.empty: print("no boards for", date); return r
-    q = r[(r.ev_sharp >= min_ev) & (r.ev_all >= 0)].sort_values("ev_sharp", ascending=False)
+    q = r[(r.ev_sharp.fillna(-99) >= min_ev) & (r.ev_all >= 0)].sort_values("ev_sharp", ascending=False)
+    tok = r[(r.dk_price >= 150) & (r.dk_price <= 450) & (r.ev_all >= 0) & (r.n_books >= 2)].sort_values("token_ev_5", ascending=False)
+    print("\nNO-SWEAT TOKEN candidates (+150..+450, fair or better vs all books; EV of a $5 token, refund valued at 70%):")
+    print(tok.head(8)[["sport", "game", "player", "market", "line", "side", "dk_price", "fair_all", "ev_all", "token_ev_5", "n_books"]].to_string(index=False) if len(tok) else "none")
+    tok.to_csv(f"data/edges/{date}_tokens.csv", index=False) if len(tok) and os.path.isdir("data/edges") else None
     os.makedirs("data/edges", exist_ok=True); r.to_csv(f"data/edges/{date}.csv", index=False)
     print(f"{len(r)} DK sides scanned; {len(q)} qualify (EV vs sharp >= {min_ev}% and vs all books >= 0)")
     print(q.head(15).to_string(index=False))
