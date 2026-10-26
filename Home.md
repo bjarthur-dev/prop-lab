@@ -24,6 +24,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[Cloud Pipeline]] — **what runs with the laptop off**: GitHub Actions (results, Scout ingest, watchdog, tests), Claude cloud morning settlement 08:17, Perplexity delivery by GitHub issue
 - [[Afternoon Card Task]] — the daily 14:52 bet card (live pilot, [[Rules]] §9) — create it in the Claude app
 - [[Bankroll]] — live-pilot bankroll and limits
+- [[Laptop Refresh Task]] — keep NBA data current from the laptop (Windows startup/daily, or a Claude task)
 - [[Morning Settlement Task]] — the morning settlement prompt (now a cloud scheduled task)
 - [[Researcher Prompt]] — reusable facts-only researcher + separate falsifying reviewer
 - [[Upgrade Roadmap]] — what to build next, in order
