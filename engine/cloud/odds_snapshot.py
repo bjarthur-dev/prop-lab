@@ -54,6 +54,8 @@ def main():
         return
     now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
+    if tag == "nbaalt":   # on-demand: NBA alternate ladders (one-sided X+ rungs) for parlay building
+        sports = {"nba": ("basketball_nba", "player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate")}
     if tag == "mlbprops":   # on-demand: MLB batter/pitcher props for promo-token hunting (two-sided markets)
         sports = {"mlb": ("baseball_mlb", "batter_rbis,batter_runs_scored,batter_total_bases,batter_home_runs,batter_hits,batter_hits_runs_rbis,pitcher_strikeouts")}
     if tag == "mlbhrr":   # on-demand: MLB batter hits+runs+RBIs and hits (1 credit per market per game)
