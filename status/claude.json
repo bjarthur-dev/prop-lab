@@ -1,10 +1,10 @@
 {
  "morning_settlement": {
-  "last_ok": "2026-10-25T08:33:00-04:00",
-  "date": "2026-10-24",
-  "settled": 17,
-  "flags": 4,
-  "shadow_graded_total": 74
+  "last_ok": "2026-10-26T08:40:03-04:00",
+  "date": "2026-10-25",
+  "settled": 118,
+  "flags": 11,
+  "shadow_graded_total": 282
  },
  "afternoon_card": {
   "last_ok": "2026-10-25T15:35:00-04:00",

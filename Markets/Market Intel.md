@@ -31,6 +31,13 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - Tracker, first night with controls: hypothesis rows 4/6, controls 4/7. H1a Irving was void (b2b rest DNP). Check for rest on the 2nd night of a back-to-back before freezing H1 rows.
 - Yahoo game pages can serve cached in-progress box scores. Accept only pages that show "Final".
 
+### 2026-10-25 (NFL Sunday + 7 NBA), see [[2026-10-25 Review]]
+- NFL WATCH rows went 16–12, but all 5 with a close (SNF only) lost CLV, mean −4.0%. Don't read the hit rate; NFL v1.1 leans where the market doesn't go.
+- Close capture got 1 of 11 NFL games and 0 NBA games. Without closes there's no CLV, so fix the close window before adding more entries.
+- N1 (low RB/TE rec-yds unders) hyp 20/36 vs controls 16/35, net +9.5 ± 7.1 cumulative (noise). The wins are the zero-catch mass; the losses are backs and TEs who drew 3+ targets.
+- Low-line WR overs (Shaheed, A. Mitchell, Meyers) died on injury or one-catch games. Model p of 0.58–0.60 there looks rich.
+- Morning-after box scores: StatMuse game pages are reliable. ESPN/CBS/FOX/Yahoo pages are often frozen pre-game or mid-game, and VAVEL and BVM printed wrong finals.
+
 ## Reference — the break-even table
 | Price | Break-even |
 |---|---:|
