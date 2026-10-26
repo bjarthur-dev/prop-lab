@@ -5,6 +5,8 @@ updated: 2026-10-24
 
 # Cloud Pipeline: what runs with the laptop off
 
+> **2026-10-26: fully laptop-free once the `NBA_API_KEY` secret is set** (API-NBA free plan, 100 requests/day; we use ~13). Daily: 07:07 results (MLB statsapi, NBA box scores via API-NBA → validated against final scores → engine logs, NFL pbp) → 08:17 Claude settlement + shadow grading → 13:37 odds board (one per day) → 14:52 Claude card → **phone alert** (GitHub issue "Card: …") → 18:17 Claude late update (news + DK prices for card games, card updated, new alert) → closes for logged bets. Sunday 11:07 NFL card. The laptop refresh (nba_api) still works and simply replaces the cloud rows with official ones.
+
 **GitHub is the hub.** Everything below runs on GitHub's or Anthropic's or Perplexity's servers and writes into the repo `bjarthur-dev/prop-lab`. The laptop (Obsidian) only reads and edits; it pulls changes when it's on.
 
 | Time (ET) | Who | Job | Writes |
