@@ -83,10 +83,12 @@ The graduation gate in §8 has **not** been met (9 settled paper bets, no CLV re
 - **Price discipline:** bet at the listed price or better. If the line moved past the model's break-even, it's a PASS.
 - **Every live bet is logged before it's placed** (the Record/Bets note + bets.csv row, decision LIVE), with both closing sides captured (Job E or the odds Action).
 - **Kill switch → back to paper:** drawdown ≥ 15% of the starting pilot bankroll (with the $30 roll: below $20, because $1 minimums make 15% only ~4 bets), or after 50 live bets mean CLV ≤ 0, or any bet placed that wasn't logged first.
+- **Price-edge legs (added 2026-10-26):** `engine/edge_scan.py` flags DraftKings sides whose price beats the sharp books' fair odds: EV vs Pinnacle/FanDuel devig ≥ +2% **and** EV vs all-book consensus ≥ 0, with ≥ 2 other books at the same line. These may go **LIVE at $1** (NBA, and NFL/MLB too, since the edge is the price, not our model), within the daily limit, if the model doesn't put the side > 3 pts below break-even. A 2-leg slip is allowed only from two qualifying legs in different games. The late update re-checks each price before tip; if DK moved to a worse price than the qualifying price, it's a PASS. Tracked as its own segment (`reason_code: price_edge`); back to paper if its mean CLV ≤ 0 after 50 bets.
 - **Shadow grading decides when the model is trusted** (`engine/shadow.py` → Record/Shadow/Shadow Report.md grades every priced prop daily, not just bets). The NBA model-health gate (board lean > ±4 pts = no bets) is retuned once **≥ 1,000 graded NBA props** exist: if model or blend skill vs market is ≥ 0 and the over/under lean is explained, the gate relaxes. NFL and MLB go LIVE when their own shadow skill vs market is ≥ 0 over ≥ 500 graded props (plus the 50 paper bets above).
 - **Review at 100 live bets:** if CLV ≥ +1.5% with t > 2, the stakes move toward the §1 sizes (1%); otherwise they don't.
 
 ## Changelog
+- 2026-10-26 v4: price-edge legs (§9) may go LIVE at $1 on any sport.
 - 2026-10-24 v3: added §9 live pilot (NBA only at start, 0.5% stakes, 2%/day, kill switch).
 - 2026-10-23 v2: added §3 items 6–8 (blend ≥ 2 pts, >10-pt disagreement = WATCH, stale-price path) and the WATCH decision.
 - 2026-10-23 v1: created after the 2026-10-22 audit. Supersedes the Daily Workflow "2% cap", the Guide's "Brier < 0.25" and its 300–500 ROI sample, and the probability-blend.
