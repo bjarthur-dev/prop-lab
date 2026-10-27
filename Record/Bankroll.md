@@ -5,8 +5,9 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 25.00     # 2026-10-26 Pick6 2-pick Miller 20+/JJJ 15+ lost (-$5; JJJ left Q2 with knee injury, 6 pts). Settled 2026-10-27
-venues: [DraftKings Pick6]   # 2026-10-26: user has NO DraftKings Sportsbook access -> Pick6 only (sportsbook no-sweat tokens unusable)
+current_bankroll: 44.00     # user report 2026-10-27 09:39 ET: DraftKings $32 + Betr $12 (balances across apps; replaces the $25 tracked figure)
+balances: {draftkings: 32.00, betr: 12.00}
+venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
 stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
 stake_pick6_entry_usd: 1.00
@@ -15,7 +16,7 @@ cash_slip_rule: "under $15 bankroll -> $3 slips until back over $20; at $60+ set
 max_bets_per_day: 3          # $3/day max = 10% of bankroll
 per_game_max_usd: 2.00
 per_player_max_usd: 1.00
-promo_tokens: 4 x $5 no-sweat (DraftKings; check eligible markets, max refund, expiry in app)
+promo_tokens: 0   # user 2026-10-27: no no-sweat tokens left. Do not build token slips.
 kill_switch: "back to paper if current_bankroll < 20.00, or mean CLV <= 0 after 50 live bets, or a bet placed that wasn't on the card"
 user_preference_noted: "user asked for 4 x $5 bets; capped at 3 x $1 because $20/day on a $30 roll risks ruin in 1-2 bad days. Revisit at 50 live bets with CLV data."
 
