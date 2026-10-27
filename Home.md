@@ -41,6 +41,7 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[2026-10-22 TNF + NBA]] — Patriots-Bears + Nuggets-Thunder: the first full two-sport slate
 
 ## The record
+- [[2026-10-26 Review]]: **LIVE 0–1, −$5.00** (Pick6 Miller 20+ ✓ / JJJ 15+ ✗, he left hurt; a discounted line). Paper 3–5. CLV: price_edge legs **+6.8% / +4.9%**, model WATCH legs −4.2% / −3.7%; running 13 entries, −1.5%. Shadow 942 graded (NBA model −4.1%, blend +2.6%; NFL model −2.8%). 10-25 NFL flags settled from pbp (20–15 final). **Bankroll $25.00**
 - [[2026-10-25 Review]]: 0 staked bets; paper-track **18–13, 4 open** (NFL WATCH 16–12, NBA 2–1; +3.35 notional u). CLV only on SNF: 5 entries, all negative, mean **−4.0%**; running CLV 9 entries, −2.6%. Tracker N1 hyp 20/36 vs controls 16/35 (noise). 11 NFL players flagged single-source. Bankroll $30.00
 - [[2026-10-24 Review]]: 0 staked bets; paper-track 1–3 (Mitchell u AST and Harden u REB lost at **+2.5% / +2.0% CLV**, Rasmussen o5.5 K lost at −3.7%; Pick6 HRR slip won, $0). Tracker hyp 4/6 vs controls 4/7. Running CLV 4 entries, −0.95%. Bankroll $30.00
 - [[2026-10-23 Review]] — 0 staked bets; WATCH Misiorowski u6.5 K won (3 K) at **−4.6% CLV**; tracker 4/15 vs market p 0.50 (H1 0/7, H2 1/3, H3-legacy 3/5; noise). Live pilot bankroll $30.00

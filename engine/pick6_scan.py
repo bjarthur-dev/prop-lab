@@ -54,7 +54,9 @@ def load(sport):
     a = pd.concat(frames)
     if "book" not in a or not (a.book == "pick6").any(): return None
     # newest snapshot per book/player/market/line
-    a = a.sort_values("file").drop_duplicates(["book", "player", "market", "line"], keep="last")
+    # newest snapshot only, per book/player/market (older files keep lines the book has since moved)
+    last = a.groupby(["book", "player", "market"])["file"].transform("max")
+    a = a[a.file == last].drop_duplicates(["book", "player", "market", "line"], keep="last")
     return a
 
 def sd_for(sport, player, market, line):
@@ -70,6 +72,10 @@ for sport in SPORTS:
     if a is None:
         print(f"{sport}: no pick6 lines in data/odds/{sport}/{D}/ (dispatch odds.yml tag pick6)"); continue
     p6 = a[(a.book == "pick6") & ~a.market.str.endswith("_alternate")]
+    # one-way Pick6 lines that sit beside a two-way line for the same player/market are DISCOUNTED picks (reduced payout): drop them
+    two = p6[p6.over.notna() & p6.under.notna()][["player", "market"]].drop_duplicates()
+    oneway = p6.over.isna() | p6.under.isna()
+    p6 = p6[~(oneway & p6.set_index(["player", "market"]).index.isin(two.set_index(["player", "market"]).index))]
     books = a[(a.book != "pick6") & ~a.market.str.endswith("_alternate") & a.over.notna() & a.under.notna()]
     for _, r in p6.iterrows():
         g = books[(books.player == r.player) & (books.market == r.market)]

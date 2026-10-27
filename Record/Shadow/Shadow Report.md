@@ -7,38 +7,38 @@ tags: [record, shadow]
 Written by `engine/shadow.py` (morning settlement runs it). Rules §9 uses this to decide when the model-health gate relaxes and when NFL/MLB go live.
 
 ## NBA
-Graded props: **492** over 3 day(s). Over hit rate 0.494 vs market's average 0.493 vs model's 0.445.
-Brier: model 0.2558 · market 0.2440 · blend 0.2396 → **model skill vs market -4.8%**, blend skill +1.8% (positive = better than the market).
+Graded props: **782** over 4 day(s). Over hit rate 0.495 vs market's average 0.495 vs model's 0.461.
+Brier: model 0.2523 · market 0.2424 · blend 0.2360 → **model skill vs market -4.1%**, blend skill +2.6% (positive = better than the market).
 
 | market | n | over hit | market p | model p | model skill vs mkt |
 |---|---:|---:|---:|---:|---:|
-| ast | 132 | 0.462 | 0.493 | 0.443 | -5.9% |
-| pts | 185 | 0.530 | 0.499 | 0.445 | -6.9% |
-| reb | 175 | 0.480 | 0.486 | 0.446 | -1.7% |
+| ast | 207 | 0.464 | 0.492 | 0.453 | -6.3% |
+| pts | 296 | 0.517 | 0.499 | 0.459 | -5.1% |
+| reb | 279 | 0.495 | 0.492 | 0.469 | -1.4% |
 
 Model calibration (P(over)):
 
 | model p bin | n | predicted | actual | market p |
 |---|---:|---:|---:|---:|
-| (0.0, 0.3] | 45 | 0.253 | 0.444 | 0.485 |
-| (0.3, 0.4] | 107 | 0.358 | 0.486 | 0.478 |
-| (0.4, 0.5] | 209 | 0.452 | 0.483 | 0.490 |
-| (0.5, 0.6] | 98 | 0.543 | 0.490 | 0.508 |
-| (0.6, 0.7] | 27 | 0.637 | 0.704 | 0.527 |
-| (0.7, 1.0] | 6 | 0.731 | 0.500 | 0.527 |
+| (0.0, 0.3] | 60 | 0.245 | 0.467 | 0.487 |
+| (0.3, 0.4] | 141 | 0.359 | 0.482 | 0.477 |
+| (0.4, 0.5] | 310 | 0.452 | 0.461 | 0.489 |
+| (0.5, 0.6] | 201 | 0.541 | 0.488 | 0.507 |
+| (0.6, 0.7] | 57 | 0.638 | 0.719 | 0.530 |
+| (0.7, 1.0] | 13 | 0.736 | 0.692 | 0.523 |
 
 Does disagreeing with the market pay? (over hit vs market p, by model−market gap)
 
 | gap bin | n | over hit | market p | hit − market |
 |---|---:|---:|---:|---:|
-| (-1.0, -0.1] | 127 | 0.457 | 0.496 | -3.9 pts |
-| (-0.1, -0.05] | 112 | 0.562 | 0.497 | +6.6 pts |
-| (-0.05, 0.0] | 111 | 0.505 | 0.495 | +1.0 pts |
-| (0.0, 0.05] | 71 | 0.465 | 0.489 | -2.4 pts |
-| (0.05, 0.1] | 41 | 0.439 | 0.482 | -4.3 pts |
-| (0.1, 1.0] | 30 | 0.500 | 0.483 | +1.7 pts |
+| (-1.0, -0.1] | 176 | 0.483 | 0.497 | -1.4 pts |
+| (-0.1, -0.05] | 153 | 0.536 | 0.499 | +3.7 pts |
+| (-0.05, 0.0] | 163 | 0.479 | 0.496 | -1.8 pts |
+| (0.0, 0.05] | 147 | 0.456 | 0.492 | -3.6 pts |
+| (0.05, 0.1] | 84 | 0.488 | 0.488 | -0.0 pts |
+| (0.1, 1.0] | 59 | 0.576 | 0.488 | +8.8 pts |
 
-Noise check: with 492 props one standard error on a hit rate is about ±2.3 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
+Noise check: with 782 props one standard error on a hit rate is about ±1.8 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
 
 ## NFL
 Graded props: **160** over 1 day(s). Over hit rate 0.444 vs market's average 0.500 vs model's 0.520.
