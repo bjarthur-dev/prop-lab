@@ -8,12 +8,12 @@
   "nba_logs_through": "2026-10-26"
  },
  "afternoon_card": {
-  "last_ok": "2026-10-26T15:20:00-04:00",
-  "date": "2026-10-26",
-  "live": 0,
-  "paper": 0,
-  "watch": 3,
-  "tracker_rows": 16,
-  "shadow_rows": 613
+  "last_ok": "2026-10-27T15:15:00-04:00",
+  "date": "2026-10-27",
+  "slips": 1,
+  "legs": 2,
+  "price_edge_legs": 1,
+  "token_picks": 0,
+  "shadow_rows": 273
  }
 }
