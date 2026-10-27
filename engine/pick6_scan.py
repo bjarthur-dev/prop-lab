@@ -86,16 +86,19 @@ for sport in SPORTS:
             if not s: continue
             mu = L - s*norm.ppf(1-pL)
             p_over, how = float(1-norm.cdf((r.line-mu)/s)), f"fit from {L} (sd {s:.1f})"
-        for side, p in [("MORE", p_over), ("LESS", 1-p_over)]:
+        offered = [("MORE", p_over, r.over), ("LESS", 1-p_over, r.under)]
+        for side, p, px in offered:
+            if pd.isna(px): continue   # Pick6 doesn't offer this side (one-way pick)
+            mult = round(1/imp(px)/1.732, 2) if px == px else None   # -137 = standard x1; other prices = boosted/discounted pick
             rows.append(dict(sport=sport, game=r.game, start=r.get("start_et", ""), player=r.player, market=r.market,
                              pick6_line=r.line, side=side, p=round(p, 3), sharp_line=L, sharp_p_over=round(pL, 3),
-                             n_books=int(len(rl)), how=how))
+                             n_books=int(len(rl)), how=how, pick6_price=px, pick_mult=mult))
 if not rows:
     print("no Pick6 picks priced"); sys.exit(0)
 r = pd.DataFrame(rows).sort_values("p", ascending=False)
 os.makedirs("data/edges", exist_ok=True); r.to_csv(f"data/edges/{D}_pick6.csv", index=False)
-good = r[(r.p >= 0.58) & (r.n_books >= 2)]
-print(f"{len(r)//2} Pick6 lines priced; {len(good)} picks at >= 58% (2+ books)")
+good = r[(r.p >= 0.58) & (r.n_books >= 2) & (r.pick_mult.between(0.95, 1.05))]   # standard picks only
+print(f"{len(r)} Pick6 picks priced; {len(good)} standard picks at >= 58% (2+ books)")
 print(good.head(25)[["sport", "player", "market", "pick6_line", "side", "p", "sharp_line", "sharp_p_over", "n_books", "game", "start"]].to_string(index=False))
 # best entries, one pick per game, by joint probability (independent legs)
 top = good.drop_duplicates(["game"]).head(8)

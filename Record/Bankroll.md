@@ -5,8 +5,8 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 30.00
-venues: [DraftKings Sportsbook, DraftKings Pick6]
+current_bankroll: 30.00     # $5 in play: Pick6 2-pick Miller 20+/JJJ 15+ ($5 -> $7.35), settles 2026-10-27 morning
+venues: [DraftKings Pick6]   # 2026-10-26: user has NO DraftKings Sportsbook access -> Pick6 only (sportsbook no-sweat tokens unusable)
 pilot_start: 2026-10-24
 stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
 stake_pick6_entry_usd: 1.00
@@ -20,3 +20,9 @@ kill_switch: "back to paper if current_bankroll < 20.00, or mean CLV <= 0 after 
 user_preference_noted: "user asked for 4 x $5 bets; capped at 3 x $1 because $20/day on a $30 roll risks ruin in 1-2 bad days. Revisit at 50 live bets with CLV data."
 
 Cards show $ stakes from these numbers. Update current_bankroll after each settlement (the morning task does it).
+
+## Goal + plan (user, 2026-10-26)
+goal: "+$30 profit (account at $60) as fast as possible"
+venue: DraftKings Pick6 only
+entry_rule: "one $5 Pick6 entry per day (two on a strong day), STANDARD picks only (no discounted/lowered lines), every pick >= 58-60% by the sharp sportsbook market at Pick6's line; 2-pick (3x) or 3-pick (6x, check app) - whichever has higher EV. Under $15 -> $3 entries. At $60 -> goal hit, set $30 aside."
+method: "engine/pick6_scan.py (Pick6 line vs sharp books) + engine/opportunity.py (minutes/usage/who's out/script) - see System/Pick6 Plan.md"
