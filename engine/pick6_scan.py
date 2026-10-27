@@ -54,7 +54,9 @@ def load(sport):
     a = pd.concat(frames)
     if "book" not in a or not (a.book == "pick6").any(): return None
     # newest snapshot per book/player/market/line
-    a = a.sort_values("file").drop_duplicates(["book", "player", "market", "line"], keep="last")
+    # newest snapshot only, per book/player/market (older files keep lines the book has since moved)
+    last = a.groupby(["book", "player", "market"])["file"].transform("max")
+    a = a[a.file == last].drop_duplicates(["book", "player", "market", "line"], keep="last")
     return a
 
 def sd_for(sport, player, market, line):
