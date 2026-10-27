@@ -70,6 +70,10 @@ for sport in SPORTS:
     if a is None:
         print(f"{sport}: no pick6 lines in data/odds/{sport}/{D}/ (dispatch odds.yml tag pick6)"); continue
     p6 = a[(a.book == "pick6") & ~a.market.str.endswith("_alternate")]
+    # one-way Pick6 lines that sit beside a two-way line for the same player/market are DISCOUNTED picks (reduced payout): drop them
+    two = p6[p6.over.notna() & p6.under.notna()][["player", "market"]].drop_duplicates()
+    oneway = p6.over.isna() | p6.under.isna()
+    p6 = p6[~(oneway & p6.set_index(["player", "market"]).index.isin(two.set_index(["player", "market"]).index))]
     books = a[(a.book != "pick6") & ~a.market.str.endswith("_alternate") & a.over.notna() & a.under.notna()]
     for _, r in p6.iterrows():
         g = books[(books.player == r.player) & (books.market == r.market)]
