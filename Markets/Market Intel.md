@@ -37,6 +37,9 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - N1 (low RB/TE rec-yds unders) hyp 20/36 vs controls 16/35, net +9.5 ± 7.1 cumulative (noise). The wins are the zero-catch mass; the losses are backs and TEs who drew 3+ targets.
 - Low-line WR overs (Shaheed, A. Mitchell, Meyers) died on injury or one-catch games. Model p of 0.58–0.60 there looks rich.
 - Morning-after box scores: StatMuse game pages are reliable. ESPN/CBS/FOX/Yahoo pages are often frozen pre-game or mid-game, and VAVEL and BVM printed wrong finals.
+- 2026-10-26: DK price-edge legs (edge_scan) beat the Pinnacle near-close (Santos u3.5 reb +6.8%, Bridges u14.5 pts +4.9%), while model-only WATCH unders lost (−4.2%, −3.7%). The price is the edge; the model isn't yet.
+- 2026-10-26: Pick6 discounted lines carry ~68% break-even per 2-pick: a $5 entry lost on one leg (JJJ hurt in Q2). Standard lines only.
+- 2026-10-26: API-NBA box scores drop rookies and low-minute players (8 of 18 teams were short). StatMuse/Covers fill them; ESPN boxes are often frozen mid-game.
 
 ## Reference — the break-even table
 | Price | Break-even |

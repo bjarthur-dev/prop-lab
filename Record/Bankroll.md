@@ -5,7 +5,7 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 30.00     # $5 in play: Pick6 2-pick Miller 20+/JJJ 15+ ($5 -> $7.35), settles 2026-10-27 morning
+current_bankroll: 25.00     # 2026-10-26 Pick6 2-pick Miller 20+/JJJ 15+ lost (-$5; JJJ left Q2 with knee injury, 6 pts). Settled 2026-10-27
 venues: [DraftKings Pick6]   # 2026-10-26: user has NO DraftKings Sportsbook access -> Pick6 only (sportsbook no-sweat tokens unusable)
 pilot_start: 2026-10-24
 stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
