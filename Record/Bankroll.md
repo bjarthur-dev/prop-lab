@@ -5,7 +5,7 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 44.00     # user report 2026-10-27 09:39 ET: DraftKings $32 + Betr $12 (balances across apps; replaces the $25 tracked figure)
+current_bankroll: 44.00     # user 2026-10-27: DK $30 start, Pick6 entry refunded (+$5 back), +$2 extra -> DK $32; Betr $12 = new money (assumed)
 balances: {draftkings: 32.00, betr: 12.00}
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
@@ -23,7 +23,7 @@ user_preference_noted: "user asked for 4 x $5 bets; capped at 3 x $1 because $20
 Cards show $ stakes from these numbers. Update current_bankroll after each settlement (the morning task does it).
 
 ## Goal + plan (user, 2026-10-26)
-goal: "+$30 profit (account at $60) as fast as possible"
+goal: "+$30 profit as fast as possible: DK $60 (from $30) / combined $74 (DK + Betr $12 assumed new money)"
 venue: DraftKings Pick6 only
 entry_rule: "one $5 Pick6 entry per day (two on a strong day), STANDARD picks only (no discounted/lowered lines), every pick >= 58-60% by the sharp sportsbook market at Pick6's line; 2-pick (3x) or 3-pick (6x, check app) - whichever has higher EV. Under $15 -> $3 entries. At $60 -> goal hit, set $30 aside."
 method: "engine/pick6_scan.py (Pick6 line vs sharp books) + engine/opportunity.py (minutes/usage/who's out/script) - see System/Pick6 Plan.md"
