@@ -10,7 +10,7 @@ import pandas as pd
 ET = ZoneInfo("America/New_York")
 KEYS = [k for k in (os.environ.get("ODDS_API_KEY_1", ""), os.environ.get("ODDS_API_KEY_2", ""), os.environ.get("ODDS_API_KEY", "")) if k]
 KEY = KEYS[0] if KEYS else ""   # key 1 first; switch to the next key only when one is out of credits (401/429)
-BOOKS = "fanduel,draftkings,betmgm,williamhill_us,espnbet,fanatics,betrivers,pinnacle,betonlineag,bovada"
+BOOKS = "fanduel,draftkings,betmgm,williamhill_us,espnbet,fanatics,betrivers,pinnacle,betonlineag,pick6"   # pick6 = DraftKings Pick6 (us_dfs); 10 books = 1 region, so no extra credits
 TIER = os.environ.get("ODDS_TIER", "free")   # free = 500 credits/month: NBA board (pts/reb/ast) + closes only for games with logged bets
 SPORTS_FREE = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists"),
                "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds"),
@@ -60,6 +60,10 @@ def main():
         sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes,player_points_alternate,player_rebounds_alternate,player_assists_alternate"),
                   "mlb": ("baseball_mlb", "batter_hits_runs_rbis,batter_hits,batter_rbis,batter_runs_scored,batter_total_bases,pitcher_strikeouts"),
                   "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_reception_yds_alternate,player_rush_yds_alternate")}
+    if tag == "pick6":   # on-demand: Pick6 lines + the sportsbooks' main lines for every game in the next WINDOW_MIN minutes (default 12 h)
+        sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
+                  "mlb": ("baseball_mlb", "pitcher_strikeouts,batter_hits,batter_total_bases,batter_hits_runs_rbis"),
+                  "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds")}
     if tag == "nflalt":   # on-demand: NFL alternate yardage/reception ladders (Sundays)
         sports = {"nfl": ("americanfootball_nfl", "player_reception_yds_alternate,player_rush_yds_alternate,player_receptions_alternate")}
     if tag == "mlbprops":   # on-demand: MLB batter/pitcher props for promo-token hunting (two-sided markets)
@@ -101,7 +105,7 @@ def main():
             if t.date().isoformat() != today: continue
             mins = (t - now).total_seconds() / 60
             if tag == "close" and not (0 < mins <= 75): continue
-            if tag == "pregame" and not (0 < mins <= float(os.environ.get("WINDOW_MIN", "150"))): continue
+            if tag in ("pregame", "pick6") and not (0 < mins <= float(os.environ.get("WINDOW_MIN", "150" if tag == "pregame" else "720"))): continue
             if tag != "close" and mins < 0: continue
             sel.append((e, t))
         rows = []
