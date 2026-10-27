@@ -83,7 +83,7 @@ def nba(date, players):
             return (f"{lab}: {len(g)} g, {g.MIN.mean():.1f} min, usg {g.usg.mean():.0f}%, FGA {g.FGA.mean():.1f}, FTA {g.FTA.mean():.1f}, 3PA {g.FG3A.mean():.1f}, "
                     f"{g.PTS.mean():.1f} pts / {g.REB.mean():.1f} reb ({g.OREB.mean():.1f} off) / {g.AST.mean():.1f} ast")
         blk = [f"### {name} ({team})", f"- {s(cur, 'This season')}", f"- {s(pri, 'Last season')}",
-               "- Last 5: " + " | ".join(f"{r.date:%m-%d} {r.MIN:.0f}m usg{r.usg:.0f} {int(r.FGA)}fga {int(r.FTA)}fta {int(r.PTS)}p {int(r.REB)}r {int(r.AST)}a" for _, r in last5.iterrows())]
+               "- Last 5: " + " | ".join(f"{r.date:%m-%d} {r.MIN:.0f}m usg{r.usg:.0f} {int(r.FGA)}fga {int(r.FTA)}fta {int(r.PTS)}p {int(r.REB)}r {int(r.AST)}a" for _, r in last5.fillna(0).iterrows())]
         blk.append(f"- **Out tonight (vacated):** " + ("; ".join(f"{v[0]} {v[1]:.0f} min, usg {v[2]:.0f}%, {v[3]:.1f} pts/{v[4]:.1f} ast/{v[5]:.1f} reb" for v in vac) + f" → ~{vac_usage_min:.1f} usage-minutes freed" if vac else "nobody with recent minutes"))
         if ww: blk.append(ww)
         if b2b: blk.append("- **Back-to-back (2nd night):** minutes/efficiency risk; check for rest")
