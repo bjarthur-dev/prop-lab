@@ -33,6 +33,12 @@ The user's standard: every stat has a reason. Find the reasons (role, shot diet,
 
 `--save` logs every projection to `data/shadow/matchup/DATE.csv` so the morning grading can test it. **It is not trusted until graded:** 200+ props where the context disagrees with the market by ≥ 8 pts must beat the market's Brier score.
 
+## v1.1 (same night)
+- **Who's out:** `--out "Name,Name"` (or engine/out/DATE/outs.csv). For each absent regular it compares the player's past games with vs without him: minutes shift shrunk n/(n+5), per-minute rates shrunk n/(n+20), and no double count when his recent games were already without him.
+- **Skew:** P(over) now uses a negative binomial with the player's own spread plus ~4 min of minutes uncertainty. A normal around the mean had overstated every over by ~9 pts.
+- **Slate lean:** the engine still sits ~+3 to +5 pts over the market on the first slate, because base rates run above the lines. `--slate` reports that lean and ranks **relative** disagreements (gap minus the lean), starters only (24+ min). The shadow grading will fit a proper level correction.
+- **Lesson from the first slate:** the biggest disagreements were bench guards (Daniss Jenkins 8.5 pts → engine 15) driven by *who's out* inputs (Ausar Thompson questionable was passed as OUT). Minutes and availability decide most props; the zone and play-type matchup moves a projection by about ±1 point. **A gap built on an uncertain availability is not a pick.**
+
 ## Known limits (v1)
 - Minutes come from recent games. It doesn't yet know about a new starter or a teammate who is out: use `opportunity.py` (vacated usage, with/without splits) alongside it.
 - Early season: 3–4 games, shrunk toward last season (player k = 8, team k = 10). Roster changes make last season's team defense a weak prior.

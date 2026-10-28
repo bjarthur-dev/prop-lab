@@ -134,6 +134,36 @@ def base(player, date):
     out["sd"] = {s: float((big[s] / big.MIN * out["MIN"]).std()) if len(big) >= 8 else None for s in ["PTS", "REB", "AST", "FG3M"]}
     return out
 
+def absences(player, date, outs):
+    """Teammates OUT tonight: how this player's minutes and per-minute rates changed in past games without each of them.
+    Shrunk by n/(n+5) games. Returns (min_delta, {stat: rate multiplier}, notes)."""
+    d = logs(); D = pd.Timestamp(date); k = norm_name(player)
+    me = d[(d.key == k) & (d.date < D)]
+    if me.empty or not outs: return 0.0, {}, []
+    team = me.TEAM_ABBREVIATION.iloc[-1]; mine = me[me.TEAM_ABBREVIATION == team]
+    tg = d[(d.TEAM_ABBREVIATION == team) & (d.date < D)]
+    dmin, mult, notes = 0.0, {}, []
+    for o in outs:
+        ok = norm_name(o); og = tg[tg.key == ok]
+        if og.empty or og.tail(10).MIN.mean() < 15: continue        # not a regular for this team
+        played = set(og[og.MIN > 0].GAME_ID); team_games = set(tg.GAME_ID)
+        wo = mine[mine.GAME_ID.isin(team_games - played)]; wi = mine[mine.GAME_ID.isin(played)]
+        if len(wo) < 2 or len(wi) < 3: notes.append(f"{o} out: only {len(wo)} games without him (no adjustment)"); continue
+        sh = len(wo) / (len(wo) + 5.0); shr = len(wo) / (len(wo) + 20.0)    # minutes move reliably; per-minute rates are noisy
+        recent = mine.tail(3); already = recent.GAME_ID.isin(team_games - played).mean() if len(recent) else 0.0
+        dm = sh * (wo.MIN.mean() - wi.MIN.mean()) * (1 - already); dmin += dm    # recent games already without him are in the base
+        parts = []
+        for st in ["PTS", "REB", "AST", "FG3M"]:
+            r_wo = wo[st].sum() / wo.MIN.sum(); r_wi = wi[st].sum() / wi.MIN.sum()
+            if r_wi > 0:
+                m_ = 1 + shr * (r_wo / r_wi - 1) * (1 - already); mult[st] = mult.get(st, 1.0) * m_; parts.append(f"{st.lower()}/min x{m_:.2f}")
+        notes.append(f"{o} out ({og.tail(10).MIN.mean():.0f} min): {len(wo)} g without him → {dm:+.1f} min, " + ", ".join(parts))
+    return max(-8.0, min(8.0, dmin)), {k_: max(0.85, min(1.2, v)) for k_, v in mult.items()}, notes
+
+def read_outs(date):
+    f = os.path.join(ROOT, "engine", "out", date, "outs.csv")
+    return list(pd.read_csv(f)["player"]) if os.path.exists(f) else []
+
 # --------------------------------------------------------------- odds: opponent + sharp main lines
 def game_info(date, player, team):
     fs = sorted(glob.glob(os.path.join(ROOT, "data", "odds", "nba", date, "*.csv")))
@@ -162,15 +192,30 @@ def game_info(date, player, team):
                 if r.market == "spreads" and tm.get(r.name) == team: spread = float(r.point)
     return opp, home, lines, spread, total
 
+def p_over(mu, sd, line):
+    """P(X > line) for a count stat: negative binomial with the given mean and sd (right-skewed, discrete),
+    so the mean sitting above the median is handled (a normal around the mean overstates overs)."""
+    from scipy.stats import nbinom, poisson
+    v = max(sd ** 2, mu * 1.05)
+    if mu <= 0: return 0.0
+    n_ = mu ** 2 / (v - mu); q = n_ / (n_ + mu)
+    return float(1 - nbinom.cdf(math.floor(line), n_, q))
+
 # --------------------------------------------------------------- the breakdown
-def breakdown(date, player, opp=None):
+def breakdown(date, player, opp=None, outs=None):
     b = base(player, date)
     if b is None: return f"### {player}\n- no game logs found\n", None
+    outs = outs if outs is not None else read_outs(date)
+    dmin, rmult, anotes = absences(player, date, outs)
+    b["MIN"] = b["MIN"] + dmin
+    for st, m_ in rmult.items(): b[st] = b[st] * m_
     team = b["team"]; opp2, home, lines, spread, total = game_info(date, player, team)
     opp = opp or opp2
     if not opp: return f"### {player} ({team})\n- no game found in today's odds (pass \"{player}@OPP\")\n", None
     L = [f"### {player} ({team}) {'vs' if home else '@'} {opp}" + (f" · spread {spread:+.1f}, total {total}" if spread is not None else "")]
     proj = {}
+    if anotes: L.append("- **Teammates out:** " + "; ".join(anotes))
+    elif not outs: L.append("- **Teammates out:** none given (pass --out \"Name,Name\" or write engine/out/DATE/outs.csv)")
 
     # 1. role
     usg = pval("player_usage", player, "USG_PCT"); touches = pval("player_track_possessions", player, "TOUCHES")
@@ -258,32 +303,57 @@ def breakdown(date, player, opp=None):
     sdmap = {"player_points": "PTS", "player_rebounds": "REB", "player_assists": "AST", "player_threes": "FG3M"}
     out = []
     for mk, mu in proj.items():
-        s = b["sd"].get(sdmap[mk]) or max(1.0, 0.45 * mu)
+        s0 = b["sd"].get(sdmap[mk]) or max(1.0, 0.45 * mu)
+        s = math.sqrt(s0 ** 2 + (mu / max(m, 1) * 4.0) ** 2)      # + ~4 min of minutes uncertainty
         s = max(s, 0.9 if mk == "player_threes" else 1.2)
         if mk in lines:
-            Lm, pm = lines[mk]; pc = 1 - norm.cdf((Lm + 0.5 - 0.5 - mu) / s) if False else 1 - norm.cdf((Lm - mu) / s)
+            Lm, pm = lines[mk]; pc = p_over(mu, s, Lm)
             out.append(f"{mk.replace('player_', '')} **{mu:.1f}** (line {Lm}: context {100*pc:.0f}% over vs market {100*pm:.0f}%"
                        + (" ← gap, explain it" if abs(pc - pm) >= 0.08 else "") + ")")
             proj[mk] = (mu, s, Lm, pc, pm)
         else:
             out.append(f"{mk.replace('player_', '')} {mu:.1f}")
     L.append("- **Context projection:** " + " · ".join(out))
+    proj["_min"] = m
     L.append(f"- *Sample:* {b['gp_cur']} games this season (shrunk toward last season); team defense numbers are partly noise this early.")
     return "\n".join(L) + "\n", proj
 
 if __name__ == "__main__":
-    args = [a for a in sys.argv[1:] if a != "--save"]; save = "--save" in sys.argv
+    argv = sys.argv[1:]; outs = None
+    if "--out" in argv:
+        i = argv.index("--out"); outs = [x.strip() for x in argv[i + 1].split(",") if x.strip()]; del argv[i:i + 2]
+    slate = "--slate" in argv
+    args = [a for a in argv if a not in ("--save", "--slate")]; save = "--save" in argv or slate
     D = args[0]; rows = []
-    for arg in args[1:]:
+    names = args[1:]
+    if slate:   # every player with a points line in the newest odds file for D
+        fs = [f for f in sorted(glob.glob(os.path.join(ROOT, "data", "odds", "nba", D, "*.csv"))) if not os.path.basename(f).startswith("games_")]
+        o = pd.read_csv(fs[-1]); names = sorted(o[o.market == "player_points"].player.dropna().unique())
+    texts = []
+    for arg in names:
         name, _, opp = arg.partition("@")
-        txt, proj = breakdown(D, name.strip(), opp.strip() or None)
-        print(txt)
+        txt, proj = breakdown(D, name.strip(), opp.strip() or None, outs)
+        texts.append(txt)
+        if not slate: print(txt)
         for mk, v in (proj or {}).items():
             if isinstance(v, tuple):
                 rows.append(dict(date=D, player=name.strip(), market=mk, ctx_mean=round(v[0], 2), sd=round(v[1], 2), line=v[2],
+                                 proj_min=round(proj.get("_min", 0), 1),
                                  p_ctx=round(v[3], 3), p_mkt=round(v[4], 3), model_version="matchup v1"))
     if save and rows:   # shadow log: graded later vs results, like the NBA engine (proves or disproves the "why")
         out = os.path.join(ROOT, "data", "shadow", "matchup"); os.makedirs(out, exist_ok=True)
         f = os.path.join(out, f"{D}.csv"); old = pd.read_csv(f) if os.path.exists(f) else pd.DataFrame()
         pd.concat([old, pd.DataFrame(rows)]).drop_duplicates(["player", "market", "line"], keep="last").to_csv(f, index=False)
         print(f"saved {len(rows)} rows -> {f}")
+    if rows:
+        r = pd.DataFrame(rows); r["gap"] = r.p_ctx - r.p_mkt
+        lean = r.groupby("market").gap.transform("mean")      # the engine's slate-wide lean (level bias) per market
+        r["rel_gap"] = r.gap - lean
+        print("\nSlate lean (context − market, avg):", ", ".join(f"{m.replace('player_', '')} {100*v:+.1f}" for m, v in r.groupby("market").gap.mean().items()))
+        print("Biggest RELATIVE disagreements (after removing the lean) - each needs a reason before it becomes a pick:")
+        stable = r[r.proj_min >= 24]   # bench minutes are the engine's weakest input: only starters/stable roles are listed
+        print(f"(listing players projected 24+ min only: {stable.player.nunique()} of {r.player.nunique()})")
+        top = stable.reindex(stable.rel_gap.abs().sort_values(ascending=False).index).head(15)
+        for _, x in top.iterrows():
+            side = "OVER" if x.rel_gap > 0 else "UNDER"
+            print(f"  {x.player:24s} {x.market.replace('player_', ''):9s} {x.line:5.1f} {side:5s} context {100*x.p_ctx:.0f}% vs market {100*x.p_mkt:.0f}% (rel {100*x.rel_gap:+.0f})")
