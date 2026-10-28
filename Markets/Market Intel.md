@@ -40,6 +40,10 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-10-26: DK price-edge legs (edge_scan) beat the Pinnacle near-close (Santos u3.5 reb +6.8%, Bridges u14.5 pts +4.9%), while model-only WATCH unders lost (−4.2%, −3.7%). The price is the edge; the model isn't yet.
 - 2026-10-26: Pick6 discounted lines carry ~68% break-even per 2-pick: a $5 entry lost on one leg (JJJ hurt in Q2). Standard lines only.
 - 2026-10-26: API-NBA box scores drop rookies and low-minute players (8 of 18 teams were short). StatMuse/Covers fill them; ESPN boxes are often frozen mid-game.
+- 2026-10-27: Off-card Pick6 entries are 0–2 (−$10 gross): Tatum LESS 25.5 on a −12.5 spread lost to a 1-point OT game (40 pts). Blowout-spread unders carry overtime/close-game tail risk the spread doesn't price.
+- 2026-10-27: Price-edge CLV is now 4 for 4 positive (Thybulle o1.5 3PM +13.8% vs FD at T−4 h; DK itself moved +149 → +129), but 2 of the 4 were never placed. The segment needs placed bets, not just logged ones.
+- 2026-10-27: The PASSed Cade 8+ / Reaves 7+ slip would have won (8 and 7 exactly). The pass was right on price (both legs moved past break-even); don't re-grade decisions by one outcome.
+- 2026-10-27: CBS and plaintextsports box pages are often frozen mid-game the next morning; StatMuse + FOX/AP recaps were the reliable second sources.
 
 ## Reference — the break-even table
 | Price | Break-even |
