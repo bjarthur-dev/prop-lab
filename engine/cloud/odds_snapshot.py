@@ -12,7 +12,7 @@ KEYS = [k for k in (os.environ.get("ODDS_API_KEY_1", ""), os.environ.get("ODDS_A
 KEY = KEYS[0] if KEYS else ""   # key 1 first; switch to the next key only when one is out of credits (401/429)
 BOOKS = "fanduel,draftkings,betmgm,williamhill_us,espnbet,fanatics,betrivers,pinnacle,betonlineag,pick6"   # pick6 = DraftKings Pick6 (us_dfs); 10 books = 1 region, so no extra credits
 TIER = os.environ.get("ODDS_TIER", "free")   # free = 500 credits/month: NBA board (pts/reb/ast) + closes only for games with logged bets
-SPORTS_FREE = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists"),
+SPORTS_FREE = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
                "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds"),
                "mlb": ("baseball_mlb", "pitcher_strikeouts,pitcher_outs")}   # 1 World Series game = 2 credits
 SPORTS = {
@@ -57,7 +57,7 @@ def main():
     if tag == "nbaalt":   # on-demand: NBA alternate ladders (one-sided X+ rungs) for parlay building
         sports = {"nba": ("basketball_nba", "player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate")}
     if tag == "pregame":   # on-demand: main + alternate props for games starting in the next WINDOW_MIN minutes (all games, not just bet games)
-        sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes,player_points_alternate,player_rebounds_alternate,player_assists_alternate"),
+        sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),   # alt ladders dropped 2026-10-28 (alt rungs paper-only)
                   "mlb": ("baseball_mlb", "batter_hits_runs_rbis,batter_hits,batter_rbis,batter_runs_scored,batter_total_bases,pitcher_strikeouts"),
                   "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_reception_yds_alternate,player_rush_yds_alternate")}
     if tag == "pick6":   # on-demand: Pick6 lines + the sportsbooks' main lines for every game in the next WINDOW_MIN minutes (default 12 h)
