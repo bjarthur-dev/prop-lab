@@ -11,6 +11,12 @@ Goal: grow as fast as the math allows without likely going broke. Realistic mont
 ## Matchup layer (added 2026-10-27, user's standard)
 For EVERY candidate leg run `python engine/nba/matchup.py D --save "Player" ...` (needs today's odds file) next to `engine/opportunity.py`, and write the leg's reason from it: role/usage, shot diet vs this defense's zones, play types vs this defense, pace, rebound pool / assist conversion, defenders. A leg where context and market agree AND the price is good is the best leg. A leg where they disagree by ≥ 8 pts needs a stated reason (minutes change, absence, scheme) or it is dropped. See [[Matchup Engine]].
 
+## Evidence check 2026-10-28 (engine/edge_grade.py, every qualifying leg graded, not just placed ones)
+- **Main-line price edges** (DK beats the Pinnacle/FD fair by >= 2% and the consensus): 8 legs, 3-5, but **CLV +3.8%, positive on 7 of 8**. The market moves toward these, so this is the method with real evidence. **The day's cash goes here first.**
+- **Alt-ladder rungs** (fitted from the main line, DK cheaper than the other books): **42 legs, -28% ROI vs +9% expected (about 3 SE below)**. The fitted EV is overstated, and on 10-27 Pick6's flat -137 was counted as an "other book" (fixed). **Paper only** until 100 more graded rungs show ROI >= 0.
+- Pick6 promo entries built on the fly (Tatum/Harper 10-27): not on the card, lost. **Only bet what the card lists.**
+- Blowout/rest unders on stars (H3): 7-5 on 12 so far, high variance (Tatum 40 in OT). Never the only reason for a leg.
+
 ## Ranked methods (best first)
 1. **No-sweat tokens / profit boosts.** Each $5 token is worth ~$2.20–2.75 in expected cash when placed on a single at **+200 to +400** that is fair or better vs other books (EV = S·[(p·D − 1) + (1 − p)·0.70]). Four tokens ≈ **+$9–11**. One token per independent event; never two on correlated outcomes. Check each token's eligible market and max refund first.
 2. **Bonus-bet refunds:** use within 7 days, **unhedged**, on fair-or-better singles at **+300 to +500** (~70–75% conversion). Bonus stake isn't returned on a win.

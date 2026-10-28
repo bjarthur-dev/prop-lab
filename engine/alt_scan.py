@@ -9,6 +9,7 @@ def dec(a): a=float(a); return 1+a/100 if a>0 else 1+100/-a
 D=sys.argv[1] if len(sys.argv)>1 else "2026-10-26"
 main=pd.read_csv(sorted(glob.glob(f"data/odds/nba/{D}/board_*.csv"))[-1]).dropna(subset=["over","under"])
 alt=pd.read_csv(sorted(glob.glob(f"data/odds/nba/{D}/nbaalt_*.csv"))[-1])
+alt=alt[alt.book!="pick6"]; main=main[main.book!="pick6"]   # Pick6 posts flat -137 on every rung: not a sportsbook price
 MK={"player_points":"PTS","player_rebounds":"REB","player_assists":"AST","player_threes":"FG3M"}
 logs=pd.concat([pd.read_csv(f) for f in ["engine/data/players_2025-26.csv","engine/data/players_2026-27.csv"]])
 logs=logs[logs.MIN>=20]; logs["key"]=logs.PLAYER_NAME.map(norm_name)

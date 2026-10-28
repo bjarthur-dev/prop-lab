@@ -6,7 +6,7 @@ Questions it answers: does the model beat the market (Brier skill vs devigged ma
 This is the evidence that decides when the model-health gate can relax and when NFL/MLB can go live (Rules §9)."""
 import os, sys, glob
 import numpy as np, pandas as pd
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "nba"))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "nba")); sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import norm_name
 
 COL = {"pts": "PTS", "reb": "REB", "ast": "AST", "fg3m": "FG3M"}
@@ -128,6 +128,10 @@ def main():
     m = grade_matchup()
     if len(m): m.to_csv("data/shadow/matchup_graded.csv", index=False)
     lines += [""] + (report(m, "NBA matchup engine v1 (context vs market)") if len(m) else ["## NBA matchup engine v1", "No graded props yet."])
+    try:
+        import edge_grade; edge_grade.main()      # price-edge + alt-rung method report (Record/Shadow/Price Edge Report.md)
+    except Exception as e:
+        lines += ["", f"(price-edge grading failed: {e})"]
     open("Record/Shadow/Shadow Report.md", "w").write("\n".join(lines) + "\n")
     print("\n".join(lines[8:]))
 
