@@ -82,6 +82,9 @@ def main():
     if TIER != "paid" and tag == "close":
         try:
             b = pd.read_csv("Record/bets.csv"); bet_games = set(b[b["date"] == today]["notes"].astype(str))
+            if os.path.exists(f"data/edges/{today}.csv"):   # also every qualifying price-edge leg's game, so its CLV can be graded
+                e = pd.read_csv(f"data/edges/{today}.csv")
+                bet_games |= set(e[(e.ev_sharp.fillna(-99) >= 2) & (e.ev_all >= 0)]["game"].astype(str))
         except Exception: pass
         if not bet_games: return
     for sp, (key, markets) in sports.items():
