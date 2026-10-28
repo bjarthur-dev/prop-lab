@@ -9,3 +9,4 @@ engine/data/*
 engine/out/*/
 __pycache__/
 engine/out/nfl_backtest_rows.csv
+engine/out/update_nba_data.log
