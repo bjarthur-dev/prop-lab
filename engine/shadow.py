@@ -34,6 +34,27 @@ def grade_nba():
             rows.append(dict(r, actual=v, hit=float(v > r["line"]), status="graded"))
     return pd.DataFrame(rows)
 
+MCOL = {"player_points": "PTS", "player_rebounds": "REB", "player_assists": "AST", "player_threes": "FG3M"}
+
+def grade_matchup():
+    """NBA matchup engine v1 (engine/nba/matchup.py --save): context P(over) vs market fair, graded vs results."""
+    acts = nba_actuals(); rows = []
+    for f in sorted(glob.glob("data/shadow/matchup/*.csv")):
+        s = pd.read_csv(f)
+        if s.empty or acts is None: continue
+        date = str(s["date"].iloc[0])
+        if date > acts["date"].max(): continue
+        a = acts[acts["date"] == date].copy(); a = a.set_index("key")
+        for _, r in s.iterrows():
+            col = MCOL.get(r["market"]); k = norm_name(r["player"])
+            if col is None: continue
+            base = dict(date=date, player=r["player"], market=r["market"].replace("player_", ""), line=r["line"],
+                        p_model=r["p_ctx"], p_market=r["p_mkt"])
+            if k not in a.index: rows.append(dict(base, actual=np.nan, hit=np.nan, status="DNP/void")); continue
+            v = a.loc[k, col]; v = float(v.iloc[0] if isinstance(v, pd.Series) else v)
+            rows.append(dict(base, actual=v, hit=float(v > r["line"]), status="graded"))
+    return pd.DataFrame(rows)
+
 def nfl_actuals(season=2026):
     f = f"engine/data/nfl/pbp_{season}_slim.csv.gz"
     if not os.path.exists(f): return None
@@ -104,6 +125,9 @@ def main():
     n = grade_nfl()
     if len(n): n.to_csv("data/shadow/nfl_graded.csv", index=False)
     lines += [""] + (report(n, "NFL") if len(n) else ["## NFL", "No graded props yet (play-by-play for the logged dates isn't in yet; the results Action refreshes it Mon/Tue/Fri)."])
+    m = grade_matchup()
+    if len(m): m.to_csv("data/shadow/matchup_graded.csv", index=False)
+    lines += [""] + (report(m, "NBA matchup engine v1 (context vs market)") if len(m) else ["## NBA matchup engine v1", "No graded props yet."])
     open("Record/Shadow/Shadow Report.md", "w").write("\n".join(lines) + "\n")
     print("\n".join(lines[8:]))
 
