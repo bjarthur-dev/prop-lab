@@ -8,6 +8,9 @@ source: "Deep research 2026-10-26 (promos, alt lines, SGPs, Pick6, Kelly) — se
 
 Goal: grow as fast as the math allows without likely going broke. Realistic month: median ~$38–45 from $30; doubling needs luck, not a method.
 
+## Matchup layer (added 2026-10-27, user's standard)
+For EVERY candidate leg run `python engine/nba/matchup.py D --save "Player" ...` (needs today's odds file) next to `engine/opportunity.py`, and write the leg's reason from it: role/usage, shot diet vs this defense's zones, play types vs this defense, pace, rebound pool / assist conversion, defenders. A leg where context and market agree AND the price is good is the best leg. A leg where they disagree by ≥ 8 pts needs a stated reason (minutes change, absence, scheme) or it is dropped. See [[Matchup Engine]].
+
 ## Ranked methods (best first)
 1. **No-sweat tokens / profit boosts.** Each $5 token is worth ~$2.20–2.75 in expected cash when placed on a single at **+200 to +400** that is fair or better vs other books (EV = S·[(p·D − 1) + (1 − p)·0.70]). Four tokens ≈ **+$9–11**. One token per independent event; never two on correlated outcomes. Check each token's eligible market and max refund first.
 2. **Bonus-bet refunds:** use within 7 days, **unhedged**, on fair-or-better singles at **+300 to +500** (~70–75% conversion). Bonus stake isn't returned on a win.

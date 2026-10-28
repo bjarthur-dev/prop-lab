@@ -1,0 +1,36 @@
+date,player,market,ctx_mean,sd,line,p_ctx,p_mkt,model_version
+2026-10-27,Jayson Tatum,player_points,22.75,5.94,25.5,0.322,0.51,matchup v1
+2026-10-27,Jayson Tatum,player_rebounds,9.46,3.88,8.5,0.598,0.467,matchup v1
+2026-10-27,Jayson Tatum,player_assists,6.41,3.05,6.5,0.488,0.481,matchup v1
+2026-10-27,Jayson Tatum,player_threes,2.6,1.41,3.5,0.262,0.383,matchup v1
+2026-10-27,Dylan Harper,player_points,16.81,6.15,17.5,0.456,0.483,matchup v1
+2026-10-27,Dylan Harper,player_rebounds,4.53,1.72,4.5,0.506,0.534,matchup v1
+2026-10-27,Dylan Harper,player_assists,4.64,2.68,3.5,0.665,0.597,matchup v1
+2026-10-27,Dylan Harper,player_threes,1.18,1.16,1.5,0.391,0.41,matchup v1
+2026-10-27,Jalen Brunson,player_points,23.7,7.03,24.5,0.455,0.529,matchup v1
+2026-10-27,Jalen Brunson,player_rebounds,3.33,1.79,3.5,0.463,0.408,matchup v1
+2026-10-27,Jalen Brunson,player_assists,5.32,2.86,5.5,0.475,0.537,matchup v1
+2026-10-27,Jalen Brunson,player_threes,2.19,1.69,1.5,0.659,0.621,matchup v1
+2026-10-27,Cade Cunningham,player_points,21.67,6.85,22.5,0.452,0.533,matchup v1
+2026-10-27,Cade Cunningham,player_rebounds,5.37,2.62,5.5,0.48,0.443,matchup v1
+2026-10-27,Cade Cunningham,player_assists,8.71,3.25,8.5,0.525,0.467,matchup v1
+2026-10-27,Cade Cunningham,player_threes,1.88,1.51,1.5,0.6,0.589,matchup v1
+2026-10-27,Paul Reed Jr,player_points,10.45,5.0,11.5,0.417,0.537,matchup v1
+2026-10-27,Paul Reed Jr,player_rebounds,7.06,1.47,8.5,0.164,0.432,matchup v1
+2026-10-27,Paul Reed Jr,player_assists,1.87,1.2,2.5,0.299,0.396,matchup v1
+2026-10-27,Paul Reed Jr,player_threes,0.34,0.9,0.5,0.431,0.314,matchup v1
+2026-10-27,Luka Doncic,player_points,33.73,7.85,32.5,0.562,0.496,matchup v1
+2026-10-27,Luka Doncic,player_rebounds,7.15,2.75,7.5,0.449,0.48,matchup v1
+2026-10-27,Luka Doncic,player_assists,8.08,2.77,7.5,0.583,0.499,matchup v1
+2026-10-27,Luka Doncic,player_threes,4.26,1.91,3.5,0.655,0.504,matchup v1
+2026-10-27,Matisse Thybulle,player_points,8.03,4.69,5.5,0.706,0.524,matchup v1
+2026-10-27,Matisse Thybulle,player_rebounds,2.33,2.34,2.5,0.47,0.441,matchup v1
+2026-10-27,Matisse Thybulle,player_threes,1.83,1.07,1.5,0.622,0.457,matchup v1
+2026-10-27,Austin Reaves,player_points,24.71,8.0,23.5,0.56,0.449,matchup v1
+2026-10-27,Austin Reaves,player_rebounds,3.9,2.29,3.5,0.569,0.49,matchup v1
+2026-10-27,Austin Reaves,player_assists,5.76,2.95,5.5,0.535,0.513,matchup v1
+2026-10-27,Austin Reaves,player_threes,2.47,1.44,2.5,0.491,0.387,matchup v1
+2026-10-27,Victor Wembanyama,player_points,25.62,9.43,26.5,0.463,0.5,matchup v1
+2026-10-27,Victor Wembanyama,player_rebounds,12.04,3.51,11.5,0.561,0.465,matchup v1
+2026-10-27,Victor Wembanyama,player_assists,3.21,1.84,2.5,0.651,0.547,matchup v1
+2026-10-27,Victor Wembanyama,player_threes,1.85,1.92,1.5,0.573,0.563,matchup v1
