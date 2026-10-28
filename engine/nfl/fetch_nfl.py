@@ -7,7 +7,7 @@ import pandas as pd
 OUT = "engine/data/nfl"
 SEASONS = [2023, 2024, 2025, 2026]
 URLS = ["https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_{y}.csv.gz"]
-KEEP = ["game_id", "season", "week", "season_type", "game_date", "home_team", "away_team", "posteam", "defteam",
+KEEP = ["game_id", "play_id", "season", "week", "season_type", "game_date", "home_team", "away_team", "posteam", "defteam",
         "spread_line", "total_line", "home_score", "away_score", "roof", "wind", "temp", "weather",
         "play_type", "pass_attempt", "rush_attempt", "complete_pass", "sack", "qb_dropback", "qb_scramble",
         "yards_gained", "air_yards", "yards_after_catch", "receiving_yards", "rushing_yards", "yardline_100",

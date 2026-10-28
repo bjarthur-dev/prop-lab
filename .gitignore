@@ -3,6 +3,7 @@
 .trash/
 engine/data/*
 !engine/data/nfl/
+!engine/data/context/
 !engine/data/players_*.csv
 !engine/data/teams_*.csv
 !engine/data/positions.csv

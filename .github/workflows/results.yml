@@ -31,7 +31,7 @@ jobs:
         run: python engine/cloud/autosettle.py ${{ inputs.date }} && python engine/tracker.py | tail -25
       - name: Refresh NFL play-by-play (Mon/Tue/Fri)
         run: |
-          case "$(TZ=America/New_York date +%u)" in 1|2|5) python engine/nfl/fetch_nfl.py || echo "nflverse refresh failed (non-fatal)";; *) echo "skip";; esac
+          case "$(TZ=America/New_York date +%u)" in 1|2|5) (python engine/nfl/fetch_nfl.py && python engine/nfl/fetch_context.py 2026) || echo "nflverse refresh failed (non-fatal)";; *) echo "skip";; esac
       - name: Commit
         if: always()
         env: { COMMIT_MSG: "bot: results + autosettle" }
