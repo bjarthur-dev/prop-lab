@@ -1,0 +1,101 @@
+date,game,team,player,min,pts,reb,ast,fg3m,fg3a,oreb,dreb,stl,blk,tov,team_final,source
+2026-10-28,WAS@CLE,CLE,Jarrett Allen,30.0,8,12,2,0,0,2,10,1,3,0,121,api-sports game 16998
+2026-10-28,WAS@CLE,CLE,Evan Mobley,32.0,24,12,2,5,6,3,9,0,0,3,121,api-sports game 16998
+2026-10-28,WAS@CLE,CLE,James Harden,34.0,16,2,6,2,10,0,2,1,0,2,121,api-sports game 16998
+2026-10-28,WAS@CLE,CLE,Donovan Mitchell,31.0,19,5,7,2,5,1,4,2,0,5,121,api-sports game 16998
+2026-10-28,WAS@CLE,CLE,Peyton Watson,28.0,22,6,2,1,4,5,1,0,1,2,121,api-sports game 16998
+2026-10-28,WAS@CLE,CLE,Sam Merrill,20.0,8,1,1,2,6,0,1,1,0,0,121,api-sports game 16998
+2026-10-28,WAS@CLE,CLE,Jaylon Tyson,21.0,7,1,2,1,2,0,1,1,0,1,121,api-sports game 16998
+2026-10-28,WAS@CLE,CLE,T. Proctor,6.0,2,1,1,0,0,1,0,0,0,0,121,api-sports game 16998
+2026-10-28,CHA@DET,CHA,Moussa Diabate,35.0,9,9,2,0,0,5,4,0,1,5,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,Brandon Miller,38.0,31,12,3,3,10,1,11,2,0,3,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,Naz Reid,13.0,7,6,0,1,1,1,5,0,1,1,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,Dennis Schroder,34.0,14,4,5,2,3,2,2,0,0,5,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,S. James,23.0,5,2,3,1,6,0,2,1,0,0,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,Royce O'Neale,34.0,9,4,0,3,8,0,4,1,0,0,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,Tidjane Salaun,12.0,2,2,0,0,0,0,2,0,0,0,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,R. Kalkbrenner,13.0,1,1,1,0,0,0,1,1,1,2,89,api-sports game 16999
+2026-10-28,CHA@DET,CHA,Grayson Allen,30.0,9,5,2,2,6,0,5,2,2,5,89,api-sports game 16999
+2026-10-28,ORL@TOR,TOR,RJ Barrett,32.0,25,9,6,3,7,2,7,1,0,0,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Scottie Barnes,31.0,28,6,4,0,2,1,5,3,2,2,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Jakob Poeltl,10.0,2,2,0,0,0,0,2,0,0,1,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Immanuel Quickley,29.0,16,3,7,4,8,0,3,2,0,1,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Ja'Kobe Walter,28.0,14,5,2,3,7,1,4,1,0,0,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Kyle Anderson,5.0,0,0,1,0,0,0,0,1,0,0,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Trayce JacksonDavis,20.0,6,11,2,0,0,2,9,0,3,0,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Jamison Battle,20.0,7,0,1,1,3,0,0,2,0,1,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,C. Murray-Boyles,15.0,10,2,1,2,3,0,2,0,0,3,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,Jamal Shead,23.0,13,4,7,1,2,1,3,2,0,4,129,api-sports game 17001
+2026-10-28,ORL@TOR,TOR,A. Martin,5.0,5,1,1,1,2,0,1,0,0,0,129,api-sports game 17001
+2026-10-28,HOU@MIL,MIL,Kyle Kuzma,18.0,4,6,1,0,2,2,4,1,0,1,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Jamie Jr. Jaquez,27.0,19,4,2,3,6,2,2,1,0,1,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Myles Turner,22.0,4,2,2,0,5,0,2,1,2,2,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Tyler Herro,27.0,23,3,0,4,6,0,3,1,0,2,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Ryan Rollins,17.0,4,4,5,0,3,1,3,1,0,1,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Ousmane Dieng,13.0,4,0,0,0,1,0,0,1,0,0,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Jericho Sims,7.0,0,0,0,0,0,0,0,0,0,0,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Kel'el Ware,17.0,6,8,0,0,3,5,3,0,0,1,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,Gary Trent Jr.,7.0,3,0,0,1,2,0,0,0,0,0,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,A.J. Green,24.0,9,1,2,3,5,0,1,0,0,1,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,B. Burries,17.0,10,5,1,0,2,2,3,1,0,2,100,api-sports game 17003
+2026-10-28,HOU@MIL,MIL,K. Jakucionis,19.0,4,2,6,0,2,0,2,0,0,3,100,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Kevin Durant,31.0,18,5,4,2,3,1,4,0,3,3,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Jabari Smith Jr.,30.0,14,2,2,3,6,0,2,1,1,0,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Tari Eason,31.0,5,9,1,1,3,1,8,1,3,3,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Fred VanVleet,29.0,24,6,5,4,9,0,6,2,0,3,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Amen Thompson,33.0,23,4,3,0,2,1,3,1,0,1,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Jae'Sean Tate,4.0,0,0,0,0,0,0,0,0,0,0,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Isaiah Crawford,5.0,3,0,0,1,1,0,0,0,0,0,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Clint Capela,22.0,10,8,2,0,0,3,5,3,2,2,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Oscar Tshiebwe,14.0,7,5,2,0,0,1,4,1,1,1,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Bogdan Bogdanovic,15.0,16,2,4,4,5,0,2,2,0,1,132,api-sports game 17003
+2026-10-28,HOU@MIL,HOU,Reed Sheppard,23.0,7,3,4,1,8,1,2,1,0,0,132,api-sports game 17003
+2026-10-28,GSW@MIN,GSW,Draymond Green,32.0,3,9,6,0,0,2,7,0,2,3,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,Georges Niang,23.0,7,3,2,1,3,1,2,2,0,1,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,Stephen Curry,32.0,44,8,6,6,16,1,7,2,0,2,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,Brandin Podziemski,32.0,8,5,6,0,1,0,5,0,0,2,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,Al Horford,18.0,4,5,2,0,0,2,3,1,1,1,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,Charles Bassey,2.0,0,0,0,0,0,0,0,0,0,0,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,Gary Payton II,10.0,2,2,1,0,0,1,1,0,0,0,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,De'Anthony Melton,20.0,8,6,0,2,4,2,4,1,1,1,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,Brandon Williams,14.0,11,3,1,0,4,0,3,0,0,0,119,api-sports game 17004
+2026-10-28,GSW@MIN,GSW,W. Richard,23.0,6,3,0,0,2,2,1,0,0,0,119,api-sports game 17004
+2026-10-28,DEN@NOP,DEN,Aaron Gordon,31.0,15,11,3,2,6,0,11,1,0,0,104,api-sports game 17005
+2026-10-28,DEN@NOP,DEN,Nikola Jokic,34.0,21,13,10,0,0,2,11,1,0,7,104,api-sports game 17005
+2026-10-28,DEN@NOP,DEN,Jamal Murray,38.0,23,1,6,5,11,0,1,0,2,1,104,api-sports game 17005
+2026-10-28,DEN@NOP,DEN,Christian Braun,36.0,15,0,4,3,8,0,0,3,1,2,104,api-sports game 17005
+2026-10-28,DEN@NOP,DEN,Marvin Bagley III,19.0,8,5,1,0,1,0,5,1,1,1,104,api-sports game 17005
+2026-10-28,DEN@NOP,DEN,DeMar DeRozan,26.0,6,2,5,0,0,0,2,2,0,1,104,api-sports game 17005
+2026-10-28,DEN@NOP,DEN,Tyus Jones,11.0,5,0,1,1,2,0,0,2,0,1,104,api-sports game 17005
+2026-10-28,OKC@DAL,OKC,Isaiah Hartenstein,26.0,10,14,3,0,0,4,10,0,0,2,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,Kenrich Williams,17.0,7,3,0,1,3,2,1,0,0,1,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,Shai Gilgeous-Alexander,28.0,21,6,2,1,6,2,4,1,0,1,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,Jared McCain,29.0,10,4,4,0,6,1,3,0,0,3,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,Ajay Mitchell,28.0,29,4,3,2,5,0,4,2,1,2,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,Jaylin Williams,20.0,0,5,1,0,2,0,5,0,0,0,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,B. Barnhizer,14.0,3,2,0,0,1,1,1,0,0,0,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,A. Mara,21.0,6,3,1,0,0,1,2,0,2,3,96,api-sports game 17007
+2026-10-28,OKC@DAL,OKC,M. Peavy,5.0,0,0,0,0,0,0,0,0,0,0,96,api-sports game 17007
+2026-10-28,LAL@LAC,LAC,Derrick Jones Jr.,28.0,15,5,0,3,5,3,2,4,2,2,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,Isaiah Jackson,19.0,4,5,1,0,0,2,3,1,0,3,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,Kris Dunn,27.0,5,3,3,1,2,1,2,1,0,3,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,Darius Garland,26.0,14,1,5,1,3,1,0,1,0,5,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,K. Sanders,27.0,9,4,0,1,5,0,4,3,0,0,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,Brook Lopez,22.0,2,3,3,0,2,1,2,0,0,1,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,Jalen Pickett,8.0,4,1,1,0,1,0,1,0,0,0,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,Cam Christie,14.0,2,0,0,0,2,0,0,1,0,1,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,Gradey Dick,19.0,5,5,0,1,3,1,4,0,0,3,87,api-sports game 17008
+2026-10-28,LAL@LAC,LAC,K. Wagler,28.0,21,4,2,3,8,1,3,1,1,3,87,api-sports game 17008
+2026-10-28,CHA@DET,CHA,Christian Anderson,9.0,2,0,1,0,1,0,0,0,0,2,89,https://www.statmuse.com/nba/game/10-28-2026-cha-at-det-78696 + fantasydata
+2026-10-28,DEN@NOP,DEN,Trevon Brazile,31.6,11,8,0,1,3,2,6,1,1,1,104,covers.com matchup 388626 + Denver7/AP + Yahoo
+2026-10-28,GSW@MIN,GSW,Yaxel Lendeborg,39.0,26,9,1,2,5,2,7,1,1,7,119,https://www.statmuse.com/nba/game/10-28-2026-gsw-at-min-78700 + CBS Minnesota/AP + Yahoo/AP (min 35 vs 39)
+2026-10-28,HOU@MIL,HOU,Bruce Thornton,3.0,5,0,0,1,1,0,0,0,0,0,132,https://www.statmuse.com/nba/game/10-28-2026-hou-at-mil-78698
+2026-10-28,HOU@MIL,MIL,Nate Ament,20.0,8,4,0,1,4,1,3,1,1,2,100,https://www.statmuse.com/nba/game/10-28-2026-hou-at-mil-78698
+2026-10-28,HOU@MIL,MIL,Bogoljub Markovic,5.0,2,1,0,0,0,1,0,0,0,0,100,https://www.statmuse.com/nba/game/10-28-2026-hou-at-mil-78698
+2026-10-28,LAL@LAC,LAC,Baba Miller,17.0,4,7,1,0,0,1,6,1,2,2,87,https://www.statmuse.com/nba/game/10-28-2026-lal-at-lac-78704 + landofbasketball
+2026-10-28,LAL@LAC,LAC,Nick Martinelli,6.0,2,3,1,0,0,1,2,0,0,1,87,https://www.statmuse.com/nba/game/10-28-2026-lal-at-lac-78704
+2026-10-28,OKC@DAL,OKC,Bennett Stirtz,28.0,8,0,3,1,3,0,0,0,0,0,96,https://www.statmuse.com/nba/game/10-28-2026-okc-at-dal-78703
+2026-10-28,OKC@DAL,OKC,Josh Dix,24.0,2,2,0,0,6,1,1,1,0,1,96,https://www.statmuse.com/nba/game/10-28-2026-okc-at-dal-78703
+2026-10-28,ORL@TOR,TOR,Allen Graves,18.0,3,1,0,0,1,1,0,1,0,1,129,https://www.statmuse.com/nba/game/10-28-2026-orl-at-tor-78697 + landofbasketball
+2026-10-28,WAS@CLE,CLE,Meleek Thomas,20.0,10,4,1,0,1,1,3,1,0,0,121,https://www.statmuse.com/nba/game/10-28-2026-was-at-cle-78693
+2026-10-28,WAS@CLE,CLE,Mario Hezonja,17.0,5,3,2,1,4,2,1,0,0,0,121,https://www.statmuse.com/nba/game/10-28-2026-was-at-cle-78693

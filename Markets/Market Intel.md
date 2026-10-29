@@ -44,6 +44,10 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-10-27: Price-edge CLV is now 4 for 4 positive (Thybulle o1.5 3PM +13.8% vs FD at T−4 h; DK itself moved +149 → +129), but 2 of the 4 were never placed. The segment needs placed bets, not just logged ones.
 - 2026-10-27: The PASSed Cade 8+ / Reaves 7+ slip would have won (8 and 7 exactly). The pass was right on price (both legs moved past break-even); don't re-grade decisions by one outcome.
 - 2026-10-27: CBS and plaintextsports box pages are often frozen mid-game the next morning; StatMuse + FOX/AP recaps were the reliable second sources.
+- 2026-10-28: Price-edge legs 4/4 positive CLV again (Hart +2.8, Bey +3.8, Trae +2.9, SGA u1.5 3PM +7.4% true close); logged segment 8/8, mean +5.7%. Results 1–3: CLV is the signal, not hit rate.
+- 2026-10-28: DK reprices toward the sharp fair within hours (Bey o11.5 +100 → −110 by 18:18). Take qualifying prices at the scan, not near tip.
+- 2026-10-28: Blowout-spread unders lost to OT two nights running (Wembanyama 29, then 36 in OT at −13.5). The spread doesn't price the OT tail.
+- 2026-10-28: API-NBA was short on 9 of 24 teams (rookies/low-minute players). StatMuse game pages (statmuse.com/nba/game/MM-DD-YYYY-away-at-home-ID) close every gap exactly.
 
 ## Reference — the break-even table
 | Price | Break-even |
