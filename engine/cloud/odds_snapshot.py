@@ -59,7 +59,7 @@ def main():
     if tag == "pregame":   # on-demand: main + alternate props for games starting in the next WINDOW_MIN minutes (all games, not just bet games)
         sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),   # alt ladders dropped 2026-10-28 (alt rungs paper-only)
                   "mlb": ("baseball_mlb", "batter_hits_runs_rbis,batter_hits,batter_rbis,batter_runs_scored,batter_total_bases,pitcher_strikeouts"),
-                  "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_reception_yds_alternate,player_rush_yds_alternate")}
+                  "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds,player_anytime_td")}
     if tag == "pick6":   # on-demand: Pick6 lines + the sportsbooks' main lines for every game in the next WINDOW_MIN minutes (default 12 h)
         sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
                   "mlb": ("baseball_mlb", "pitcher_strikeouts,batter_hits,batter_total_bases,batter_hits_runs_rbis"),
