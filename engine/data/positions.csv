@@ -156,6 +156,7 @@ player_id,player,pos,team
 203992,Bogdan Bogdanović,G,HOU
 1631131,Oscar Tshiebwe,F-C,HOU
 203935,Marcus Smart,G,HOU
+1631104,Blake Wesley,G,LAC
 1643413,Keaton Wagler,G,LAC
 203078,Bradley Beal,G,LAC
 1642920,Kobe Sanders,G,LAC
@@ -174,6 +175,7 @@ player_id,player,pos,team
 1629618,Jalen Pickett,G,LAC
 1629060,Rui Hachimura,F,LAC
 1629622,Max Strus,G-F,LAC
+1643133,Lawson Lovering,C,LAL
 1642876,Adou Thiero,G,LAL
 1629020,Jarred Vanderbilt,F,LAL
 1629680,Matisse Thybulle,G-F,LAL
@@ -186,7 +188,6 @@ player_id,player,pos,team
 1631117,Walker Kessler,C,LAL
 1630559,Austin Reaves,G,LAL
 1643024,Chris Mañon,G,LAL
-1643758,AK Okereke,F,LAL
 1643418,Cameron Carr,G,LAL
 1641751,Arthur Kaluma,F,LAL
 1630572,Sandro Mamukelashvili,F-C,LAL
@@ -200,11 +201,11 @@ player_id,player,pos,team
 1630208,Nick Richards,C,MIA
 1641796,Pelle Larsson,G,MIA
 203501,Tim Hardaway Jr.,G,MIA
+202691,Klay Thompson,G-F,MIA
 1630696,Dru Smith,G,MIA
 1628389,Bam Adebayo,C-F,MIA
 1642066,Myron Gardner,F,MIA
 1642352,Keshad Johnson,F,MIA
-202691,Klay Thompson,G-F,MIA
 203952,Andrew Wiggins,F,MIA
 1643621,Tre Donaldson,G,MIA
 1642884,Vladislav Goldin,C,MIA
@@ -239,6 +240,7 @@ player_id,player,pos,team
 1642389,Zyon Pullin,G,MIN
 1642866,Joan Beringer,F,MIN
 1630228,Jonathan Kuminga,F,MIN
+1642402,Enrique Freeman,F,MIN
 203497,Rudy Gobert,C,MIN
 1642912,Isaiah Evans,F,MIN
 1626168,Trey Lyles,F,MIN
@@ -363,8 +365,8 @@ player_id,player,pos,team
 1641739,Toumani Camara,F,POR
 1629057,Robert Williams III,C-F,POR
 1631321,Sidy Cissoko,G,POR
-1642951,Sean Pedulla,G,SAC
 1628370,Malik Monk,G,SAC
+1642951,Sean Pedulla,G,SAC
 1643411,Darius Acuff Jr.,G,SAC
 203897,Zach LaVine,G,SAC
 1630173,Precious Achiuwa,F,SAC
