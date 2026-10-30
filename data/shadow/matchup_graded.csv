@@ -60,10 +60,10 @@ date,player,market,line,p_model,p_market,actual,hit,status
 2026-10-27,Dylan Harper,rebounds,4.5,0.47,0.534,6.0,1.0,graded
 2026-10-27,Dylan Harper,assists,3.5,0.617,0.597,6.0,1.0,graded
 2026-10-27,Dylan Harper,threes,1.5,0.325,0.41,0.0,0.0,graded
-2026-10-27,Egor Demin,points,10.5,0.398,0.468,,,DNP/void
-2026-10-27,Egor Demin,rebounds,2.5,0.533,0.583,,,DNP/void
-2026-10-27,Egor Demin,assists,3.5,0.352,0.417,,,DNP/void
-2026-10-27,Egor Demin,threes,1.5,0.649,0.578,,,DNP/void
+2026-10-27,Egor Demin,points,10.5,0.398,0.468,2.0,0.0,graded
+2026-10-27,Egor Demin,rebounds,2.5,0.533,0.583,1.0,0.0,graded
+2026-10-27,Egor Demin,assists,3.5,0.352,0.417,2.0,0.0,graded
+2026-10-27,Egor Demin,threes,1.5,0.649,0.578,0.0,0.0,graded
 2026-10-27,Ja Morant,points,15.5,0.57,0.524,23.0,1.0,graded
 2026-10-27,Ja Morant,rebounds,3.5,0.425,0.413,0.0,0.0,graded
 2026-10-27,Ja Morant,assists,6.5,0.676,0.419,4.0,0.0,graded
@@ -248,7 +248,7 @@ date,player,market,line,p_model,p_market,actual,hit,status
 2026-10-28,Peyton Watson,assists,2.5,0.409,0.382,2.0,0.0,graded
 2026-10-28,Reed Sheppard,points,11.5,0.553,0.5,7.0,0.0,graded
 2026-10-28,Scottie Barnes,points,21.5,0.208,0.472,28.0,1.0,graded
-2026-10-28,Tristan da Silva,assists,2.5,0.271,0.398,,,DNP/void
+2026-10-28,Tristan da Silva,assists,2.5,0.271,0.398,1.0,0.0,graded
 2026-10-28,Tyler Herro,points,21.5,0.457,0.483,23.0,1.0,graded
 2026-10-28,Walker Kessler,points,12.5,0.518,0.521,11.0,0.0,graded
 2026-10-28,Walker Kessler,rebounds,9.5,0.357,0.538,9.0,0.0,graded
@@ -552,7 +552,7 @@ date,player,market,line,p_model,p_market,actual,hit,status
 2026-10-28,Jeremiah Fears,assists,2.5,0.591,0.504,3.0,1.0,graded
 2026-10-28,Jeremiah Fears,threes,1.5,0.271,0.35,1.0,0.0,graded
 2026-10-28,Joan Beringer,points,6.5,0.55,0.5,7.0,1.0,graded
-2026-10-28,Joan Beringer,rebounds,5.5,0.397,0.453,9.0,1.0,graded
+2026-10-28,Joan Beringer,rebounds,5.5,0.397,0.453,10.0,1.0,graded
 2026-10-28,Jock Landale,points,7.5,0.562,0.471,10.0,1.0,graded
 2026-10-28,Jock Landale,rebounds,4.5,0.517,0.448,6.0,1.0,graded
 2026-10-28,Jock Landale,threes,0.5,0.505,0.521,0.0,0.0,graded
@@ -631,7 +631,7 @@ date,player,market,line,p_model,p_market,actual,hit,status
 2026-10-28,Kyshawn George,assists,3.5,0.587,0.395,11.0,1.0,graded
 2026-10-28,Kyshawn George,threes,1.5,0.525,0.506,0.0,0.0,graded
 2026-10-28,LaMelo Ball,points,22.5,0.181,0.496,8.0,0.0,graded
-2026-10-28,LaMelo Ball,rebounds,4.5,0.297,0.549,4.0,0.0,graded
+2026-10-28,LaMelo Ball,rebounds,4.5,0.297,0.549,3.0,0.0,graded
 2026-10-28,LaMelo Ball,assists,7.5,0.355,0.458,8.0,1.0,graded
 2026-10-28,LaMelo Ball,threes,3.5,0.404,0.512,2.0,0.0,graded
 2026-10-28,Landry Shamet,points,8.5,0.504,0.485,14.0,1.0,graded
@@ -788,10 +788,10 @@ date,player,market,line,p_model,p_market,actual,hit,status
 2026-10-28,Trey Murphy III,rebounds,4.5,0.687,0.53,1.0,0.0,graded
 2026-10-28,Trey Murphy III,assists,2.5,0.713,0.543,3.0,1.0,graded
 2026-10-28,Trey Murphy III,threes,2.5,0.539,0.468,2.0,0.0,graded
-2026-10-28,Tristan da Silva,points,12.5,0.471,0.46,,,DNP/void
-2026-10-28,Tristan da Silva,rebounds,3.5,0.536,0.578,,,DNP/void
-2026-10-28,Tristan da Silva,assists,1.5,0.487,0.59,,,DNP/void
-2026-10-28,Tristan da Silva,threes,2.5,0.432,0.451,,,DNP/void
+2026-10-28,Tristan da Silva,points,12.5,0.471,0.46,20.0,1.0,graded
+2026-10-28,Tristan da Silva,rebounds,3.5,0.536,0.578,3.0,0.0,graded
+2026-10-28,Tristan da Silva,assists,1.5,0.487,0.59,1.0,0.0,graded
+2026-10-28,Tristan da Silva,threes,2.5,0.432,0.451,4.0,1.0,graded
 2026-10-28,Tyler Herro,points,20.5,0.52,0.524,23.0,1.0,graded
 2026-10-28,Tyler Herro,rebounds,4.5,0.504,0.48,3.0,0.0,graded
 2026-10-28,Tyler Herro,assists,4.5,0.465,0.495,0.0,0.0,graded
@@ -822,3 +822,167 @@ date,player,market,line,p_model,p_market,actual,hit,status
 2026-10-28,Zion Williamson,points,18.5,0.753,0.5,25.0,1.0,graded
 2026-10-28,Zion Williamson,rebounds,5.5,0.398,0.419,5.0,0.0,graded
 2026-10-28,Zion Williamson,assists,2.5,0.645,0.5,2.0,0.0,graded
+2026-10-29,Aaron Wiggins,threes,1.5,0.638,0.611,4.0,1.0,graded
+2026-10-29,C.J. McCollum,points,16.5,0.528,0.472,5.0,0.0,graded
+2026-10-29,Jalen Johnson,points,21.5,0.514,0.513,17.0,0.0,graded
+2026-10-29,Peyton Watson,points,14.5,0.49,0.489,4.0,0.0,graded
+2026-10-29,Precious Achiuwa,rebounds,8.5,0.259,0.437,9.0,1.0,graded
+2026-10-29,Sam Merrill,points,7.5,0.638,0.519,16.0,1.0,graded
+2026-10-29,Sam Merrill,threes,1.5,0.628,0.578,4.0,1.0,graded
+2026-10-29,Zion Williamson,points,21.5,0.572,0.486,22.0,1.0,graded
+2026-10-29,Aaron Wiggins,points,11.5,0.548,0.508,20.0,1.0,graded
+2026-10-29,Aaron Wiggins,rebounds,3.5,0.471,0.455,7.0,1.0,graded
+2026-10-29,Aaron Wiggins,assists,1.5,0.531,0.503,3.0,1.0,graded
+2026-10-29,Aaron Wiggins,threes,2.5,0.375,0.356,4.0,1.0,graded
+2026-10-29,Bennedict Mathurin,points,9.5,0.579,0.48,10.0,1.0,graded
+2026-10-29,C.J. McCollum,points,15.5,0.592,0.5,5.0,0.0,graded
+2026-10-29,C.J. McCollum,rebounds,2.5,0.439,0.485,3.0,1.0,graded
+2026-10-29,C.J. McCollum,assists,2.5,0.532,0.604,8.0,1.0,graded
+2026-10-29,C.J. McCollum,threes,2.5,0.427,0.4,0.0,0.0,graded
+2026-10-29,Cam Spencer,points,6.5,0.656,0.457,8.0,1.0,graded
+2026-10-29,Cam Spencer,assists,3.5,0.496,0.403,8.0,1.0,graded
+2026-10-29,Cam Spencer,threes,1.5,0.558,0.366,1.0,0.0,graded
+2026-10-29,Cameron Boozer,points,15.5,0.419,0.519,18.0,1.0,graded
+2026-10-29,Cameron Boozer,rebounds,8.5,0.679,0.462,12.0,1.0,graded
+2026-10-29,Cameron Boozer,assists,3.5,0.702,0.581,12.0,1.0,graded
+2026-10-29,Cameron Boozer,threes,1.5,0.524,0.512,4.0,1.0,graded
+2026-10-29,Cedric Coward,points,12.5,0.604,0.471,17.0,1.0,graded
+2026-10-29,Cedric Coward,rebounds,6.5,0.615,0.465,7.0,1.0,graded
+2026-10-29,Cedric Coward,assists,2.5,0.521,0.471,4.0,1.0,graded
+2026-10-29,Cedric Coward,threes,1.5,0.537,0.45,3.0,1.0,graded
+2026-10-29,Damian Lillard,points,20.5,0.507,0.499,9.0,0.0,graded
+2026-10-29,Damian Lillard,rebounds,3.5,0.699,0.517,2.0,0.0,graded
+2026-10-29,Damian Lillard,assists,4.5,0.389,0.417,2.0,0.0,graded
+2026-10-29,Damian Lillard,threes,2.5,0.763,0.593,1.0,0.0,graded
+2026-10-29,Darius Acuff Jr.,points,22.5,0.432,0.478,34.0,1.0,graded
+2026-10-29,Darius Acuff Jr.,rebounds,2.5,0.523,0.592,6.0,1.0,graded
+2026-10-29,Darius Acuff Jr.,assists,4.5,0.551,0.573,14.0,1.0,graded
+2026-10-29,Darius Acuff Jr.,threes,2.5,0.267,0.463,3.0,1.0,graded
+2026-10-29,De'Andre Hunter,points,11.5,0.582,0.524,24.0,1.0,graded
+2026-10-29,De'Andre Hunter,rebounds,4.5,0.512,0.525,5.0,1.0,graded
+2026-10-29,De'Andre Hunter,assists,1.5,0.544,0.561,1.0,0.0,graded
+2026-10-29,De'Andre Hunter,threes,1.5,0.586,0.496,4.0,1.0,graded
+2026-10-29,Dejounte Murray,points,17.5,0.544,0.496,,,DNP/void
+2026-10-29,Dejounte Murray,rebounds,5.5,0.542,0.468,,,DNP/void
+2026-10-29,Dejounte Murray,assists,5.5,0.683,0.549,,,DNP/void
+2026-10-29,Dejounte Murray,threes,1.5,0.356,0.406,,,DNP/void
+2026-10-29,Deni Avdija,points,22.5,0.548,0.519,24.0,1.0,graded
+2026-10-29,Deni Avdija,rebounds,6.5,0.607,0.556,9.0,1.0,graded
+2026-10-29,Deni Avdija,assists,5.5,0.62,0.471,7.0,1.0,graded
+2026-10-29,Deni Avdija,threes,1.5,0.585,0.535,0.0,0.0,graded
+2026-10-29,Derik Queen,points,11.5,0.663,0.464,9.0,0.0,graded
+2026-10-29,Derik Queen,rebounds,7.5,0.642,0.449,2.0,0.0,graded
+2026-10-29,Derik Queen,assists,2.5,0.567,0.565,3.0,1.0,graded
+2026-10-29,Domantas Sabonis,points,17.5,0.572,0.515,9.0,0.0,graded
+2026-10-29,Domantas Sabonis,rebounds,14.5,0.48,0.467,15.0,1.0,graded
+2026-10-29,Domantas Sabonis,assists,6.5,0.373,0.527,7.0,1.0,graded
+2026-10-29,Domantas Sabonis,threes,0.5,0.157,0.202,0.0,0.0,graded
+2026-10-29,Donovan Clingan,points,9.5,0.544,0.587,11.0,1.0,graded
+2026-10-29,Donovan Clingan,rebounds,10.5,0.556,0.546,8.0,0.0,graded
+2026-10-29,Donovan Clingan,assists,1.5,0.575,0.519,1.0,0.0,graded
+2026-10-29,Donovan Clingan,threes,0.5,0.655,0.605,1.0,1.0,graded
+2026-10-29,Donovan Mitchell,points,24.5,0.607,0.47,22.0,0.0,graded
+2026-10-29,Donovan Mitchell,rebounds,4.5,0.587,0.501,3.0,0.0,graded
+2026-10-29,Donovan Mitchell,assists,5.5,0.532,0.427,3.0,0.0,graded
+2026-10-29,Donovan Mitchell,threes,2.5,0.612,0.484,1.0,0.0,graded
+2026-10-29,Dyson Daniels,points,11.5,0.444,0.481,4.0,0.0,graded
+2026-10-29,Dyson Daniels,rebounds,5.5,0.517,0.549,6.0,1.0,graded
+2026-10-29,Dyson Daniels,assists,4.5,0.54,0.481,5.0,1.0,graded
+2026-10-29,Dyson Daniels,threes,0.5,0.118,0.36,0.0,0.0,graded
+2026-10-29,Evan Mobley,points,17.5,0.618,0.488,11.0,0.0,graded
+2026-10-29,Evan Mobley,rebounds,9.5,0.515,0.46,4.0,0.0,graded
+2026-10-29,Evan Mobley,assists,3.5,0.488,0.481,7.0,1.0,graded
+2026-10-29,Evan Mobley,threes,1.5,0.506,0.339,0.0,0.0,graded
+2026-10-29,Isaiah Stewart,points,5.5,0.71,0.537,18.0,1.0,graded
+2026-10-29,Isaiah Stewart,rebounds,3.5,0.631,0.484,3.0,0.0,graded
+2026-10-29,Ja Morant,points,17.5,0.515,0.536,14.0,0.0,graded
+2026-10-29,Ja Morant,rebounds,3.5,0.425,0.429,2.0,0.0,graded
+2026-10-29,Ja Morant,assists,5.5,0.742,0.566,3.0,0.0,graded
+2026-10-29,Ja Morant,threes,1.5,0.296,0.409,2.0,1.0,graded
+2026-10-29,Jalen Johnson,points,22.5,0.458,0.495,17.0,0.0,graded
+2026-10-29,Jalen Johnson,rebounds,9.5,0.595,0.517,8.0,0.0,graded
+2026-10-29,Jalen Johnson,assists,7.5,0.626,0.483,7.0,0.0,graded
+2026-10-29,Jalen Johnson,threes,1.5,0.421,0.47,2.0,1.0,graded
+2026-10-29,James Harden,points,16.5,0.747,0.583,24.0,1.0,graded
+2026-10-29,James Harden,rebounds,4.5,0.525,0.462,5.0,1.0,graded
+2026-10-29,James Harden,assists,6.5,0.673,0.539,4.0,0.0,graded
+2026-10-29,James Harden,threes,2.5,0.548,0.443,3.0,1.0,graded
+2026-10-29,Jarrett Allen,points,12.5,0.631,0.529,14.0,1.0,graded
+2026-10-29,Jarrett Allen,rebounds,8.5,0.531,0.514,8.0,0.0,graded
+2026-10-29,Jarrett Allen,assists,1.5,0.476,0.452,1.0,0.0,graded
+2026-10-29,Jaylen Wells,points,11.5,0.642,0.508,10.0,0.0,graded
+2026-10-29,Jaylen Wells,rebounds,3.5,0.601,0.387,1.0,0.0,graded
+2026-10-29,Jaylen Wells,assists,1.5,0.488,0.407,0.0,0.0,graded
+2026-10-29,Jaylen Wells,threes,1.5,0.619,0.431,2.0,1.0,graded
+2026-10-29,Jaylon Tyson,points,9.5,0.552,0.465,3.0,0.0,graded
+2026-10-29,Jaylon Tyson,rebounds,3.5,0.523,0.556,6.0,1.0,graded
+2026-10-29,Jaylon Tyson,assists,2.5,0.441,0.395,1.0,0.0,graded
+2026-10-29,Jaylon Tyson,threes,1.5,0.436,0.408,1.0,0.0,graded
+2026-10-29,Jerami Grant,points,10.5,0.703,0.465,2.0,0.0,graded
+2026-10-29,Jerami Grant,rebounds,2.5,0.609,0.441,1.0,0.0,graded
+2026-10-29,Jerami Grant,assists,1.5,0.593,0.399,3.0,1.0,graded
+2026-10-29,Jerami Grant,threes,1.5,0.586,0.444,0.0,0.0,graded
+2026-10-29,Jeremiah Fears,points,11.5,0.611,0.583,22.0,1.0,graded
+2026-10-29,Jeremiah Fears,rebounds,3.5,0.52,0.393,8.0,1.0,graded
+2026-10-29,Jeremiah Fears,assists,2.5,0.596,0.527,13.0,1.0,graded
+2026-10-29,Jeremiah Fears,threes,1.5,0.275,0.372,3.0,1.0,graded
+2026-10-29,Jock Landale,points,7.5,0.556,0.506,6.0,0.0,graded
+2026-10-29,Jock Landale,rebounds,4.5,0.554,0.457,10.0,1.0,graded
+2026-10-29,Jock Landale,assists,1.5,0.575,0.504,1.0,0.0,graded
+2026-10-29,Jock Landale,threes,0.5,0.449,0.527,2.0,1.0,graded
+2026-10-29,Jrue Holiday,points,12.5,0.615,0.485,6.0,0.0,graded
+2026-10-29,Jrue Holiday,rebounds,3.5,0.621,0.484,6.0,1.0,graded
+2026-10-29,Jrue Holiday,assists,3.5,0.74,0.54,4.0,1.0,graded
+2026-10-29,Jrue Holiday,threes,1.5,0.614,0.597,2.0,1.0,graded
+2026-10-29,Kingston Flemings,points,8.5,0.341,0.506,2.0,0.0,graded
+2026-10-29,Kingston Flemings,rebounds,3.5,0.458,0.441,1.0,0.0,graded
+2026-10-29,Kingston Flemings,assists,3.5,0.648,0.411,5.0,1.0,graded
+2026-10-29,Kingston Flemings,threes,0.5,0.522,0.571,0.0,0.0,graded
+2026-10-29,Luguentz Dort,points,7.5,0.511,0.5,6.0,0.0,graded
+2026-10-29,Luguentz Dort,rebounds,3.5,0.407,0.422,3.0,0.0,graded
+2026-10-29,Luguentz Dort,assists,1.5,0.406,0.355,2.0,1.0,graded
+2026-10-29,Luguentz Dort,threes,1.5,0.444,0.406,1.0,0.0,graded
+2026-10-29,Nickeil Alexander-Walker,points,18.5,0.582,0.478,25.0,1.0,graded
+2026-10-29,Nickeil Alexander-Walker,rebounds,3.5,0.434,0.435,3.0,0.0,graded
+2026-10-29,Nickeil Alexander-Walker,assists,3.5,0.449,0.398,1.0,0.0,graded
+2026-10-29,Nickeil Alexander-Walker,threes,2.5,0.649,0.575,4.0,1.0,graded
+2026-10-29,Onyeka Okongwu,points,11.5,0.54,0.507,29.0,1.0,graded
+2026-10-29,Onyeka Okongwu,rebounds,6.5,0.5,0.483,12.0,1.0,graded
+2026-10-29,Onyeka Okongwu,assists,2.5,0.573,0.476,2.0,0.0,graded
+2026-10-29,Onyeka Okongwu,threes,1.5,0.389,0.407,4.0,1.0,graded
+2026-10-29,Peyton Watson,points,13.5,0.547,0.525,4.0,0.0,graded
+2026-10-29,Peyton Watson,rebounds,4.5,0.556,0.498,4.0,0.0,graded
+2026-10-29,Peyton Watson,assists,1.5,0.648,0.589,3.0,1.0,graded
+2026-10-29,Peyton Watson,threes,1.5,0.362,0.424,0.0,0.0,graded
+2026-10-29,Precious Achiuwa,points,10.5,0.568,0.492,24.0,1.0,graded
+2026-10-29,Precious Achiuwa,rebounds,7.5,0.407,0.519,9.0,1.0,graded
+2026-10-29,Precious Achiuwa,assists,1.5,0.373,0.403,2.0,1.0,graded
+2026-10-29,Precious Achiuwa,threes,0.5,0.194,0.318,0.0,0.0,graded
+2026-10-29,Sam Merrill,points,8.5,0.567,0.485,16.0,1.0,graded
+2026-10-29,Sam Merrill,rebounds,2.5,0.49,0.416,2.0,0.0,graded
+2026-10-29,Sam Merrill,assists,1.5,0.634,0.591,3.0,1.0,graded
+2026-10-29,Sam Merrill,threes,2.5,0.403,0.375,4.0,1.0,graded
+2026-10-29,Scoot Henderson,points,8.5,0.652,0.515,9.0,1.0,graded
+2026-10-29,Scoot Henderson,threes,1.5,0.354,0.373,1.0,0.0,graded
+2026-10-29,Toumani Camara,points,11.5,0.545,0.468,13.0,1.0,graded
+2026-10-29,Toumani Camara,rebounds,3.5,0.54,0.544,2.0,0.0,graded
+2026-10-29,Toumani Camara,assists,1.5,0.581,0.478,1.0,0.0,graded
+2026-10-29,Toumani Camara,threes,2.5,0.546,0.405,3.0,1.0,graded
+2026-10-29,Trey Murphy III,points,17.5,0.536,0.529,19.0,1.0,graded
+2026-10-29,Trey Murphy III,rebounds,4.5,0.62,0.513,5.0,1.0,graded
+2026-10-29,Trey Murphy III,assists,3.5,0.497,0.417,3.0,0.0,graded
+2026-10-29,Trey Murphy III,threes,2.5,0.514,0.528,2.0,0.0,graded
+2026-10-29,Ty Jerome,points,24.5,0.598,0.488,10.0,0.0,graded
+2026-10-29,Ty Jerome,rebounds,3.5,0.461,0.441,2.0,0.0,graded
+2026-10-29,Ty Jerome,assists,5.5,0.666,0.522,3.0,0.0,graded
+2026-10-29,Ty Jerome,threes,2.5,0.625,0.49,1.0,0.0,graded
+2026-10-29,Zach Edey,points,8.5,0.584,0.454,13.0,1.0,graded
+2026-10-29,Zach Edey,rebounds,7.5,0.73,0.504,7.0,0.0,graded
+2026-10-29,Zach LaVine,points,21.5,0.589,0.509,21.0,0.0,graded
+2026-10-29,Zach LaVine,rebounds,3.5,0.42,0.421,3.0,0.0,graded
+2026-10-29,Zach LaVine,assists,3.5,0.326,0.414,5.0,1.0,graded
+2026-10-29,Zach LaVine,threes,2.5,0.567,0.528,3.0,1.0,graded
+2026-10-29,Zion Williamson,points,19.5,0.709,0.554,22.0,1.0,graded
+2026-10-29,Zion Williamson,rebounds,4.5,0.6,0.577,6.0,1.0,graded
+2026-10-29,Zion Williamson,assists,2.5,0.634,0.545,2.0,0.0,graded
+2026-10-29,Zion Williamson,threes,0.5,0.177,0.283,0.0,0.0,graded

@@ -48,6 +48,9 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-10-28: DK reprices toward the sharp fair within hours (Bey o11.5 +100 → −110 by 18:18). Take qualifying prices at the scan, not near tip.
 - 2026-10-28: Blowout-spread unders lost to OT two nights running (Wembanyama 29, then 36 in OT at −13.5). The spread doesn't price the OT tail.
 - 2026-10-28: API-NBA was short on 9 of 24 teams (rookies/low-minute players). StatMuse game pages (statmuse.com/nba/game/MM-DD-YYYY-away-at-home-ID) close every gap exactly.
+- 2026-10-29: Pick6 allows one sport per entry; an NFL + NBA pairing can't be placed. Check before building.
+- 2026-10-29: price-edge leg (Wiggins o3.5 reb +127, +3.3% vs sharp) won; context-driven DK single (Harden o6.5 ast at −125 vs 53.9% fair, −2.9%) lost on a back-to-back. Don't pay worse than fair for a context lean.
+- 2026-10-29: Covers matchup pages (covers.com/sport/basketball/nba/matchup/ID) and SI scoreboards carry full box scores incl. bench; CBS gametracker and cached ESPN pages can be partial.
 
 ## Reference — the break-even table
 | Price | Break-even |
