@@ -51,6 +51,9 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-10-29: Pick6 allows one sport per entry; an NFL + NBA pairing can't be placed. Check before building.
 - 2026-10-29: price-edge leg (Wiggins o3.5 reb +127, +3.3% vs sharp) won; context-driven DK single (Harden o6.5 ast at −125 vs 53.9% fair, −2.9%) lost on a back-to-back. Don't pay worse than fair for a context lean.
 - 2026-10-29: Covers matchup pages (covers.com/sport/basketball/nba/matchup/ID) and SI scoreboards carry full box scores incl. bench; CBS gametracker and cached ESPN pages can be partial.
+- 2026-10-30: price-edge Durant u3.5 ast (+123) won at +3.1% CLV vs the true close (DK closed −129/−102); the DJJ 3PM side we PASSed on a worse DK price (+147 < +160 floor) also won. Holding the price floor still costs nothing on CLV, it only skips bets.
+- 2026-10-30: StatMuse game pages (statmuse.com/nba/game/MM-DD-YYYY-aaa-at-bbb-ID) have full boxes incl. bench and every 2026-27 game; found via "extended" web search. ESPN/Yahoo/CBS/NBA.com pages come back pregame or empty.
+- 2026-10-30: H2 replacement-C over went 0/2 (Reed 4 reb in 31 min, Huff 1 in 19). "Start unconfirmed" entries shouldn't count as H2 triggers; now 1/5 overall.
 
 ## Reference — the break-even table
 | Price | Break-even |
