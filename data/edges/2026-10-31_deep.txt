@@ -1,0 +1,85 @@
+
+===== Atlanta Hawks@New Orleans Pelicans
+           player       mk  line  fair_over   dk_o   dk_u  ctx_mean  ctx_over   rel                 last6 over_hits
+   Karlo Matkovic rebounds   4.5      0.551 -144.0  109.0       3.5      0.29 -29.0          [4, 0, 3, 4]       0/4
+Kingston Flemings  assists   3.5      0.428    NaN    NaN       4.9      0.70  26.0    [3, 8, 2, 4, 5, 5]       4/6
+Kingston Flemings   points   7.5      0.489 -124.0 -103.0       6.8      0.38 -13.0   [0, 5, 2, 6, 23, 2]       1/6
+   Karlo Matkovic   points   7.5      0.529    NaN    NaN       7.0      0.40 -15.0         [7, 3, 5, 12]       1/4
+    C.J. McCollum rebounds   2.5      0.500 -123.0 -107.0       2.5      0.43 -10.0    [2, 1, 2, 1, 2, 3]       1/6
+    Dyson Daniels   threes   0.5      0.331    NaN    NaN       0.2      0.11 -22.0    [0, 0, 1, 0, 0, 0]       1/6
+  Dejounte Murray rebounds   5.5      0.506 -133.0  101.0       6.2      0.58   5.0          [3, 6, 6, 8]       3/4
+  Dejounte Murray  assists   5.5      0.569 -147.0  111.0       7.0      0.67   9.0          [7, 6, 6, 5]       3/4
+    Dyson Daniels   points  11.5      0.493  100.0 -127.0      11.4      0.44  -7.0 [20, 11, 18, 4, 7, 4]       2/6
+
+===== Cleveland Cavaliers@Milwaukee Bucks
+         player       mk  line  fair_over   dk_o   dk_u  ctx_mean  ctx_over   rel              last6 over_hits
+     Kyle Kuzma rebounds   5.5      0.453 -107.0 -123.0       6.0      0.55   7.0   [6, 9, 12, 7, 6]       5/5
+Jaime Jaquez Jr rebounds   5.5      0.436 -110.0 -119.0       5.7      0.50   4.0   [7, 11, 8, 6, 4]       4/5
+    Kel'el Ware rebounds   7.5      0.423    NaN    NaN       8.9      0.66  21.0  [3, 4, 13, 14, 8]       3/5
+  Peyton Watson   threes   1.5      0.443  110.0 -145.0       1.2      0.31 -13.0    [0, 2, 0, 1, 0]       1/5
+    Sam Merrill  assists   1.5      0.599    NaN    NaN       2.5      0.70   9.0    [2, 3, 2, 1, 3]       4/5
+   Ryan Rollins  assists   4.5      0.567 -124.0 -106.0       4.6      0.49  -9.0    [3, 6, 4, 4, 5]       2/5
+    Evan Mobley rebounds   9.5      0.435  108.0 -142.0       9.7      0.49   3.0 [8, 10, 10, 12, 4]       3/5
+   Ryan Rollins   threes   2.5      0.357    NaN    NaN       1.9      0.30  -5.0    [1, 2, 2, 3, 0]       1/5
+
+===== Minnesota Timberwolves@San Antonio Spurs
+              player       mk  line  fair_over   dk_o   dk_u  ctx_mean  ctx_over   rel                   last6 over_hits
+        Bones Hyland rebounds   1.5      0.553    NaN    NaN       1.4      0.40 -18.0      [1, 1, 3, 1, 1, 0]       1/6
+      Keldon Johnson   threes   0.5      0.590 -163.0  124.0       0.8      0.45 -14.0         [1, 0, 0, 0, 0]       1/5
+Terrence Shannon Jr.   threes   1.5      0.406  127.0 -168.0       1.6      0.48   8.0      [2, 2, 3, 3, 1, 2]       5/6
+    Jonathan Kuminga   points  13.5      0.502    NaN    NaN      13.1      0.42 -11.0 [12, 11, 13, 10, 20, 5]       1/6
+         LaMelo Ball rebounds   4.5      0.452  106.0 -139.0       3.9      0.34 -13.0      [2, 5, 1, 0, 3, 4]       1/6
+     Jaden McDaniels  assists   2.5      0.524 -151.0  115.0       3.2      0.61   8.0      [1, 3, 3, 4, 4, 7]       5/6
+        De'Aaron Fox  assists   5.5      0.533 -125.0 -105.0       6.3      0.60   5.0         [7, 9, 9, 6, 4]       4/5
+        De'Aaron Fox   threes   1.5      0.390  138.0 -183.0       1.7      0.49  10.0         [0, 2, 2, 2, 1]       3/5
+         Ayo Dosunmu  assists   3.5      0.541 -148.0  113.0       3.7      0.46 -10.0     [3, 10, 3, 0, 4, 2]       2/6
+         Rudy Gobert   points   8.5      0.519 -121.0 -105.0       8.5      0.43 -11.0     [5, 14, 8, 5, 1, 9]       2/6
+
+===== Oklahoma City Thunder@Houston Rockets
+                 player       mk  line  fair_over   dk_o   dk_u  ctx_mean  ctx_over   rel               last6 over_hits
+Shai Gilgeous-Alexander  assists   5.5      0.520 -112.0 -117.0       5.1      0.40 -14.0     [4, 3, 5, 3, 2]       0/5
+             Tari Eason   threes   0.5      0.631    NaN    NaN       1.4      0.37   3.0  [0, 0, 0, 1, 1, 0]       2/6
+             Tari Eason rebounds   5.5      0.454  105.0 -138.0       6.7      0.77  15.0 [1, 6, 3, 8, 9, 13]       4/6
+           Marcus Smart  assists   3.5      0.519 -111.0 -118.0       2.2      0.20 -33.0           [2, 1, 4]       1/3
+              Aday Mara   points   7.5      0.497 -114.0 -112.0       6.8      0.38 -14.0    [7, 2, 2, 11, 6]       1/5
+           Marcus Smart   points   8.5      0.538    NaN    NaN       7.4      0.34 -22.0          [10, 5, 8]       1/3
+           Marcus Smart   threes   1.5      0.500  101.0 -132.0       1.1      0.29 -21.0           [2, 0, 0]       1/3
+         Alperen Sengun rebounds   8.5      0.476 -113.0 -116.0       9.6      0.57   7.0      [10, 7, 10, 9]       3/4
+          Ajay Mitchell   threes   1.5      0.424  114.0 -150.0       1.1      0.31 -11.0     [0, 0, 1, 1, 2]       1/5
+Shai Gilgeous-Alexander   threes   1.5      0.579 -158.0  119.0       1.6      0.46 -12.0     [3, 3, 1, 1, 1]       2/5
+
+===== Philadelphia 76ers@Charlotte Hornets
+         player       mk  line  fair_over   dk_o   dk_u  ctx_mean  ctx_over   rel                    last6 over_hits
+      Adem Bona   points   6.5      0.519 -128.0  101.0       5.3      0.29 -25.0       [0, 2, 0, 6, 1, 0]       0/6
+      Adem Bona rebounds   6.5      0.500 -134.0  102.0       5.2      0.27 -26.0      [3, 2, 1, 13, 1, 2]       1/6
+     Sion James   threes   1.5      0.396  147.0 -195.0       1.0      0.26 -14.0       [1, 1, 0, 1, 1, 1]       0/6
+     Sion James   points   5.5      0.519 -134.0  105.0       4.8      0.34 -20.0       [3, 3, 0, 5, 5, 6]       1/6
+ Brandon Miller   threes   3.5      0.529 -140.0  106.0       3.3      0.41 -12.0       [3, 1, 3, 5, 3, 3]       1/6
+      Dean Wade rebounds   4.5      0.533 -147.0  112.0       4.1      0.38 -17.0             [2, 5, 1, 2]       1/4
+   Tyrese Maxey   points  28.5      0.519 -105.0 -122.0      25.4      0.32 -22.0 [28, 32, 26, 29, 27, 27]       2/6
+   VJ Edgecombe   points  16.5      0.496 -120.0 -106.0      15.9      0.42 -10.0       [9, 11, 17, 8, 13]       1/5
+Dennis Schroder  assists   5.5      0.570 -150.0  113.0       5.4      0.45 -13.0       [6, 3, 5, 5, 5, 8]       2/6
+Anfernee Simons  assists   1.5      0.604    NaN    NaN       1.9      0.52 -10.0       [0, 0, 2, 3, 1, 1]       2/6
+
+===== Portland Trail Blazers@Utah Jazz
+        player       mk  line  fair_over   dk_o   dk_u  ctx_mean  ctx_over   rel                last6 over_hits
+Toumani Camara   threes   2.5      0.440  122.0 -161.0       3.2      0.62  18.0         [4, 5, 4, 3]       4/4
+Keyonte George   points  21.5      0.500 -124.0 -103.0      28.2      0.82  30.0 [22, 19, 24, 26, 31]       4/5
+Isaiah Collier   points   6.5      0.519 -121.0 -105.0       9.6      0.77  23.0     [7, 10, 6, 7, 7]       4/5
+Isaiah Collier rebounds   2.5      0.455  106.0 -139.0       3.1      0.60  12.0      [3, 2, 3, 8, 7]       4/5
+Keyonte George   threes   2.5      0.392  138.0 -182.0       3.3      0.63  24.0      [4, 3, 2, 0, 5]       3/5
+Damian Lillard   points  23.5      0.496 -104.0 -123.0      20.1      0.35 -23.0      [25, 19, 21, 9]       1/4
+Damian Lillard  assists   5.5      0.415  119.0 -158.0       3.8      0.19 -24.0         [6, 2, 4, 2]       1/4
+Toumani Camara   points  12.5      0.488 -115.0 -111.0      14.7      0.60   9.0     [18, 19, 12, 13]       3/4
+    Ace Bailey  assists   2.5      0.390  138.0 -183.0       1.9      0.54  -9.0      [3, 2, 4, 3, 0]       3/5
+
+===== Sacramento Kings@Memphis Grizzlies
+          player       mk  line  fair_over   dk_o   dk_u  ctx_mean  ctx_over  rel                last6 over_hits
+   Cedric Coward rebounds   6.5      0.434  107.0 -141.0       8.1      0.62 16.0       [7, 11, 11, 7]       4/4
+  Cameron Boozer rebounds   8.5      0.437  104.0 -137.0      11.5      0.68 22.0  [11, 13, 11, 7, 12]       4/5
+Domantas Sabonis rebounds  14.5      0.471  100.0 -132.0      15.5      0.67 11.0 [18, 19, 15, 14, 15]       4/5
+ De'Andre Hunter rebounds   4.5      0.482 -110.0 -119.0       5.4      0.61 11.0      [3, 7, 5, 6, 5]       4/5
+     Zach LaVine   points  21.5      0.500 -111.0 -115.0      23.5      0.56  4.0 [28, 22, 37, 22, 21]       4/5
+ De'Andre Hunter   threes   1.5      0.546 -148.0  112.0       2.3      0.65 11.0      [2, 0, 2, 5, 4]       4/5
+    Jaylen Wells   threes   1.5      0.548 -155.0  118.0       2.1      0.62  7.0      [1, 4, 2, 2, 2]       4/5
+   Cedric Coward   threes   1.5      0.538 -134.0  102.0       2.0      0.59  5.0         [1, 3, 4, 3]       3/4
