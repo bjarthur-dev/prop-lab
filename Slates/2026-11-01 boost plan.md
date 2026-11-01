@@ -29,3 +29,7 @@ Games WITHOUT the absent starter (from pbp):
 - **WAS without McLaurin (wk 4 only):** Antonio Williams 3 rec on **8** targets; Dyami Brown 3 rec on 4 targets. Their targets jump when McLaurin sits, so **both unders are dropped**.
 - **PHI without DeVonta Smith (wks 4, 5, 7):** Makai Lemon 3, 5, 7 rec (6, 7, 8 targets, rising); Goedert 6 and 5 in the two games he played; Cooper 3, 2, 1. Saquon 1, 0, 2 rec while limited (0-15% snaps).
 New SNF SGP: **Makai Lemon OVER 4.5 rec + Dallas Goedert OVER 4.5 rec + Saquon UNDER 2.5 rec** (McKee's targets concentrate on Lemon and Goedert). Place at ≥ +300.
+
+## 12:35 NBA SGP re-check (fresh laptop context)
+- Melton o3.5 reb: context now 3.3 (58% UNDER), against the leg. Swapped out.
+- New 50% SGP: **Garland u7.5 ast** (ctx 6.7 / 64%; 4/5 under; Pinnacle 56.5%) + **Gui Santos u1.5 3PM** (1, 1, 1, 1, 0; ctx 73%; Pinnacle 71%) + **Melton u12.5 pts** (0, 10, 25, 3, 8, 16; ctx 10.6 / 68%; Pinnacle 53.5%).
