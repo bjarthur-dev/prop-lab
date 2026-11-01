@@ -54,6 +54,10 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-10-30: price-edge Durant u3.5 ast (+123) won at +3.1% CLV vs the true close (DK closed −129/−102); the DJJ 3PM side we PASSed on a worse DK price (+147 < +160 floor) also won. Holding the price floor still costs nothing on CLV, it only skips bets.
 - 2026-10-30: StatMuse game pages (statmuse.com/nba/game/MM-DD-YYYY-aaa-at-bbb-ID) have full boxes incl. bench and every 2026-27 game; found via "extended" web search. ESPN/Yahoo/CBS/NBA.com pages come back pregame or empty.
 - 2026-10-30: H2 replacement-C over went 0/2 (Reed 4 reb in 31 min, Huff 1 in 19). "Start unconfirmed" entries shouldn't count as H2 triggers; now 1/5 overall.
+- 2026-10-31: Boosts carried the day (4–1, +$7.14). Wemby 25+ at boosted +150 was +20% EV vs the Pin/FD close, but −18% unboosted. Grade boosts as their own segment, never as model CLV.
+- 2026-10-31: The 50%-boosted 2-leg reb parlay was +17.6% EV vs close and lost (Acuff 5 reb vs u3.5). +EV at 28% win probability still loses most nights, so size it like a long shot.
+- 2026-10-31: H2 entries with "start not confirmed" went 0/2 again (0/4 over two nights; H2 1/7 overall). Only log H2 on a confirmed start.
+- 2026-10-31: To fill box-score gaps, search "statmuse nba game MM-DD-YYYY aaa at bbb" (extended). StatMuse pages had full tables; ESPN/CBS pages came back pregame or truncated, and B-Ref needs provenance.
 
 ## Reference — the break-even table
 | Price | Break-even |
