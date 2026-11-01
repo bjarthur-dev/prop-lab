@@ -22,3 +22,10 @@ New lineup:
 2. **NFL parlay, 30%:** Tez Johnson u2.5 rec (0, 1, 1, 2, 1, 2, 2; under in 7 of 7; sharp 57%) + Zachariah Branch u1.5 rec (sharp 60%) + Kyle Williams u1.5 rec (0, 1, 1, 0, 3, 1, 0; under in 6 of 7; sharp 55%) ≈ +386, boosted ≈ +502.
 3. **SNF SGP, 30%:** Saquon u2.5 rec (1, 1, 1, 1, 0, 0, 2; 7 of 7) + Antonio Williams u3.5 rec (4, 3, 2, 3, 3, 3; under in 5 of 6) + Dyami Brown u1.5 rec (0, 4, 0, 3, 1, 1; under in 4 of 6) + Darius Cooper u2.5 rec (2, 3, 2, 1, 1; under in 4 of 5); place only at ≥ +300.
 4. **NBA SGP, 50%:** Garland u7.5 ast (4, 6, 11, 5, 5; under in 4 of 5; Pinnacle 56.5%) + Melton o3.5 reb (2, 1, 5, 4, 6; over in 3 of 5; Pinnacle 56%) + Gui Santos u1.5 3PM (Pinnacle −270, 71%).
+
+## 09:25 role-change check (user: AJ Brown, McLaurin, DeVonta Smith out; Saquon lead back)
+Games WITHOUT the absent starter (from pbp):
+- **NE without AJ Brown (wks 2-5):** Kyle Williams 1, 1, 0, 3 rec on 2-3 targets (under 1.5 in 3 of 4). The vacated targets went to Douglas, Henry and Stevenson. KW under stays (weak).
+- **WAS without McLaurin (wk 4 only):** Antonio Williams 3 rec on **8** targets; Dyami Brown 3 rec on 4 targets. Their targets jump when McLaurin sits, so **both unders are dropped**.
+- **PHI without DeVonta Smith (wks 4, 5, 7):** Makai Lemon 3, 5, 7 rec (6, 7, 8 targets, rising); Goedert 6 and 5 in the two games he played; Cooper 3, 2, 1. Saquon 1, 0, 2 rec while limited (0-15% snaps).
+New SNF SGP: **Makai Lemon OVER 4.5 rec + Dallas Goedert OVER 4.5 rec + Saquon UNDER 2.5 rec** (McKee's targets concentrate on Lemon and Goedert). Place at ≥ +300.
