@@ -1,0 +1,69 @@
+snap_et,sport,event_id,home,away,start,book,market,name,point,price
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,draftkings,spreads,Boston Celtics,-6.5,-115
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,draftkings,spreads,Orlando Magic,6.5,-105
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,draftkings,totals,Over,220.5,-110
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,draftkings,totals,Under,220.5,-110
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,pinnacle,spreads,Boston Celtics,-6.5,-111
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,pinnacle,spreads,Orlando Magic,6.5,100
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,pinnacle,totals,Over,221.0,-106
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,pinnacle,totals,Under,221.0,-106
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,fanduel,spreads,Boston Celtics,-6.5,-110
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,fanduel,spreads,Orlando Magic,6.5,-110
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,fanduel,totals,Over,221.5,-110
+2026-11-01T11:09:11-05:00,NBA,e8559eaac12af915cfe6597644620c13,Orlando Magic,Boston Celtics,2026-11-01T20:40:00Z,fanduel,totals,Under,221.5,-110
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,draftkings,spreads,Brooklyn Nets,3.5,-105
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,draftkings,spreads,Indiana Pacers,-3.5,-115
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,draftkings,totals,Over,231.5,-110
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,draftkings,totals,Under,231.5,-110
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,pinnacle,spreads,Brooklyn Nets,3.5,100
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,pinnacle,spreads,Indiana Pacers,-3.5,-110
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,pinnacle,totals,Over,230.5,-107
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,pinnacle,totals,Under,230.5,-105
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,fanduel,spreads,Brooklyn Nets,3.5,-105
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,fanduel,spreads,Indiana Pacers,-3.5,-115
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,fanduel,totals,Over,229.5,-115
+2026-11-01T11:09:11-05:00,NBA,fc3e945a5be88d3f933456bc512c956d,Indiana Pacers,Brooklyn Nets,2026-11-01T22:10:00Z,fanduel,totals,Under,229.5,-105
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,fanduel,spreads,Golden State Warriors,-1.5,-114
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,fanduel,spreads,Los Angeles Clippers,1.5,-106
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,fanduel,totals,Over,221.5,-108
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,fanduel,totals,Under,221.5,-112
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,draftkings,spreads,Golden State Warriors,-2.5,-105
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,draftkings,spreads,Los Angeles Clippers,2.5,-115
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,draftkings,totals,Over,222.5,-105
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,draftkings,totals,Under,222.5,-115
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,pinnacle,spreads,Golden State Warriors,-2.5,101
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,pinnacle,spreads,Los Angeles Clippers,2.5,-111
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,pinnacle,totals,Over,221.0,-104
+2026-11-01T11:09:11-05:00,NBA,094b083ace229ca31ff360a80e35a1a8,Golden State Warriors,Los Angeles Clippers,2026-11-02T01:40:00Z,pinnacle,totals,Under,221.0,-108
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,draftkings,spreads,Los Angeles Lakers,-2.5,-115
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,draftkings,spreads,Toronto Raptors,2.5,-105
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,draftkings,totals,Over,225.5,-110
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,draftkings,totals,Under,225.5,-110
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,pinnacle,spreads,Los Angeles Lakers,-3.0,-103
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,pinnacle,spreads,Toronto Raptors,3.0,-107
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,pinnacle,totals,Over,225.5,-110
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,pinnacle,totals,Under,225.5,-103
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,fanduel,spreads,Los Angeles Lakers,-2.5,-110
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,fanduel,spreads,Toronto Raptors,2.5,-110
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,fanduel,totals,Over,226.5,-105
+2026-11-01T11:09:11-05:00,NBA,31fc89cbf3846e545e8e41a543a71d24,Los Angeles Lakers,Toronto Raptors,2026-11-02T02:10:00Z,fanduel,totals,Under,226.5,-115
+2026-11-01T11:09:11-05:00,NBA,a6555e8b7252dfb32f1817fc8c59ad83,New York Knicks,San Antonio Spurs,2026-12-25T17:10:00Z,draftkings,spreads,New York Knicks,1.5,-115
+2026-11-01T11:09:11-05:00,NBA,a6555e8b7252dfb32f1817fc8c59ad83,New York Knicks,San Antonio Spurs,2026-12-25T17:10:00Z,draftkings,spreads,San Antonio Spurs,-1.5,-105
+2026-11-01T11:09:11-05:00,NBA,a6555e8b7252dfb32f1817fc8c59ad83,New York Knicks,San Antonio Spurs,2026-12-25T17:10:00Z,draftkings,totals,Over,228.5,-110
+2026-11-01T11:09:11-05:00,NBA,a6555e8b7252dfb32f1817fc8c59ad83,New York Knicks,San Antonio Spurs,2026-12-25T17:10:00Z,draftkings,totals,Under,228.5,-110
+2026-11-01T11:09:11-05:00,NBA,d60e7fc0690e4dff121a086395e24de4,Boston Celtics,Miami Heat,2026-12-25T19:40:00Z,draftkings,spreads,Boston Celtics,-5.5,-118
+2026-11-01T11:09:11-05:00,NBA,d60e7fc0690e4dff121a086395e24de4,Boston Celtics,Miami Heat,2026-12-25T19:40:00Z,draftkings,spreads,Miami Heat,5.5,-102
+2026-11-01T11:09:11-05:00,NBA,d60e7fc0690e4dff121a086395e24de4,Boston Celtics,Miami Heat,2026-12-25T19:40:00Z,draftkings,totals,Over,230.5,-110
+2026-11-01T11:09:11-05:00,NBA,d60e7fc0690e4dff121a086395e24de4,Boston Celtics,Miami Heat,2026-12-25T19:40:00Z,draftkings,totals,Under,230.5,-110
+2026-11-01T11:09:11-05:00,NBA,dfd908bad3a3bfcae9e08bf128273b18,Los Angeles Lakers,Philadelphia 76ers,2026-12-25T22:10:00Z,draftkings,spreads,Los Angeles Lakers,-1.5,-105
+2026-11-01T11:09:11-05:00,NBA,dfd908bad3a3bfcae9e08bf128273b18,Los Angeles Lakers,Philadelphia 76ers,2026-12-25T22:10:00Z,draftkings,spreads,Philadelphia 76ers,1.5,-115
+2026-11-01T11:09:11-05:00,NBA,dfd908bad3a3bfcae9e08bf128273b18,Los Angeles Lakers,Philadelphia 76ers,2026-12-25T22:10:00Z,draftkings,totals,Over,237.5,100
+2026-11-01T11:09:11-05:00,NBA,dfd908bad3a3bfcae9e08bf128273b18,Los Angeles Lakers,Philadelphia 76ers,2026-12-25T22:10:00Z,draftkings,totals,Under,237.5,-120
+2026-11-01T11:09:11-05:00,NBA,2b7218aa25cf98318a40e6f2469a5c5d,Minnesota Timberwolves,Oklahoma City Thunder,2026-12-26T01:10:00Z,draftkings,spreads,Minnesota Timberwolves,3.5,-110
+2026-11-01T11:09:11-05:00,NBA,2b7218aa25cf98318a40e6f2469a5c5d,Minnesota Timberwolves,Oklahoma City Thunder,2026-12-26T01:10:00Z,draftkings,spreads,Oklahoma City Thunder,-3.5,-110
+2026-11-01T11:09:11-05:00,NBA,2b7218aa25cf98318a40e6f2469a5c5d,Minnesota Timberwolves,Oklahoma City Thunder,2026-12-26T01:10:00Z,draftkings,totals,Over,234.5,-110
+2026-11-01T11:09:11-05:00,NBA,2b7218aa25cf98318a40e6f2469a5c5d,Minnesota Timberwolves,Oklahoma City Thunder,2026-12-26T01:10:00Z,draftkings,totals,Under,234.5,-110
+2026-11-01T11:09:11-05:00,NBA,85a2379bc49135f2759709e55af0c4c6,Golden State Warriors,Denver Nuggets,2026-12-26T03:40:00Z,draftkings,spreads,Denver Nuggets,-2.5,-110
+2026-11-01T11:09:11-05:00,NBA,85a2379bc49135f2759709e55af0c4c6,Golden State Warriors,Denver Nuggets,2026-12-26T03:40:00Z,draftkings,spreads,Golden State Warriors,2.5,-110
+2026-11-01T11:09:11-05:00,NBA,85a2379bc49135f2759709e55af0c4c6,Golden State Warriors,Denver Nuggets,2026-12-26T03:40:00Z,draftkings,totals,Over,235.5,-110
+2026-11-01T11:09:11-05:00,NBA,85a2379bc49135f2759709e55af0c4c6,Golden State Warriors,Denver Nuggets,2026-12-26T03:40:00Z,draftkings,totals,Under,235.5,-110
