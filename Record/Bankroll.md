@@ -5,8 +5,8 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 28.14     # 2026-11-01 settlement of 10-31: live 4-2, +$0.14 at stake ($16.00 risked: 5 boosts $9.00 -> +$7.14; boosted NBA parlay $7 -> -$7). DK cash $16.14 + Betr $12; prev 28.00
-balances: {draftkings_cash: 16.14, draftkings_open_bets: 0.00, betr: 12.00}   # 2026-11-01, derived from settled returns; confirm against the app
+current_bankroll: 26.00     # user 2026-11-01 08:46: DraftKings $16, Betr $10 (Betr -$2 vs before: an entry on 10-31 not logged)
+balances: {draftkings: 16.00, betr: 10.00}
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
 stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
