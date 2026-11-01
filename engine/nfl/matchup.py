@@ -160,7 +160,7 @@ def odds_info(date, name):
         o = pd.read_csv(f); x = o[o.player.map(norm) == norm(name)]
         if x.empty: continue
         a, h = x.game.iloc[0].split("@"); game = (tm.get(a), tm.get(h))
-        main = x[~x.market.str.endswith("_alternate") & x.over.notna() & x.under.notna() & (x.book != "pick6")]
+        main = x[~x.market.str.endswith("_alternate") & x.over.notna() & x.under.notna() & x.line.notna() & (x.book != "pick6")]
         imp = lambda v: 100 / (v + 100) if v > 0 else -v / (-v + 100)
         for mk, g in main.groupby("market"):
             sh = g[g.book.isin(["pinnacle", "fanduel"])]; ref = sh if len(sh) else g
