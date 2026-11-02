@@ -24,7 +24,8 @@ def scan(date, sport):
     sh = o[o.book.isin(["pinnacle", "fanduel"])].groupby(["player", "market", "line", "t"]).pov.mean().reset_index().sort_values("t")
     m = sh.groupby(["player", "market", "line"]).agg(first=("pov", "first"), last=("pov", "last"), t0=("t", "first"), t1=("t", "last")).reset_index()
     m = m[m.t0 != m.t1]; m["move"] = m["last"] - m["first"]
-    dk = o[o.book == "draftkings"].sort_values("t").drop_duplicates(["player", "market", "line"], keep="last").set_index(["player", "market", "line"])
+    d_all = o[o.book == "draftkings"]
+    dk = d_all[d_all.t == d_all.t.max()].drop_duplicates(["player", "market", "line"], keep="last").set_index(["player", "market", "line"])   # DK as it stands NOW (a line DK has since moved off is gone)
     out = []
     for _, r in m[m.move.abs() >= 0.02].iterrows():
         k = (r.player, r.market, r.line)

@@ -10,11 +10,11 @@ Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props g
 - **Calibration:** Pinnacle/FanDuel devig fair is honest. NBA legs priced 45–55% win 50.0%; 55–65% legs win **60.6%** (fair 57.8%, n=497). NFL 55–70% legs win **66%** (fair 59%, n=68). Long shots under 45% underperform (NBA 39.6% vs 42.3%; NFL 34% vs 41%).
 - So: **build from sharp favorites (fair >= 55%) and never from sharp underdogs.** The 11-01 winners were all 55–62% legs.
 
-## 2. STEAM: follow the sharp line move (strongest signal found)
-- When the sharp line moves between the morning/afternoon snapshot and the 18:18 pregame snapshot, the side it moved toward won **55.6%** vs its last fair of 52.4% (342 NBA props with a >= 2-pt move; positive on 6 of 8 days).
-- **If DraftKings has not moved yet (DK price still >= the new fair): 96 legs, 61.5% win, +16% ROI as singles.**
-- Unders that steamed: 57% (n=223). Example: Garland u7.5 ast moved 54% → 57% before the 11-01 win.
-- Tool: `python engine/steam_scan.py [date] [nba|nfl]` after the pregame snapshot. Steam legs are the first choice for safe singles and parlay legs.
+## 2. STEAM: corrected 2026-11-02 17:50 (bug fix) — NOT a proven edge yet
+- The first study (55.6% / "DK lagging 61.5%, +16%") had a bug: it priced DK from a line DraftKings had already moved off (e.g. Roschon Johnson U12.5 after DK moved to 9.5). Those bets were not available.
+- Re-graded with DK's CURRENT line only: 114 bettable steam legs, 50.0% win vs last fair 51.5%, ROI −7.4%; "DK lagging" 14 legs, 35.7%. No edge so far.
+- What still holds: the sharp line itself tends to keep moving the way it moved (sharp-only, same line: the steamed side won ~55.8% vs ~52% fair), but by the time we see it DK has usually moved too.
+- Use steam only as a VETO/confirm: drop a card leg whose sharp line moved >= 2 pts against it; do not add new legs from the steam list until Record/Shadow/Steam Report.md shows the bettable version winning over 100+ legs.
 
 ## 3. Unders, mostly
 - NBA: assists unders 53.4% vs fair 51.1% (n=388); unders on 6.5–12.5 lines 55.2% vs fair 50.6% (n=373).
@@ -41,7 +41,7 @@ Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props g
 
 ## Daily recipe
 1. Afternoon card: price-edge legs (DK beats sharp) + sharp favorites >= 55% that fit the story; lean under.
-2. 18:18 pregame snapshot → `steam_scan.py`: promote legs that steamed >= 2 pts with DK lagging; drop legs that steamed against us.
+2. 18:18 pregame snapshot → `steam_scan.py`: drop legs whose sharp line moved >= 2 pts against us (veto only; steam is not yet a source of new legs, see #2).
 3. Safe slips from the top steam/price-edge legs; one boosted parlay (>= 25% boost) from 3–5 favorites.
 4. Log everything; the morning report grades legs, steam, CLV and the live tiers.
 
@@ -67,6 +67,6 @@ Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props g
 - Promo picks list the "would place" play and a plain "skip" when nothing qualifies. A long shot whose only edge is the boost (e.g. a 33% moneyline) is listed as optional, not as a must-place.
 
 ## The boost is never the reason (user, 2026-11-02)
-- A pick must win on its own BEFORE the boost: sharp fair >= 55%, or DK beats the sharp price (EV >= 2% unboosted), or the sharp line steamed toward it with DK lagging. The boost only makes a winning pick pay more. A bet that is +EV only because of the boost is NOT placed.
+- A pick must win on its own BEFORE the boost: sharp fair >= 55%, or DK beats the sharp price (EV >= 2% unboosted). The boost only makes a winning pick pay more. A bet that is +EV only because of the boost is NOT placed.
 - Underdogs / upsets are allowed only with a stated, checkable reason that the market has not priced: DK price better than the sharp fair (unboosted EV >= 2%), the sharp line moving toward the dog (steam), or confirmed news (injury, lineup, rest) with source and time that the price has not caught up to. "Could happen" is not a reason.
 - Combos (alternates, multi-sport parlays, SGPx) are built only from legs that qualify on their own; more legs are added only when each one does.
