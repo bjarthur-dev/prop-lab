@@ -21,12 +21,12 @@ def main():
     check("odds pregame", age_days(st.get("odds_pregame", {}).get("last_ok")), 1.5, "check odds.yml pregame tag")
     p = pd.read_csv("engine/data/players_2026-27.csv", usecols=["GAME_DATE"])
     last = pd.to_datetime(p.GAME_DATE.astype(str).str[:10]).max()
-    check("NBA game logs", (NOW.replace(tzinfo=None) - last).days + 0.0, 2.5, "run update_nba_data_auto.bat on the laptop or check nba_box.py")
+    check("NBA game logs (cloud: API-NBA + morning gap fill)", (NOW.replace(tzinfo=None) - last).days + 0.0, 2.5, "dispatch results.yml; the morning settlement fills gaps from web box scores")
     ctx = sorted(glob.glob("engine/data/context/2026-27/*.csv"), key=os.path.getmtime)
     if ctx:
         # git checkout resets mtimes, so use the newest commit time for the folder
         t = os.popen("git log -1 --format=%cI -- engine/data/context/2026-27").read().strip()
-        check("NBA matchup context (laptop)", age_days(t) if t else None, 4, "run update_nba_context.bat on the laptop")
+        check("NBA matchup context (laptop, optional)", age_days(t) if t else None, 14, "optional: run update_nba_context.bat when the laptop is on (context is WHY-text only; picks do not depend on it, System/Lessons.md #4)")
     t = os.popen("git log -1 --format=%cI -- engine/data/nfl").read().strip()
     check("NFL data (nflverse)", age_days(t) if t else None, 8, "results.yml refreshes Mon/Tue/Fri; dispatch it")
     # free credit runway: keys reset on the 1st; 3 keys x 500
