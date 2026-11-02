@@ -5,8 +5,9 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 120.81     # user 2026-11-01 23:33: DraftKings $110.81 (NBA SGPx +2056 hit), Betr $10
-balances: {draftkings: 110.81, betr: 10.00}
+current_bankroll: 90.81     # user 2026-11-01 23:42: after withdrawals, DraftKings $90.81, Betr $0 (withdrawn: $30)
+balances: {draftkings: 90.81, betr: 0.00}
+withdrawn_total: 30.00   # 2026-11-01
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
 stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
@@ -27,3 +28,12 @@ goal: "+$30 profit as fast as possible: DK $60 (from $30) / combined $74 (DK + B
 venue: DraftKings Pick6 only
 entry_rule: "one $5 Pick6 entry per day (two on a strong day), STANDARD picks only (no discounted/lowered lines), every pick >= 58-60% by the sharp sportsbook market at Pick6's line; 2-pick (3x) or 3-pick (6x, check app) - whichever has higher EV. Under $15 -> $3 entries. At $60 -> goal hit, set $30 aside."
 method: "engine/pick6_scan.py (Pick6 line vs sharp books) + engine/opportunity.py (minutes/usage/who's out/script) - see System/Pick6 Plan.md"
+
+## Funding rule for tools (user, 2026-11-01)
+Every subscription or upgrade (Odds API tier, data, anything) is paid out of the DraftKings bankroll. It has to pay for itself.
+Gate before buying anything:
+1. **Evidence first:** the method the tool would scale must show positive results on paper or live (price edge: mean CLV > 0 over 50+ legs).
+2. **Pays 2x:** expected monthly profit it adds >= 2x its monthly cost, using real stake sizes (not hopes).
+3. **Affordable:** cost <= 15% of current bankroll, and the bankroll stays >= $60 after paying.
+4. **Review after 30 days:** if the added profit didn't cover the cost, cancel.
+Log each purchase as a row in bets.csv (type=expense) so the record shows net profit after tools.
