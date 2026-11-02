@@ -1,0 +1,46 @@
+---
+tags: [system, lessons]
+---
+
+# Lessons from the data (study of 2026-11-02, covers 10-24 → 11-01)
+
+Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props graded vs play-by-play (players with no touches counted as 0); 1,609 matchup-engine projections; 14 real-money bets.
+
+## 1. Sharp prices are accurate; the edge is in favorites, moves and boosts
+- **Calibration:** Pinnacle/FanDuel devig fair is honest. NBA legs priced 45–55% win 50.0%; 55–65% legs win **60.6%** (fair 57.8%, n=497). NFL 55–70% legs win **66%** (fair 59%, n=68). Long shots under 45% underperform (NBA 39.6% vs 42.3%; NFL 34% vs 41%).
+- So: **build from sharp favorites (fair >= 55%) and never from sharp underdogs.** The 11-01 winners were all 55–62% legs.
+
+## 2. STEAM: follow the sharp line move (strongest signal found)
+- When the sharp line moves between the morning/afternoon snapshot and the 18:18 pregame snapshot, the side it moved toward won **55.6%** vs its last fair of 52.4% (342 NBA props with a >= 2-pt move; positive on 6 of 8 days).
+- **If DraftKings has not moved yet (DK price still >= the new fair): 96 legs, 61.5% win, +16% ROI as singles.**
+- Unders that steamed: 57% (n=223). Example: Garland u7.5 ast moved 54% → 57% before the 11-01 win.
+- Tool: `python engine/steam_scan.py [date] [nba|nfl]` after the pregame snapshot. Steam legs are the first choice for safe singles and parlay legs.
+
+## 3. Unders, mostly
+- NBA: assists unders 53.4% vs fair 51.1% (n=388); unders on 6.5–12.5 lines 55.2% vs fair 50.6% (n=373).
+- NFL: receptions unders 53.9% vs fair 51.8% (n=141), receiving-yards unders 53.2% (n=156). Rushing yards: the over did better (53.4%, n=88).
+- The public bets overs; books shade overs. Default lean is the under unless the role is growing (injury to a teammate) or the line steamed up.
+
+## 4. The matchup engine adds nothing over the market (yet)
+- Log loss: market 0.682; any blend with the engine is worse (0.684 at 20%, 0.714 alone). Where the engine was 20+ pts above the market the over hit **32%** (n=53).
+- Use it for the *story* (role, minutes, who's out, shot diet), never to pick a side against the sharp price. Stop citing "context %" as a reason.
+
+## 5. Parlays only with a boost
+- A 3-leg parlay of 58% legs at DK prices is about −10% EV. With a 30% profit boost it's about +11%; with 50%, about +26%. Real money agrees: boosted bets +$106 over 11, unboosted −$21 over 3.
+- Rule: no parlay without a >= 25% boost. Legs must each be sharp >= 55% (prefer steam legs). SGPs: the book prices correlation, so pick legs whose correlation helps (e.g. two same-team assist unders in a slow game) and avoid legs that fight (two overs competing for the same targets).
+
+## 6. Live management
+- Never cash out a boosted ticket (it removes the boost). Cash out only if the offer beats (live chance × full payout).
+- Hedge the last weak leg with a live bet when a loss would hurt; the cost is roughly the book's margin, not 30–50% like a cash-out.
+
+## 7. Process errors to stop repeating
+- Check the player's team and the last 5–7 game logs before writing a leg (Diggs is on WAS; McKee went over in both starts).
+- Re-check role changes when a starter is out: compare games without him (WAS without McLaurin, PHI without DeVonta Smith) before taking a catches under.
+- NFL zero-catch games must count as 0 in grading (fixed in the study; the earlier NFL shadow grading dropped them and inflated overs).
+- One huge long shot carries the live record (without it −$21). Judge methods by leg win rate and CLV, not by one ticket.
+
+## Daily recipe
+1. Afternoon card: price-edge legs (DK beats sharp) + sharp favorites >= 55% that fit the story; lean under.
+2. 18:18 pregame snapshot → `steam_scan.py`: promote legs that steamed >= 2 pts with DK lagging; drop legs that steamed against us.
+3. Safe slips from the top steam/price-edge legs; one boosted parlay (>= 25% boost) from 3–5 favorites.
+4. Log everything; the morning report grades legs, steam, CLV and the live tiers.

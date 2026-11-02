@@ -10,9 +10,9 @@ balances: {draftkings: 90.81, betr: 0.00}
 withdrawn_total: 30.00   # 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
-stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take
+stake_straight_usd: 2.00     # 2026-11-02: ~2% of $90.81; $1 if bankroll < $60
 stake_pick6_entry_usd: 1.00
-stake_cash_slip_usd: 5.00     # user decision 2026-10-26: one $5 cash slip per day (doubling plan), plus no-sweat tokens on slips
+stake_cash_slip_usd: 5.00     # one boosted long-shot parlay per day (>= 25% boost only, System/Lessons.md); daily total <= ~10% of bankroll
 cash_slip_rule: "under $15 bankroll -> $3 slips until back over $20; at $60+ set $30 aside"
 max_bets_per_day: 3          # $3/day max = 10% of bankroll
 per_game_max_usd: 2.00
