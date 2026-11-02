@@ -22,6 +22,7 @@ SPORTS = {
     "mlb": ("baseball_mlb", "pitcher_strikeouts,pitcher_outs,batter_hits,batter_total_bases"),
 }
 left = {"remaining": None, "used": None}
+EXTRAS_OK = [True]   # set False by the budget guard when credits are short; game-line extras are skipped then
 
 def get(path, **q):
     global KEY
@@ -42,6 +43,37 @@ def get(path, **q):
         except Exception as e:
             print(f"::warning::retry {path}: {e}"); time.sleep(3 * (i + 1))
     return None
+
+GAME_SPORTS = {"ncaab": "basketball_ncaab", "nba": "basketball_nba", "nfl": "americanfootball_nfl", "ncaaf": "americanfootball_ncaaf"}
+
+def bulk_lines(sp, now, today, tag):
+    """one call = every game's spreads/totals/moneyline for a sport (3 credits); writes data/odds/<sp>/<date>/games_<tag>_HHMM.csv"""
+    g = get(f"sports/{GAME_SPORTS[sp]}/odds", markets="spreads,totals,h2h", bookmakers=BOOKS.replace(",pick6", ""), oddsFormat="american") or []
+    rows = [dict(snap_et=now.isoformat(timespec="seconds"), sport=sp.upper(), event_id=e["id"], home=e["home_team"], away=e["away_team"],
+                 start=e["commence_time"], book=bk["key"], market=m["key"], name=oc["name"], point=oc.get("point"), price=oc.get("price"))
+            for e in g for bk in e.get("bookmakers", []) for m in bk.get("markets", []) for oc in m.get("outcomes", [])]
+    if rows:
+        os.makedirs(f"data/odds/{sp}/{today}", exist_ok=True)
+        pd.DataFrame(rows).to_csv(f"data/odds/{sp}/{today}/games_{tag}_{now:%H%M}.csv", index=False)
+    print(f"::notice::{sp} game lines ({tag}): {len(g)} games, credits left {left['remaining']}")
+    return len(g)
+
+def scores(now):
+    """final scores for the last 3 days (2 credits per sport) -> data/scores/<sp>/<date>.csv; used to grade game lines"""
+    n = {}
+    for sp, key in GAME_SPORTS.items():
+        if sp == "nba": continue   # NBA results come from API-NBA box scores
+        g = get(f"sports/{key}/scores", daysFrom=3) or []
+        rows = []
+        for e in g:
+            if not e.get("completed") or not e.get("scores"): continue
+            sc = {x["name"]: x["score"] for x in e["scores"]}
+            d = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET).date().isoformat()
+            rows.append(dict(date=d, event_id=e["id"], home=e["home_team"], away=e["away_team"], home_score=sc.get(e["home_team"]), away_score=sc.get(e["away_team"])))
+        for d, x in pd.DataFrame(rows).groupby("date") if rows else []:
+            os.makedirs(f"data/scores/{sp}", exist_ok=True); x.to_csv(f"data/scores/{sp}/{d}.csv", index=False)
+        n[sp] = len(rows)
+    print(f"::notice::scores {n}, credits left {left['remaining']}"); return n
 
 def main():
     global KEY
@@ -64,6 +96,7 @@ def main():
         days_left = max((nxt.date() - now.date()).days, 1)
         reserve = 25 * days_left   # board + close core floor (2-3 free keys = 1,000-1,500 a month)
         print(f"::notice::credits left across {len(KEYS)} keys: {total}; {days_left} days to reset; core reserve {reserve}")
+        EXTRAS_OK[0] = total >= reserve + 150
         if tag not in ("board", "close", "pregame") and total < reserve + 60:
             print(f"::warning::budget: skipping optional tag '{tag}' to protect the core feed (FORCE=1 overrides)"); return
         if tag == "pregame" and total < reserve:
@@ -71,20 +104,16 @@ def main():
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
     if tag == "nbaq1":   # on-demand: NBA 1st-quarter player props (DK 1Q boosts)
         sports = {"nba": ("basketball_nba", "player_points_q1,player_rebounds_q1,player_assists_q1")}
-    if tag == "cbb":   # on-demand: college basketball game lines, one bulk call (3 credits for every game)
-        g = get("sports/basketball_ncaab/odds", markets="spreads,totals,h2h", bookmakers=BOOKS.replace(",pick6", ""), oddsFormat="american") or []
-        rows = []
-        for e in g:
-            for bk in e.get("bookmakers", []):
-                for m in bk.get("markets", []):
-                    for oc in m.get("outcomes", []):
-                        rows.append(dict(snap_et=now.isoformat(timespec="seconds"), sport="NCAAB", event_id=e["id"], home=e["home_team"], away=e["away_team"],
-                                         start=e["commence_time"], book=bk["key"], market=m["key"], name=oc["name"], point=oc.get("point"), price=oc.get("price")))
-        if rows:
-            os.makedirs(f"data/odds/ncaab/{today}", exist_ok=True); pd.DataFrame(rows).to_csv(f"data/odds/ncaab/{today}/games_{now:%H%M}.csv", index=False)
-        print(f"::notice::ncaab: {len(g)} games, {len(rows)} rows, credits left {left['remaining']}")
-        s = json.load(open("status/actions.json")) if os.path.exists("status/actions.json") else {}
-        s["odds_cbb"] = dict(last_ok=now.isoformat(timespec="seconds"), games=len(g), credits_remaining=left["remaining"]); json.dump(s, open("status/actions.json", "w"), indent=1)
+    if tag in ("cbb", "lines"):   # on-demand game lines: cbb = college basketball; lines = every in-season sport we track
+        info["games"] = {sp: bulk_lines(sp, now, today, tag) for sp in (["ncaab"] if tag == "cbb" else ["ncaab", "nba", "nfl", "ncaaf"])}
+        info["credits_remaining"] = left["remaining"]
+        st = json.load(open("status/actions.json")) if os.path.exists("status/actions.json") else {}
+        st[f"odds_{tag}"] = dict(last_ok=now.isoformat(timespec="seconds"), **info); json.dump(st, open("status/actions.json", "w"), indent=1)
+        return
+    if tag == "scores" or (tag == "open" and TIER != "paid"):   # the free tier skips the open prop snapshot; use the slot for final scores
+        info["scores"] = scores(now); info["credits_remaining"] = left["remaining"]
+        st = json.load(open("status/actions.json")) if os.path.exists("status/actions.json") else {}
+        st["odds_scores"] = dict(last_ok=now.isoformat(timespec="seconds"), **info); json.dump(st, open("status/actions.json", "w"), indent=1)
         return
     if tag == "nbaalt":   # on-demand: NBA alternate ladders (one-sided X+ rungs) for parlay building
         sports = {"nba": ("basketball_nba", "player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate")}
@@ -102,7 +131,6 @@ def main():
         sports = {"mlb": ("baseball_mlb", "batter_rbis,batter_runs_scored,batter_total_bases,batter_home_runs,batter_hits,batter_hits_runs_rbis,pitcher_strikeouts")}
     if tag == "mlbhrr":   # on-demand: MLB batter hits+runs+RBIs and hits (1 credit per market per game)
         sports = {"mlb": ("baseball_mlb", "batter_hits_runs_rbis,batter_hits")}
-    if TIER != "paid" and tag == "open": print("::notice::free tier: no open snapshot"); return
     if tag in ("mlbprops",): pass
     if tag == "board" and os.environ.get("FORCE") != "1":   # credit saver: one afternoon board per day is enough
         import glob as _g
@@ -119,6 +147,10 @@ def main():
                 bet_games |= set(e[(e.ev_sharp.fillna(-99) >= 2) & (e.ev_all >= 0)]["game"].astype(str))
         except Exception: pass
         if not bet_games: return
+    if tag in ("board", "pregame") and EXTRAS_OK[0]:
+        for gsp in (("ncaab", "nfl", "ncaaf") if tag == "board" else ("ncaab",)):
+            try: bulk_lines(gsp, now, today, tag)
+            except Exception as e: print(f"::warning::{gsp} lines: {e}")
     for sp, (key, markets) in sports.items():
         if tag in ("board", "open"):   # v1.2: game lines for the slate (spreads + totals, 3 books = 2 credits per sport)
             gl = get(f"sports/{key}/odds", markets="spreads,totals", bookmakers="draftkings,fanduel,pinnacle", oddsFormat="american") or []

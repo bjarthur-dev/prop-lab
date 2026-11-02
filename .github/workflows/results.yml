@@ -37,6 +37,8 @@ jobs:
         run: |
           python engine/live_report.py | head -5 || echo "live report failed (non-fatal)"
           python engine/health.py || echo "health check failed (non-fatal)"
+          python engine/game_grade.py | tail -3 || echo "game-line grading failed (non-fatal)"
+          python engine/steam_scan.py grade || echo "steam grading failed (non-fatal)"
       - name: Commit
         if: always()
         env: { COMMIT_MSG: "bot: results + autosettle" }
