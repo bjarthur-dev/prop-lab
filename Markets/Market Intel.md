@@ -58,6 +58,11 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-10-31: The 50%-boosted 2-leg reb parlay was +17.6% EV vs close and lost (Acuff 5 reb vs u3.5). +EV at 28% win probability still loses most nights, so size it like a long shot.
 - 2026-10-31: H2 entries with "start not confirmed" went 0/2 again (0/4 over two nights; H2 1/7 overall). Only log H2 on a confirmed start.
 - 2026-10-31: To fill box-score gaps, search "statmuse nba game MM-DD-YYYY aaa at bbb" (extended). StatMuse pages had full tables; ESPN/CBS pages came back pregame or truncated, and B-Ref needs provenance.
+- 2026-11-01: The +$105.67 SGPx boost is the entire profit to date (record ex-that-win −$20.86). Treat it as variance, not method.
+- 2026-11-01: The full-balance hedge at −185 on our own winning boosted ticket cost $16.38. Hedge only enough to lock a target, never the whole balance.
+- 2026-11-01: N1 RB/TE rec-yds unders went 10/25 in week 8, and N1 is back to noise (net −2.6, SE 5.1, n=63). NFL shadow model −8.3% vs market on 590.
+- 2026-11-01: A DK price left behind by big injury news (Melton +126 u2.5 ast after Curry/Green OUT) is a trap: FD flipped to −162/+126. The late price_edge re-check caught it.
+- 2026-11-01: The NFL close pull (one 15:21 snapshot) misses 13:00 games, alt rungs, receptions and SNF, so no NFL paper CLV exists. ESPN NFL box pages can be mid-game snapshots, so use StatMuse game pages.
 
 ## Reference — the break-even table
 | Price | Break-even |
