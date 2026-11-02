@@ -53,6 +53,20 @@ def main():
             print(f"::notice::key {i}: ok={sp is not None}, NBA events listed={len(ev)}, credits remaining={left['remaining']}, used={left['used']}")
         return
     now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
+    if TIER != "paid" and os.environ.get("FORCE") != "1":   # credit budget (2026-11-01): keep the month's core feed alive until keys reset on the 1st
+        total, k0 = 0, KEY
+        for k in KEYS:   # 'sports' costs 0 credits and returns the key's remaining credits in the headers
+            KEY = k; left["remaining"] = None; get("sports")
+            total += int(left["remaining"] or 0)
+        KEY = next((k for k in KEYS if k), k0)
+        nxt = (now.replace(day=1) + dt.timedelta(days=32)).replace(day=1)
+        days_left = max((nxt.date() - now.date()).days, 1)
+        reserve = 40 * days_left   # board + close core, about 40/day
+        print(f"::notice::credits left across {len(KEYS)} keys: {total}; {days_left} days to reset; core reserve {reserve}")
+        if tag not in ("board", "close", "pregame") and total < reserve + 60:
+            print(f"::warning::budget: skipping optional tag '{tag}' to protect the core feed (FORCE=1 overrides)"); return
+        if tag == "pregame" and total < reserve:
+            print("::warning::budget: skipping pregame; only board + close until the reset (FORCE=1 overrides)"); return
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
     if tag == "nbaalt":   # on-demand: NBA alternate ladders (one-sided X+ rungs) for parlay building
         sports = {"nba": ("basketball_nba", "player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate")}

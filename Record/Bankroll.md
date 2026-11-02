@@ -7,7 +7,7 @@ tags: [record, bankroll]
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
 current_bankroll: 90.81     # user 2026-11-01 23:42: after withdrawals, DraftKings $90.81, Betr $0 (withdrawn: $30)
 balances: {draftkings: 90.81, betr: 0.00}
-withdrawn_total: 30.00   # 2026-11-01
+withdrawn_total: 30.00   # 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
 stake_straight_usd: 1.00     # app minimum; % rules (0.5%) would be $0.15, below what the apps take

@@ -35,3 +35,11 @@ Discounted Pick6 H+R+RBI stacks, unboosted SGPs, 4+ leg parlays, hedging bonus b
 
 ## Track (proof it works)
 CLV vs the closing sharp price on every bet (primary), realized vs expected ROI by method, token/bonus conversion, drawdown, any DraftKings limit or promo change (winning scan bettors can get limited).
+
+## The daily slip method (user, 2026-11-01)
+What has worked live so far: combine the data (price edges, matchup context, role changes from injuries) into
+1. **Safe slips:** singles or short boosted parlays (<= 3x) on the strongest legs; these pay for the day.
+2. **One boosted long shot:** the day's biggest promo boost (e.g. 50% NBA SGPx) on 4-5 legs that each have sharp support.
+The safe slips cover the long shot's stake; the long shot is the profit engine. Record/Live Report.md tracks both tiers (safe / mid / long shot / hedge, boosted vs not) after tool costs.
+Live management: no cash-outs on boosted tickets (cash-out drops the boost); hedge the last weak leg live when a loss would hurt (costs ~ the book's margin, far less than a cash-out).
+Honest check: as of 11-01, one long shot carries the record (without it: -$20.86 over 13 bets). Judge the method after 30+ days, not 2.

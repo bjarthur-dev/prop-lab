@@ -132,6 +132,9 @@ def main():
         import edge_grade; edge_grade.main()      # price-edge + alt-rung method report (Record/Shadow/Price Edge Report.md)
     except Exception as e:
         lines += ["", f"(price-edge grading failed: {e})"]
+    for mod in ("live_report", "health"):     # real-money method report + feed freshness / credit runway
+        try: __import__(mod).main()
+        except Exception as e: lines += ["", f"({mod} failed: {e})"]
     open("Record/Shadow/Shadow Report.md", "w").write("\n".join(lines) + "\n")
     print("\n".join(lines[8:]))
 

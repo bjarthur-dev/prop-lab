@@ -32,6 +32,11 @@ jobs:
       - name: Refresh NFL play-by-play (Mon/Tue/Fri)
         run: |
           case "$(TZ=America/New_York date +%u)" in 1|2|5) (python engine/nfl/fetch_nfl.py && python engine/nfl/fetch_context.py 2026) || echo "nflverse refresh failed (non-fatal)";; *) echo "skip";; esac
+      - name: Live report + system health (non-fatal)
+        if: always()
+        run: |
+          python engine/live_report.py | head -5 || echo "live report failed (non-fatal)"
+          python engine/health.py || echo "health check failed (non-fatal)"
       - name: Commit
         if: always()
         env: { COMMIT_MSG: "bot: results + autosettle" }
