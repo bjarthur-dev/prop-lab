@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
-      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}   # 3rd key if set (deduped in the script)
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY || secrets.ODDS_API_KEY_1 }}   # 3rd key if set, else key 1 (deduped in the script)
       ODDS_API_KEY_1: ${{ secrets.ODDS_API_KEY_1 }}
       ODDS_API_KEY_2: ${{ secrets.ODDS_API_KEY_2 }}
       ODDS_TIER: ${{ vars.ODDS_TIER || 'free' }}
