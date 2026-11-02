@@ -8,8 +8,9 @@ on:
     - cron: "2-59/15 16-23,0-3 * * *"  # close dispatcher, 12:00-23:59 EDT (GitHub often runs it ~hourly; the script looks 75 min ahead)
   workflow_dispatch:
     inputs:
-      tag: { description: "open|board|close|check|mlbhrr|mlbprops|nbaalt|nflalt|pregame|pick6", required: false, default: "board" }
+      tag: { description: "open|board|close|check|mlbhrr|mlbprops|nbaalt|nflalt|pregame|pick6|nbaq1|cbb", required: false, default: "board" }
       window: { description: "pregame: minutes ahead to include", required: false, default: "150" }
+      force: { description: "1 = skip the credit budget guard", required: false, default: "0" }
 permissions: { contents: write }
 concurrency: { group: writer-actions, cancel-in-progress: false }
 jobs:
@@ -17,11 +18,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
-      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY_1 || secrets.ODDS_API_KEY }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}   # 3rd key if set (deduped in the script)
       ODDS_API_KEY_1: ${{ secrets.ODDS_API_KEY_1 }}
       ODDS_API_KEY_2: ${{ secrets.ODDS_API_KEY_2 }}
       ODDS_TIER: ${{ vars.ODDS_TIER || 'free' }}
       WINDOW_MIN: ${{ inputs.window || '150' }}
+      FORCE: ${{ inputs.force || '0' }}
     steps:
       - name: Skip if no key
         if: ${{ env.ODDS_API_KEY == '' }}

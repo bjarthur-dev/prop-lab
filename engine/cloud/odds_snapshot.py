@@ -9,6 +9,7 @@ from zoneinfo import ZoneInfo
 import pandas as pd
 ET = ZoneInfo("America/New_York")
 KEYS = [k for k in (os.environ.get("ODDS_API_KEY_1", ""), os.environ.get("ODDS_API_KEY_2", ""), os.environ.get("ODDS_API_KEY", "")) if k]
+KEYS = list(dict.fromkeys(KEYS))   # dedupe (ODDS_API_KEY may equal key 1)
 KEY = KEYS[0] if KEYS else ""   # key 1 first; switch to the next key only when one is out of credits (401/429)
 BOOKS = "fanduel,draftkings,betmgm,williamhill_us,espnbet,fanatics,betrivers,pinnacle,betonlineag,pick6"   # pick6 = DraftKings Pick6 (us_dfs); 10 books = 1 region, so no extra credits
 TIER = os.environ.get("ODDS_TIER", "free")   # free = 500 credits/month: NBA board (pts/reb/ast) + closes only for games with logged bets
@@ -61,13 +62,30 @@ def main():
         KEY = next((k for k in KEYS if k), k0)
         nxt = (now.replace(day=1) + dt.timedelta(days=32)).replace(day=1)
         days_left = max((nxt.date() - now.date()).days, 1)
-        reserve = 40 * days_left   # board + close core, about 40/day
+        reserve = 25 * days_left   # board + close core floor (2-3 free keys = 1,000-1,500 a month)
         print(f"::notice::credits left across {len(KEYS)} keys: {total}; {days_left} days to reset; core reserve {reserve}")
         if tag not in ("board", "close", "pregame") and total < reserve + 60:
             print(f"::warning::budget: skipping optional tag '{tag}' to protect the core feed (FORCE=1 overrides)"); return
         if tag == "pregame" and total < reserve:
             print("::warning::budget: skipping pregame; only board + close until the reset (FORCE=1 overrides)"); return
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
+    if tag == "nbaq1":   # on-demand: NBA 1st-quarter player props (DK 1Q boosts)
+        sports = {"nba": ("basketball_nba", "player_points_q1,player_rebounds_q1,player_assists_q1")}
+    if tag == "cbb":   # on-demand: college basketball game lines, one bulk call (3 credits for every game)
+        g = get("sports/basketball_ncaab/odds", markets="spreads,totals,h2h", bookmakers=BOOKS.replace(",pick6", ""), oddsFormat="american") or []
+        rows = []
+        for e in g:
+            for bk in e.get("bookmakers", []):
+                for m in bk.get("markets", []):
+                    for oc in m.get("outcomes", []):
+                        rows.append(dict(snap_et=now.isoformat(timespec="seconds"), sport="NCAAB", event_id=e["id"], home=e["home_team"], away=e["away_team"],
+                                         start=e["commence_time"], book=bk["key"], market=m["key"], name=oc["name"], point=oc.get("point"), price=oc.get("price")))
+        if rows:
+            os.makedirs(f"data/odds/ncaab/{today}", exist_ok=True); pd.DataFrame(rows).to_csv(f"data/odds/ncaab/{today}/games_{now:%H%M}.csv", index=False)
+        print(f"::notice::ncaab: {len(g)} games, {len(rows)} rows, credits left {left['remaining']}")
+        s = json.load(open("status/actions.json")) if os.path.exists("status/actions.json") else {}
+        s["odds_cbb"] = dict(last_ok=now.isoformat(timespec="seconds"), games=len(g), credits_remaining=left["remaining"]); json.dump(s, open("status/actions.json", "w"), indent=1)
+        return
     if tag == "nbaalt":   # on-demand: NBA alternate ladders (one-sided X+ rungs) for parlay building
         sports = {"nba": ("basketball_nba", "player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate")}
     if tag == "pregame":   # on-demand: main + alternate props for games starting in the next WINDOW_MIN minutes (all games, not just bet games)
