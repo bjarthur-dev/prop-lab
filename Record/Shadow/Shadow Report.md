@@ -7,39 +7,39 @@ tags: [record, shadow]
 Written by `engine/shadow.py` (morning settlement runs it). Rules §9 uses this to decide when the model-health gate relaxes and when NFL/MLB go live.
 
 ## NBA
-Graded props: **2201** over 10 day(s). Over hit rate 0.476 vs market's average 0.493 vs model's 0.464.
-Brier: model 0.2545 · market 0.2450 · blend 0.2422 → **model skill vs market -3.9%**, blend skill +1.1% (positive = better than the market).
+Graded props: **2766** over 11 day(s). Over hit rate 0.478 vs market's average 0.493 vs model's 0.461.
+Brier: model 0.2535 · market 0.2453 · blend 0.2441 → **model skill vs market -3.3%**, blend skill +0.5% (positive = better than the market).
 
 | market | n | over hit | market p | model p | model skill vs mkt |
 |---|---:|---:|---:|---:|---:|
-| ast | 502 | 0.472 | 0.495 | 0.463 | -5.3% |
-| fg3m | 291 | 0.460 | 0.476 | 0.454 | -4.0% |
-| pts | 742 | 0.473 | 0.499 | 0.463 | -4.6% |
-| reb | 666 | 0.488 | 0.492 | 0.470 | -1.9% |
+| ast | 628 | 0.481 | 0.495 | 0.460 | -4.4% |
+| fg3m | 417 | 0.482 | 0.481 | 0.454 | -3.1% |
+| pts | 901 | 0.465 | 0.498 | 0.459 | -4.3% |
+| reb | 820 | 0.487 | 0.492 | 0.469 | -1.5% |
 
 Model calibration (P(over)):
 
 | model p bin | n | predicted | actual | market p |
 |---|---:|---:|---:|---:|
-| (0.0, 0.3] | 141 | 0.253 | 0.468 | 0.470 |
-| (0.3, 0.4] | 427 | 0.359 | 0.438 | 0.465 |
-| (0.4, 0.5] | 838 | 0.450 | 0.475 | 0.486 |
-| (0.5, 0.6] | 592 | 0.544 | 0.471 | 0.512 |
-| (0.6, 0.7] | 170 | 0.640 | 0.571 | 0.538 |
-| (0.7, 1.0] | 33 | 0.728 | 0.606 | 0.541 |
+| (0.0, 0.3] | 172 | 0.252 | 0.442 | 0.468 |
+| (0.3, 0.4] | 579 | 0.359 | 0.428 | 0.464 |
+| (0.4, 0.5] | 1045 | 0.450 | 0.483 | 0.487 |
+| (0.5, 0.6] | 734 | 0.544 | 0.488 | 0.515 |
+| (0.6, 0.7] | 197 | 0.640 | 0.569 | 0.542 |
+| (0.7, 1.0] | 39 | 0.728 | 0.564 | 0.539 |
 
 Does disagreeing with the market pay? (over hit vs market p, by model−market gap)
 
 | gap bin | n | over hit | market p | hit − market |
 |---|---:|---:|---:|---:|
-| (-1.0, -0.1] | 444 | 0.505 | 0.498 | +0.7 pts |
-| (-0.1, -0.05] | 421 | 0.485 | 0.495 | -1.0 pts |
-| (-0.05, 0.0] | 491 | 0.440 | 0.490 | -5.0 pts |
-| (0.0, 0.05] | 438 | 0.461 | 0.491 | -3.0 pts |
-| (0.05, 0.1] | 248 | 0.476 | 0.490 | -1.4 pts |
-| (0.1, 1.0] | 159 | 0.522 | 0.489 | +3.3 pts |
+| (-1.0, -0.1] | 566 | 0.493 | 0.497 | -0.4 pts |
+| (-0.1, -0.05] | 557 | 0.479 | 0.493 | -1.4 pts |
+| (-0.05, 0.0] | 637 | 0.454 | 0.492 | -3.8 pts |
+| (0.0, 0.05] | 535 | 0.473 | 0.494 | -2.1 pts |
+| (0.05, 0.1] | 288 | 0.486 | 0.488 | -0.2 pts |
+| (0.1, 1.0] | 183 | 0.508 | 0.488 | +2.0 pts |
 
-Noise check: with 2201 props one standard error on a hit rate is about ±1.1 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
+Noise check: with 2766 props one standard error on a hit rate is about ±1.0 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
 
 ## NFL
 Graded props: **590** over 2 day(s). Over hit rate 0.466 vs market's average 0.496 vs model's 0.492.
@@ -77,36 +77,36 @@ Does disagreeing with the market pay? (over hit vs market p, by model−market g
 Noise check: with 590 props one standard error on a hit rate is about ±2.1 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
 
 ## NBA matchup engine v1 (context vs market)
-Graded props: **2031** over 6 day(s). Over hit rate 0.463 vs market's average 0.486 vs model's 0.489.
-Brier: model 0.2592 · market 0.2444 · blend 0.2458 → **model skill vs market -6.1%**, blend skill -0.6% (positive = better than the market).
+Graded props: **2733** over 7 day(s). Over hit rate 0.466 vs market's average 0.487 vs model's 0.487.
+Brier: model 0.2574 · market 0.2454 · blend 0.2461 → **model skill vs market -4.9%**, blend skill -0.3% (positive = better than the market).
 
 | market | n | over hit | market p | model p | model skill vs mkt |
 |---|---:|---:|---:|---:|---:|
-| assists | 449 | 0.457 | 0.491 | 0.501 | -5.5% |
-| points | 604 | 0.462 | 0.503 | 0.507 | -8.4% |
-| rebounds | 518 | 0.485 | 0.485 | 0.487 | -6.5% |
-| threes | 460 | 0.448 | 0.462 | 0.455 | -2.9% |
+| assists | 612 | 0.471 | 0.490 | 0.494 | -4.2% |
+| points | 812 | 0.456 | 0.502 | 0.504 | -7.5% |
+| rebounds | 698 | 0.486 | 0.487 | 0.488 | -6.4% |
+| threes | 611 | 0.453 | 0.466 | 0.458 | -0.4% |
 
 Model calibration (P(over)):
 
 | model p bin | n | predicted | actual | market p |
 |---|---:|---:|---:|---:|
-| (0.0, 0.3] | 140 | 0.230 | 0.400 | 0.426 |
-| (0.3, 0.4] | 351 | 0.357 | 0.419 | 0.451 |
-| (0.4, 0.5] | 577 | 0.454 | 0.470 | 0.480 |
-| (0.5, 0.6] | 576 | 0.548 | 0.484 | 0.502 |
-| (0.6, 0.7] | 301 | 0.640 | 0.492 | 0.524 |
-| (0.7, 1.0] | 86 | 0.754 | 0.465 | 0.531 |
+| (0.0, 0.3] | 188 | 0.225 | 0.383 | 0.430 |
+| (0.3, 0.4] | 461 | 0.357 | 0.416 | 0.453 |
+| (0.4, 0.5] | 797 | 0.454 | 0.458 | 0.480 |
+| (0.5, 0.6] | 788 | 0.548 | 0.509 | 0.503 |
+| (0.6, 0.7] | 391 | 0.640 | 0.488 | 0.526 |
+| (0.7, 1.0] | 108 | 0.751 | 0.491 | 0.529 |
 
 Does disagreeing with the market pay? (over hit vs market p, by model−market gap)
 
 | gap bin | n | over hit | market p | hit − market |
 |---|---:|---:|---:|---:|
-| (-1.0, -0.1] | 342 | 0.468 | 0.485 | -1.7 pts |
-| (-0.1, -0.05] | 265 | 0.453 | 0.483 | -3.0 pts |
-| (-0.05, 0.0] | 377 | 0.440 | 0.485 | -4.5 pts |
-| (0.0, 0.05] | 364 | 0.505 | 0.488 | +1.7 pts |
-| (0.05, 0.1] | 319 | 0.470 | 0.489 | -1.9 pts |
-| (0.1, 1.0] | 364 | 0.442 | 0.486 | -4.4 pts |
+| (-1.0, -0.1] | 459 | 0.451 | 0.486 | -3.5 pts |
+| (-0.1, -0.05] | 369 | 0.442 | 0.486 | -4.4 pts |
+| (-0.05, 0.0] | 523 | 0.459 | 0.487 | -2.8 pts |
+| (0.0, 0.05] | 498 | 0.498 | 0.488 | +1.0 pts |
+| (0.05, 0.1] | 415 | 0.489 | 0.490 | -0.1 pts |
+| (0.1, 1.0] | 469 | 0.454 | 0.486 | -3.2 pts |
 
-Noise check: with 2031 props one standard error on a hit rate is about ±1.1 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
+Noise check: with 2733 props one standard error on a hit rate is about ±1.0 pts (game clustering makes it larger). Need ~1,500+ graded props before trusting a 2-pt difference.
