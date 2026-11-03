@@ -78,5 +78,16 @@
   "tier": "free",
   "nba": 129,
   "credits_remaining": "160"
+ },
+ "odds_scores": {
+  "last_ok": "2026-11-03T10:31:16-05:00",
+  "tag": "scores",
+  "tier": "free",
+  "scores": {
+   "ncaab": 121,
+   "nfl": 13,
+   "ncaaf": 47
+  },
+  "credits_remaining": "82"
  }
 }
