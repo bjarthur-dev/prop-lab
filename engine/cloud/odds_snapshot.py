@@ -45,7 +45,8 @@ def get(path, **q):
             print(f"::warning::retry {path}: {e}"); time.sleep(3 * (i + 1))
     return None
 
-GAME_SPORTS = {"ncaab": "basketball_ncaab", "nba": "basketball_nba", "nfl": "americanfootball_nfl", "ncaaf": "americanfootball_ncaaf"}
+GAME_SPORTS = {"ncaab": "basketball_ncaab", "nba": "basketball_nba", "nfl": "americanfootball_nfl", "ncaaf": "americanfootball_ncaaf",
+               "nhl": "icehockey_nhl", "ucl": "soccer_uefa_champs_league"}
 
 def bulk_lines(sp, now, today, tag):
     """one call = every game's spreads/totals/moneyline for a sport (3 credits); writes data/odds/<sp>/<date>/games_<tag>_HHMM.csv"""
@@ -63,7 +64,7 @@ def scores(now):
     """final scores for the last 3 days (2 credits per sport) -> data/scores/<sp>/<date>.csv; used to grade game lines"""
     n = {}
     for sp, key in GAME_SPORTS.items():
-        if sp == "nba": continue   # NBA results come from API-NBA box scores
+        if sp in ("nba", "nhl", "ucl"): continue   # NBA from API-NBA; NHL/UCL scores only when we start betting them
         g = get(f"sports/{key}/scores", daysFrom=3) or []
         rows = []
         for e in g:
@@ -109,8 +110,8 @@ def main():
         print("::notice::low-credit mode: NBA board = rebounds + assists only")
     if tag == "nbaq1":   # on-demand: NBA 1st-quarter player props (DK 1Q boosts)
         sports = {"nba": ("basketball_nba", "player_points_q1,player_rebounds_q1,player_assists_q1")}
-    if tag in ("cbb", "lines"):   # on-demand game lines: cbb = college basketball; lines = every in-season sport we track
-        info["games"] = {sp: bulk_lines(sp, now, today, tag) for sp in (["ncaab"] if tag == "cbb" else ["ncaab", "nba", "nfl", "ncaaf"])}
+    if tag in ("cbb", "lines", "nhl", "ucl"):   # on-demand game lines: cbb = college basketball; nhl; ucl = Champions League; lines = every sport we track
+        info["games"] = {sp: bulk_lines(sp, now, today, tag) for sp in ({"cbb": ["ncaab"], "nhl": ["nhl"], "ucl": ["ucl"]}.get(tag) or ["ncaab", "nba", "nfl", "ncaaf"])}
         info["credits_remaining"] = left["remaining"]
         st = json.load(open("status/actions.json")) if os.path.exists("status/actions.json") else {}
         st[f"odds_{tag}"] = dict(last_ok=now.isoformat(timespec="seconds"), **info); json.dump(st, open("status/actions.json", "w"), indent=1)

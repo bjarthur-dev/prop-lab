@@ -15,7 +15,7 @@ def scan(date, sp):
     for (eid, mk), x in g.groupby(["event_id", "market"]):
         def dev(b):
             y = x[x.book == b]
-            if len(y) != 2: return {}
+            if len(y) not in (2, 3) or y.name.nunique() != len(y): return {}   # 2-way, or 3-way soccer moneyline
             p = [imp(v) for v in y.price]; s = sum(p)
             return {(n, pt): q / s for n, pt, q in zip(y.name, y.point, p)}
         dk = x[x.book == "draftkings"]
@@ -35,7 +35,7 @@ def scan(date, sp):
 
 if __name__ == "__main__":
     a = sys.argv[1:]
-    date = next((x for x in a if x[:2] == "20"), dt.date.today().isoformat()); sp = next((x for x in a if not x[:2] == "20"), "ncaab")
+    date = next((x for x in a if x[:2] == "20"), dt.date.today().isoformat()); sp = next((x for x in a if not x[:2] == "20"), "ncaab")   # ncaab|nba|nfl|ncaaf|nhl|ucl
     d = scan(date, sp)
     if d.empty: print("no games file"); sys.exit()
     d.to_csv(f"data/edges/{date}_games_{sp}.csv", index=False)
