@@ -76,3 +76,9 @@ Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props g
 - Rule: across ALL tickets of the day, at most 1 exposure per player and 2 legs per game. When a promo requires 2 legs from one game, pick that game so it holds no other ticket's legs; if none qualifies, skip the promo.
 - A leg added only to satisfy a promo's structure (Giddey, added at 19:00 from a 17:36 price) needs the same checks as any other leg, at a fresh price.
 - Checked: game total vs under win rate (3,114 graded NBA props): no consistent pattern by total bucket. Not a rule.
+
+## 11-02 graded (morning review 11-03)
+- The card's SGPx (Anunoby/Brunson/Vassell reb unders) went 3/3 and the Carter Jr. under won (6 pts). The placed slip lost only on the two legs added for the promo structure (Giddey 10 ast, Brown 4 threes): concentration rule confirmed.
+- MNF skips were right: sharp-favorite catch unders went 1-4 at DK's overpriced numbers (Loveland 7, Burden 7, Odunze 4, Charbonnet 3; Raymond 2 won), Caleb Williams ran once for 2 yds (the scramble angle failed), Swift 2 catches / 69 rush yds, Bears won 34-17. Horton O1.5 (3) and JSN U7.5 (6) would have won.
+- CBB promo games: Purdue ML lost (Gonzaga 78-72), Florida -5.5 covered (77-67), Fla-Mia UNDER 160.5 won (144), UCLA +4.5 won outright. One night of CBB lines = noise; keep tracking.
+- Credits: the 18:18 pregame was skipped by the guard (592 left for 28 days), so there was no real close for CLV. Low-credit mode added: when credits < 40/day for the rest of the month, the NBA board carries only rebounds + assists (our under markets), halving its cost.

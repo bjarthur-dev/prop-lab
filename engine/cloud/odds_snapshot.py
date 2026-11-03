@@ -22,7 +22,8 @@ SPORTS = {
     "mlb": ("baseball_mlb", "pitcher_strikeouts,pitcher_outs,batter_hits,batter_total_bases"),
 }
 left = {"remaining": None, "used": None}
-EXTRAS_OK = [True]   # set False by the budget guard when credits are short; game-line extras are skipped then
+EXTRAS_OK = [True]
+LOW = [False]   # set False by the budget guard when credits are short; game-line extras are skipped then
 
 def get(path, **q):
     global KEY
@@ -97,11 +98,15 @@ def main():
         reserve = 25 * days_left   # board + close core floor (2-3 free keys = 1,000-1,500 a month)
         print(f"::notice::credits left across {len(KEYS)} keys: {total}; {days_left} days to reset; core reserve {reserve}")
         EXTRAS_OK[0] = total >= reserve + 150
+        LOW[0] = total < 40 * days_left   # low-credit mode: board carries only the markets with proven under edges
         if tag not in ("board", "close", "pregame") and total < reserve + 60:
             print(f"::warning::budget: skipping optional tag '{tag}' to protect the core feed (FORCE=1 overrides)"); return
         if tag == "pregame" and total < reserve:
             print("::warning::budget: skipping pregame; only board + close until the reset (FORCE=1 overrides)"); return
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
+    if LOW[0] and tag == "board":
+        sports = {**sports, "nba": ("basketball_nba", "player_rebounds,player_assists")}   # halves the board cost; points/threes skipped until the reset
+        print("::notice::low-credit mode: NBA board = rebounds + assists only")
     if tag == "nbaq1":   # on-demand: NBA 1st-quarter player props (DK 1Q boosts)
         sports = {"nba": ("basketball_nba", "player_points_q1,player_rebounds_q1,player_assists_q1")}
     if tag in ("cbb", "lines"):   # on-demand game lines: cbb = college basketball; lines = every in-season sport we track
