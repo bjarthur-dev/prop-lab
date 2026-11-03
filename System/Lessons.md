@@ -70,3 +70,9 @@ Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props g
 - A pick must win on its own BEFORE the boost: sharp fair >= 55%, or DK beats the sharp price (EV >= 2% unboosted). The boost only makes a winning pick pay more. A bet that is +EV only because of the boost is NOT placed.
 - Underdogs / upsets are allowed only with a stated, checkable reason that the market has not priced: DK price better than the sharp fair (unboosted EV >= 2%), the sharp line moving toward the dog (steam), or confirmed news (injury, lineup, rest) with source and time that the price has not caught up to. "Could happen" is not a reason.
 - Combos (alternates, multi-sport parlays, SGPx) are built only from legs that qualify on their own; more legs are added only when each one does.
+
+## 11-02 night (−$4): concentration, not the picks
+- 3 of tonight's 5 real-money exposures sat in ONE game (Brown U1.5 3PM single, Brown + Giddey inside the SGPx). Brown hit 2 threes and Giddey went over 7.5 ast in the same game, so one game sank both tickets.
+- Rule: across ALL tickets of the day, at most 1 exposure per player and 2 legs per game. When a promo requires 2 legs from one game, pick that game so it holds no other ticket's legs; if none qualifies, skip the promo.
+- A leg added only to satisfy a promo's structure (Giddey, added at 19:00 from a 17:36 price) needs the same checks as any other leg, at a fresh price.
+- Checked: game total vs under win rate (3,114 graded NBA props): no consistent pattern by total bucket. Not a rule.
