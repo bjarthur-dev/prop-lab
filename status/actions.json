@@ -68,9 +68,13 @@
   "credits_remaining": "348"
  },
  "odds_cbb": {
-  "last_ok": "2026-11-02T08:28:57-05:00",
-  "games": 134,
-  "credits_remaining": "302"
+  "last_ok": "2026-11-03T15:10:14-05:00",
+  "tag": "cbb",
+  "tier": "free",
+  "games": {
+   "ncaab": 24
+  },
+  "credits_remaining": "77"
  },
  "odds_nbaq1": {
   "last_ok": "2026-11-02T17:36:15-05:00",
