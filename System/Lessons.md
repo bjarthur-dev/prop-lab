@@ -86,3 +86,15 @@ Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props g
 ## Volume (user, 2026-11-03): no cap on the NUMBER of bets
 - Every qualifying bet goes on the card, across all sports; there is no daily count limit. Sizing still protects the bankroll: singles ~2% each, boosted parlays ~2-5%, and the day's total at most ~15% of the bankroll (if more qualify, scale every stake down evenly rather than dropping bets).
 - College basketball every day it's in season: dispatch odds tag `cbb` (3 credits, every game) and run `python engine/game_scan.py D ncaab` (spreads, totals, moneylines; DK vs Pinnacle at the same number, EV >= 2% sharp and >= 0 consensus). Same scan for nba/nfl/ncaaf games files when present. Sharp underdogs below 45% (big moneyline dogs) stay excluded by rule #1 even when the scan flags them.
+
+## Confidence tiers and sizing (user, 2026-11-03): bet more when the edge is bigger, small bankroll
+Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quarter-Kelly: stake% ≈ edge ÷ (decimal odds − 1) ÷ 4, then capped by tier).
+| tier | what qualifies | stake |
+|---|---|---|
+| **A: high confidence** | price edge >= 4% vs Pinnacle AND sharp fair >= 58% AND clean story (role stable, no availability doubt, nothing in news against it); or a boosted parlay whose every leg is tier A/B | **4–5%** single; boosted long shot 3% |
+| **B: standard** | price edge 2–4% or sharp fair >= 55% at a fair DK price, story checks out | **2%** |
+| **C: lean** | qualifies but thin (one sharp book, a story question, near the worst price) | **1%** or paper |
+| no bet | fails any rule | 0 |
+- Long-shot rule: one boosted long shot a day, built only from tier A/B legs, 2–3% of bankroll. It is the "one bet that wins big" (11-01: $5 → $110) and it is +EV only because every leg already is. Most days it loses; that is priced in.
+- Daily total <= ~15% of bankroll. After a losing day stakes shrink automatically (they're % of the new bankroll); after a win they grow. That compounding is how $100 becomes $500 without adding money.
+- The card states each bet's tier and the one-line reason it is that tier.
