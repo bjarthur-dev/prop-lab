@@ -8,12 +8,12 @@
   "nba_logs_through": "2026-11-02 (SAS incomplete; no games 11-03)"
  },
  "afternoon_card": {
-  "last_ok": "2026-11-03T15:05:00-05:00",
-  "date": "2026-11-03",
-  "slips": 0,
-  "legs": 0,
-  "shadow_rows": 0,
-  "matchup_rows": 0,
-  "note": "no slate (Election Day, no NBA; no NFL)"
+  "last_ok": "2026-11-04T15:07:00-05:00",
+  "date": "2026-11-04",
+  "slips": 4,
+  "legs": 6,
+  "shadow_rows": 619,
+  "matchup_rows": 331,
+  "note": "14 NBA games; board reb+ast only (low-credit); official injury PDF blocked; pregame STALE in health"
  }
 }
