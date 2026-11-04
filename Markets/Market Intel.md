@@ -64,6 +64,7 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-11-01: A DK price left behind by big injury news (Melton +126 u2.5 ast after Curry/Green OUT) is a trap: FD flipped to −162/+126. The late price_edge re-check caught it.
 - 2026-11-01: The NFL close pull (one 15:21 snapshot) misses 13:00 games, alt rungs, receptions and SNF, so no NFL paper CLV exists. ESPN NFL box pages can be mid-game snapshots, so use StatMuse game pages.
 - 2026-11-02: The card's SGPx (Anunoby/Brunson/Vassell reb unders) went 3/3, but the placed version swapped in Giddey u7.5 ast + Brown u1.5 3PM to meet DK's 2-legs-one-game rule, and both of those legs lost. Never pad a slip with unpriced legs. The close capture skipped 15 of 16 games on low credits, so keep a priority close for games with logged bets. ESPN NBA box text has no names on the stat rows, so check the team sums.
+- 2026-11-03: No slate (Election Day). Nothing settled; SAS 11-02 box gap still open, so check NBA.com directly when the API and ESPN snapshots fall short.
 
 ## Reference — the break-even table
 | Price | Break-even |
