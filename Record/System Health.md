@@ -2,22 +2,22 @@
 tags: [system, health]
 ---
 
-# System health (2026-11-04 13:35 ET)
+# System health (2026-11-05 08:24 ET)
 
 Written by `engine/health.py` each morning. Fix STALE rows before trusting a card.
 
 | feed | age | limit | status |
 |---|---:|---:|---|
 | results (box scores) | 0.0 d | 1.5 d | ok |
-| odds board | 0.8 d | 1.5 d | ok |
-| odds pregame | 1.8 d | 1.5 d | **STALE** |
-| NBA game logs (cloud: API-NBA + morning gap fill) | 2.0 d | 2.5 d | ok |
+| odds board | 0.7 d | 1.5 d | ok |
+| odds pregame | 2.6 d | 1.5 d | **STALE** |
+| NBA game logs (cloud: API-NBA + morning gap fill) | 1.0 d | 2.5 d | ok |
 | NBA matchup context (laptop, optional) | 0.1 d | 14 d | ok |
 | NFL data (nflverse) | 0.1 d | 8 d | ok |
 
 ## Odds API credits
 
-Lowest key seen today: 63 left of 500 (about 109/day on that key). 27 days until the 1st reset. Three keys x 500 = 1,500 a month, about 50/day sustainable.
+Lowest key seen today: 29 left of 500 (about 94/day on that key). 26 days until the 1st reset. Three keys x 500 = 1,500 a month, about 50/day sustainable.
 
 ## Problems
 
