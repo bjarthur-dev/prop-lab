@@ -65,6 +65,7 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-11-01: The NFL close pull (one 15:21 snapshot) misses 13:00 games, alt rungs, receptions and SNF, so no NFL paper CLV exists. ESPN NFL box pages can be mid-game snapshots, so use StatMuse game pages.
 - 2026-11-02: The card's SGPx (Anunoby/Brunson/Vassell reb unders) went 3/3, but the placed version swapped in Giddey u7.5 ast + Brown u1.5 3PM to meet DK's 2-legs-one-game rule, and both of those legs lost. Never pad a slip with unpriced legs. The close capture skipped 15 of 16 games on low credits, so keep a priority close for games with logged bets. ESPN NBA box text has no names on the stat rows, so check the team sums.
 - 2026-11-03: No slate (Election Day). Nothing settled; SAS 11-02 box gap still open, so check NBA.com directly when the API and ESPN snapshots fall short.
+- 2026-11-04: LIVE 0–2 for −$16.81, which was 19% of the roll against the §9 2% day cap. The Pick6 died on Quickley 1 reb and the boosted parlay on Giannis 14 reb in OT. The single close at 20:51 missed three of the four tip windows, so run the close per window. covers.com matchup pages hold final boxes when ESPN, CBS and Yahoo are mid-game caches.
 
 ## Reference — the break-even table
 | Price | Break-even |
