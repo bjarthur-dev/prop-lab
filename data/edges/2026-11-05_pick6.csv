@@ -1,0 +1,139 @@
+sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books,how,pick6_price,pick_mult
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Justice Hill,player_reception_yds,17.5,LESS,0.629,14.5,0.502,2,fit from 14.5 (sd 9.0),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Derrick Henry,player_reception_yds,7.5,LESS,0.604,6.5,0.494,1,fit from 6.5 (sd 4.0),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Josh Cuevas,player_reception_yds,8.5,LESS,0.582,7.5,0.503,2,fit from 7.5 (sd 4.7),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Travis Hunter,player_reception_yds,10.5,LESS,0.581,9.5,0.486,2,fit from 9.5 (sd 5.9),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Josh Cameron,player_reception_yds,10.5,LESS,0.567,9.5,0.5,1,fit from 9.5 (sd 5.9),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Trevor Lawrence,player_rush_yds,11.5,MORE,0.558,12.5,0.5,2,fit from 12.5 (sd 6.9),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Yaxel Lendeborg,player_points,19.5,LESS,0.552,18.5,0.52,2,fit from 18.5 (sd 5.5),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Rashod Bateman,player_reception_yds,13.5,LESS,0.551,12.5,0.5,1,fit from 12.5 (sd 7.8),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Ja'Kobi Lane,player_reception_yds,16.5,LESS,0.541,15.5,0.5,2,fit from 15.5 (sd 9.6),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Brian Thomas Jr,player_reception_yds,16.5,LESS,0.541,15.5,0.5,1,fit from 15.5 (sd 9.6),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Dillon Brooks,player_points,15.5,MORE,0.535,16.5,0.478,2,fit from 16.5 (sd 7.1),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Andrew Wiggins,player_points,12.5,LESS,0.534,12.5,0.466,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Parker Washington,player_reception_yds,63.5,LESS,0.532,60.5,0.5,1,fit from 60.5 (sd 37.5),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Desmond Bane,player_assists,3.5,LESS,0.532,3.5,0.468,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Jalen Green,player_points,16.5,LESS,0.532,16.5,0.468,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Khaman Maluach,player_rebounds,5.5,LESS,0.529,5.5,0.471,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Oso Ighodaro,player_assists,2.5,MORE,0.528,2.5,0.528,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,De'Anthony Melton,player_points,10.5,LESS,0.526,10.5,0.474,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Joe Fagnano,player_pass_yds,160.5,MORE,0.526,162.5,0.505,2,fit from 162.5 (sd 39.0),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Collin Gillespie,player_assists,3.5,MORE,0.522,3.5,0.522,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Wendell Carter Jr,player_points,12.5,LESS,0.519,11.5,0.547,1,fit from 11.5 (sd 6.1),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Klay Thompson,player_points,12.5,MORE,0.519,12.5,0.519,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Brenton Strange,player_receptions,3.5,LESS,0.517,3.5,0.483,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Desmond Bane,player_points,20.5,MORE,0.516,20.5,0.516,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Giannis Antetokounmpo,player_points,28.5,MORE,0.514,28.5,0.514,1,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Franz Wagner,player_points,23.5,LESS,0.514,22.5,0.551,1,fit from 22.5 (sd 6.1),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Pelle Larsson,player_assists,3.5,MORE,0.513,3.5,0.513,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,De'Anthony Melton,player_rebounds,3.5,MORE,0.513,3.5,0.513,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Jalen Green,player_rebounds,3.5,LESS,0.512,3.5,0.488,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Pelle Larsson,player_points,12.5,MORE,0.512,12.5,0.512,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Jakobi Meyers,player_reception_yds,39.5,LESS,0.512,38.5,0.505,2,fit from 38.5 (sd 23.9),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Andrew Wiggins,player_rebounds,3.5,MORE,0.511,3.5,0.511,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Zay Flowers,player_reception_yds,49.5,LESS,0.511,48.5,0.502,2,fit from 48.5 (sd 30.1),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Davion Mitchell,player_assists,7.5,LESS,0.51,7.5,0.49,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Devin Booker,player_points,25.5,MORE,0.51,24.5,0.563,1,fit from 24.5 (sd 7.5),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Justice Hill,player_rush_yds,13.5,LESS,0.507,13.5,0.493,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Stephen Curry,player_points,27.5,MORE,0.506,27.5,0.506,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Bam Adebayo,player_assists,3.5,MORE,0.506,3.5,0.506,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Matthew Hibner,player_receptions,0.5,LESS,0.506,0.5,0.494,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Bam Adebayo,player_points,20.5,MORE,0.506,20.5,0.506,1,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Wendell Carter Jr,player_assists,1.5,LESS,0.505,1.5,0.495,3,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Collin Gillespie,player_points,9.5,LESS,0.504,9.5,0.496,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Derrick Henry,player_rush_yds,68.5,LESS,0.503,68.5,0.497,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Ja'Kobi Lane,player_receptions,1.5,MORE,0.501,1.5,0.501,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Mark Andrews,player_reception_yds,18.5,MORE,0.501,18.5,0.501,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Jase Richardson,player_rebounds,2.5,LESS,0.5,2.5,0.5,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Zay Flowers,player_receptions,4.5,MORE,0.5,4.5,0.5,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Brenton Strange,player_reception_yds,32.5,MORE,0.5,32.5,0.5,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Stephen Curry,player_rebounds,3.5,MORE,0.5,3.5,0.5,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Stephen Curry,player_rebounds,3.5,LESS,0.5,3.5,0.5,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Jase Richardson,player_rebounds,2.5,MORE,0.5,2.5,0.5,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Zay Flowers,player_receptions,4.5,LESS,0.5,4.5,0.5,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Nate Boerkircher,player_reception_yds,8.5,LESS,0.5,8.5,0.5,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Nate Boerkircher,player_reception_yds,8.5,MORE,0.5,8.5,0.5,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Trevor Lawrence,player_pass_yds,233.5,LESS,0.5,233.5,0.5,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Trevor Lawrence,player_pass_yds,233.5,MORE,0.5,233.5,0.5,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Brenton Strange,player_reception_yds,32.5,LESS,0.5,32.5,0.5,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Ja'Kobi Lane,player_receptions,1.5,LESS,0.499,1.5,0.501,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Mark Andrews,player_reception_yds,18.5,LESS,0.499,18.5,0.501,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Derrick Henry,player_rush_yds,68.5,MORE,0.497,68.5,0.497,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Davion Mitchell,player_threes,1.5,MORE,0.497,1.5,0.497,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Collin Gillespie,player_points,9.5,MORE,0.496,9.5,0.496,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Wendell Carter Jr,player_assists,1.5,MORE,0.495,1.5,0.495,3,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Bam Adebayo,player_points,20.5,LESS,0.494,20.5,0.506,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Stephen Curry,player_points,27.5,LESS,0.494,27.5,0.506,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Bam Adebayo,player_assists,3.5,LESS,0.494,3.5,0.506,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Matthew Hibner,player_receptions,0.5,MORE,0.494,0.5,0.494,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Justice Hill,player_rush_yds,13.5,MORE,0.493,13.5,0.493,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Andrew Wiggins,player_threes,1.5,MORE,0.493,1.5,0.493,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Anthony Black,player_points,15.5,MORE,0.49,14.5,0.545,2,fit from 14.5 (sd 7.2),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Devin Booker,player_points,25.5,LESS,0.49,24.5,0.563,1,fit from 24.5 (sd 7.5),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Davion Mitchell,player_assists,7.5,MORE,0.49,7.5,0.49,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Andrew Wiggins,player_rebounds,3.5,LESS,0.489,3.5,0.511,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Zay Flowers,player_reception_yds,49.5,MORE,0.489,48.5,0.502,2,fit from 48.5 (sd 30.1),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Jalen Green,player_rebounds,3.5,MORE,0.488,3.5,0.488,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Jakobi Meyers,player_reception_yds,39.5,MORE,0.488,38.5,0.505,2,fit from 38.5 (sd 23.9),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Pelle Larsson,player_points,12.5,LESS,0.488,12.5,0.512,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,De'Anthony Melton,player_rebounds,3.5,LESS,0.487,3.5,0.513,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Pelle Larsson,player_assists,3.5,LESS,0.487,3.5,0.513,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Miles Bridges,player_points,16.5,MORE,0.486,16.5,0.486,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Giannis Antetokounmpo,player_points,28.5,LESS,0.486,28.5,0.514,1,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Franz Wagner,player_points,23.5,MORE,0.486,22.5,0.551,1,fit from 22.5 (sd 6.1),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Pelle Larsson,player_rebounds,3.5,LESS,0.484,3.5,0.516,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Desmond Bane,player_points,20.5,LESS,0.484,20.5,0.516,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,De'Anthony Melton,player_threes,1.5,MORE,0.484,1.5,0.484,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Brenton Strange,player_receptions,3.5,MORE,0.483,3.5,0.483,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Wendell Carter Jr,player_points,12.5,MORE,0.481,11.5,0.547,1,fit from 11.5 (sd 6.1),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Klay Thompson,player_points,12.5,LESS,0.481,12.5,0.519,1,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Franz Wagner,player_assists,6.5,LESS,0.479,6.5,0.521,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Collin Gillespie,player_assists,3.5,LESS,0.478,3.5,0.522,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Stephen Curry,player_assists,4.5,LESS,0.475,4.5,0.525,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Devin Booker,player_threes,1.5,LESS,0.475,1.5,0.525,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,De'Anthony Melton,player_points,10.5,MORE,0.474,10.5,0.474,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Joe Fagnano,player_pass_yds,160.5,LESS,0.474,162.5,0.505,2,fit from 162.5 (sd 39.0),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Oso Ighodaro,player_assists,2.5,LESS,0.472,2.5,0.528,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Bam Adebayo,player_rebounds,9.5,LESS,0.472,9.5,0.528,1,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Khaman Maluach,player_rebounds,5.5,MORE,0.471,5.5,0.471,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Desmond Bane,player_assists,3.5,MORE,0.468,3.5,0.468,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Anthony Black,player_threes,1.5,LESS,0.468,1.5,0.532,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Tristan da Silva,player_threes,2.5,MORE,0.468,2.5,0.468,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Jalen Green,player_points,16.5,MORE,0.468,16.5,0.468,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Parker Washington,player_reception_yds,63.5,MORE,0.468,60.5,0.5,1,fit from 60.5 (sd 37.5),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Wendell Carter Jr,player_rebounds,8.5,LESS,0.467,8.5,0.533,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Andrew Wiggins,player_points,12.5,MORE,0.466,12.5,0.466,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Oso Ighodaro,player_rebounds,5.5,MORE,0.465,5.5,0.465,1,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Dillon Brooks,player_points,15.5,LESS,0.465,16.5,0.478,2,fit from 16.5 (sd 7.1),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Tristan da Silva,player_points,12.5,MORE,0.463,12.5,0.463,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Brian Thomas Jr,player_reception_yds,16.5,MORE,0.459,15.5,0.5,1,fit from 15.5 (sd 9.6),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Ja'Kobi Lane,player_reception_yds,16.5,MORE,0.459,15.5,0.5,2,fit from 15.5 (sd 9.6),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Tristan da Silva,player_assists,1.5,LESS,0.458,1.5,0.542,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Will Richard,player_rebounds,2.5,MORE,0.458,2.5,0.458,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Davion Mitchell,player_points,12.5,LESS,0.454,13.5,0.464,2,fit from 13.5 (sd 4.9),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Giannis Antetokounmpo,player_rebounds,10.5,LESS,0.454,10.5,0.546,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Draymond Green,player_threes,0.5,LESS,0.451,0.5,0.549,1,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Rashod Bateman,player_reception_yds,13.5,MORE,0.449,12.5,0.5,1,fit from 12.5 (sd 7.8),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Giannis Antetokounmpo,player_rebounds,11.5,MORE,0.449,10.5,0.546,1,fit from 10.5 (sd 4.1),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Davion Mitchell,player_rebounds,2.5,MORE,0.449,2.5,0.449,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Tristan da Silva,player_rebounds,4.5,MORE,0.449,4.5,0.449,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Yaxel Lendeborg,player_points,19.5,MORE,0.448,18.5,0.52,2,fit from 18.5 (sd 5.5),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Yaxel Lendeborg,player_rebounds,7.5,MORE,0.448,7.5,0.448,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Draymond Green,player_assists,6.5,MORE,0.443,6.5,0.443,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Trevor Lawrence,player_rush_yds,11.5,LESS,0.442,12.5,0.5,2,fit from 12.5 (sd 6.9),-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Brandin Podziemski,player_rebounds,5.5,MORE,0.441,5.5,0.441,2,same line,-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Devin Booker,player_rebounds,3.5,LESS,0.437,3.5,0.563,2,same line,-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Josh Cameron,player_reception_yds,10.5,MORE,0.433,9.5,0.5,1,fit from 9.5 (sd 5.9),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Jalen Green,player_threes,1.5,LESS,0.432,1.5,0.568,2,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Stephen Curry,player_threes,4.5,MORE,0.421,3.5,0.596,1,fit from 3.5 (sd 2.3),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Travis Hunter,player_reception_yds,10.5,MORE,0.419,9.5,0.486,2,fit from 9.5 (sd 5.9),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Josh Cuevas,player_reception_yds,8.5,MORE,0.418,7.5,0.503,2,fit from 7.5 (sd 4.7),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Brian Thomas Jr,player_receptions,1.5,MORE,0.417,1.5,0.417,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Draymond Green,player_rebounds,5.5,MORE,0.409,4.5,0.588,1,fit from 4.5 (sd 2.2),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Rashod Bateman,player_receptions,1.5,MORE,0.406,1.5,0.406,1,same line,-137.0,1.0
+nba,Miami Heat@Golden State Warriors,2026-11-05T22:10-05:00,Bam Adebayo,player_rebounds,10.5,MORE,0.399,9.5,0.528,1,fit from 9.5 (sd 3.1),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Derrick Henry,player_reception_yds,7.5,MORE,0.396,6.5,0.494,1,fit from 6.5 (sd 4.0),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Dillon Brooks,player_rebounds,3.5,LESS,0.386,4.5,0.405,2,fit from 4.5 (sd 1.9),-137.0,1.0
+nfl,Jacksonville Jaguars@Baltimore Ravens,2026-11-05T20:15-05:00,Justice Hill,player_reception_yds,17.5,MORE,0.371,14.5,0.502,2,fit from 14.5 (sd 9.0),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Wendell Carter Jr,player_rebounds,9.5,MORE,0.37,8.5,0.533,2,fit from 8.5 (sd 2.4),-137.0,1.0
+nba,Orlando Magic@Phoenix Suns,2026-11-05T21:10-05:00,Khaman Maluach,player_points,6.5,MORE,0.298,5.5,0.53,1,fit from 5.5 (sd 1.6),-137.0,1.0
