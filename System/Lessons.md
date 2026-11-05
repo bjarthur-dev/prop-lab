@@ -98,3 +98,8 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 - Long-shot rule: one boosted long shot a day, built only from tier A/B legs, 2–3% of bankroll. It is the "one bet that wins big" (11-01: $5 → $110) and it is +EV only because every leg already is. Most days it loses; that is priced in.
 - Daily total <= ~15% of bankroll. After a losing day stakes shrink automatically (they're % of the new bankroll); after a win they grow. That compounding is how $100 becomes $500 without adding money.
 - The card states each bet's tier and the one-line reason it is that tier.
+
+## 11-04 (−$16.81)
+- The card's best plays (Reid, Edey, Buzelis singles) were never placed: the games tipped before the user saw the final list. Final list must be placed right at ~18:20.
+- The parlay lost on the coin-flip leg added only to reach the boost's +300 minimum (Giannis U11.5, 51%): MIA erased a 15-point deficit and the game went to OT. Harper U5.5 (5) and Sabonis 11+ hit. Rule: a leg added to reach a promo minimum must be >= 55% sharp itself; a 50/50 filler is not allowed (the price-edge exception doesn't apply to filler legs).
+- Stakes: Pick6 $10 vs $4 suggested; the day's total was 19% of the bankroll. Stick to card stakes.

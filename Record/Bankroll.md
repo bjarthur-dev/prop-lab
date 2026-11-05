@@ -5,8 +5,8 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 86.81     # 2026-11-02: -$4 (Brown single, SGPx) from $90.81
-balances: {draftkings: 86.81, betr: 0.00}
+current_bankroll: 70.00     # 2026-11-04: -$16.81 (Pick6 $10, boosted parlay $6.81)
+balances: {draftkings: 70.00, betr: 0.00}
 withdrawn_total: 30.00   # 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
