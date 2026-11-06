@@ -56,6 +56,14 @@ def main():
     for days, tgt in [(7, 100), (14, 100)]:
         pr, n = window(days); net = pr - 50 / 30 * days
         L.append(f"| last {days} days | {n} | ${pr:+.2f} | ${net:+.2f} | ${tgt} | {'on track' if net >= tgt else 'behind'} |")
+    # tax tracker (user in Indiana, 2026 rules): every winning bet's profit is taxable income; losses only offset federally if itemizing (90% cap from 2026); Indiana allows no loss deduction
+    yr = b[pd.to_datetime(b.date).dt.year == now.year]
+    gw = yr.profit.clip(lower=0).sum(); gl = -yr.profit.clip(upper=0).sum()
+    L += ["", f"## Tax tracker {now.year} (not tax advice; confirm with a tax pro)", "",
+          f"- Gross winnings (sum of winning bets' profit): **${gw:.2f}**; losses: ${gl:.2f}; net: ${gw-gl:+.2f}.",
+          f"- Indiana 2.95% + county tax applies to gross winnings (no loss deduction for casual bettors): about ${gw*0.045:.2f} at ~4.5% combined.",
+          f"- Federal: winnings are income; losses count only if you itemize (capped at 90% of winnings from 2026). Suggested set-aside: ~15-20% of gross winnings = ${gw*0.15:.2f}-${gw*0.20:.2f}.",
+          "- DraftKings issues a W-2G only for a single win of $2,000+ at 300-to-1 or longer; smaller wins are still taxable. Download DK's annual win/loss statement in January."]
     open("Record/Live Report.md", "w").write("\n".join(L) + "\n"); print("\n".join(L[8:]))
 
 if __name__ == "__main__":

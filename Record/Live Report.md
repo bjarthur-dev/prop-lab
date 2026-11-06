@@ -42,3 +42,10 @@ Without the single biggest win (2026-11-01, $+105.67) profit would be $+12.00: o
 |---|---:|---:|---:|---:|---|
 | last 7 days | 20 | $+127.67 | $+116.00 | $100 | on track |
 | last 14 days | 23 | $+117.67 | $+94.34 | $100 | behind |
+
+## Tax tracker 2026 (not tax advice; confirm with a tax pro)
+
+- Gross winnings (sum of winning bets' profit): **$196.44**; losses: $78.77; net: $+117.67.
+- Indiana 2.95% + county tax applies to gross winnings (no loss deduction for casual bettors): about $8.84 at ~4.5% combined.
+- Federal: winnings are income; losses count only if you itemize (capped at 90% of winnings from 2026). Suggested set-aside: ~15-20% of gross winnings = $29.47-$39.29.
+- DraftKings issues a W-2G only for a single win of $2,000+ at 300-to-1 or longer; smaller wins are still taxable. Download DK's annual win/loss statement in January.
