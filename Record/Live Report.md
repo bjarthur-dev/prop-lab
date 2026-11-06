@@ -35,3 +35,10 @@ Without the single biggest win (2026-11-01, $+105.67) profit would be $+12.00: o
 - Profit last 30 days $+117.67 vs tool costs this month $60.00.
 - Odds API paid tier (~$30/mo, confirm price): buy only when the price-edge report shows mean CLV > 0 over 50+ legs, 30-day profit excluding the biggest win >= $60, and bankroll >= $150 (cost <= 15%, bankroll stays >= $60).
 - Status: **not yet**
+
+## Targets (tools cost $50/month = about $1.67/day)
+
+| window | bets | profit | minus tools | target | status |
+|---|---:|---:|---:|---:|---|
+| last 7 days | 20 | $+127.67 | $+116.00 | $100 | on track |
+| last 14 days | 23 | $+117.67 | $+94.34 | $100 | behind |

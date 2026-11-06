@@ -113,3 +113,13 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 - The snapshot script auto-detects the paid plan (>= 5,000 credits on key 1): no budget guard, NBA board adds points+rebounds+assists combos, NFL board every day it has games, game lines for NBA/CBB/NFL/CFB on board and pregame, open snapshot + scores at 10:37, closes for all games near tip. Expect ~400-600 credits a normal day.
 - More snapshots = real closing lines for CLV and more stale-DK chances. Routines no longer need force=1.
 - $30/month is logged in Record/expenses.csv; the 30-day review in Live Report.md decides whether it stays.
+
+## Profit targets and sizing (user, 2026-11-06)
+- Costs: $50/month (Claude $20 + Odds API $30). Targets: at least $100 profit every 2 weeks after costs; aim for $100/week (~$20/day). Tracked in Record/Live Report.md "Targets".
+- Honest math at a ~$125 bankroll: expected profit is mostly from promos (boosts on qualifying legs, Pick6 gimmes/1.3x/winnings boosts), roughly $5-10/day on average with big swings. $100/2 weeks is realistic; $100/week needs either a hit long shot or a bigger bankroll. Stakes grow automatically as the bankroll grows (they are % of the current bankroll).
+- Sizing (half-Kelly, capped by the promo max and tiers): stake% ≈ 0.5 × EV ÷ (decimal payout − 1).
+  - 50% boost on 3-4 legs of 58-60% (EV ~+30%, ~+450 boosted): ~3.5% → $4-5 at $125; reaches the $10 max at ~$280.
+  - 30% boost, same legs (EV ~+15%): ~2% → $2-3.
+  - Pick6 entries with a gimme/free pick or 1.3x boost on qualifying picks: 3-5%.
+  - Tier A single 4-5%, tier B 2%, tier C 1%. Daily total <= ~20% of bankroll on promo-heavy days, 15% otherwise.
+- Go big only through the boosted long shots built from qualifying legs (the 11-01 +2056 type), never by raising stakes on coin flips or chasing.

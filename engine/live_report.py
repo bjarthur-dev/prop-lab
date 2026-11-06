@@ -47,6 +47,15 @@ def main():
           "30-day profit excluding the biggest win >= $60, and bankroll >= $150 (cost <= 15%, bankroll stays >= $60)."]
     ok = mprofit - (b.sort_values('profit').profit.iloc[-1] if len(b) else 0) >= 60 and cur >= 150
     L.append(f"- Status: **{'PASSES: check CLV, then buy' if ok else 'not yet'}**")
+    # profit targets (user 2026-11-06): cover $50/month of tools; >= $100 profit per 2 weeks, aim $100/week (~$20/day)
+    now = pd.Timestamp.now()
+    def window(days):
+        w = b[pd.to_datetime(b.date) > now - pd.Timedelta(days=days)]
+        return w.profit.sum(), len(w)
+    L += ["", "## Targets (tools cost $50/month = about $1.67/day)", "", "| window | bets | profit | minus tools | target | status |", "|---|---:|---:|---:|---:|---|"]
+    for days, tgt in [(7, 100), (14, 100)]:
+        pr, n = window(days); net = pr - 50 / 30 * days
+        L.append(f"| last {days} days | {n} | ${pr:+.2f} | ${net:+.2f} | ${tgt} | {'on track' if net >= tgt else 'behind'} |")
     open("Record/Live Report.md", "w").write("\n".join(L) + "\n"); print("\n".join(L[8:]))
 
 if __name__ == "__main__":
