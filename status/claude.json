@@ -8,12 +8,12 @@
   "nba_logs_through": "2026-11-05"
  },
  "afternoon_card": {
-  "last_ok": "2026-11-05T15:35:00-05:00",
-  "date": "2026-11-05",
-  "slips": 2,
-  "legs": 6,
-  "shadow_rows": 194,
-  "matchup_rows": 100,
-  "note": "2 NBA + TNF; pregame forced 14:53 (full markets); 0 price edges; no Pick6 entry; odds credits ~7 on key used; official NBA PDF not used"
+  "last_ok": "2026-11-06T15:12:00-05:00",
+  "date": "2026-11-06",
+  "slips": 3,
+  "legs": 5,
+  "shadow_rows": 1016,
+  "matchup_rows": 428,
+  "note": "9 NBA games; board 14:53 paid tier (19,903 credits); 3 price edges (all near-50% dogs, skipped); Pick6 snapshot returned 0 Pick6 rows; no steam baseline; official NBA PDF not used"
  }
 }
