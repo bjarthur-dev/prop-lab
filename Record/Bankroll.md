@@ -5,9 +5,9 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 123.67     # (the $30 Odds API plan was paid outside the DK balance shown) # 2026-11-05: +$53.67 (Pick6 +$41.41 +$27.26 -$5; JAX SGP -$5; NBA SGPx -$5); DK balance per user screenshot 11-06
-balances: {draftkings: 123.67, betr: 0.00}
-withdrawn_total: 30.00   # 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
+current_bankroll: 93.67     # 2026-11-06: $123.67 after the 11-05 night, minus $30 withdrawn for the Odds API plan (user 08:47)
+balances: {draftkings: 93.67, betr: 0.00}
+withdrawn_total: 60.00   # 11-06: +$30 Odds API plan; 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
 stake_straight_usd: 2.00     # tier B (2%); tier A 4-5%, tier C 1% (System/Lessons.md "Confidence tiers"); $1 floor if bankroll < $60
