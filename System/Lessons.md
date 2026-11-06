@@ -108,3 +108,8 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 - Two Pick6 entries won and paid far above their listed multipliers through a Pick6 winnings boost: 3-pick $27.30 → $46.41, 2-pick $14.98 → $32.26. Pick6 promos (free/gimme lines, 1.3x boost picks, winnings boosts) can be worth more than sportsbook boosts: always price Pick6 when the user reports promos there.
 - The script call held: JAX blew out a rookie-QB BAL; Henry 57 rush yds (under), Lane 0 rec yds, Lawrence 242 (the 199.5 promo line was easy). The Henry MORE entry lost, as the lean said.
 - Lane LESS 17.5 (the one 58% Pick6 pick) and Henry LESS (the story pick) both hit: the story + sharp combination worked, even with Henry at 50% sharp. Still one night; keep tracking Pick6 promo picks separately.
+
+## Paid Odds API (2026-11-06): 20,000 credits/month, key in ODDS_API_KEY_1
+- The snapshot script auto-detects the paid plan (>= 5,000 credits on key 1): no budget guard, NBA board adds points+rebounds+assists combos, NFL board every day it has games, game lines for NBA/CBB/NFL/CFB on board and pregame, open snapshot + scores at 10:37, closes for all games near tip. Expect ~400-600 credits a normal day.
+- More snapshots = real closing lines for CLV and more stale-DK chances. Routines no longer need force=1.
+- $30/month is logged in Record/expenses.csv; the 30-day review in Live Report.md decides whether it stays.
