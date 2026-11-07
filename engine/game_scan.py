@@ -11,6 +11,7 @@ def scan(date, sp):
     fs = sorted(glob.glob(f"data/odds/{sp}/{date}/games_*.csv"))
     if not fs: return pd.DataFrame()
     g = pd.read_csv(fs[-1]); g["point"] = g.point.fillna(0)
+    g = g[pd.to_datetime(g.start, utc=True).dt.tz_convert("America/New_York").dt.strftime("%Y-%m-%d") == date]   # only this date's games (the feed also returns next week's)
     rows = []
     for (eid, mk), x in g.groupby(["event_id", "market"]):
         def dev(b):
