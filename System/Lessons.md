@@ -123,3 +123,11 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
   - Pick6 entries with a gimme/free pick or 1.3x boost on qualifying picks: 3-5%.
   - Tier A single 4-5%, tier B 2%, tier C 1%. Daily total <= ~20% of bankroll on promo-heavy days, 15% otherwise.
 - Go big only through the boosted long shots built from qualifying legs (the 11-01 +2056 type), never by raising stakes on coin flips or chasing.
+
+## Pick6 math (researched 11-06)
+- How it pays: Pick6 is peer-to-peer. You get a **Base Payout = stake x base multiplier x every pick multiplier** (0.7x, 0.8x, 0.9x, 1.3x...), plus **Extra Winnings** from the contest pool, split among winners at the same pick level by Standings Points. Pick multipliers also change Standings Points. Rules: at least 2 teams per set; 1 stat per player; an exact-line result or a DNP voids that pick and drops the entry to the next-lower pick level; all but one pick void = refund.
+- Base multipliers from our receipts: 2 picks 3x, 3 picks 6x, 4 picks 10x. 5 and 6 picks: read the app (more tiers also pay for 1 miss there).
+- **Break-even per pick at 1.0x:** 2-pick 57.7%, 3-pick 55.0%, 4-pick 56.2%. A pick with multiplier m needs break-even / m: at the 4-pick level, a 0.8x pick needs **70%** and a 0.7x pick needs **80%**, while a 1.3x pick needs only **43%**.
+- **Stacking 0.8x picks is not an exploit.** Four 0.8x picks pay 10 x 0.41 = 4.1x, which needs a 24% all-hit rate, so each pick has to be about 70%. DK puts 0.8x on the picks it knows are popular and likely. Only use one if the sharp fair is >= 70% (gimme or promo lines).
+- **Where the value is:** (1) 1.0x picks that are sharp favorites (>= 57-59%), since Pick6 charges no per-pick vig: three 59% picks at 6x = +23% EV before Extra Winnings; (2) 1.3x picks with a sharp fair of 50%+; (3) Pick6 lines that are stale vs the sharp line (same player, better number); (4) winnings boosts and free picks. Extra Winnings are a bonus on top; contrarian winners get a bigger share.
+- The cloud odds feed has had 0 Pick6 rows since 11-06. The user screenshots the Pick6 board, and Claude prices each pick vs sharp.
