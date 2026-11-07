@@ -67,6 +67,7 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-11-03: No slate (Election Day). Nothing settled; SAS 11-02 box gap still open, so check NBA.com directly when the API and ESPN snapshots fall short.
 - 2026-11-04: LIVE 0–2 for −$16.81, which was 19% of the roll against the §9 2% day cap. The Pick6 died on Quickley 1 reb and the boosted parlay on Giannis 14 reb in OT. The single close at 20:51 missed three of the four tip windows, so run the close per window. covers.com matchup pages hold final boxes when ESPN, CBS and Yahoo are mid-game caches.
 - 2026-11-05: LIVE 2–3 for +$53.67, all of it from two boosted Pick6 wins (+$68.67). Ex-boosts the night was −$15, and $25 was 36% of the roll. The paper legs' CLV was −1.2% on 6, none positive. Meyers 4 rec and Bane 6 reb sank both the card slips and the live slips. ESPN `/nba/boxscore/` pages were final while `/game/` pages were mid-game caches.
+- 2026-11-06: LIVE 0–3 for −$25 (27% of the roll). OKC won by 31, yet the bench rebound unders (Williams 6, McCain 5) lost, and in the blowout SGA's most-points bet lost to Ajay Mitchell's 35. Late-update drops were right on 2 of 3. Paper and dropped CLV was −0.4% on 6. Covers and plaintextsports had the final boxes, and API-NBA skipped SAS@SAC entirely.
 
 ## Reference — the break-even table
 | Price | Break-even |

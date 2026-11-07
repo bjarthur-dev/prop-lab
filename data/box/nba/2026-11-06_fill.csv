@@ -1,0 +1,71 @@
+date,game,team,player,min,pts,reb,ast,fg3m,fg3a,oreb,dreb,stl,blk,tov,team_final,source
+2026-11-06,BOS@CHA,CHA,Brandon Miller,14.0,8,2,1,0,3.0,0.0,2.0,1.0,1.0,0.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,Naz Reid,26.0,14,6,2,2,5.0,2.0,4.0,1.0,0.0,2.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,R. Kalkbrenner,21.0,4,5,0,0,0.0,2.0,3.0,0.0,0.0,2.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,Grayson Allen,22.0,0,2,3,0,4.0,1.0,1.0,1.0,0.0,0.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,Coby White,16.0,7,1,1,1,6.0,1.0,0.0,0.0,0.0,3.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,Royce O'Neale,26.0,7,4,2,2,6.0,3.0,1.0,2.0,0.0,1.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,Tidjane Salaun,23.0,13,4,0,2,8.0,2.0,2.0,0.0,0.0,1.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,S. James,21.0,11,3,0,3,5.0,1.0,2.0,0.0,0.0,0.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,C. Anderson,25.0,4,3,5,0,7.0,2.0,1.0,0.0,0.0,4.0,80,api-sports game 17065
+2026-11-06,BOS@CHA,CHA,L. McNeeley,19.0,8,2,3,1,6.0,0.0,2.0,1.0,0.0,1.0,80,api-sports game 17065
+2026-11-06,PHI@CLE,CLE,Evan Mobley,32.0,22,6,4,3,4.0,2.0,4.0,1.0,1.0,0.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,James Harden,30.0,17,6,3,3,7.0,0.0,6.0,0.0,0.0,3.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,Donovan Mitchell,33.0,23,7,8,1,6.0,1.0,6.0,2.0,1.0,4.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,Sam Merrill,13.0,0,3,0,0,2.0,0.0,3.0,2.0,0.0,1.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,Peyton Watson,28.0,13,9,2,1,4.0,3.0,6.0,0.0,0.0,0.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,Tristan Enaruna,8.0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,Thomas Bryant,16.0,13,6,0,1,1.0,3.0,3.0,0.0,0.0,1.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,N. Omier,3.0,0,2,1,0,0.0,0.0,2.0,0.0,0.0,0.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,Craig Jr. Porter,3.0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,CLE,T. Proctor,19.0,3,6,3,0,1.0,4.0,2.0,2.0,0.0,1.0,119,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,LeBron James,32.0,8,7,3,0,4.0,1.0,6.0,2.0,1.0,6.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Joel Embiid,25.0,6,7,1,0,2.0,0.0,7.0,0.0,2.0,2.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Jaylen Brown,34.0,20,5,5,2,9.0,1.0,4.0,1.0,0.0,2.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Tyrese Maxey,32.0,17,3,4,2,9.0,0.0,3.0,1.0,0.0,0.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,V. Edgecombe,32.0,19,3,2,3,5.0,1.0,2.0,4.0,0.0,0.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Dean Wade,21.0,0,5,1,0,3.0,2.0,3.0,0.0,0.0,1.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Jabari Walker,17.0,8,5,1,0,1.0,2.0,3.0,0.0,0.0,0.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Justin Edwards,4.0,3,1,0,1,2.0,1.0,0.0,0.0,0.0,1.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Kentavious Caldwell-Pope,17.0,5,2,0,1,1.0,1.0,1.0,0.0,1.0,0.0,95,api-sports game 17066
+2026-11-06,PHI@CLE,PHI,Anfernee Simons,19.0,6,2,2,1,3.0,0.0,2.0,0.0,0.0,1.0,95,api-sports game 17066
+2026-11-06,OKC@MEM,OKC,Isaiah Hartenstein,26.0,2,6,7,0,0.0,0.0,6.0,1.0,1.0,3.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,Kenrich Williams,19.0,4,6,3,1,4.0,2.0,4.0,0.0,0.0,0.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,Shai Gilgeous-Alexander,30.0,28,3,4,3,5.0,0.0,3.0,1.0,1.0,4.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,Jared McCain,29.0,21,5,0,3,8.0,0.0,5.0,4.0,1.0,1.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,Ajay Mitchell,30.0,35,1,5,4,7.0,0.0,1.0,0.0,0.0,2.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,B. Barnhizer,5.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,A. Mara,18.0,9,7,0,0,0.0,3.0,4.0,0.0,1.0,1.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,Alex Caruso,20.0,5,6,2,1,2.0,0.0,6.0,1.0,1.0,1.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,M. Peavy,18.0,7,4,0,1,4.0,1.0,3.0,0.0,1.0,0.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,Dalen Terry,5.0,0,4,1,0,1.0,0.0,4.0,0.0,0.0,0.0,128,api-sports game 17068
+2026-11-06,OKC@MEM,OKC,B. Stirtz,24.0,12,1,2,2,2.0,0.0,1.0,2.0,0.0,0.0,128,api-sports game 17068
+2026-11-06,PHI@CLE,PHI,Labaron Philon Jr.,4.0,3,1,1,0,1.0,,,0.0,0.0,2.0,95,https://plaintextsports.com/nba/2026-11-06/phi-cle
+2026-11-06,PHI@CLE,PHI,Tacko Fall,3.0,0,1,0,0,0.0,,,0.0,0.0,0.0,95,https://plaintextsports.com/nba/2026-11-06/phi-cle
+2026-11-06,PHI@CLE,CLE,Meleek Thomas,27.0,12,1,3,2,4.0,,,2.0,0.0,2.0,119,https://plaintextsports.com/nba/2026-11-06/phi-cle
+2026-11-06,PHI@CLE,CLE,Mario Hezonja,27.0,15,10,1,2,8.0,,,1.0,0.0,3.0,119,https://plaintextsports.com/nba/2026-11-06/phi-cle
+2026-11-06,OKC@MEM,OKC,Josh Dix,15.0,5,2,1,1,,,,,,,128,https://www.covers.com/sport/basketball/nba/matchup/388208
+2026-11-06,BOS@CHA,CHA,Hannes Steinbach,27.0,4,11,1,0,,,,,,,80,https://www.covers.com/sport/basketball/nba/matchup/388206
+2026-11-06,SAS@SAC,SAS,Victor Wembanyama,26.0,30,14,2,4,6.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Stephon Castle,28.0,19,3,7,1,3.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Devin Vassell,27.0,19,2,2,5,6.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Dylan Harper,28.0,19,2,3,1,2.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,De'Aaron Fox,26.0,9,2,4,0,2.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Keldon Johnson,27.0,3,6,6,0,0.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Julian Champagnie,22.0,8,7,2,2,4.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Harrison Barnes,19.0,13,1,0,2,5.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Luke Kornet,18.0,2,6,1,0,0.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Jordan McLaughlin,8.0,2,2,1,0,0.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,David Jones Garcia,3.0,0,0,0,0,1.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Tarris Reed Jr.,3.0,0,1,0,0,0.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAS,Carter Bryant,3.0,0,0,0,0,1.0,,,,,,124,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Domantas Sabonis,31.0,17,12,5,1,2.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Leaky Black,40.0,12,3,5,4,7.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Precious Achiuwa,22.0,9,4,0,1,2.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Zach LaVine,35.0,14,4,3,1,6.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Darius Acuff Jr.,33.0,22,3,8,3,9.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Emanuel Sharp,31.0,9,5,0,3,4.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Malik Monk,18.0,12,0,7,2,4.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Dylan Cardwell,15.0,9,2,3,0,0.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Alex Karaban,11.0,0,1,0,0,0.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
+2026-11-06,SAS@SAC,SAC,Nique Clifford,5.0,5,2,2,1,1.0,,,,,,109,https://www.covers.com/sport/basketball/nba/matchup/388213
