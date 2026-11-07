@@ -139,6 +139,8 @@ def main():
         sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
                   "mlb": ("baseball_mlb", "pitcher_strikeouts,batter_hits,batter_total_bases,batter_hits_runs_rbis"),
                   "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds")}
+    if tag == "nhlprops":   # on-demand: NHL player props (Pick6 promo hunting); ~6 credits per game
+        sports = {"nhl": ("icehockey_nhl", "player_points,player_shots_on_goal,player_assists,player_goals,player_blocked_shots,player_total_saves")}
     if tag == "nflalt":   # on-demand: NFL alternate yardage/reception ladders (Sundays)
         sports = {"nfl": ("americanfootball_nfl", "player_reception_yds_alternate,player_rush_yds_alternate,player_receptions_alternate")}
     if tag == "mlbprops":   # on-demand: MLB batter/pitcher props for promo-token hunting (two-sided markets)
