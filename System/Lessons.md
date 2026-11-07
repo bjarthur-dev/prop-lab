@@ -132,3 +132,7 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 - **Stacking 0.8x picks is not an exploit.** Four 0.8x picks pay 10 x 0.41 = 4.1x, which needs a 24% all-hit rate, so each pick has to be about 70%. DK puts 0.8x on the picks it knows are popular and likely. Only use one if the sharp fair is >= 70% (gimme or promo lines).
 - **Where the value is:** (1) 1.0x picks that are sharp favorites (>= 57-59%), since Pick6 charges no per-pick vig: three 59% picks at 6x = +23% EV before Extra Winnings; (2) 1.3x picks with a sharp fair of 50%+; (3) Pick6 lines that are stale vs the sharp line (same player, better number); (4) winnings boosts and free picks. Extra Winnings are a bonus on top; contrarian winners get a bigger share.
 - The cloud odds feed has had 0 Pick6 rows since 11-06. The user screenshots the Pick6 board, and Claude prices each pick vs sharp.
+
+## 11-06: promo night over-staked (-$25)
+- Three promo bets at the max ($10 boosted SGPx, $10 SGA live most points, $5 Pick6) = 30% of the bankroll in one night, after the user said "no rules tonight". All three lost: the SGPx on Burries's 2nd three, SGA trailing Mitchell in a 22-pt blowout (a starter sitting the 4th is the real risk on a live points-leader bet when the team is already well ahead), and the Pick6 entry.
+- The EV was positive on each, but max-promo stakes on 20-55% shots swing the bankroll too hard. Size promo bets by half-Kelly, not by the promo max, and keep the day <= 20% even on promo nights. The day after a loss uses normal stakes (no chasing).
