@@ -63,6 +63,8 @@ def main():
         time.sleep(6.5)   # free plan: 10 requests/minute
     if not rows: print(f"::warning::no finished NBA games found for {date}"); return
     if check:   # compare against the official nba_api rows already in the logs; change nothing
+        for r in rows:   # print every line so a manual run shows the box score in the Action log
+            print(f"BOX {r['game']} {r['player']}: min {r['min']} pts {r['pts']} reb {r['reb']} ast {r['ast']} 3pm {r['fg3m']}")
         sys.path.insert(0, "engine/nba"); from common import norm_name
         b = pd.DataFrame(rows); b["key"] = b["player"].map(norm_name)
         o = logs[logs["GAME_DATE"].astype(str).str[:10] == date].copy(); o["key"] = o["PLAYER_NAME"].map(norm_name)
