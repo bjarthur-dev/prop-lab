@@ -1,0 +1,489 @@
+sport,game,start,player,market,line,side,dk,fs,fa,evs,eva,nsh,n,books
+NBA,Boston Celtics@Milwaukee Bucks,20:10,A.J. Green,points,6.5,over,101,,0.493,,-0.9,0,2,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,A.J. Green,points,6.5,under,-128,,0.507,,-9.7,0,2,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,A.J. Green,threes,1.5,over,-156,,0.575,,-5.6,0,2,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,A.J. Green,threes,1.5,under,119,,0.425,,-6.9,0,2,
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,assists,1.5,over,-140,0.563,0.577,-3.5,-1.1,1,3,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,assists,1.5,under,107,0.437,0.423,-9.6,-12.4,1,3,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,points,15.5,over,-106,0.492,0.503,-4.4,-2.3,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,points,15.5,under,-120,0.508,0.497,-6.8,-8.8,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,rebounds,6.5,over,-103,0.467,0.476,-7.9,-6.1,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,rebounds,6.5,under,-128,0.533,0.524,-5.1,-6.7,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,threes,1.5,over,-157,0.573,0.586,-6.2,-4.2,2,5,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ace Bailey,threes,1.5,under,119,0.427,0.414,-6.5,-9.2,2,5,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,assists,1.5,over,-118,,0.521,,-3.7,0,5,
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,assists,1.5,under,-111,,0.479,,-9.0,0,5,
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,points,10.5,over,-112,0.489,0.488,-7.5,-7.6,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,points,10.5,under,-114,0.511,0.512,-4.0,-3.9,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,rebounds,3.5,over,-104,0.487,0.479,-4.5,-6.0,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,rebounds,3.5,under,-126,0.513,0.521,-8.0,-6.5,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,threes,1.5,over,106,0.465,0.469,-4.2,-3.5,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Andrew Wiggins,threes,1.5,under,-140,0.535,0.531,-8.3,-8.9,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,assists,4.5,over,-135,0.553,0.548,-3.8,-4.6,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,assists,4.5,under,103,0.447,0.452,-9.2,-8.3,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,points,18.5,over,-111,0.492,0.493,-6.5,-6.2,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,points,18.5,under,-114,0.508,0.507,-4.6,-4.9,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,rebounds,4.5,over,-125,0.541,0.542,-2.6,-2.5,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,rebounds,4.5,under,-106,0.459,0.458,-10.8,-10.9,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,threes,1.5,over,-114,0.503,0.499,-5.5,-6.3,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Ayo Dosunmu,threes,1.5,under,-115,0.497,0.501,-7.1,-6.4,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,assists,3.5,over,113,0.433,0.44,-7.9,-6.4,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,assists,3.5,under,-149,0.567,0.56,-5.2,-6.4,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,points,19.5,over,-111,0.499,0.495,-5.1,-6.0,2,9,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,points,19.5,under,-115,0.501,0.505,-6.3,-5.5,2,9,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,rebounds,9.5,over,-131,0.504,0.514,-11.1,-9.3,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,rebounds,9.5,under,100,0.496,0.486,-0.9,-2.9,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,threes,0.5,over,-216,,0.642,,-6.1,0,3,
+NBA,Miami Heat@Sacramento Kings,21:10,Bam Adebayo,threes,0.5,under,162,,0.358,,-6.2,0,3,
+NBA,Miami Heat@Sacramento Kings,21:10,Bobby Portis,points,8.5,over,-111,0.449,0.463,-14.7,-12.1,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bobby Portis,points,8.5,under,-115,0.551,0.537,3.1,0.5,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bobby Portis,rebounds,5.5,over,-111,0.448,0.466,-14.8,-11.3,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bobby Portis,rebounds,5.5,under,-119,0.552,0.534,1.6,-1.8,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bobby Portis,threes,1.5,over,156,0.37,0.373,-5.3,-4.5,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Bobby Portis,threes,1.5,under,-208,0.63,0.627,-6.7,-7.2,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Brayden Burries,points,11.5,over,-111,0.481,0.484,-8.5,-8.1,1,5,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Brayden Burries,points,11.5,under,-115,0.519,0.516,-3.0,-3.5,1,5,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Brayden Burries,rebounds,4.5,over,-130,0.543,0.527,-4.0,-6.7,1,7,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Brayden Burries,rebounds,4.5,under,-101,0.457,0.473,-9.0,-5.9,1,7,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Brayden Burries,threes,1.5,over,128,0.403,0.404,-8.1,-7.9,1,5,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Brayden Burries,threes,1.5,under,-169,0.597,0.596,-5.0,-5.1,1,5,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Brook Lopez,points,12.5,over,-104,0.496,0.486,-2.7,-4.6,1,5,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Brook Lopez,points,12.5,under,-122,0.504,0.514,-8.3,-6.5,1,5,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Brook Lopez,rebounds,5.5,over,111,0.449,0.448,-5.2,-5.4,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Brook Lopez,rebounds,5.5,under,-146,0.551,0.552,-7.2,-7.0,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Brook Lopez,threes,1.5,over,104,0.458,0.457,-6.6,-6.8,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Brook Lopez,threes,1.5,under,-137,0.542,0.543,-6.2,-6.1,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Caleb Martin,rebounds,2.5,over,-111,0.476,0.498,-9.5,-5.4,1,4,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Caleb Martin,rebounds,2.5,under,-119,0.524,0.502,-3.6,-7.6,1,4,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,assists,6.5,over,111,0.421,0.431,-11.2,-9.1,2,5,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,assists,6.5,under,-146,0.579,0.569,-2.4,-4.1,2,5,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,points,24.5,over,-123,0.489,0.496,-11.4,-10.1,2,9,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,points,24.5,under,-104,0.511,0.504,0.3,-1.1,2,9,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,rebounds,7.5,over,114,0.423,0.436,-9.4,-6.7,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,rebounds,7.5,under,-150,0.577,0.564,-3.9,-6.0,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,threes,1.5,over,121,0.432,0.432,-4.6,-4.6,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Cooper Flagg,threes,1.5,under,-159,0.568,0.568,-7.4,-7.5,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Daniel Gafford,points,7.5,over,-126,0.51,0.517,-8.5,-7.2,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Daniel Gafford,points,7.5,under,-101,0.49,0.483,-2.5,-3.9,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Daniel Gafford,rebounds,6.5,over,106,0.422,0.436,-13.0,-10.1,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Daniel Gafford,rebounds,6.5,under,-140,0.578,0.564,-1.0,-3.4,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Danny Wolf,points,9.5,over,-105,0.5,0.502,-2.4,-2.0,2,5,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Danny Wolf,points,9.5,under,-122,0.5,0.498,-9.0,-9.4,2,5,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Danny Wolf,rebounds,5.5,over,110,0.433,0.443,-9.0,-7.0,1,5,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Danny Wolf,rebounds,5.5,under,-146,0.567,0.557,-4.5,-6.1,1,5,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Danny Wolf,threes,1.5,over,108,0.437,0.44,-9.1,-8.5,1,5,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Danny Wolf,threes,1.5,under,-143,0.563,0.56,-4.3,-4.8,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,assists,6.5,over,-145,0.538,0.54,-9.2,-8.8,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,assists,6.5,under,110,0.462,0.46,-2.9,-3.3,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,points,25.5,over,-107,0.471,0.486,-8.9,-6.1,1,2,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,points,25.5,under,-120,0.529,0.514,-3.0,-5.7,1,2,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,rebounds,3.5,over,-105,0.499,0.494,-2.6,-3.5,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,rebounds,3.5,under,-125,0.501,0.506,-9.8,-8.9,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,threes,2.5,over,-164,0.585,0.579,-5.9,-6.7,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Darius Acuff Jr.,threes,2.5,under,124,0.415,0.421,-6.9,-5.8,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,assists,6.5,over,-143,0.562,0.562,-4.5,-4.5,2,5,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,assists,6.5,under,108,0.438,0.438,-8.9,-8.9,2,5,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,points,21.5,over,-124,0.524,0.51,-5.3,-7.8,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,points,21.5,under,-103,0.476,0.49,-6.2,-3.5,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,rebounds,2.5,over,-109,0.497,0.497,-4.7,-4.7,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,rebounds,2.5,under,-121,0.503,0.503,-8.1,-8.1,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,threes,2.5,over,-109,0.461,0.472,-11.7,-9.4,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Darius Garland,threes,2.5,under,-121,0.539,0.528,-1.5,-3.6,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,assists,4.5,over,114,0.425,0.421,-9.1,-10.0,1,4,pinnacle
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,assists,4.5,under,-151,0.575,0.579,-4.4,-3.7,1,4,pinnacle
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,points,15.5,over,-116,0.482,0.491,-10.3,-8.5,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,points,15.5,under,-109,0.518,0.509,-0.6,-2.5,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,rebounds,4.5,over,-102,0.462,0.477,-8.5,-5.6,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,rebounds,4.5,under,-129,0.538,0.523,-4.5,-7.1,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,threes,1.5,over,-144,0.536,0.547,-9.2,-7.3,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Darryn Peterson,threes,1.5,under,109,0.464,0.453,-3.0,-5.4,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,assists,7.5,over,-104,0.486,0.487,-4.6,-4.4,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,assists,7.5,under,-127,0.514,0.513,-8.2,-8.3,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,points,13.5,over,-116,0.481,0.486,-10.4,-9.4,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,points,13.5,under,-109,0.519,0.514,-0.5,-1.5,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,rebounds,2.5,over,119,,0.449,,-1.6,0,4,
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,rebounds,2.5,under,-157,,0.551,,-9.8,0,4,
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,threes,1.5,over,-150,0.555,0.565,-7.5,-5.9,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Davion Mitchell,threes,1.5,under,114,0.445,0.435,-4.7,-6.8,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Day'Ron Sharpe,assists,3.5,over,-115,0.543,0.51,1.5,-4.7,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Day'Ron Sharpe,assists,3.5,under,-114,0.457,0.49,-14.2,-8.0,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Day'Ron Sharpe,points,8.5,over,-131,0.525,0.523,-7.4,-7.8,1,3,pinnacle
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Day'Ron Sharpe,points,8.5,under,103,0.475,0.477,-3.6,-3.1,1,3,pinnacle
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Day'Ron Sharpe,rebounds,7.5,over,-138,0.553,0.55,-4.6,-5.2,2,5,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Day'Ron Sharpe,rebounds,7.5,under,105,0.447,0.45,-8.4,-7.7,2,5,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,De'Andre Hunter,points,13.5,over,-103,0.493,0.491,-2.9,-3.3,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,De'Andre Hunter,points,13.5,under,-124,0.507,0.509,-8.4,-8.0,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,De'Andre Hunter,rebounds,4.5,over,-129,0.533,0.524,-5.4,-7.0,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,De'Andre Hunter,rebounds,4.5,under,-102,0.467,0.476,-7.5,-5.7,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,De'Andre Hunter,threes,1.5,over,-149,0.576,0.561,-3.8,-6.3,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,De'Andre Hunter,threes,1.5,under,113,0.424,0.439,-9.7,-6.5,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,assists,5.5,over,100,0.498,0.497,-0.4,-0.6,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,assists,5.5,under,-131,0.502,0.503,-11.5,-11.3,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,points,16.5,over,-113,0.517,0.513,-2.5,-3.3,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,points,16.5,under,-113,0.483,0.487,-9.0,-8.2,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,rebounds,5.5,over,-135,0.526,0.522,-8.4,-9.1,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,rebounds,5.5,under,103,0.474,0.478,-3.8,-3.0,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,threes,1.5,over,118,0.427,0.421,-7.0,-8.1,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Dejounte Murray,threes,1.5,under,-155,0.573,0.579,-5.7,-4.8,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derik Queen,assists,2.5,over,129,0.389,0.389,-10.8,-10.8,1,1,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derik Queen,assists,2.5,under,-170,0.611,0.611,-3.0,-3.0,1,1,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derik Queen,points,8.5,over,-107,0.5,0.501,-3.3,-3.1,1,2,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derik Queen,points,8.5,under,-120,0.5,0.499,-8.3,-8.5,1,2,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derik Queen,rebounds,6.5,over,107,,0.443,,-8.4,0,1,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derik Queen,rebounds,6.5,under,-141,,0.557,,-4.7,0,1,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derrick Jones,points,11.5,over,101,0.453,0.46,-9.0,-7.5,2,5,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derrick Jones,points,11.5,under,-129,0.547,0.54,-2.8,-4.2,2,5,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derrick Jones,rebounds,4.5,over,-109,0.476,0.479,-8.7,-8.2,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derrick Jones,rebounds,4.5,under,-121,0.524,0.521,-4.3,-4.8,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derrick Jones,threes,1.5,over,109,0.439,0.435,-8.3,-9.0,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Derrick Jones,threes,1.5,under,-143,0.561,0.565,-4.6,-4.1,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,assists,4.5,over,-108,0.488,0.497,-6.1,-4.3,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,assists,4.5,under,-121,0.512,0.503,-6.4,-8.1,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,points,13.5,over,-112,0.491,0.489,-7.1,-7.5,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,points,13.5,under,-113,0.509,0.511,-4.0,-3.6,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,rebounds,3.5,over,-104,0.495,0.484,-2.9,-5.0,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,rebounds,3.5,under,-127,0.505,0.516,-9.7,-7.8,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,threes,1.5,over,-185,0.609,0.601,-6.1,-7.4,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Derrick White,threes,1.5,under,139,0.391,0.399,-6.7,-4.6,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Domantas Sabonis,assists,5.5,over,-135,0.527,0.53,-8.2,-7.7,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Domantas Sabonis,assists,5.5,under,102,0.473,0.47,-4.5,-5.1,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Domantas Sabonis,points,13.5,over,-124,0.533,0.52,-3.7,-6.1,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Domantas Sabonis,points,13.5,under,-102,0.467,0.48,-7.5,-4.9,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Domantas Sabonis,rebounds,12.5,over,-135,0.531,0.525,-7.5,-8.5,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Domantas Sabonis,rebounds,12.5,under,102,0.469,0.475,-5.4,-4.1,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Giannis Antetokounmpo,assists,6.5,over,109,0.467,0.458,-2.4,-4.3,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Giannis Antetokounmpo,assists,6.5,under,-144,0.533,0.542,-9.7,-8.2,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Giannis Antetokounmpo,points,29.5,over,-114,0.52,0.51,-2.4,-4.2,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Giannis Antetokounmpo,points,29.5,under,-111,0.48,0.49,-8.8,-6.9,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Giannis Antetokounmpo,rebounds,12.5,over,106,0.441,0.452,-9.3,-6.8,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Giannis Antetokounmpo,rebounds,12.5,under,-140,0.559,0.548,-4.1,-6.1,1,5,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,assists,2.5,over,-169,0.604,0.596,-3.9,-5.2,1,4,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,assists,2.5,under,128,0.396,0.404,-9.7,-7.9,1,4,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,points,17.5,over,-118,0.472,0.482,-12.7,-10.9,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,points,17.5,under,-108,0.528,0.518,1.6,-0.3,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,rebounds,5.5,over,-117,0.471,0.484,-12.7,-10.2,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,rebounds,5.5,under,-113,0.529,0.516,-0.3,-2.8,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,threes,1.5,over,105,0.455,0.454,-6.8,-7.0,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaden McDaniels,threes,1.5,under,-138,0.545,0.546,-6.0,-5.8,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jaime Jaquez Jr,points,14.5,over,-103,0.45,0.473,-11.4,-6.8,1,2,pinnacle
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jaime Jaquez Jr,points,14.5,under,-124,0.55,0.527,-0.6,-4.8,1,2,pinnacle
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jaime Jaquez Jr,rebounds,4.5,over,-125,0.519,0.515,-6.5,-7.4,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jaime Jaquez Jr,rebounds,4.5,under,-105,0.481,0.485,-6.1,-5.2,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jaime Jaquez Jr,threes,1.5,over,124,0.42,0.414,-5.8,-7.2,1,6,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jaime Jaquez Jr,threes,1.5,under,-164,0.58,0.586,-6.7,-5.7,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaxson Hayes,points,9.5,over,101,0.467,0.478,-6.2,-3.8,1,4,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaxson Hayes,points,9.5,under,-128,0.533,0.522,-5.0,-7.1,1,4,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaxson Hayes,rebounds,7.5,over,106,0.437,0.438,-10.0,-9.8,1,4,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jaxson Hayes,rebounds,7.5,under,-140,0.563,0.562,-3.5,-3.6,1,4,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,assists,6.5,over,-132,0.526,0.529,-7.6,-7.0,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,assists,6.5,under,100,0.474,0.471,-5.2,-5.8,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,points,26.5,over,-110,0.485,0.495,-7.4,-5.5,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,points,26.5,under,-116,0.515,0.505,-4.1,-6.0,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,rebounds,6.5,over,-152,,0.558,,-7.4,0,2,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,rebounds,6.5,under,115,,0.442,,-5.0,0,2,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,threes,2.5,over,-113,0.504,0.497,-5.0,-6.4,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Jayson Tatum,threes,2.5,under,-117,0.496,0.503,-8.0,-6.6,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,assists,3.5,over,113,0.457,0.46,-2.6,-2.1,1,6,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,assists,3.5,under,-149,0.543,0.54,-9.3,-9.7,1,6,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,points,14.5,over,-113,0.503,0.501,-5.2,-5.5,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,points,14.5,under,-112,0.497,0.499,-5.9,-5.6,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,rebounds,4.5,over,113,,0.417,,-11.2,0,3,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,rebounds,4.5,under,-149,,0.583,,-2.6,0,3,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,threes,1.5,over,127,0.421,0.417,-4.4,-5.3,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Jeremiah Fears,threes,1.5,under,-168,0.579,0.583,-7.7,-7.0,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,assists,2.5,over,-104,0.476,0.481,-6.6,-5.7,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,assists,2.5,under,-126,0.524,0.519,-6.0,-6.9,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,points,14.5,over,-101,0.5,0.498,-0.5,-1.0,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,points,14.5,under,-126,0.5,0.502,-10.3,-9.9,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,rebounds,5.5,over,-114,0.519,0.508,-2.6,-4.6,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,rebounds,5.5,under,-116,0.481,0.492,-10.4,-8.5,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,threes,1.5,over,103,0.48,0.483,-2.6,-1.9,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Jonathan Kuminga,threes,1.5,under,-135,0.52,0.517,-9.5,-10.0,2,6,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Julius Randle,assists,4.5,over,-110,0.496,0.496,-5.3,-5.3,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Julius Randle,assists,4.5,under,-120,0.504,0.504,-7.6,-7.6,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Julius Randle,rebounds,6.5,over,-106,0.483,0.481,-6.2,-6.6,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Julius Randle,rebounds,6.5,under,-124,0.517,0.519,-6.5,-6.2,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Julius Randle,threes,1.5,over,-117,0.483,0.488,-10.4,-9.4,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Julius Randle,threes,1.5,under,-113,0.517,0.512,-2.5,-3.5,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Karlo Matkovic,points,7.5,over,-112,0.487,0.486,-7.9,-8.1,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Karlo Matkovic,points,7.5,under,-113,0.513,0.514,-3.2,-3.0,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Karlo Matkovic,rebounds,4.5,over,-112,0.483,0.484,-8.5,-8.3,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Karlo Matkovic,rebounds,4.5,under,-117,0.517,0.516,-4.1,-4.3,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,assists,2.5,over,-156,0.578,0.57,-5.1,-6.5,1,4,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,assists,2.5,under,118,0.422,0.43,-8.1,-6.2,1,4,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,points,11.5,over,-122,0.51,0.503,-7.1,-8.6,1,7,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,points,11.5,under,-104,0.49,0.497,-4.0,-2.4,1,7,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,rebounds,3.5,over,-145,0.531,0.529,-10.3,-10.6,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,rebounds,3.5,under,110,0.469,0.471,-1.4,-1.1,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,threes,1.5,over,107,0.46,0.457,-4.8,-5.4,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Keaton Wagler,threes,1.5,under,-140,0.54,0.543,-7.4,-6.9,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Keegan Murray,points,9.5,over,-122,0.493,0.495,-10.3,-9.9,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Keegan Murray,points,9.5,under,-104,0.507,0.505,-0.5,-1.0,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Keegan Murray,rebounds,4.5,over,-115,0.52,0.509,-2.8,-4.9,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Keegan Murray,rebounds,4.5,under,-114,0.48,0.491,-9.9,-7.8,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Keegan Murray,threes,1.5,over,136,0.423,0.407,-0.1,-4.1,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Keegan Murray,threes,1.5,under,-181,0.577,0.593,-10.5,-7.9,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,assists,5.5,over,-111,0.531,0.515,0.9,-2.1,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,assists,5.5,under,-119,0.469,0.485,-13.6,-10.7,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,points,22.5,over,-122,0.529,0.509,-3.8,-7.5,1,5,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,points,22.5,under,-104,0.471,0.491,-7.6,-3.6,1,5,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,rebounds,3.5,over,-130,0.531,0.542,-6.1,-4.1,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,rebounds,3.5,under,-101,0.469,0.458,-6.6,-8.9,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,threes,2.5,over,117,0.406,0.427,-11.9,-7.3,2,6,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Keyonte George,threes,2.5,under,-155,0.594,0.573,-2.2,-5.8,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,assists,1.5,over,-146,,0.57,,-3.9,0,4,
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,assists,1.5,under,111,,0.43,,-9.3,0,4,
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,points,12.5,over,100,0.481,0.486,-3.8,-2.7,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,points,12.5,under,-128,0.519,0.514,-7.6,-8.5,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,rebounds,2.5,over,122,0.396,0.41,-12.0,-8.9,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,rebounds,2.5,under,-161,0.604,0.59,-2.1,-4.4,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,threes,2.5,over,-176,0.579,0.579,-9.2,-9.2,1,1,pinnacle
+NBA,Miami Heat@Sacramento Kings,21:10,Klay Thompson,threes,2.5,under,133,0.421,0.421,-1.9,-1.9,1,1,pinnacle
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,assists,4.5,over,-127,0.531,0.523,-5.2,-6.5,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,assists,4.5,under,-104,0.469,0.477,-7.9,-6.4,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,points,8.5,over,-105,0.448,0.47,-12.6,-8.2,1,5,pinnacle
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,points,8.5,under,-122,0.552,0.53,0.5,-3.5,1,5,pinnacle
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,rebounds,4.5,over,118,,0.429,,-6.6,0,5,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,rebounds,4.5,under,-156,,0.571,,-6.2,0,5,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,threes,1.5,over,162,,0.346,,-9.3,0,4,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Kris Dunn,threes,1.5,under,-216,,0.654,,-4.4,0,4,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,assists,2.5,over,-102,0.481,0.475,-4.7,-5.9,1,4,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,assists,2.5,under,-129,0.519,0.525,-7.9,-6.8,1,4,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,points,9.5,over,-110,0.499,0.502,-4.7,-4.1,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,points,9.5,under,-116,0.501,0.498,-6.7,-7.4,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,rebounds,4.5,over,-112,0.481,0.489,-9.0,-7.5,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,rebounds,4.5,under,-118,0.519,0.511,-4.1,-5.6,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,threes,0.5,over,-231,,0.656,,-6.0,0,1,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Kyle Kuzma,threes,0.5,under,173,,0.344,,-6.1,0,1,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,assists,4.5,over,112,0.432,0.438,-8.4,-7.1,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,assists,4.5,under,-148,0.568,0.562,-4.8,-5.8,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,points,20.5,over,-114,0.503,0.507,-5.6,-4.8,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,points,20.5,under,-112,0.497,0.493,-5.9,-6.7,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,rebounds,3.5,over,-137,0.541,0.536,-6.4,-7.3,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,rebounds,3.5,under,104,0.459,0.464,-6.4,-5.3,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,threes,2.5,over,-120,0.529,0.52,-3.1,-4.6,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Kyrie Irving,threes,2.5,under,-109,0.471,0.48,-9.6,-8.0,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,assists,6.5,over,-148,,0.554,,-7.2,0,3,
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,assists,6.5,under,113,,0.446,,-5.0,0,3,
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,points,21.5,over,-115,0.506,0.501,-5.4,-6.4,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,points,21.5,under,-111,0.494,0.499,-6.1,-5.1,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,rebounds,4.5,over,-104,0.471,0.474,-7.7,-7.0,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,rebounds,4.5,under,-127,0.529,0.526,-5.4,-6.0,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,threes,3.5,over,-119,0.542,0.528,-0.2,-2.9,2,8,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,LaMelo Ball,threes,3.5,under,-111,0.458,0.472,-13.0,-10.2,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Malik Monk,assists,3.5,over,-111,0.504,0.497,-4.2,-5.6,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Malik Monk,assists,3.5,under,-118,0.496,0.503,-8.4,-7.0,1,5,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Malik Monk,points,9.5,over,-109,0.495,0.498,-5.1,-4.6,2,5,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Malik Monk,points,9.5,under,-117,0.505,0.502,-6.3,-6.8,2,5,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Malik Monk,threes,1.5,over,116,0.465,0.457,0.4,-1.3,2,5,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Malik Monk,threes,1.5,under,-153,0.535,0.543,-11.5,-10.2,2,5,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,assists,1.5,over,-195,,0.61,,-7.7,0,4,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,assists,1.5,under,146,,0.39,,-4.1,0,4,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,points,21.5,over,-111,0.5,0.5,-5.0,-4.9,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,points,21.5,under,-114,0.5,0.5,-6.1,-6.2,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,rebounds,6.5,over,-133,0.565,0.555,-1.0,-2.7,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,rebounds,6.5,under,101,0.435,0.445,-12.6,-10.6,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,threes,3.5,over,113,0.445,0.446,-5.2,-5.0,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Michael Porter Jr,threes,3.5,under,-148,0.555,0.554,-7.0,-7.2,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Moritz Wagner,points,9.5,over,-101,,0.475,,-5.4,0,3,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Moritz Wagner,points,9.5,under,-126,,0.525,,-5.9,0,3,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Moritz Wagner,rebounds,4.5,over,117,,0.428,,-7.1,0,2,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Moritz Wagner,rebounds,4.5,under,-154,,0.572,,-5.7,0,2,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,assists,1.5,over,-107,,0.493,,-4.7,0,3,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,assists,1.5,under,-123,,0.507,,-8.0,0,3,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,points,9.5,over,-102,0.455,0.485,-9.8,-3.9,1,6,pinnacle
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,points,9.5,under,-125,0.545,0.515,-2.0,-7.3,1,6,pinnacle
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,rebounds,5.5,over,108,0.451,0.451,-6.2,-6.2,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,rebounds,5.5,under,-142,0.549,0.549,-6.4,-6.4,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,threes,1.5,over,-117,0.551,0.536,2.2,-0.5,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Myles Turner,threes,1.5,under,-113,0.449,0.464,-15.3,-12.6,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Naji Marshall,assists,3.5,over,125,0.433,0.438,-2.5,-1.5,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Naji Marshall,assists,3.5,under,-165,0.567,0.562,-9.0,-9.7,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Naji Marshall,points,11.5,over,-111,0.491,0.501,-6.6,-4.9,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Naji Marshall,points,11.5,under,-115,0.509,0.499,-4.9,-6.6,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Naji Marshall,rebounds,3.5,over,-115,0.481,0.487,-10.0,-8.9,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Naji Marshall,rebounds,3.5,under,-115,0.519,0.513,-3.0,-4.1,1,6,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Neemias Queta,assists,1.5,over,115,0.441,0.439,-5.3,-5.6,1,4,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Neemias Queta,assists,1.5,under,-152,0.559,0.561,-7.2,-7.0,1,4,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Neemias Queta,rebounds,6.5,over,-142,,0.56,,-4.6,0,2,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Neemias Queta,rebounds,6.5,under,108,,0.44,,-8.4,0,2,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Noah Clowney,points,6.5,over,101,0.476,0.468,-4.3,-5.9,1,4,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Noah Clowney,points,6.5,under,-129,0.524,0.532,-7.0,-5.6,1,4,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Noah Clowney,rebounds,3.5,over,105,,0.478,,-2.1,0,3,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Noah Clowney,rebounds,3.5,under,-139,,0.522,,-10.2,0,3,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Nolan Traore,assists,4.5,over,-103,0.486,0.478,-4.3,-5.8,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Nolan Traore,assists,4.5,under,-128,0.514,0.522,-8.4,-7.0,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Nolan Traore,points,13.5,over,-105,,0.488,,-4.8,0,4,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Nolan Traore,points,13.5,under,-121,,0.512,,-6.4,0,4,
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Nolan Traore,rebounds,2.5,over,137,0.36,0.386,-14.6,-8.6,1,4,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Nolan Traore,rebounds,2.5,under,-182,0.64,0.614,-0.9,-4.8,1,4,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,P.J. Washington,points,13.5,over,-119,0.511,0.505,-6.0,-7.1,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,P.J. Washington,points,13.5,under,-107,0.489,0.495,-5.4,-4.2,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,P.J. Washington,rebounds,6.5,over,-122,0.531,0.517,-3.4,-5.9,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,P.J. Washington,rebounds,6.5,under,-108,0.469,0.483,-9.6,-7.0,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,P.J. Washington,threes,1.5,over,-157,0.576,0.569,-5.8,-6.8,2,7,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,P.J. Washington,threes,1.5,under,119,0.424,0.431,-7.1,-5.7,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,assists,3.5,over,-122,0.531,0.529,-3.4,-3.8,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,assists,3.5,under,-108,0.469,0.471,-9.7,-9.2,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,points,17.5,over,-111,0.503,0.499,-4.3,-5.2,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,points,17.5,under,-115,0.497,0.501,-7.2,-6.3,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,rebounds,4.5,over,-147,0.544,0.542,-8.6,-8.9,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,rebounds,4.5,under,112,0.456,0.458,-3.3,-3.0,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,threes,2.5,over,-130,0.519,0.518,-8.2,-8.4,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Paul George,threes,2.5,under,-101,0.481,0.482,-4.3,-4.0,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,assists,3.5,over,-125,0.542,0.533,-2.4,-4.1,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,assists,3.5,under,-105,0.458,0.467,-10.6,-8.8,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,points,13.5,over,-108,0.47,0.479,-9.5,-7.7,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,points,13.5,under,-118,0.53,0.521,-2.0,-3.8,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,rebounds,2.5,over,-159,0.583,0.575,-5.0,-6.4,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,rebounds,2.5,under,120,0.417,0.425,-8.2,-6.5,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,threes,2.5,over,140,0.412,0.408,-1.1,-2.2,2,6,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Payton Pritchard,threes,2.5,under,-186,0.588,0.592,-9.6,-8.9,2,6,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,assists,3.5,over,100,0.459,0.463,-8.3,-7.4,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,assists,3.5,under,-131,0.541,0.537,-4.5,-5.3,2,7,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,points,11.5,over,-109,0.51,0.505,-2.3,-3.3,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,points,11.5,under,-116,0.49,0.495,-8.7,-7.7,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,rebounds,3.5,over,101,0.476,0.466,-4.3,-6.3,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,rebounds,3.5,under,-133,0.524,0.534,-8.2,-6.5,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,threes,0.5,over,-194,,0.624,,-5.4,0,3,
+NBA,Miami Heat@Sacramento Kings,21:10,Pelle Larsson,threes,0.5,under,146,,0.376,,-7.6,0,3,
+NBA,Miami Heat@Sacramento Kings,21:10,Precious Achiuwa,points,8.5,over,-118,,0.516,,-4.7,0,2,
+NBA,Miami Heat@Sacramento Kings,21:10,Precious Achiuwa,points,8.5,under,-108,,0.484,,-6.8,0,2,
+NBA,Miami Heat@Sacramento Kings,21:10,Precious Achiuwa,rebounds,6.5,over,-123,0.517,0.514,-6.2,-6.9,1,5,pinnacle
+NBA,Miami Heat@Sacramento Kings,21:10,Precious Achiuwa,rebounds,6.5,under,-107,0.483,0.486,-6.6,-5.9,1,5,pinnacle
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Rudy Gobert,points,8.5,over,-124,0.533,0.521,-3.7,-5.8,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Rudy Gobert,points,8.5,under,-103,0.467,0.479,-8.0,-5.7,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Rudy Gobert,rebounds,11.5,over,103,0.465,0.469,-5.7,-4.8,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Rudy Gobert,rebounds,11.5,under,-136,0.535,0.531,-7.1,-7.8,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,assists,1.5,over,123,,0.418,,-6.8,0,4,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,assists,1.5,under,-162,,0.582,,-5.8,0,4,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,points,16.5,over,-116,0.5,0.504,-6.9,-6.2,1,7,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,points,16.5,under,-110,0.5,0.496,-4.5,-5.2,1,7,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,rebounds,5.5,over,102,0.484,0.474,-2.2,-4.3,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,rebounds,5.5,under,-134,0.516,0.526,-9.9,-8.1,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,threes,2.5,over,140,0.393,0.391,-5.7,-6.2,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Rui Hachimura,threes,2.5,under,-186,0.607,0.609,-6.7,-6.3,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,assists,3.5,over,130,0.393,0.406,-9.6,-6.7,1,4,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,assists,3.5,under,-172,0.607,0.594,-4.1,-6.0,1,4,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,points,9.5,over,-109,0.475,0.488,-8.9,-6.4,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,points,9.5,under,-117,0.525,0.512,-2.6,-5.1,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,rebounds,2.5,over,-144,0.547,0.539,-7.4,-8.6,1,5,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,rebounds,2.5,under,109,0.453,0.461,-5.3,-3.7,1,5,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,threes,1.5,over,143,0.411,0.406,-0.2,-1.4,1,6,fanduel
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Ryan Rollins,threes,1.5,under,-189,0.589,0.594,-9.9,-9.1,1,6,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Saddiq Bey,points,13.5,over,-104,,0.487,,-4.4,0,3,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Saddiq Bey,points,13.5,under,-122,,0.513,,-6.7,0,3,
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Saddiq Bey,rebounds,3.5,over,-144,0.559,0.558,-5.3,-5.5,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Saddiq Bey,rebounds,3.5,under,110,0.441,0.442,-7.4,-7.1,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Saddiq Bey,threes,1.5,over,-125,0.535,0.529,-3.6,-4.7,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Saddiq Bey,threes,1.5,under,-105,0.465,0.471,-9.3,-8.1,2,7,"fanduel,pinnacle"
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Terrence Shannon Jr.,points,11.5,over,-115,0.485,0.498,-9.2,-6.8,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Terrence Shannon Jr.,points,11.5,under,-111,0.515,0.502,-2.2,-4.6,1,6,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Terrence Shannon Jr.,rebounds,2.5,over,-119,0.51,0.515,-6.1,-5.2,1,4,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Terrence Shannon Jr.,rebounds,2.5,under,-111,0.49,0.485,-6.9,-7.9,1,4,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Terrence Shannon Jr.,threes,1.5,over,121,0.411,0.426,-9.3,-5.9,1,5,fanduel
+NBA,Utah Jazz@Minnesota Timberwolves,19:10,Terrence Shannon Jr.,threes,1.5,under,-160,0.589,0.574,-4.2,-6.7,1,5,fanduel
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,assists,2.5,over,-143,0.555,0.559,-5.8,-5.1,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,assists,2.5,under,109,0.445,0.441,-6.9,-7.8,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,points,15.5,over,-118,0.517,0.511,-4.5,-5.6,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,points,15.5,under,-108,0.483,0.489,-7.0,-5.8,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,rebounds,4.5,over,-153,0.541,0.54,-10.5,-10.7,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,rebounds,4.5,under,116,0.459,0.46,-0.9,-0.6,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,threes,2.5,over,102,0.46,0.455,-7.0,-8.1,2,7,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Trey Murphy III,threes,2.5,under,-134,0.54,0.545,-5.8,-4.8,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,assists,4.5,over,113,0.418,0.43,-10.9,-8.4,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,assists,4.5,under,-149,0.582,0.57,-2.8,-4.8,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,points,19.5,over,-122,,0.511,,-7.1,0,3,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,points,19.5,under,-105,,0.489,,-4.5,0,3,
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,rebounds,4.5,over,104,0.441,0.444,-10.0,-9.4,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,rebounds,4.5,under,-137,0.559,0.556,-3.3,-3.8,2,7,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,threes,2.5,over,-119,0.531,0.522,-2.4,-4.0,2,8,"fanduel,pinnacle"
+NBA,Boston Celtics@Milwaukee Bucks,20:10,Tyler Herro,threes,2.5,under,-111,0.469,0.478,-10.8,-9.1,2,8,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Zaccharie Risacher,points,6.5,over,-107,0.462,0.472,-10.7,-8.6,2,6,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Zaccharie Risacher,points,6.5,under,-119,0.538,0.528,-1.0,-2.9,2,6,"fanduel,pinnacle"
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Zaccharie Risacher,rebounds,3.5,over,103,0.446,0.464,-9.5,-5.8,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Zaccharie Risacher,rebounds,3.5,under,-136,0.554,0.536,-3.8,-7.0,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Zaccharie Risacher,threes,1.5,over,171,0.357,0.356,-3.3,-3.5,1,6,fanduel
+NBA,Brooklyn Nets@Dallas Mavericks,19:40,Zaccharie Risacher,threes,1.5,under,-229,0.643,0.644,-7.6,-7.5,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,assists,3.5,over,131,0.384,0.394,-11.4,-9.0,1,4,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,assists,3.5,under,-173,0.616,0.606,-2.8,-4.3,1,4,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,points,20.5,over,-122,,0.507,,-7.7,0,2,
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,points,20.5,under,-104,,0.493,,-3.4,0,2,
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,rebounds,3.5,over,116,0.42,0.424,-9.2,-8.5,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,rebounds,3.5,under,-153,0.58,0.576,-4.2,-4.7,1,6,fanduel
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,threes,2.5,over,-109,0.528,0.518,1.3,-0.6,2,8,"fanduel,pinnacle"
+NBA,Miami Heat@Sacramento Kings,21:10,Zach LaVine,threes,2.5,under,-120,0.472,0.482,-13.5,-11.7,2,8,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Zion Williamson,assists,2.5,over,-158,0.575,0.572,-6.1,-6.6,2,5,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Zion Williamson,assists,2.5,under,119,0.425,0.428,-6.9,-6.3,2,5,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Zion Williamson,points,19.5,over,-115,0.533,0.515,-0.3,-3.8,1,6,pinnacle
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Zion Williamson,points,19.5,under,-111,0.467,0.485,-11.2,-7.7,1,6,pinnacle
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Zion Williamson,rebounds,5.5,over,-146,0.561,0.56,-5.5,-5.6,2,6,"fanduel,pinnacle"
+NBA,New Orleans Pelicans@Los Angeles Clippers,21:10,Zion Williamson,rebounds,5.5,under,111,0.439,0.44,-7.4,-7.3,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Baker Mayfield,pass_yds,210.5,over,-113,,0.495,,-6.7,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Baker Mayfield,pass_yds,210.5,under,-111,,0.505,,-4.0,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Baker Mayfield,rush_yds,16.5,over,-111,,0.503,,-4.5,0,4,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Baker Mayfield,rush_yds,16.5,under,-113,,0.497,,-6.2,0,4,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Bucky Irving,reception_yds,14.5,over,-109,,0.502,,-3.8,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Bucky Irving,reception_yds,14.5,under,-115,,0.498,,-6.8,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Bucky Irving,receptions,2.5,over,-107,0.488,0.487,-5.6,-5.7,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Bucky Irving,receptions,2.5,under,-119,0.512,0.513,-5.8,-5.6,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Bucky Irving,rush_yds,64.5,over,-115,0.5,0.501,-6.5,-6.4,1,4,pinnacle
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Bucky Irving,rush_yds,64.5,under,-109,0.5,0.499,-4.1,-4.3,1,4,pinnacle
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Cade Otton,reception_yds,28.5,over,-113,0.5,0.5,-5.8,-5.8,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Cade Otton,reception_yds,28.5,under,-111,0.5,0.5,-5.0,-5.0,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Cade Otton,receptions,3.5,over,128,0.408,0.409,-7.0,-6.7,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Cade Otton,receptions,3.5,under,-163,0.592,0.591,-4.5,-4.7,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Caleb Williams,pass_yds,245.5,over,-113,,0.5,,-5.8,0,1,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Caleb Williams,pass_yds,245.5,under,-111,,0.5,,-5.0,0,1,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Caleb Williams,rush_yds,18.5,over,-115,0.5,0.503,-6.5,-5.9,1,3,fanduel
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Caleb Williams,rush_yds,18.5,under,-109,0.5,0.497,-4.1,-4.8,1,3,fanduel
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Chris Godwin,reception_yds,31.5,over,-115,0.5,0.503,-6.5,-6.0,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Chris Godwin,reception_yds,31.5,under,-109,0.5,0.497,-4.1,-4.7,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Chris Godwin,receptions,3.5,over,-121,0.512,0.508,-6.5,-7.1,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Chris Godwin,receptions,3.5,under,-106,0.488,0.492,-5.2,-4.5,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Colston Loveland,reception_yds,54.5,over,-111,,0.5,,-5.0,0,1,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Colston Loveland,reception_yds,54.5,under,-114,,0.5,,-6.1,0,1,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Colston Loveland,receptions,5.5,over,105,0.462,0.454,-5.3,-6.8,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Colston Loveland,receptions,5.5,under,-134,0.538,0.546,-6.0,-4.7,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,D'Andre Swift,reception_yds,21.5,over,-112,,0.5,,-5.3,0,3,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,D'Andre Swift,reception_yds,21.5,under,-112,,0.5,,-5.4,0,3,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,D'Andre Swift,receptions,2.5,over,-152,0.555,0.56,-8.0,-7.2,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,D'Andre Swift,receptions,2.5,under,119,0.445,0.44,-2.6,-3.5,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,D'Andre Swift,rush_yds,62.5,over,-114,0.509,0.503,-4.5,-5.5,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,D'Andre Swift,rush_yds,62.5,under,-110,0.491,0.497,-6.2,-5.2,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Emeka Egbuka,reception_yds,49.5,over,-113,,0.495,,-6.7,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Emeka Egbuka,reception_yds,49.5,under,-111,,0.505,,-4.0,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Emeka Egbuka,receptions,3.5,over,-137,0.507,0.522,-12.4,-9.8,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Emeka Egbuka,receptions,3.5,under,107,0.493,0.478,2.2,-1.0,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kalif Raymond,reception_yds,15.5,over,-117,0.499,0.499,-7.5,-7.4,2,3,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kalif Raymond,reception_yds,15.5,under,-107,0.501,0.501,-3.1,-3.1,2,3,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kalif Raymond,receptions,1.5,over,-191,0.61,0.607,-7.1,-7.5,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kalif Raymond,receptions,1.5,under,149,0.39,0.393,-2.8,-2.1,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kenny Gainwell,reception_yds,9.5,over,-109,0.5,0.502,-4.1,-3.7,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kenny Gainwell,reception_yds,9.5,under,-115,0.5,0.498,-6.5,-6.9,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kenny Gainwell,receptions,1.5,over,-161,0.59,0.586,-4.3,-5.0,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kenny Gainwell,receptions,1.5,under,126,0.41,0.414,-7.4,-6.5,2,5,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kenny Gainwell,rush_yds,22.5,over,-109,,0.49,,-6.1,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Kenny Gainwell,rush_yds,22.5,under,-115,,0.51,,-4.6,0,2,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Luther Burden III,reception_yds,65.5,over,-110,0.493,0.497,-5.8,-5.1,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Luther Burden III,reception_yds,65.5,under,-114,0.507,0.503,-4.9,-5.6,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Luther Burden III,receptions,4.5,over,-149,,0.561,,-6.3,0,3,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Luther Burden III,receptions,4.5,under,117,,0.439,,-4.7,0,3,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Rome Odunze,reception_yds,49.5,over,-114,,0.5,,-6.1,0,4,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Rome Odunze,reception_yds,49.5,under,-110,,0.5,,-4.5,0,4,
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Rome Odunze,receptions,3.5,over,127,0.411,0.417,-6.8,-5.4,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Rome Odunze,receptions,3.5,under,-162,0.589,0.583,-4.7,-5.7,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Roschon Johnson,reception_yds,3.5,over,-108,0.5,0.499,-3.7,-3.9,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Roschon Johnson,reception_yds,3.5,under,-116,0.5,0.501,-6.9,-6.8,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Roschon Johnson,receptions,0.5,over,-157,0.578,0.58,-5.3,-5.0,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Roschon Johnson,receptions,0.5,under,123,0.422,0.42,-6.0,-6.4,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Roschon Johnson,rush_yds,16.5,over,-114,0.5,0.502,-6.1,-5.7,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Roschon Johnson,rush_yds,16.5,under,-110,0.5,0.498,-4.5,-5.0,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Ted Hurst III,reception_yds,22.5,over,-110,0.498,0.499,-5.0,-4.7,1,3,pinnacle
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Ted Hurst III,reception_yds,22.5,under,-114,0.502,0.501,-5.7,-6.0,1,3,pinnacle
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Ted Hurst III,receptions,1.5,over,-125,0.501,0.496,-9.8,-10.7,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Ted Hurst III,receptions,1.5,under,-102,0.499,0.504,-1.2,-0.2,2,6,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Tez Johnson,reception_yds,15.5,over,-112,0.5,0.503,-5.4,-4.9,1,4,pinnacle
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Tez Johnson,reception_yds,15.5,under,-112,0.5,0.497,-5.4,-5.8,1,4,pinnacle
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Tez Johnson,receptions,1.5,over,114,0.453,0.441,-3.0,-5.7,2,4,"fanduel,pinnacle"
+NFL,Tampa Bay Buccaneers@Chicago Bears,20:20,Tez Johnson,receptions,1.5,under,-145,0.547,0.559,-7.6,-5.5,2,4,"fanduel,pinnacle"
