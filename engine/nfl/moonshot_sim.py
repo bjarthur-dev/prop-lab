@@ -5,14 +5,14 @@ Round k of a half = plays between enders k-1 and k (incompletion incl. spike/gro
 Round starts on the first rush/pass snapped outside the opp 20; ender before start -> void. Half ends without ender -> settles at current multiplier."""
 import sys, os, numpy as np, pandas as pd
 LAG=int(os.environ.get("LAG","0")); TDFD=os.environ.get("TDFD","1")=="1"; SC=os.environ.get("SC","1")=="1"
-cols = ["game_id","play_id","game_half","play_type","complete_pass","incomplete_pass","interception","fumble_lost","safety","fourth_down_failed",
+cols = ["half_seconds_remaining","down","ydstogo","score_differential","xpass","game_id","play_id","game_half","play_type","complete_pass","incomplete_pass","interception","fumble_lost","safety","fourth_down_failed",
         "qb_spike","qb_kneel","yards_gained","first_down","first_down_penalty","pass_touchdown","rush_touchdown","field_goal_result","return_touchdown",
         "yardline_100","rush_attempt","pass_attempt","sack","season_type","td_team","posteam"]
 frames = [pd.read_csv(f, usecols=lambda c: c in cols, low_memory=False) for f in sys.argv[1:]]
 d = pd.concat(frames); d = d[d.season_type == "REG"].sort_values(["game_id", "play_id"])
 for c in ["complete_pass","incomplete_pass","interception","fumble_lost","safety","fourth_down_failed","qb_spike","qb_kneel","first_down","first_down_penalty","pass_touchdown","rush_touchdown","return_touchdown","rush_attempt","pass_attempt","sack"]:
     d[c] = d[c].fillna(0)
-rounds = []   # (game, half, k, M, busted, started_on_ender)
+rounds = []; feats = {}   # (game, half, k, M, busted, started_on_ender)
 for (g, h), x in d.groupby(["game_id", "game_half"], sort=False):
     if h not in ("Half1", "Half2"): continue
     k, started, M, nplays, nscore = 1, False, 0.0, 0, 0
@@ -21,7 +21,8 @@ for (g, h), x in d.groupby(["game_id", "game_half"], sort=False):
         scrim = pt in ("pass", "run")
         ender = (r.incomplete_pass == 1 or r.qb_spike == 1 or r.interception == 1 or r.fumble_lost == 1 or r.fourth_down_failed == 1 or r.safety == 1) and pt != "no_play"
         if not started:
-            if scrim and r.yardline_100 > 20 and not ender: started, M, nplays, nscore = True, 0.0, 0, 0
+            if scrim and r.yardline_100 > 20 and not ender:
+                started, M, nplays, nscore = True, 0.0, 0, 0; feats[(g,h,k)] = (r.half_seconds_remaining, r.yardline_100, r.down, r.ydstogo, r.score_differential, r.xpass)
             elif ender:
                 rounds.append((g, h, k, np.nan, True, True)); k += 1; continue   # void (or loss if the ender itself starts the round)
         if not started:
@@ -47,7 +48,7 @@ for (g, h), x in d.groupby(["game_id", "game_half"], sort=False):
             rounds.append((g, h, k, M, True, False)); k += 1; started = False; M = 0.0
     if started: rounds.append((g, h, k, M, False, False))
 R = pd.DataFrame(rounds, columns=["game","half","k","M","busted","void"])
-R.to_csv("data/moonshot_rounds.csv", index=False)
+F = pd.DataFrame([(a,b,c,*v) for (a,b,c),v in feats.items()], columns=["game","half","k","secs","yl","down","togo","sd","xpass"]); R = R.merge(F, on=["game","half","k"], how="left"); R.to_csv("data/moonshot_rounds.csv", index=False)
 v = R[~R.void]
 print(f"games {R.game.nunique()}, rounds {len(R)}, void {int(R.void.sum())} ({100*R.void.mean():.1f}%), live rounds {len(v)}, survive-to-half-end {int((~v.busted).sum())}")
 print("multiplier at bust: median %.2f, mean %.2f" % (v.M.median(), v.M.mean()))

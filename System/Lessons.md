@@ -179,3 +179,5 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 - Best spots: 2H rounds (3x +12%) and early rounds ("Before 1st-3rd" incompletion, 3x +16%). Late rounds (9th+) are about 0.
 - If that first-play ender instead counts as a LOSS, every target is -18% or worse. MUST VERIFY: watch for a round whose first scrimmage play is an incompletion and check whether DK refunds it. Until verified: $1-2 stakes, 3x target, 2H early rounds, track every round.
 - Low targets (1.1-1.5x) are the trap: they hit often but lose 14-25%.
+- Moonshot entry rules (3x target, by situation when the round starts): >= 5 min left in the half +12 to +17%; 2-5 min about -1%; under 2 min -27% (two-minute drill means incompletions). Run-leaning offense (xpass < 0.6) +10 to +15%, pass-heavy +2%. Offense tied/leading +11 to +13%, trailing +4%. 2H +12%, 1H +4%.
+- Checklist: 3x auto-target; only rounds likely to start with 5+ min left in the half; skip when the trailing team is in hurry-up; cash out under ~1:30 left if the offer is close to the current multiplier.
