@@ -162,3 +162,20 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
   | < 15% | 1% |
 - Daily total <= 25% (35% on promo-heavy days). Stakes grow with the bankroll. That compounding is the route to "winning big", not bigger long shots.
 - Every card lists the exact stake per slip. The user places what's listed (no default $5).
+
+## Moonshot simulation (11-08): engine/nfl/moonshot_sim.py
+- Rules from the DK help page, replayed on every 2025-26 regular-season play (nflverse full pbp; 394 games, 7,609 live rounds).
+- Result (assuming an incompletion/turnover before the round's first qualifying play VOIDS the bet, per DK: "occurs before a round starts... voided"):
+  | target | hit | EV |
+  |---|---|---|
+  | 1.2x | 66% | -20% |
+  | 1.5x | 56% | -14% |
+  | 2x | 47% | -3% |
+  | 2.5x | 41% | +5% |
+  | **3x** | 35% | **+8%** (90% CI +5 to +11) |
+  | 4x | 26% | +8% |
+  | 5x | 19-20% | +4 to +9% |
+  | 10x+ | | -11% or worse |
+- Best spots: 2H rounds (3x +12%) and early rounds ("Before 1st-3rd" incompletion, 3x +16%). Late rounds (9th+) are about 0.
+- If that first-play ender instead counts as a LOSS, every target is -18% or worse. MUST VERIFY: watch for a round whose first scrimmage play is an incompletion and check whether DK refunds it. Until verified: $1-2 stakes, 3x target, 2H early rounds, track every round.
+- Low targets (1.1-1.5x) are the trap: they hit often but lose 14-25%.
