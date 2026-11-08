@@ -151,3 +151,14 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 ## 11-08 Moonshot (crash game)
 - The user played 3 Moonshot rounds: $5 at 1.2x (+$1, which earned the $5 bonus bet), $15 lost, and $40 cashed at 1.4x (+$16). Net +$2, but $40 was 67% of the bankroll on a game with a house edge and no way to price it. Rule: Moonshot only for a Bet & Get qualifier, at the minimum stake, once.
 - The 30% parlay was cashed out for $3.83, which forfeited the boost. Don't cash out boosted tickets unless the offer beats the ticket's fair value.
+
+## Sizing (user handed sizing to Claude, 11-08)
+- Stake = half-Kelly from the hit chance and the (boosted) payout: f = 0.5 x (p x b - (1-p)) / b, where b = decimal payout - 1. Then cap by hit chance, so likely bets get more money and long shots get less:
+  | hit chance | max % of bankroll |
+  |---|---|
+  | >= 55% | 6% |
+  | 30-55% | 4% |
+  | 15-30% | 2% |
+  | < 15% | 1% |
+- Daily total <= 25% (35% on promo-heavy days). Stakes grow with the bankroll. That compounding is the route to "winning big", not bigger long shots.
+- Every card lists the exact stake per slip. The user places what's listed (no default $5).
