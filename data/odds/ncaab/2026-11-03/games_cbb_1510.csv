@@ -1,0 +1,703 @@
+snap_et,sport,event_id,home,away,start,book,market,name,point,price
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betonlineag,spreads,Tennessee Volunteers,-25.0,-102
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betonlineag,spreads,Wofford Terriers,25.0,-118
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betonlineag,totals,Over,155.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betonlineag,totals,Under,155.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,fanduel,h2h,Tennessee Volunteers,,-20000
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,fanduel,h2h,Wofford Terriers,,3500
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,fanduel,spreads,Tennessee Volunteers,-24.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,fanduel,spreads,Wofford Terriers,24.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,fanduel,totals,Over,155.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,fanduel,totals,Under,155.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,pinnacle,spreads,Tennessee Volunteers,-25.5,-103
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,pinnacle,spreads,Wofford Terriers,25.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,pinnacle,totals,Over,155.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,pinnacle,totals,Under,155.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betmgm,spreads,Tennessee Volunteers,-25.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betmgm,spreads,Wofford Terriers,25.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betmgm,totals,Over,155.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betmgm,totals,Under,155.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,espnbet,h2h,Tennessee Volunteers,,-50000
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,espnbet,h2h,Wofford Terriers,,3500
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,espnbet,spreads,Tennessee Volunteers,-25.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,espnbet,spreads,Wofford Terriers,25.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,espnbet,totals,Over,155.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,espnbet,totals,Under,155.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,draftkings,h2h,Tennessee Volunteers,,-9000
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,draftkings,h2h,Wofford Terriers,,2500
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,draftkings,spreads,Tennessee Volunteers,-25.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,draftkings,spreads,Wofford Terriers,25.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,draftkings,totals,Over,155.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,draftkings,totals,Under,155.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betrivers,spreads,Tennessee Volunteers,-25.5,-114
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betrivers,spreads,Wofford Terriers,25.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betrivers,totals,Over,156.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,5c606b3ad7d8fe599a32ce4141dc0033,Tennessee Volunteers,Wofford Terriers,2026-11-03T23:00:00Z,betrivers,totals,Under,156.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,fanduel,h2h,Boston College Eagles,,-4500
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,fanduel,h2h,Wagner Seahawks,,1600
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,fanduel,spreads,Boston College Eagles,-19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,fanduel,spreads,Wagner Seahawks,19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,fanduel,totals,Over,143.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,fanduel,totals,Under,143.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,draftkings,h2h,Boston College Eagles,,-4000
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,draftkings,h2h,Wagner Seahawks,,1600
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,draftkings,spreads,Boston College Eagles,-19.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,draftkings,spreads,Wagner Seahawks,19.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,draftkings,totals,Over,142.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,draftkings,totals,Under,142.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betmgm,h2h,Boston College Eagles,,-3000
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betmgm,h2h,Wagner Seahawks,,1300
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betmgm,spreads,Boston College Eagles,-19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betmgm,spreads,Wagner Seahawks,19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betmgm,totals,Over,143.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betmgm,totals,Under,143.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,espnbet,h2h,Boston College Eagles,,-6000
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,espnbet,h2h,Wagner Seahawks,,1800
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,espnbet,spreads,Boston College Eagles,-19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,espnbet,spreads,Wagner Seahawks,19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,espnbet,totals,Over,142.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,espnbet,totals,Under,142.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betrivers,spreads,Boston College Eagles,-19.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betrivers,spreads,Wagner Seahawks,19.5,-106
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betrivers,totals,Over,143.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betrivers,totals,Under,143.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betonlineag,spreads,Boston College Eagles,-19.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betonlineag,spreads,Wagner Seahawks,19.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betonlineag,totals,Over,143.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,betonlineag,totals,Under,143.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,pinnacle,spreads,Boston College Eagles,-19.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,pinnacle,spreads,Wagner Seahawks,19.5,-111
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,pinnacle,totals,Over,142.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,2cccdbb5426caa7a69f652bb577b367c,Boston College Eagles,Wagner Seahawks,2026-11-04T00:00:00Z,pinnacle,totals,Under,142.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,fanduel,spreads,Coppin St Eagles,30.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,fanduel,spreads,Virginia Tech Hokies,-30.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,fanduel,totals,Over,151.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,fanduel,totals,Under,151.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,draftkings,spreads,Coppin St Eagles,31.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,draftkings,spreads,Virginia Tech Hokies,-31.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,draftkings,totals,Over,150.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,draftkings,totals,Under,150.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betmgm,spreads,Coppin St Eagles,30.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betmgm,spreads,Virginia Tech Hokies,-30.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betmgm,totals,Over,150.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betmgm,totals,Under,150.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,espnbet,spreads,Coppin St Eagles,31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,espnbet,spreads,Virginia Tech Hokies,-31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,espnbet,totals,Over,150.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,espnbet,totals,Under,150.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betrivers,spreads,Coppin St Eagles,31.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betrivers,spreads,Virginia Tech Hokies,-31.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betrivers,totals,Over,150.5,-114
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betrivers,totals,Under,150.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betonlineag,spreads,Coppin St Eagles,31.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betonlineag,spreads,Virginia Tech Hokies,-31.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betonlineag,totals,Over,150.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,betonlineag,totals,Under,150.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,pinnacle,spreads,Coppin St Eagles,31.5,-119
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,pinnacle,spreads,Virginia Tech Hokies,-31.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,pinnacle,totals,Over,150.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,8541be3aee4cd7967aab5691fad082f7,Virginia Tech Hokies,Coppin St Eagles,2026-11-04T00:00:00Z,pinnacle,totals,Under,150.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betonlineag,h2h,Duquesne Dukes,,-500
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betonlineag,h2h,Fort Wayne Mastodons,,383
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betonlineag,spreads,Duquesne Dukes,-10.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betonlineag,spreads,Fort Wayne Mastodons,10.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betonlineag,totals,Over,153.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betonlineag,totals,Under,153.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,fanduel,h2h,Duquesne Dukes,,-530
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,fanduel,h2h,Fort Wayne Mastodons,,390
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,fanduel,spreads,Duquesne Dukes,-9.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,fanduel,spreads,Fort Wayne Mastodons,9.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,fanduel,totals,Over,153.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,fanduel,totals,Under,153.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,espnbet,h2h,Duquesne Dukes,,-600
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,espnbet,h2h,Fort Wayne Mastodons,,400
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,espnbet,spreads,Duquesne Dukes,-10.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,espnbet,spreads,Fort Wayne Mastodons,10.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,espnbet,totals,Over,153.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,espnbet,totals,Under,153.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betmgm,h2h,Duquesne Dukes,,-550
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betmgm,h2h,Fort Wayne Mastodons,,400
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betmgm,spreads,Duquesne Dukes,-9.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betmgm,spreads,Fort Wayne Mastodons,9.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betmgm,totals,Over,153.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betmgm,totals,Under,153.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,draftkings,h2h,Duquesne Dukes,,-535
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,draftkings,h2h,Fort Wayne Mastodons,,400
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,draftkings,spreads,Duquesne Dukes,-9.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,draftkings,spreads,Fort Wayne Mastodons,9.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,draftkings,totals,Over,153.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,draftkings,totals,Under,153.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,pinnacle,h2h,Duquesne Dukes,,-546
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,pinnacle,h2h,Fort Wayne Mastodons,,417
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,pinnacle,spreads,Duquesne Dukes,-10.5,101
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,pinnacle,spreads,Fort Wayne Mastodons,10.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,pinnacle,totals,Over,152.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,pinnacle,totals,Under,152.5,-101
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betrivers,h2h,Duquesne Dukes,,-530
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betrivers,h2h,Fort Wayne Mastodons,,370
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betrivers,spreads,Duquesne Dukes,-9.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betrivers,spreads,Fort Wayne Mastodons,9.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betrivers,totals,Over,154.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,f29847b36e1421985a46605e7bfec15d,Duquesne Dukes,Fort Wayne Mastodons,2026-11-04T00:00:00Z,betrivers,totals,Under,154.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betonlineag,h2h,Georgia Tech Yellow Jackets,,-1350
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betonlineag,h2h,Hampton Pirates,,817
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betonlineag,spreads,Georgia Tech Yellow Jackets,-14.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betonlineag,spreads,Hampton Pirates,14.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betonlineag,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betonlineag,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,fanduel,h2h,Georgia Tech Yellow Jackets,,-1700
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,fanduel,h2h,Hampton Pirates,,890
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,fanduel,spreads,Georgia Tech Yellow Jackets,-14.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,fanduel,spreads,Hampton Pirates,14.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,fanduel,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,fanduel,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,pinnacle,h2h,Georgia Tech Yellow Jackets,,-1291
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,pinnacle,h2h,Hampton Pirates,,806
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,pinnacle,spreads,Georgia Tech Yellow Jackets,-14.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,pinnacle,spreads,Hampton Pirates,14.0,-106
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,pinnacle,totals,Over,149.0,-109
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,pinnacle,totals,Under,149.0,-111
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betmgm,h2h,Georgia Tech Yellow Jackets,,-1400
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betmgm,h2h,Hampton Pirates,,775
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betmgm,spreads,Georgia Tech Yellow Jackets,-14.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betmgm,spreads,Hampton Pirates,14.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betmgm,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betmgm,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,espnbet,h2h,Georgia Tech Yellow Jackets,,-1600
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,espnbet,h2h,Hampton Pirates,,800
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,espnbet,spreads,Georgia Tech Yellow Jackets,-14.5,100
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,espnbet,spreads,Hampton Pirates,14.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,espnbet,totals,Over,149.5,100
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,espnbet,totals,Under,149.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,draftkings,h2h,Georgia Tech Yellow Jackets,,-1350
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,draftkings,h2h,Hampton Pirates,,800
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,draftkings,spreads,Georgia Tech Yellow Jackets,-14.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,draftkings,spreads,Hampton Pirates,14.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,draftkings,totals,Over,149.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,draftkings,totals,Under,149.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betrivers,h2h,Georgia Tech Yellow Jackets,,-1430
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betrivers,h2h,Hampton Pirates,,700
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betrivers,spreads,Georgia Tech Yellow Jackets,-14.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betrivers,spreads,Hampton Pirates,14.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betrivers,totals,Over,150.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,a621e112c59b5b8369f80c2fb55e615d,Georgia Tech Yellow Jackets,Hampton Pirates,2026-11-04T00:00:00Z,betrivers,totals,Under,150.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,fanduel,h2h,Holy Cross Crusaders,,1600
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,fanduel,h2h,Rhode Island Rams,,-4500
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,fanduel,spreads,Holy Cross Crusaders,19.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,fanduel,spreads,Rhode Island Rams,-19.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,fanduel,totals,Over,147.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,fanduel,totals,Under,147.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,draftkings,h2h,Holy Cross Crusaders,,1700
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,draftkings,h2h,Rhode Island Rams,,-4500
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,draftkings,spreads,Holy Cross Crusaders,20.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,draftkings,spreads,Rhode Island Rams,-20.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,draftkings,totals,Over,147.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,draftkings,totals,Under,147.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betmgm,h2h,Holy Cross Crusaders,,1400
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betmgm,h2h,Rhode Island Rams,,-5000
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betmgm,spreads,Holy Cross Crusaders,20.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betmgm,spreads,Rhode Island Rams,-20.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betmgm,totals,Over,147.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betmgm,totals,Under,147.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betrivers,spreads,Holy Cross Crusaders,20.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betrivers,spreads,Rhode Island Rams,-20.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betrivers,totals,Over,147.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betrivers,totals,Under,147.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,espnbet,h2h,Holy Cross Crusaders,,1800
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,espnbet,h2h,Rhode Island Rams,,-6000
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,espnbet,spreads,Holy Cross Crusaders,20.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,espnbet,spreads,Rhode Island Rams,-20.5,100
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,espnbet,totals,Over,147.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,espnbet,totals,Under,147.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betonlineag,spreads,Holy Cross Crusaders,20.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betonlineag,spreads,Rhode Island Rams,-20.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betonlineag,totals,Over,147.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,betonlineag,totals,Under,147.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,pinnacle,spreads,Holy Cross Crusaders,20.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,pinnacle,spreads,Rhode Island Rams,-20.5,-103
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,pinnacle,totals,Over,146.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,d2c45b0c90f12321cb072d68bd3d4a1c,Rhode Island Rams,Holy Cross Crusaders,2026-11-04T00:00:00Z,pinnacle,totals,Under,146.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betonlineag,spreads,Kentucky Wildcats,-33.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betonlineag,spreads,Manhattan Jaspers,33.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betonlineag,totals,Over,158.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betonlineag,totals,Under,158.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,fanduel,spreads,Kentucky Wildcats,-32.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,fanduel,spreads,Manhattan Jaspers,32.5,-104
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,fanduel,totals,Over,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,fanduel,totals,Under,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,pinnacle,spreads,Kentucky Wildcats,-33.0,-114
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,pinnacle,spreads,Manhattan Jaspers,33.0,-107
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,pinnacle,totals,Over,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,pinnacle,totals,Under,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,espnbet,spreads,Kentucky Wildcats,-33.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,espnbet,spreads,Manhattan Jaspers,33.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,espnbet,totals,Over,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,espnbet,totals,Under,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betmgm,spreads,Kentucky Wildcats,-33.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betmgm,spreads,Manhattan Jaspers,33.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betmgm,totals,Over,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betmgm,totals,Under,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,draftkings,spreads,Kentucky Wildcats,-33.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,draftkings,spreads,Manhattan Jaspers,33.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,draftkings,totals,Over,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,draftkings,totals,Under,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betrivers,spreads,Kentucky Wildcats,-33.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betrivers,spreads,Manhattan Jaspers,33.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betrivers,totals,Over,158.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,ca4aa34ceb6699753f69ffd1d68d944b,Kentucky Wildcats,Manhattan Jaspers,2026-11-04T00:00:00Z,betrivers,totals,Under,158.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,fanduel,h2h,South Carolina Gamecocks,,-4000
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,fanduel,h2h,Stetson Hatters,,1400
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,fanduel,spreads,South Carolina Gamecocks,-19.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,fanduel,spreads,Stetson Hatters,19.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,fanduel,totals,Over,148.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,fanduel,totals,Under,148.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,draftkings,h2h,South Carolina Gamecocks,,-3600
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,draftkings,h2h,Stetson Hatters,,1500
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,draftkings,spreads,South Carolina Gamecocks,-19.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,draftkings,spreads,Stetson Hatters,19.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,draftkings,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,draftkings,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betmgm,h2h,South Carolina Gamecocks,,-3000
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betmgm,h2h,Stetson Hatters,,1250
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betmgm,spreads,South Carolina Gamecocks,-19.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betmgm,spreads,Stetson Hatters,19.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betmgm,totals,Over,149.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betmgm,totals,Under,149.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betrivers,h2h,South Carolina Gamecocks,,-10000
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betrivers,h2h,Stetson Hatters,,1300
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betrivers,spreads,South Carolina Gamecocks,-19.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betrivers,spreads,Stetson Hatters,19.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betrivers,totals,Over,149.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betrivers,totals,Under,149.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,espnbet,h2h,South Carolina Gamecocks,,-5000
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,espnbet,h2h,Stetson Hatters,,1500
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,espnbet,spreads,South Carolina Gamecocks,-19.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,espnbet,spreads,Stetson Hatters,19.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,espnbet,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,espnbet,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betonlineag,spreads,South Carolina Gamecocks,-19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betonlineag,spreads,Stetson Hatters,19.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betonlineag,totals,Over,149.0,-108
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,betonlineag,totals,Under,149.0,-112
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,pinnacle,spreads,South Carolina Gamecocks,-19.0,-109
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,pinnacle,spreads,Stetson Hatters,19.0,-111
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,pinnacle,totals,Over,149.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,5327528ec3e4f115e5283df73f2a1ded,South Carolina Gamecocks,Stetson Hatters,2026-11-04T00:00:00Z,pinnacle,totals,Under,149.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betonlineag,spreads,Alabama Crimson Tide,-27.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betonlineag,spreads,Sam Houston St Bearkats,27.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betonlineag,totals,Over,172.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betonlineag,totals,Under,172.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,fanduel,spreads,Alabama Crimson Tide,-26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,fanduel,spreads,Sam Houston St Bearkats,26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,fanduel,totals,Over,171.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,fanduel,totals,Under,171.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,espnbet,h2h,Alabama Crimson Tide,,-20000
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,espnbet,h2h,Sam Houston St Bearkats,,3000
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,espnbet,spreads,Alabama Crimson Tide,-26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,espnbet,spreads,Sam Houston St Bearkats,26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,espnbet,totals,Over,172.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,espnbet,totals,Under,172.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betmgm,spreads,Alabama Crimson Tide,-26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betmgm,spreads,Sam Houston St Bearkats,26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betmgm,totals,Over,171.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betmgm,totals,Under,171.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,draftkings,h2h,Alabama Crimson Tide,,-8000
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,draftkings,h2h,Sam Houston St Bearkats,,2200
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,draftkings,spreads,Alabama Crimson Tide,-26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,draftkings,spreads,Sam Houston St Bearkats,26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,draftkings,totals,Over,172.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,draftkings,totals,Under,172.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,pinnacle,spreads,Alabama Crimson Tide,-26.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,pinnacle,spreads,Sam Houston St Bearkats,26.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,pinnacle,totals,Over,171.5,-111
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,pinnacle,totals,Under,171.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betrivers,spreads,Alabama Crimson Tide,-27.5,-106
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betrivers,spreads,Sam Houston St Bearkats,27.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betrivers,totals,Over,172.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,89383b9fbe1119324bcf6c064e07dcd9,Alabama Crimson Tide,Sam Houston St Bearkats,2026-11-04T00:30:00Z,betrivers,totals,Under,172.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betonlineag,spreads,Drexel Dragons,31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betonlineag,spreads,Virginia Cavaliers,-31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betonlineag,totals,Over,142.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betonlineag,totals,Under,142.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,fanduel,spreads,Drexel Dragons,30.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,fanduel,spreads,Virginia Cavaliers,-30.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,fanduel,totals,Over,142.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,fanduel,totals,Under,142.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,pinnacle,spreads,Drexel Dragons,31.0,-107
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,pinnacle,spreads,Virginia Cavaliers,-31.0,-113
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,pinnacle,totals,Over,142.5,-104
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,pinnacle,totals,Under,142.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betmgm,spreads,Drexel Dragons,31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betmgm,spreads,Virginia Cavaliers,-31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betmgm,totals,Over,141.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betmgm,totals,Under,141.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,espnbet,spreads,Drexel Dragons,31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,espnbet,spreads,Virginia Cavaliers,-31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,espnbet,totals,Over,141.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,espnbet,totals,Under,141.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,draftkings,spreads,Drexel Dragons,31.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,draftkings,spreads,Virginia Cavaliers,-31.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,draftkings,totals,Over,141.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,draftkings,totals,Under,141.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betrivers,spreads,Drexel Dragons,31.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betrivers,spreads,Virginia Cavaliers,-31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betrivers,totals,Over,142.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,0156259278d95832bc9e08be0fdfa7eb,Virginia Cavaliers,Drexel Dragons,2026-11-04T00:30:00Z,betrivers,totals,Under,142.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,fanduel,spreads,Alabama St Hornets,32.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,fanduel,spreads,Texas A&M Aggies,-32.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,fanduel,totals,Over,160.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,fanduel,totals,Under,160.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,draftkings,spreads,Alabama St Hornets,32.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,draftkings,spreads,Texas A&M Aggies,-32.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,draftkings,totals,Over,160.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,draftkings,totals,Under,160.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betmgm,spreads,Alabama St Hornets,32.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betmgm,spreads,Texas A&M Aggies,-32.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betmgm,totals,Over,160.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betmgm,totals,Under,160.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,espnbet,h2h,Alabama St Hornets,,4000
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,espnbet,h2h,Texas A&M Aggies,,-100000
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,espnbet,spreads,Alabama St Hornets,32.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,espnbet,spreads,Texas A&M Aggies,-32.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,espnbet,totals,Over,160.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,espnbet,totals,Under,160.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betrivers,spreads,Alabama St Hornets,32.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betrivers,spreads,Texas A&M Aggies,-32.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betrivers,totals,Over,161.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betrivers,totals,Under,161.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betonlineag,spreads,Alabama St Hornets,32.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betonlineag,spreads,Texas A&M Aggies,-32.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betonlineag,totals,Over,160.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,betonlineag,totals,Under,160.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,pinnacle,spreads,Alabama St Hornets,31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,pinnacle,spreads,Texas A&M Aggies,-31.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,pinnacle,totals,Over,160.0,-120
+2026-11-03T15:10:14-05:00,NCAAB,1d4e6a5f411f8461ebce226cb73c0033,Texas A&M Aggies,Alabama St Hornets,2026-11-04T01:00:00Z,pinnacle,totals,Under,160.0,-111
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,draftkings,spreads,Arkansas-Pine Bluff Golden Lions,41.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,draftkings,spreads,Arkansas Razorbacks,-41.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,draftkings,totals,Over,167.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,draftkings,totals,Under,167.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,fanduel,spreads,Arkansas-Pine Bluff Golden Lions,41.5,-104
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,fanduel,spreads,Arkansas Razorbacks,-41.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,fanduel,totals,Over,166.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,fanduel,totals,Under,166.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betmgm,spreads,Arkansas-Pine Bluff Golden Lions,41.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betmgm,spreads,Arkansas Razorbacks,-41.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betmgm,totals,Over,166.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betmgm,totals,Under,166.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,espnbet,spreads,Arkansas-Pine Bluff Golden Lions,41.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,espnbet,spreads,Arkansas Razorbacks,-41.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,espnbet,totals,Over,167.5,100
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,espnbet,totals,Under,167.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betrivers,spreads,Arkansas-Pine Bluff Golden Lions,41.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betrivers,spreads,Arkansas Razorbacks,-41.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betrivers,totals,Over,167.5,-114
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betrivers,totals,Under,167.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betonlineag,spreads,Arkansas-Pine Bluff Golden Lions,41.0,-104
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betonlineag,spreads,Arkansas Razorbacks,-41.0,-116
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betonlineag,totals,Over,166.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,betonlineag,totals,Under,166.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,pinnacle,spreads,Arkansas-Pine Bluff Golden Lions,42.0,-120
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,pinnacle,spreads,Arkansas Razorbacks,-42.0,-101
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,pinnacle,totals,Over,166.5,-111
+2026-11-03T15:10:14-05:00,NCAAB,7982bbd8a5916e3024bbf94ec345241b,Arkansas Razorbacks,Arkansas-Pine Bluff Golden Lions,2026-11-04T01:00:00Z,pinnacle,totals,Under,166.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betonlineag,spreads,Cleveland St Vikings,26.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betonlineag,spreads,Missouri Tigers,-26.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betonlineag,totals,Over,160.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betonlineag,totals,Under,160.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,fanduel,h2h,Cleveland St Vikings,,4000
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,fanduel,h2h,Missouri Tigers,,-30000
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,fanduel,spreads,Cleveland St Vikings,26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,fanduel,spreads,Missouri Tigers,-26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,fanduel,totals,Over,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,fanduel,totals,Under,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,pinnacle,spreads,Cleveland St Vikings,26.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,pinnacle,spreads,Missouri Tigers,-26.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,pinnacle,totals,Over,160.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,pinnacle,totals,Under,160.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betmgm,spreads,Cleveland St Vikings,26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betmgm,spreads,Missouri Tigers,-26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betmgm,totals,Over,160.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betmgm,totals,Under,160.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,draftkings,h2h,Cleveland St Vikings,,2200
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,draftkings,h2h,Missouri Tigers,,-8000
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,draftkings,spreads,Cleveland St Vikings,26.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,draftkings,spreads,Missouri Tigers,-26.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,draftkings,totals,Over,159.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,draftkings,totals,Under,159.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,espnbet,h2h,Cleveland St Vikings,,3000
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,espnbet,h2h,Missouri Tigers,,-20000
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,espnbet,spreads,Cleveland St Vikings,26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,espnbet,spreads,Missouri Tigers,-26.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,espnbet,totals,Over,159.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,espnbet,totals,Under,159.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betrivers,spreads,Cleveland St Vikings,26.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betrivers,spreads,Missouri Tigers,-26.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betrivers,totals,Over,159.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,38fbd99711e89870426e063d56d3d92c,Missouri Tigers,Cleveland St Vikings,2026-11-04T01:00:00Z,betrivers,totals,Under,159.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,fanduel,h2h,Iowa Hawkeyes,,-10000
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,fanduel,h2h,Lipscomb Bisons,,2500
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,fanduel,spreads,Iowa Hawkeyes,-22.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,fanduel,spreads,Lipscomb Bisons,22.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,fanduel,totals,Over,148.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,fanduel,totals,Under,148.5,-104
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,draftkings,h2h,Iowa Hawkeyes,,-8000
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,draftkings,h2h,Lipscomb Bisons,,2200
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,draftkings,spreads,Iowa Hawkeyes,-23.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,draftkings,spreads,Lipscomb Bisons,23.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,draftkings,totals,Over,149.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,draftkings,totals,Under,149.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betmgm,spreads,Iowa Hawkeyes,-23.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betmgm,spreads,Lipscomb Bisons,23.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betmgm,totals,Over,149.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betmgm,totals,Under,149.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,espnbet,h2h,Iowa Hawkeyes,,-7500
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,espnbet,h2h,Lipscomb Bisons,,2000
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,espnbet,spreads,Iowa Hawkeyes,-23.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,espnbet,spreads,Lipscomb Bisons,23.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,espnbet,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,espnbet,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betrivers,spreads,Iowa Hawkeyes,-23.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betrivers,spreads,Lipscomb Bisons,23.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betrivers,totals,Over,148.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betrivers,totals,Under,148.5,-114
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betonlineag,spreads,Iowa Hawkeyes,-23.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betonlineag,spreads,Lipscomb Bisons,23.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betonlineag,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,betonlineag,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,pinnacle,spreads,Iowa Hawkeyes,-22.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,pinnacle,spreads,Lipscomb Bisons,22.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,pinnacle,totals,Over,146.0,-121
+2026-11-03T15:10:14-05:00,NCAAB,7057bcf2a149f4767dba9068bbff1845,Iowa Hawkeyes,Lipscomb Bisons,2026-11-04T01:00:00Z,pinnacle,totals,Under,146.0,-109
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betonlineag,h2h,Kansas St Wildcats,,-675
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betonlineag,h2h,South Dakota St Jackrabbits,,491
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betonlineag,spreads,Kansas St Wildcats,-11.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betonlineag,spreads,South Dakota St Jackrabbits,11.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betonlineag,totals,Over,159.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betonlineag,totals,Under,159.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,fanduel,h2h,Kansas St Wildcats,,-690
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,fanduel,h2h,South Dakota St Jackrabbits,,480
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,fanduel,spreads,Kansas St Wildcats,-10.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,fanduel,spreads,South Dakota St Jackrabbits,10.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,fanduel,totals,Over,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,fanduel,totals,Under,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,pinnacle,h2h,Kansas St Wildcats,,-723
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,pinnacle,h2h,South Dakota St Jackrabbits,,525
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,pinnacle,spreads,Kansas St Wildcats,-11.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,pinnacle,spreads,South Dakota St Jackrabbits,11.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,pinnacle,totals,Over,159.0,-113
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,pinnacle,totals,Under,159.0,-107
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betmgm,h2h,Kansas St Wildcats,,-700
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betmgm,h2h,South Dakota St Jackrabbits,,500
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betmgm,spreads,Kansas St Wildcats,-11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betmgm,spreads,South Dakota St Jackrabbits,11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betmgm,totals,Over,159.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betmgm,totals,Under,159.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,draftkings,h2h,Kansas St Wildcats,,-700
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,draftkings,h2h,South Dakota St Jackrabbits,,500
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,draftkings,spreads,Kansas St Wildcats,-11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,draftkings,spreads,South Dakota St Jackrabbits,11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,draftkings,totals,Over,159.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,draftkings,totals,Under,159.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,espnbet,h2h,Kansas St Wildcats,,-800
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,espnbet,h2h,South Dakota St Jackrabbits,,500
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,espnbet,spreads,Kansas St Wildcats,-11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,espnbet,spreads,South Dakota St Jackrabbits,11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,espnbet,totals,Over,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,espnbet,totals,Under,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betrivers,h2h,Kansas St Wildcats,,-715
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betrivers,h2h,South Dakota St Jackrabbits,,475
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betrivers,spreads,Kansas St Wildcats,-11.5,-114
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betrivers,spreads,South Dakota St Jackrabbits,11.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betrivers,totals,Over,160.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,778706c14330540532d69d2cb275bfd1,Kansas St Wildcats,South Dakota St Jackrabbits,2026-11-04T01:00:00Z,betrivers,totals,Under,160.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,fanduel,h2h,LSU Tigers,,-30000
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,fanduel,h2h,New Orleans Privateers,,4000
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,fanduel,spreads,LSU Tigers,-26.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,fanduel,spreads,New Orleans Privateers,26.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,fanduel,totals,Over,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,fanduel,totals,Under,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,draftkings,h2h,LSU Tigers,,-10000
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,draftkings,h2h,New Orleans Privateers,,3000
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,draftkings,spreads,LSU Tigers,-27.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,draftkings,spreads,New Orleans Privateers,27.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,draftkings,totals,Over,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,draftkings,totals,Under,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,espnbet,h2h,LSU Tigers,,-50000
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,espnbet,h2h,New Orleans Privateers,,3500
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,espnbet,spreads,LSU Tigers,-28.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,espnbet,spreads,New Orleans Privateers,28.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,espnbet,totals,Over,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,espnbet,totals,Under,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,betrivers,spreads,LSU Tigers,-27.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,betrivers,spreads,New Orleans Privateers,27.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,betrivers,totals,Over,160.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,betrivers,totals,Under,160.5,-114
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,pinnacle,spreads,LSU Tigers,-27.5,-106
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,pinnacle,spreads,New Orleans Privateers,27.5,-114
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,pinnacle,totals,Over,160.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,c9e3a3374b6b6d6302fa3be192fcdb76,LSU Tigers,New Orleans Privateers,2026-11-04T01:00:00Z,pinnacle,totals,Under,160.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betonlineag,h2h,CSU Fullerton Titans,,979
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betonlineag,h2h,San Diego St Aztecs,,-1800
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betonlineag,spreads,CSU Fullerton Titans,15.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betonlineag,spreads,San Diego St Aztecs,-15.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betonlineag,totals,Over,154.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betonlineag,totals,Under,154.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,fanduel,h2h,CSU Fullerton Titans,,920
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,fanduel,h2h,San Diego St Aztecs,,-1800
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,fanduel,spreads,CSU Fullerton Titans,14.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,fanduel,spreads,San Diego St Aztecs,-14.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,fanduel,totals,Over,154.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,fanduel,totals,Under,154.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betmgm,h2h,CSU Fullerton Titans,,800
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betmgm,h2h,San Diego St Aztecs,,-1400
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betmgm,spreads,CSU Fullerton Titans,15.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betmgm,spreads,San Diego St Aztecs,-15.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betmgm,totals,Over,154.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betmgm,totals,Under,154.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,draftkings,h2h,CSU Fullerton Titans,,950
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,draftkings,h2h,San Diego St Aztecs,,-1650
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,draftkings,spreads,CSU Fullerton Titans,14.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,draftkings,spreads,San Diego St Aztecs,-14.5,-118
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,draftkings,totals,Over,154.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,draftkings,totals,Under,154.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,espnbet,h2h,CSU Fullerton Titans,,1100
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,espnbet,h2h,San Diego St Aztecs,,-2500
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,espnbet,spreads,CSU Fullerton Titans,15.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,espnbet,spreads,San Diego St Aztecs,-15.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,espnbet,totals,Over,154.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,espnbet,totals,Under,154.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,pinnacle,h2h,CSU Fullerton Titans,,931
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,pinnacle,h2h,San Diego St Aztecs,,-1608
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,pinnacle,spreads,CSU Fullerton Titans,15.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,pinnacle,spreads,San Diego St Aztecs,-15.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,pinnacle,totals,Over,154.0,-113
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,pinnacle,totals,Under,154.0,-107
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betrivers,h2h,CSU Fullerton Titans,,800
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betrivers,h2h,San Diego St Aztecs,,-1667
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betrivers,spreads,CSU Fullerton Titans,15.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betrivers,spreads,San Diego St Aztecs,-15.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betrivers,totals,Over,155.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,e031a72df23e6b0e1a17d9398e7189fe,San Diego St Aztecs,CSU Fullerton Titans,2026-11-04T03:00:00Z,betrivers,totals,Under,155.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,fanduel,h2h,Cal Baptist Lancers,,-780
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,fanduel,h2h,North Florida Ospreys,,530
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,fanduel,spreads,Cal Baptist Lancers,-11.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,fanduel,spreads,North Florida Ospreys,11.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,fanduel,totals,Over,157.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,fanduel,totals,Under,157.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,draftkings,h2h,Cal Baptist Lancers,,-700
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,draftkings,h2h,North Florida Ospreys,,500
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,draftkings,spreads,Cal Baptist Lancers,-11.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,draftkings,spreads,North Florida Ospreys,11.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,draftkings,totals,Over,157.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,draftkings,totals,Under,157.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betmgm,h2h,Cal Baptist Lancers,,-700
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betmgm,h2h,North Florida Ospreys,,500
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betmgm,spreads,Cal Baptist Lancers,-11.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betmgm,spreads,North Florida Ospreys,11.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betmgm,totals,Over,157.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betmgm,totals,Under,157.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,espnbet,h2h,Cal Baptist Lancers,,-800
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,espnbet,h2h,North Florida Ospreys,,500
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,espnbet,spreads,Cal Baptist Lancers,-11.5,100
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,espnbet,spreads,North Florida Ospreys,11.5,-125
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,espnbet,totals,Over,157.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,espnbet,totals,Under,157.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betrivers,h2h,Cal Baptist Lancers,,-670
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betrivers,h2h,North Florida Ospreys,,450
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betrivers,spreads,Cal Baptist Lancers,-11.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betrivers,spreads,North Florida Ospreys,11.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betrivers,totals,Over,157.5,-107
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betrivers,totals,Under,157.5,-117
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betonlineag,spreads,Cal Baptist Lancers,-11.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betonlineag,spreads,North Florida Ospreys,11.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betonlineag,totals,Over,158.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,betonlineag,totals,Under,158.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,pinnacle,h2h,Cal Baptist Lancers,,-791
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,pinnacle,h2h,North Florida Ospreys,,526
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,pinnacle,spreads,Cal Baptist Lancers,-11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,pinnacle,spreads,North Florida Ospreys,11.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,pinnacle,totals,Over,158.0,-119
+2026-11-03T15:10:14-05:00,NCAAB,e98c6cb854c679627ea67744c87c80e6,Cal Baptist Lancers,North Florida Ospreys,2026-11-04T03:00:00Z,pinnacle,totals,Under,158.0,-111
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betonlineag,spreads,Northern Arizona Lumberjacks,21.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betonlineag,spreads,UNLV Rebels,-21.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betonlineag,totals,Over,154.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betonlineag,totals,Under,154.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,fanduel,h2h,Northern Arizona Lumberjacks,,2200
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,fanduel,h2h,UNLV Rebels,,-8000
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,fanduel,spreads,Northern Arizona Lumberjacks,21.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,fanduel,spreads,UNLV Rebels,-21.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,fanduel,totals,Over,153.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,fanduel,totals,Under,153.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betmgm,h2h,Northern Arizona Lumberjacks,,1450
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betmgm,h2h,UNLV Rebels,,-5000
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betmgm,spreads,Northern Arizona Lumberjacks,21.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betmgm,spreads,UNLV Rebels,-21.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betmgm,totals,Over,153.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betmgm,totals,Under,153.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,draftkings,h2h,Northern Arizona Lumberjacks,,1800
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,draftkings,h2h,UNLV Rebels,,-5000
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,draftkings,spreads,Northern Arizona Lumberjacks,20.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,draftkings,spreads,UNLV Rebels,-20.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,draftkings,totals,Over,153.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,draftkings,totals,Under,153.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,espnbet,h2h,Northern Arizona Lumberjacks,,2000
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,espnbet,h2h,UNLV Rebels,,-7500
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,espnbet,spreads,Northern Arizona Lumberjacks,21.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,espnbet,spreads,UNLV Rebels,-21.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,espnbet,totals,Over,153.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,espnbet,totals,Under,153.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,pinnacle,spreads,Northern Arizona Lumberjacks,21.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,pinnacle,spreads,UNLV Rebels,-21.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,pinnacle,totals,Over,153.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,pinnacle,totals,Under,153.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betrivers,spreads,Northern Arizona Lumberjacks,21.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betrivers,spreads,UNLV Rebels,-21.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betrivers,totals,Over,153.5,-113
+2026-11-03T15:10:14-05:00,NCAAB,80e148489a44ada538f600e7db5d27d9,UNLV Rebels,Northern Arizona Lumberjacks,2026-11-04T03:00:00Z,betrivers,totals,Under,153.5,-109
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,betonlineag,spreads,CSU Northridge Matadors,14.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,betonlineag,spreads,Wichita St Shockers,-14.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,betonlineag,totals,Over,161.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,betonlineag,totals,Under,161.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,fanduel,h2h,CSU Northridge Matadors,,800
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,fanduel,h2h,Wichita St Shockers,,-1400
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,fanduel,spreads,CSU Northridge Matadors,14.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,fanduel,spreads,Wichita St Shockers,-14.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,fanduel,totals,Over,160.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,55ce7fcc3c7a9e642c63450e4df10a75,Wichita St Shockers,CSU Northridge Matadors,2026-11-05T00:30:00Z,fanduel,totals,Under,160.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,betonlineag,spreads,Northern Kentucky Norse,-1.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,betonlineag,spreads,South Dakota Coyotes,1.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,betonlineag,totals,Over,159.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,betonlineag,totals,Under,159.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,fanduel,h2h,Northern Kentucky Norse,,-108
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,fanduel,h2h,South Dakota Coyotes,,-111
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,fanduel,spreads,Northern Kentucky Norse,-1.5,100
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,fanduel,spreads,South Dakota Coyotes,1.5,-122
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,fanduel,totals,Over,157.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,e85d3465ae2091684b88bf4a3d04337e,South Dakota Coyotes,Northern Kentucky Norse,2026-11-05T01:00:00Z,fanduel,totals,Under,157.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,betonlineag,spreads,Milwaukee Panthers,18.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,betonlineag,spreads,Santa Clara Broncos,-18.0,-110
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,betonlineag,totals,Over,159.5,-115
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,betonlineag,totals,Under,159.5,-105
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,fanduel,h2h,Milwaukee Panthers,,1200
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,fanduel,h2h,Santa Clara Broncos,,-3000
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,fanduel,spreads,Milwaukee Panthers,16.5,-102
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,fanduel,spreads,Santa Clara Broncos,-16.5,-120
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,fanduel,totals,Over,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,c1141fbe152494d369ada36710e91b55,Santa Clara Broncos,Milwaukee Panthers,2026-11-05T03:00:00Z,fanduel,totals,Under,159.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,betonlineag,spreads,North Dakota St Bison,12.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,betonlineag,spreads,Saint Mary's Gaels,-12.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,betonlineag,totals,Over,149.0,-115
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,betonlineag,totals,Under,149.0,-105
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,fanduel,h2h,North Dakota St Bison,,640
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,fanduel,h2h,Saint Mary's Gaels,,-1000
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,fanduel,spreads,North Dakota St Bison,12.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,fanduel,spreads,Saint Mary's Gaels,-12.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,fanduel,totals,Over,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,54080f4106befd3a23a86b2cbfee1a53,Saint Mary's Gaels,North Dakota St Bison,2026-11-05T03:00:00Z,fanduel,totals,Under,149.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a110856b340f750ba0e73fffce01d22c,Michigan Wolverines,UConn Huskies,2026-11-07T01:00:00Z,draftkings,h2h,Michigan Wolverines,,190
+2026-11-03T15:10:14-05:00,NCAAB,a110856b340f750ba0e73fffce01d22c,Michigan Wolverines,UConn Huskies,2026-11-07T01:00:00Z,draftkings,h2h,UConn Huskies,,-230
+2026-11-03T15:10:14-05:00,NCAAB,a110856b340f750ba0e73fffce01d22c,Michigan Wolverines,UConn Huskies,2026-11-07T01:00:00Z,draftkings,spreads,Michigan Wolverines,5.5,-112
+2026-11-03T15:10:14-05:00,NCAAB,a110856b340f750ba0e73fffce01d22c,Michigan Wolverines,UConn Huskies,2026-11-07T01:00:00Z,draftkings,spreads,UConn Huskies,-5.5,-108
+2026-11-03T15:10:14-05:00,NCAAB,a110856b340f750ba0e73fffce01d22c,Michigan Wolverines,UConn Huskies,2026-11-07T01:00:00Z,draftkings,totals,Over,146.5,-110
+2026-11-03T15:10:14-05:00,NCAAB,a110856b340f750ba0e73fffce01d22c,Michigan Wolverines,UConn Huskies,2026-11-07T01:00:00Z,draftkings,totals,Under,146.5,-110

@@ -63,6 +63,11 @@ Every slate teaches you something about *the market itself*. Log it here — thi
 - 2026-11-01: N1 RB/TE rec-yds unders went 10/25 in week 8, and N1 is back to noise (net −2.6, SE 5.1, n=63). NFL shadow model −8.3% vs market on 590.
 - 2026-11-01: A DK price left behind by big injury news (Melton +126 u2.5 ast after Curry/Green OUT) is a trap: FD flipped to −162/+126. The late price_edge re-check caught it.
 - 2026-11-01: The NFL close pull (one 15:21 snapshot) misses 13:00 games, alt rungs, receptions and SNF, so no NFL paper CLV exists. ESPN NFL box pages can be mid-game snapshots, so use StatMuse game pages.
+- 2026-11-02: The card's SGPx (Anunoby/Brunson/Vassell reb unders) went 3/3, but the placed version swapped in Giddey u7.5 ast + Brown u1.5 3PM to meet DK's 2-legs-one-game rule, and both of those legs lost. Never pad a slip with unpriced legs. The close capture skipped 15 of 16 games on low credits, so keep a priority close for games with logged bets. ESPN NBA box text has no names on the stat rows, so check the team sums.
+- 2026-11-03: No slate (Election Day). Nothing settled; SAS 11-02 box gap still open, so check NBA.com directly when the API and ESPN snapshots fall short.
+- 2026-11-04: LIVE 0–2 for −$16.81, which was 19% of the roll against the §9 2% day cap. The Pick6 died on Quickley 1 reb and the boosted parlay on Giannis 14 reb in OT. The single close at 20:51 missed three of the four tip windows, so run the close per window. covers.com matchup pages hold final boxes when ESPN, CBS and Yahoo are mid-game caches.
+- 2026-11-05: LIVE 2–3 for +$53.67, all of it from two boosted Pick6 wins (+$68.67). Ex-boosts the night was −$15, and $25 was 36% of the roll. The paper legs' CLV was −1.2% on 6, none positive. Meyers 4 rec and Bane 6 reb sank both the card slips and the live slips. ESPN `/nba/boxscore/` pages were final while `/game/` pages were mid-game caches.
+- 2026-11-06: LIVE 0–3 for −$25 (27% of the roll). OKC won by 31, yet the bench rebound unders (Williams 6, McCain 5) lost, and in the blowout SGA's most-points bet lost to Ajay Mitchell's 35. Late-update drops were right on 2 of 3. Paper and dropped CLV was −0.4% on 6. Covers and plaintextsports had the final boxes, and API-NBA skipped SAS@SAC entirely.
 
 ## Reference — the break-even table
 | Price | Break-even |

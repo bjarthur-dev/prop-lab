@@ -17,12 +17,13 @@ SPORTS_FREE = {"nba": ("basketball_nba", "player_points,player_rebounds,player_a
                "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds"),
                "mlb": ("baseball_mlb", "pitcher_strikeouts,pitcher_outs")}   # 1 World Series game = 2 credits
 SPORTS = {
-    "nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
+    "nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes,player_points_rebounds_assists"),
     "nfl": ("americanfootball_nfl", "player_receptions,player_reception_yds,player_rush_yds,player_rush_attempts,player_anytime_td"),
     "mlb": ("baseball_mlb", "pitcher_strikeouts,pitcher_outs,batter_hits,batter_total_bases"),
 }
 left = {"remaining": None, "used": None}
-EXTRAS_OK = [True]   # set False by the budget guard when credits are short; game-line extras are skipped then
+EXTRAS_OK = [True]
+LOW = [False]   # set False by the budget guard when credits are short; game-line extras are skipped then
 
 def get(path, **q):
     global KEY
@@ -44,7 +45,8 @@ def get(path, **q):
             print(f"::warning::retry {path}: {e}"); time.sleep(3 * (i + 1))
     return None
 
-GAME_SPORTS = {"ncaab": "basketball_ncaab", "nba": "basketball_nba", "nfl": "americanfootball_nfl", "ncaaf": "americanfootball_ncaaf"}
+GAME_SPORTS = {"ncaab": "basketball_ncaab", "nba": "basketball_nba", "nfl": "americanfootball_nfl", "ncaaf": "americanfootball_ncaaf",
+               "nhl": "icehockey_nhl", "ucl": "soccer_uefa_champs_league"}
 
 def bulk_lines(sp, now, today, tag):
     """one call = every game's spreads/totals/moneyline for a sport (3 credits); writes data/odds/<sp>/<date>/games_<tag>_HHMM.csv"""
@@ -62,7 +64,7 @@ def scores(now):
     """final scores for the last 3 days (2 credits per sport) -> data/scores/<sp>/<date>.csv; used to grade game lines"""
     n = {}
     for sp, key in GAME_SPORTS.items():
-        if sp == "nba": continue   # NBA results come from API-NBA box scores
+        if sp in ("nba", "nhl", "ucl"): continue   # NBA from API-NBA; NHL/UCL scores only when we start betting them
         g = get(f"sports/{key}/scores", daysFrom=3) or []
         rows = []
         for e in g:
@@ -85,6 +87,11 @@ def main():
             sp = get("sports"); ev = get("sports/basketball_nba/events") or []
             print(f"::notice::key {i}: ok={sp is not None}, NBA events listed={len(ev)}, credits remaining={left['remaining']}, used={left['used']}")
         return
+    global TIER
+    if TIER != "paid":   # auto-detect the paid plan (2026-11-06): a key with >= 5,000 credits left means the 20K plan is active
+        get("sports")
+        if int(float(left["remaining"] or 0)) >= 5000:
+            TIER = "paid"; print(f"::notice::paid plan detected ({left['remaining']} credits on key 1): full markets, no budget guard")
     now = dt.datetime.now(ET); today = now.date().isoformat(); info = {"tag": tag, "tier": TIER}
     if TIER != "paid" and os.environ.get("FORCE") != "1":   # credit budget (2026-11-01): keep the month's core feed alive until keys reset on the 1st
         total, k0 = 0, KEY
@@ -97,15 +104,19 @@ def main():
         reserve = 25 * days_left   # board + close core floor (2-3 free keys = 1,000-1,500 a month)
         print(f"::notice::credits left across {len(KEYS)} keys: {total}; {days_left} days to reset; core reserve {reserve}")
         EXTRAS_OK[0] = total >= reserve + 150
+        LOW[0] = total < 40 * days_left   # low-credit mode: board carries only the markets with proven under edges
         if tag not in ("board", "close", "pregame") and total < reserve + 60:
             print(f"::warning::budget: skipping optional tag '{tag}' to protect the core feed (FORCE=1 overrides)"); return
         if tag == "pregame" and total < reserve:
             print("::warning::budget: skipping pregame; only board + close until the reset (FORCE=1 overrides)"); return
     sports = SPORTS if TIER == "paid" else SPORTS_FREE
+    if LOW[0] and tag == "board":
+        sports = {**sports, "nba": ("basketball_nba", "player_rebounds,player_assists")}   # halves the board cost; points/threes skipped until the reset
+        print("::notice::low-credit mode: NBA board = rebounds + assists only")
     if tag == "nbaq1":   # on-demand: NBA 1st-quarter player props (DK 1Q boosts)
         sports = {"nba": ("basketball_nba", "player_points_q1,player_rebounds_q1,player_assists_q1")}
-    if tag in ("cbb", "lines"):   # on-demand game lines: cbb = college basketball; lines = every in-season sport we track
-        info["games"] = {sp: bulk_lines(sp, now, today, tag) for sp in (["ncaab"] if tag == "cbb" else ["ncaab", "nba", "nfl", "ncaaf"])}
+    if tag in ("cbb", "lines", "nhl", "ucl"):   # on-demand game lines: cbb = college basketball; nhl; ucl = Champions League; lines = every sport we track
+        info["games"] = {sp: bulk_lines(sp, now, today, tag) for sp in ({"cbb": ["ncaab"], "nhl": ["nhl"], "ucl": ["ucl"]}.get(tag) or ["ncaab", "nba", "nfl", "ncaaf"])}
         info["credits_remaining"] = left["remaining"]
         st = json.load(open("status/actions.json")) if os.path.exists("status/actions.json") else {}
         st[f"odds_{tag}"] = dict(last_ok=now.isoformat(timespec="seconds"), **info); json.dump(st, open("status/actions.json", "w"), indent=1)
@@ -115,6 +126,9 @@ def main():
         st = json.load(open("status/actions.json")) if os.path.exists("status/actions.json") else {}
         st["odds_scores"] = dict(last_ok=now.isoformat(timespec="seconds"), **info); json.dump(st, open("status/actions.json", "w"), indent=1)
         return
+    if tag == "open" and TIER == "paid":   # paid: the open slot also pulls final scores (6 credits) before the open prop snapshot
+        try: scores(now)
+        except Exception as e: print(f"::warning::scores: {e}")
     if tag == "nbaalt":   # on-demand: NBA alternate ladders (one-sided X+ rungs) for parlay building
         sports = {"nba": ("basketball_nba", "player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate")}
     if tag == "pregame":   # on-demand: main + alternate props for games starting in the next WINDOW_MIN minutes (all games, not just bet games)
@@ -125,6 +139,8 @@ def main():
         sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
                   "mlb": ("baseball_mlb", "pitcher_strikeouts,batter_hits,batter_total_bases,batter_hits_runs_rbis"),
                   "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds")}
+    if tag == "nhlprops":   # on-demand: NHL player props (Pick6 promo hunting); ~6 credits per game
+        sports = {"nhl": ("icehockey_nhl", "player_points,player_shots_on_goal,player_assists,player_goals,player_blocked_shots,player_total_saves")}
     if tag == "nflalt":   # on-demand: NFL alternate yardage/reception ladders (Sundays)
         sports = {"nfl": ("americanfootball_nfl", "player_reception_yds_alternate,player_rush_yds_alternate,player_receptions_alternate")}
     if tag == "mlbprops":   # on-demand: MLB batter/pitcher props for promo-token hunting (two-sided markets)
@@ -148,7 +164,7 @@ def main():
         except Exception: pass
         if not bet_games: return
     if tag in ("board", "pregame") and EXTRAS_OK[0]:
-        for gsp in (("ncaab", "nfl", "ncaaf") if tag == "board" else ("ncaab",)):
+        for gsp in (("ncaab", "nfl", "ncaaf", "nba") if TIER == "paid" else ("ncaab", "nfl", "ncaaf") if tag == "board" else ("ncaab",)):
             try: bulk_lines(gsp, now, today, tag)
             except Exception as e: print(f"::warning::{gsp} lines: {e}")
     for sp, (key, markets) in sports.items():

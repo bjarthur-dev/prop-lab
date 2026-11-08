@@ -1,0 +1,474 @@
+snap_et,sport,event_id,home,away,start,book,market,name,point,price
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betmgm,h2h,AS Roma,,-375
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betmgm,h2h,Manchester United,,750
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betmgm,h2h,Draw,,500
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betmgm,totals,Over,4.5,-140
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betmgm,totals,Under,4.5,-102
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,fanduel,h2h,AS Roma,,-125
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,fanduel,h2h,Manchester United,,250
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,fanduel,h2h,Draw,,340
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betrivers,h2h,AS Roma,,-375
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betrivers,h2h,Manchester United,,750
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betrivers,h2h,Draw,,500
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betrivers,totals,Over,4.5,-129
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,betrivers,totals,Under,4.5,-103
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,pinnacle,h2h,AS Roma,,-108
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,pinnacle,h2h,Manchester United,,277
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,pinnacle,h2h,Draw,,266
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,pinnacle,spreads,AS Roma,0.5,-106
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,pinnacle,spreads,Manchester United,-0.5,-106
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,pinnacle,totals,Over,3.75,-112
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,pinnacle,totals,Under,3.75,-103
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,draftkings,h2h,AS Roma,,-330
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,draftkings,h2h,Manchester United,,700
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,draftkings,h2h,Draw,,500
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,espnbet,h2h,AS Roma,,-115
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,espnbet,h2h,Manchester United,,260
+2026-11-03T15:19:46-05:00,UCL,bc0b6614c9714816038d5a0ff8963144,Manchester United,AS Roma,2026-11-03T20:00:00Z,espnbet,h2h,Draw,,290
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betmgm,h2h,Aston Villa,,1050
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betmgm,h2h,Barcelona,,-550
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betmgm,h2h,Draw,,625
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betmgm,totals,Over,4.5,-130
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betmgm,totals,Under,4.5,-110
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,fanduel,h2h,Aston Villa,,1100
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,fanduel,h2h,Barcelona,,-700
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,fanduel,h2h,Draw,,700
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betrivers,h2h,Aston Villa,,1300
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betrivers,h2h,Barcelona,,-715
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betrivers,h2h,Draw,,700
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betrivers,totals,Over,4.5,-129
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,betrivers,totals,Under,4.5,100
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,pinnacle,h2h,Aston Villa,,1514
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,pinnacle,h2h,Barcelona,,-622
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,pinnacle,h2h,Draw,,717
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,pinnacle,spreads,Aston Villa,1.25,-110
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,pinnacle,spreads,Barcelona,-1.25,-101
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,pinnacle,totals,Over,4.75,103
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,pinnacle,totals,Under,4.75,-118
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,draftkings,h2h,Aston Villa,,1400
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,draftkings,h2h,Barcelona,,-700
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,draftkings,h2h,Draw,,750
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,espnbet,h2h,Aston Villa,,1200
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,espnbet,h2h,Barcelona,,-600
+2026-11-03T15:19:46-05:00,UCL,bd680c6ad693dae859030f86e1be2769,Barcelona,Aston Villa,2026-11-03T20:00:00Z,espnbet,h2h,Draw,,700
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,fanduel,h2h,Atlético Madrid,,260
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,fanduel,h2h,Bayern Munich,,100
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,fanduel,h2h,Draw,,250
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betmgm,h2h,Atlético Madrid,,210
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betmgm,h2h,Bayern Munich,,110
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betmgm,h2h,Draw,,240
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betmgm,totals,Over,2.5,-130
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betmgm,totals,Under,2.5,-108
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betrivers,h2h,Atlético Madrid,,200
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betrivers,h2h,Bayern Munich,,118
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betrivers,h2h,Draw,,255
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betrivers,totals,Over,2.5,-148
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,betrivers,totals,Under,2.5,112
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,pinnacle,h2h,Atlético Madrid,,240
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,pinnacle,h2h,Bayern Munich,,114
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,pinnacle,h2h,Draw,,245
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,pinnacle,spreads,Atlético Madrid,0.25,102
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,pinnacle,spreads,Bayern Munich,-0.25,-113
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,pinnacle,totals,Over,2.75,-102
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,pinnacle,totals,Under,2.75,-111
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,draftkings,h2h,Atlético Madrid,,230
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,draftkings,h2h,Bayern Munich,,110
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,draftkings,h2h,Draw,,255
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,espnbet,h2h,Atlético Madrid,,230
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,espnbet,h2h,Bayern Munich,,110
+2026-11-03T15:19:46-05:00,UCL,61b42fd619617a7a2a3770c2444e8a40,Atlético Madrid,Bayern Munich,2026-11-03T20:00:00Z,espnbet,h2h,Draw,,240
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betmgm,h2h,Bodø/Glimt,,-165
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betmgm,h2h,Lille,,400
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betmgm,h2h,Draw,,290
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betmgm,totals,Over,2.5,-135
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betmgm,totals,Under,2.5,-105
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,fanduel,h2h,Bodø/Glimt,,-175
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,fanduel,h2h,Lille,,410
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,fanduel,h2h,Draw,,310
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betrivers,h2h,Bodø/Glimt,,-148
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betrivers,h2h,Lille,,350
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betrivers,h2h,Draw,,280
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betrivers,totals,Over,2.5,-134
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,betrivers,totals,Under,2.5,104
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,pinnacle,h2h,Bodø/Glimt,,-150
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,pinnacle,h2h,Lille,,401
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,pinnacle,h2h,Draw,,297
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,pinnacle,spreads,Bodø/Glimt,-0.75,-113
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,pinnacle,spreads,Lille,0.75,101
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,pinnacle,totals,Over,2.75,-104
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,pinnacle,totals,Under,2.75,-108
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,draftkings,h2h,Bodø/Glimt,,-150
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,draftkings,h2h,Lille,,400
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,draftkings,h2h,Draw,,285
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,espnbet,h2h,Bodø/Glimt,,-150
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,espnbet,h2h,Lille,,380
+2026-11-03T15:19:46-05:00,UCL,1a5a84045050d0d7baf1301909d3b465,Bodø/Glimt,Lille,2026-11-03T20:00:00Z,espnbet,h2h,Draw,,290
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betmgm,h2h,Feyenoord,,700
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betmgm,h2h,Inter Milan,,-300
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betmgm,h2h,Draw,,400
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betmgm,totals,Over,3.5,-185
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betmgm,totals,Under,3.5,130
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,fanduel,h2h,Feyenoord,,700
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,fanduel,h2h,Inter Milan,,-340
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,fanduel,h2h,Draw,,450
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betrivers,h2h,Feyenoord,,800
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betrivers,h2h,Inter Milan,,-345
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betrivers,h2h,Draw,,430
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betrivers,totals,Over,3.5,-152
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,betrivers,totals,Under,3.5,116
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,pinnacle,h2h,Feyenoord,,792
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,pinnacle,h2h,Inter Milan,,-309
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,pinnacle,h2h,Draw,,447
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,pinnacle,spreads,Feyenoord,0.5,-106
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,pinnacle,spreads,Inter Milan,-0.5,-104
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,pinnacle,totals,Over,4.0,-112
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,pinnacle,totals,Under,4.0,-101
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,draftkings,h2h,Feyenoord,,700
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,draftkings,h2h,Inter Milan,,-300
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,draftkings,h2h,Draw,,450
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,espnbet,h2h,Feyenoord,,650
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,espnbet,h2h,Inter Milan,,-300
+2026-11-03T15:19:46-05:00,UCL,f6f3cf01c2b20b7f746b5a06097a0569,Feyenoord,Inter Milan,2026-11-03T20:00:00Z,espnbet,h2h,Draw,,450
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betmgm,h2h,LASK,,-275
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betmgm,h2h,ŠK Slovan Bratislava,,575
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betmgm,h2h,Draw,,400
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betmgm,totals,Over,2.5,-175
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betmgm,totals,Under,2.5,120
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,fanduel,h2h,LASK,,-310
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,fanduel,h2h,ŠK Slovan Bratislava,,700
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,fanduel,h2h,Draw,,400
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betrivers,h2h,LASK,,-278
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betrivers,h2h,ŠK Slovan Bratislava,,700
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betrivers,h2h,Draw,,380
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betrivers,totals,Over,2.5,-175
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,betrivers,totals,Under,2.5,130
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,pinnacle,h2h,LASK,,-282
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,pinnacle,h2h,ŠK Slovan Bratislava,,741
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,pinnacle,h2h,Draw,,417
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,pinnacle,spreads,LASK,-1.5,100
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,pinnacle,spreads,ŠK Slovan Bratislava,1.5,-112
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,pinnacle,totals,Over,3.0,-120
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,pinnacle,totals,Under,3.0,105
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,draftkings,h2h,LASK,,-330
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,draftkings,h2h,ŠK Slovan Bratislava,,800
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,draftkings,h2h,Draw,,450
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,espnbet,h2h,LASK,,-300
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,espnbet,h2h,ŠK Slovan Bratislava,,700
+2026-11-03T15:19:46-05:00,UCL,adf608a0e9be02eb1d8b0a6f464a12b1,LASK,ŠK Slovan Bratislava,2026-11-03T20:00:00Z,espnbet,h2h,Draw,,425
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,fanduel,h2h,Paris Saint Germain,,-20000
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,fanduel,h2h,Villarreal,,17500
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,fanduel,h2h,Draw,,7000
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,betmgm,totals,Over,6.5,-185
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,betmgm,totals,Under,6.5,125
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,betrivers,totals,Over,7.5,133
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,betrivers,totals,Under,7.5,-175
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,pinnacle,h2h,Paris Saint Germain,,-3805
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,pinnacle,h2h,Villarreal,,6335
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,pinnacle,h2h,Draw,,2380
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,pinnacle,spreads,Paris Saint Germain,-0.5,-112
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,pinnacle,spreads,Villarreal,0.5,-101
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,pinnacle,totals,Over,6.0,-112
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,pinnacle,totals,Under,6.0,-103
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,draftkings,h2h,Paris Saint Germain,,-10000
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,draftkings,h2h,Villarreal,,4000
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,draftkings,h2h,Draw,,2000
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,espnbet,h2h,Paris Saint Germain,,-20000
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,espnbet,h2h,Villarreal,,4000
+2026-11-03T15:19:46-05:00,UCL,a341241606cb5b1b59e425d00be64883,Villarreal,Paris Saint Germain,2026-11-03T20:00:00Z,espnbet,h2h,Draw,,2200
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,fanduel,h2h,AEK Athens,,950
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,fanduel,h2h,Real Madrid,,-450
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,fanduel,h2h,Draw,,550
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betmgm,h2h,AEK Athens,,775
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betmgm,h2h,Real Madrid,,-375
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betmgm,h2h,Draw,,550
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betmgm,totals,Over,3.5,-130
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betmgm,totals,Under,3.5,-108
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betrivers,h2h,AEK Athens,,1100
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betrivers,h2h,Real Madrid,,-455
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betrivers,h2h,Draw,,575
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betrivers,totals,Over,3.5,-134
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betrivers,totals,Under,3.5,108
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,pinnacle,h2h,AEK Athens,,999
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,pinnacle,h2h,Real Madrid,,-433
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,pinnacle,h2h,Draw,,630
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,pinnacle,spreads,AEK Athens,1.75,109
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,pinnacle,spreads,Real Madrid,-1.75,-123
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,pinnacle,totals,Over,3.5,-126
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,pinnacle,totals,Under,3.5,110
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,draftkings,h2h,AEK Athens,,950
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,draftkings,h2h,Real Madrid,,-425
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,draftkings,h2h,Draw,,600
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betonlineag,h2h,AEK Athens,,965
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betonlineag,h2h,Real Madrid,,-405
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betonlineag,h2h,Draw,,620
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betonlineag,spreads,AEK Athens,1.5,122
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betonlineag,spreads,Real Madrid,-1.5,-146
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betonlineag,totals,Over,3.5,-126
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,betonlineag,totals,Under,3.5,105
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,espnbet,h2h,AEK Athens,,900
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,espnbet,h2h,Real Madrid,,-425
+2026-11-03T15:19:46-05:00,UCL,f43ef699c987e112e115f7035114854e,AEK Athens,Real Madrid,2026-11-04T17:45:00Z,espnbet,h2h,Draw,,600
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betmgm,h2h,Fenerbahce,,425
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betmgm,h2h,Liverpool,,-200
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betmgm,h2h,Draw,,360
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betmgm,totals,Over,3.5,100
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betmgm,totals,Under,3.5,-140
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,fanduel,h2h,Fenerbahce,,490
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,fanduel,h2h,Liverpool,,-210
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,fanduel,h2h,Draw,,380
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betrivers,h2h,Fenerbahce,,540
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betrivers,h2h,Liverpool,,-220
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betrivers,h2h,Draw,,380
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betrivers,totals,Over,3.5,110
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betrivers,totals,Under,3.5,-136
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,pinnacle,h2h,Fenerbahce,,476
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,pinnacle,h2h,Liverpool,,-195
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,pinnacle,h2h,Draw,,398
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,pinnacle,spreads,Fenerbahce,1.0,116
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,pinnacle,spreads,Liverpool,-1.0,-128
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,pinnacle,totals,Over,3.25,-122
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,pinnacle,totals,Under,3.25,108
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,draftkings,h2h,Fenerbahce,,450
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,draftkings,h2h,Liverpool,,-195
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,draftkings,h2h,Draw,,390
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betonlineag,h2h,Fenerbahce,,475
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betonlineag,h2h,Liverpool,,-191
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betonlineag,h2h,Draw,,387
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betonlineag,spreads,Fenerbahce,1.0,106
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betonlineag,spreads,Liverpool,-1.0,-125
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betonlineag,totals,Over,3.5,103
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,betonlineag,totals,Under,3.5,-124
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,espnbet,h2h,Fenerbahce,,450
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,espnbet,h2h,Liverpool,,-210
+2026-11-03T15:19:46-05:00,UCL,e901dbcdd6e2255fb24d84032b9d437a,Fenerbahce,Liverpool,2026-11-04T17:45:00Z,espnbet,h2h,Draw,,380
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betmgm,h2h,Arsenal,,-375
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betmgm,h2h,Slavia Praha,,900
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betmgm,h2h,Draw,,525
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betmgm,totals,Over,3.5,130
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betmgm,totals,Under,3.5,-185
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,fanduel,h2h,Arsenal,,-425
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,fanduel,h2h,Slavia Praha,,1000
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,fanduel,h2h,Draw,,550
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betrivers,h2h,Arsenal,,-400
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betrivers,h2h,Slavia Praha,,1000
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betrivers,h2h,Draw,,525
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betrivers,totals,Over,3.5,130
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betrivers,totals,Under,3.5,-162
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,pinnacle,h2h,Arsenal,,-388
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,pinnacle,h2h,Slavia Praha,,1016
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,pinnacle,h2h,Draw,,542
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,pinnacle,spreads,Arsenal,-1.75,-102
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,pinnacle,spreads,Slavia Praha,1.75,-110
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,pinnacle,totals,Over,3.0,-109
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,pinnacle,totals,Under,3.0,-105
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,draftkings,h2h,Arsenal,,-390
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,draftkings,h2h,Slavia Praha,,1000
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,draftkings,h2h,Draw,,550
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betonlineag,h2h,Arsenal,,-395
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betonlineag,h2h,Slavia Praha,,1050
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betonlineag,h2h,Draw,,565
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betonlineag,spreads,Arsenal,-1.5,-142
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betonlineag,spreads,Slavia Praha,1.5,119
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betonlineag,totals,Over,3.0,-113
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,betonlineag,totals,Under,3.0,-105
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,espnbet,h2h,Arsenal,,-400
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,espnbet,h2h,Slavia Praha,,900
+2026-11-03T15:19:46-05:00,UCL,a5910ae3b314876faea7f5c03b8aeaad,Slavia Praha,Arsenal,2026-11-04T20:00:00Z,espnbet,h2h,Draw,,550
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betmgm,h2h,Borussia Dortmund,,-135
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betmgm,h2h,Real Betis,,310
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betmgm,h2h,Draw,,310
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betmgm,totals,Over,3.5,125
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betmgm,totals,Under,3.5,-175
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,fanduel,h2h,Borussia Dortmund,,-135
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,fanduel,h2h,Real Betis,,330
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,fanduel,h2h,Draw,,310
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betrivers,h2h,Borussia Dortmund,,-137
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betrivers,h2h,Real Betis,,350
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betrivers,h2h,Draw,,300
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betrivers,totals,Over,3.5,123
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betrivers,totals,Under,3.5,-152
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,pinnacle,h2h,Borussia Dortmund,,-131
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,pinnacle,h2h,Real Betis,,334
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,pinnacle,h2h,Draw,,323
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,pinnacle,spreads,Borussia Dortmund,-0.75,-103
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,pinnacle,spreads,Real Betis,0.75,-107
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,pinnacle,totals,Over,3.25,107
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,pinnacle,totals,Under,3.25,-121
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,draftkings,h2h,Borussia Dortmund,,-135
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,draftkings,h2h,Real Betis,,320
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,draftkings,h2h,Draw,,320
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betonlineag,h2h,Borussia Dortmund,,-134
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betonlineag,h2h,Real Betis,,343
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betonlineag,h2h,Draw,,324
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betonlineag,spreads,Borussia Dortmund,-0.5,-134
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betonlineag,spreads,Real Betis,0.5,113
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betonlineag,totals,Over,3.0,-125
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,betonlineag,totals,Under,3.0,104
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,espnbet,h2h,Borussia Dortmund,,-140
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,espnbet,h2h,Real Betis,,320
+2026-11-03T15:19:46-05:00,UCL,6d386ed81fabf67aa19fbd442c0d8c60,Borussia Dortmund,Real Betis,2026-11-04T20:00:00Z,espnbet,h2h,Draw,,300
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,fanduel,h2h,Club Brugge,,200
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,fanduel,h2h,PSV Eindhoven,,105
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,fanduel,h2h,Draw,,330
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betmgm,h2h,Club Brugge,,200
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betmgm,h2h,PSV Eindhoven,,105
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betmgm,h2h,Draw,,310
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betmgm,totals,Over,3.5,-118
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betmgm,totals,Under,3.5,-118
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betrivers,h2h,Club Brugge,,205
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betrivers,h2h,PSV Eindhoven,,106
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betrivers,h2h,Draw,,325
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betrivers,totals,Over,3.5,-120
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betrivers,totals,Under,3.5,-104
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,pinnacle,h2h,Club Brugge,,200
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,pinnacle,h2h,PSV Eindhoven,,111
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,pinnacle,h2h,Draw,,347
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,pinnacle,spreads,Club Brugge,0.25,103
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,pinnacle,spreads,PSV Eindhoven,-0.25,-113
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,pinnacle,totals,Over,3.5,-113
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,pinnacle,totals,Under,3.5,101
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,draftkings,h2h,Club Brugge,,200
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,draftkings,h2h,PSV Eindhoven,,110
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,draftkings,h2h,Draw,,330
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betonlineag,h2h,Club Brugge,,205
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betonlineag,h2h,PSV Eindhoven,,106
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betonlineag,h2h,Draw,,350
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betonlineag,spreads,Club Brugge,0.5,-128
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betonlineag,spreads,PSV Eindhoven,-0.5,106
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betonlineag,totals,Over,3.5,-120
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,betonlineag,totals,Under,3.5,100
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,espnbet,h2h,Club Brugge,,190
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,espnbet,h2h,PSV Eindhoven,,110
+2026-11-03T15:19:46-05:00,UCL,449d718632202f0e5997d2e4b7273483,PSV Eindhoven,Club Brugge,2026-11-04T20:00:00Z,espnbet,h2h,Draw,,300
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,fanduel,h2h,Como,,110
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,fanduel,h2h,RC Lens,,210
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,fanduel,h2h,Draw,,280
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betmgm,h2h,Como,,120
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betmgm,h2h,RC Lens,,195
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betmgm,h2h,Draw,,280
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betmgm,totals,Over,3.5,125
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betmgm,totals,Under,3.5,-175
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betrivers,h2h,Como,,110
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betrivers,h2h,RC Lens,,220
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betrivers,h2h,Draw,,280
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betrivers,totals,Over,3.5,132
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betrivers,totals,Under,3.5,-165
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,pinnacle,h2h,Como,,117
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,pinnacle,h2h,RC Lens,,212
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,pinnacle,h2h,Draw,,300
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,pinnacle,spreads,Como,-0.25,-109
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,pinnacle,spreads,RC Lens,0.25,-101
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,pinnacle,totals,Over,3.0,-111
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,pinnacle,totals,Under,3.0,-101
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,draftkings,h2h,Como,,115
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,draftkings,h2h,RC Lens,,200
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,draftkings,h2h,Draw,,295
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betonlineag,h2h,Como,,117
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betonlineag,h2h,RC Lens,,210
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betonlineag,h2h,Draw,,300
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betonlineag,spreads,Como,-0.5,117
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betonlineag,spreads,RC Lens,0.5,-140
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betonlineag,totals,Over,3.0,-115
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,betonlineag,totals,Under,3.0,-104
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,espnbet,h2h,Como,,120
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,espnbet,h2h,RC Lens,,200
+2026-11-03T15:19:46-05:00,UCL,013cecbf40f5b4530342632a80f35b00,RC Lens,Como,2026-11-04T20:00:00Z,espnbet,h2h,Draw,,270
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,fanduel,h2h,Manchester City,,-195
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,fanduel,h2h,RB Leipzig,,440
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,fanduel,h2h,Draw,,380
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betmgm,h2h,Manchester City,,-185
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betmgm,h2h,RB Leipzig,,400
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betmgm,h2h,Draw,,360
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betmgm,totals,Over,3.5,-120
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betmgm,totals,Under,3.5,-112
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betrivers,h2h,Manchester City,,-200
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betrivers,h2h,RB Leipzig,,450
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betrivers,h2h,Draw,,380
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betrivers,totals,Over,3.5,-121
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betrivers,totals,Under,3.5,-104
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,pinnacle,h2h,Manchester City,,-185
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,pinnacle,h2h,RB Leipzig,,440
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,pinnacle,h2h,Draw,,398
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,pinnacle,spreads,Manchester City,-1.0,-120
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,pinnacle,spreads,RB Leipzig,1.0,109
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,pinnacle,totals,Over,3.5,-114
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,pinnacle,totals,Under,3.5,102
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,draftkings,h2h,Manchester City,,-190
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,draftkings,h2h,RB Leipzig,,425
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,draftkings,h2h,Draw,,390
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betonlineag,h2h,Manchester City,,-185
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betonlineag,h2h,RB Leipzig,,445
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betonlineag,h2h,Draw,,392
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betonlineag,spreads,Manchester City,-1.0,-123
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betonlineag,spreads,RB Leipzig,1.0,104
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betonlineag,totals,Over,3.5,-116
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,betonlineag,totals,Under,3.5,-103
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,espnbet,h2h,Manchester City,,-200
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,espnbet,h2h,RB Leipzig,,400
+2026-11-03T15:19:46-05:00,UCL,df7d2d81b9e2f3f11c6aeddaee6b7085,RB Leipzig,Manchester City,2026-11-04T20:00:00Z,espnbet,h2h,Draw,,380
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,fanduel,h2h,Napoli,,280
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,fanduel,h2h,Porto,,-105
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,fanduel,h2h,Draw,,260
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betmgm,h2h,Napoli,,260
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betmgm,h2h,Porto,,-102
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betmgm,h2h,Draw,,270
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betmgm,totals,Over,2.5,-145
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betmgm,totals,Under,2.5,105
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betrivers,h2h,Napoli,,295
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betrivers,h2h,Porto,,-112
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betrivers,h2h,Draw,,265
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betrivers,totals,Over,2.5,-139
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betrivers,totals,Under,2.5,112
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,pinnacle,h2h,Napoli,,294
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,pinnacle,h2h,Porto,,-107
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,pinnacle,h2h,Draw,,284
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,pinnacle,spreads,Napoli,0.5,-103
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,pinnacle,spreads,Porto,-0.5,-107
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,pinnacle,totals,Over,2.75,-104
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,pinnacle,totals,Under,2.75,-108
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,draftkings,h2h,Napoli,,270
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,draftkings,h2h,Porto,,-105
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,draftkings,h2h,Draw,,280
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betonlineag,h2h,Napoli,,285
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betonlineag,h2h,Porto,,-107
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betonlineag,h2h,Draw,,288
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betonlineag,spreads,Napoli,0.5,-109
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betonlineag,spreads,Porto,-0.5,-107
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betonlineag,totals,Over,2.5,-139
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,betonlineag,totals,Under,2.5,114
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,espnbet,h2h,Napoli,,260
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,espnbet,h2h,Porto,,-105
+2026-11-03T15:19:46-05:00,UCL,ba82ee37f64a66a30d85f8b90082ec2f,Porto,Napoli,2026-11-04T20:00:00Z,espnbet,h2h,Draw,,260
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,fanduel,h2h,Sabah FK,,550
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,fanduel,h2h,Viking FK,,-250
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,fanduel,h2h,Draw,,430
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betmgm,h2h,Sabah FK,,525
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betmgm,h2h,Viking FK,,-235
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betmgm,h2h,Draw,,425
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betmgm,totals,Over,3.5,-118
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betmgm,totals,Under,3.5,-118
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betrivers,h2h,Sabah FK,,575
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betrivers,h2h,Viking FK,,-245
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betrivers,h2h,Draw,,410
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betrivers,totals,Over,3.5,-110
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betrivers,totals,Under,3.5,-113
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,pinnacle,h2h,Sabah FK,,569
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,pinnacle,h2h,Viking FK,,-233
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,pinnacle,h2h,Draw,,439
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,pinnacle,spreads,Sabah FK,1.25,107
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,pinnacle,spreads,Viking FK,-1.25,-117
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,pinnacle,totals,Over,3.5,-108
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,pinnacle,totals,Under,3.5,-104
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,draftkings,h2h,Sabah FK,,550
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,draftkings,h2h,Viking FK,,-240
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,draftkings,h2h,Draw,,425
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betonlineag,h2h,Sabah FK,,565
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betonlineag,h2h,Viking FK,,-232
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betonlineag,h2h,Draw,,437
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betonlineag,spreads,Sabah FK,1.0,129
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betonlineag,spreads,Viking FK,-1.0,-155
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betonlineag,totals,Over,3.5,-108
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,betonlineag,totals,Under,3.5,-110
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,espnbet,h2h,Sabah FK,,550
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,espnbet,h2h,Viking FK,,-260
+2026-11-03T15:19:46-05:00,UCL,6277e639c064e641265fcb98a0e200b9,Viking FK,Sabah FK,2026-11-04T20:00:00Z,espnbet,h2h,Draw,,425

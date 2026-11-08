@@ -1,18 +1,22 @@
 {
  "morning_settlement": {
-  "last_ok": "2026-11-02T09:30:00-05:00",
-  "date": "2026-11-01",
-  "settled": 57,
-  "flags": 0,
-  "shadow_graded_total": 2791,
-  "nba_logs_through": "2026-11-01"
+  "last_ok": "2026-11-07T08:34:57-05:00",
+  "date": "2026-11-06",
+  "settled": 6,
+  "flags": 5,
+  "shadow_graded_total": 4106,
+  "nba_logs_through": "2026-11-06",
+  "nba_logs_incomplete": [
+   "MIL 2026-11-06"
+  ]
  },
  "afternoon_card": {
-  "last_ok": "2026-11-02T15:12:00-05:00",
-  "date": "2026-11-02",
-  "slips": 2,
-  "legs": 4,
-  "shadow_rows": 1283,
-  "matchup_rows": 661
+  "last_ok": "2026-11-07T15:08:00-05:00",
+  "date": "2026-11-07",
+  "slips": 4,
+  "legs": 10,
+  "shadow_rows": 769,
+  "matchup_rows": 330,
+  "note": "7 NBA games; board 14:54 paid (19,602 credits); 6 price edges (Holiday U4.5 ast optional, rest skipped); Pick6 swapped to Avdija LESS 24.5 pts (59.4%); Draymond Q; day exposure already $38.67 before NBA promos"
  }
 }

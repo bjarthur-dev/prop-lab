@@ -76,3 +76,63 @@ Samples: 3,970 NBA props with sharp prices graded vs box scores; 385 NFL props g
 - Rule: across ALL tickets of the day, at most 1 exposure per player and 2 legs per game. When a promo requires 2 legs from one game, pick that game so it holds no other ticket's legs; if none qualifies, skip the promo.
 - A leg added only to satisfy a promo's structure (Giddey, added at 19:00 from a 17:36 price) needs the same checks as any other leg, at a fresh price.
 - Checked: game total vs under win rate (3,114 graded NBA props): no consistent pattern by total bucket. Not a rule.
+
+## 11-02 graded (morning review 11-03)
+- The card's SGPx (Anunoby/Brunson/Vassell reb unders) went 3/3 and the Carter Jr. under won (6 pts). The placed slip lost only on the two legs added for the promo structure (Giddey 10 ast, Brown 4 threes): concentration rule confirmed.
+- MNF skips were right: sharp-favorite catch unders went 1-4 at DK's overpriced numbers (Loveland 7, Burden 7, Odunze 4, Charbonnet 3; Raymond 2 won), Caleb Williams ran once for 2 yds (the scramble angle failed), Swift 2 catches / 69 rush yds, Bears won 34-17. Horton O1.5 (3) and JSN U7.5 (6) would have won.
+- CBB promo games: Purdue ML lost (Gonzaga 78-72), Florida -5.5 covered (77-67), Fla-Mia UNDER 160.5 won (144), UCLA +4.5 won outright. One night of CBB lines = noise; keep tracking.
+- Credits: the 18:18 pregame was skipped by the guard (592 left for 28 days), so there was no real close for CLV. Low-credit mode added: when credits < 40/day for the rest of the month, the NBA board carries only rebounds + assists (our under markets), halving its cost.
+
+## Volume (user, 2026-11-03): no cap on the NUMBER of bets
+- Every qualifying bet goes on the card, across all sports; there is no daily count limit. Sizing still protects the bankroll: singles ~2% each, boosted parlays ~2-5%, and the day's total at most ~15% of the bankroll (if more qualify, scale every stake down evenly rather than dropping bets).
+- College basketball every day it's in season: dispatch odds tag `cbb` (3 credits, every game) and run `python engine/game_scan.py D ncaab` (spreads, totals, moneylines; DK vs Pinnacle at the same number, EV >= 2% sharp and >= 0 consensus). Same scan for nba/nfl/ncaaf games files when present. Sharp underdogs below 45% (big moneyline dogs) stay excluded by rule #1 even when the scan flags them.
+
+## Confidence tiers and sizing (user, 2026-11-03): bet more when the edge is bigger, small bankroll
+Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quarter-Kelly: stake% ≈ edge ÷ (decimal odds − 1) ÷ 4, then capped by tier).
+| tier | what qualifies | stake |
+|---|---|---|
+| **A: high confidence** | price edge >= 4% vs Pinnacle AND sharp fair >= 58% AND clean story (role stable, no availability doubt, nothing in news against it); or a boosted parlay whose every leg is tier A/B | **4–5%** single; boosted long shot 3% |
+| **B: standard** | price edge 2–4% or sharp fair >= 55% at a fair DK price, story checks out | **2%** |
+| **C: lean** | qualifies but thin (one sharp book, a story question, near the worst price) | **1%** or paper |
+| no bet | fails any rule | 0 |
+- Long-shot rule: one boosted long shot a day, built only from tier A/B legs, 2–3% of bankroll. It is the "one bet that wins big" (11-01: $5 → $110) and it is +EV only because every leg already is. Most days it loses; that is priced in.
+- Daily total <= ~15% of bankroll. After a losing day stakes shrink automatically (they're % of the new bankroll); after a win they grow. That compounding is how $100 becomes $500 without adding money.
+- The card states each bet's tier and the one-line reason it is that tier.
+
+## 11-04 (−$16.81)
+- The card's best plays (Reid, Edey, Buzelis singles) were never placed: the games tipped before the user saw the final list. Final list must be placed right at ~18:20.
+- The parlay lost on the coin-flip leg added only to reach the boost's +300 minimum (Giannis U11.5, 51%): MIA erased a 15-point deficit and the game went to OT. Harper U5.5 (5) and Sabonis 11+ hit. Rule: a leg added to reach a promo minimum must be >= 55% sharp itself; a 50/50 filler is not allowed (the price-edge exception doesn't apply to filler legs).
+- Stakes: Pick6 $10 vs $4 suggested; the day's total was 19% of the bankroll. Stick to card stakes.
+
+## 11-05 TNF: Pick6 paid (JAX 33-10)
+- Two Pick6 entries won and paid far above their listed multipliers through a Pick6 winnings boost: 3-pick $27.30 → $46.41, 2-pick $14.98 → $32.26. Pick6 promos (free/gimme lines, 1.3x boost picks, winnings boosts) can be worth more than sportsbook boosts: always price Pick6 when the user reports promos there.
+- The script call held: JAX blew out a rookie-QB BAL; Henry 57 rush yds (under), Lane 0 rec yds, Lawrence 242 (the 199.5 promo line was easy). The Henry MORE entry lost, as the lean said.
+- Lane LESS 17.5 (the one 58% Pick6 pick) and Henry LESS (the story pick) both hit: the story + sharp combination worked, even with Henry at 50% sharp. Still one night; keep tracking Pick6 promo picks separately.
+
+## Paid Odds API (2026-11-06): 20,000 credits/month, key in ODDS_API_KEY_1
+- The snapshot script auto-detects the paid plan (>= 5,000 credits on key 1): no budget guard, NBA board adds points+rebounds+assists combos, NFL board every day it has games, game lines for NBA/CBB/NFL/CFB on board and pregame, open snapshot + scores at 10:37, closes for all games near tip. Expect ~400-600 credits a normal day.
+- More snapshots = real closing lines for CLV and more stale-DK chances. Routines no longer need force=1.
+- $30/month is logged in Record/expenses.csv; the 30-day review in Live Report.md decides whether it stays.
+
+## Profit targets and sizing (user, 2026-11-06)
+- Costs: $50/month (Claude $20 + Odds API $30). Targets: at least $100 profit every 2 weeks after costs; aim for $100/week (~$20/day). Tracked in Record/Live Report.md "Targets".
+- Honest math at a ~$125 bankroll: expected profit is mostly from promos (boosts on qualifying legs, Pick6 gimmes/1.3x/winnings boosts), roughly $5-10/day on average with big swings. $100/2 weeks is realistic; $100/week needs either a hit long shot or a bigger bankroll. Stakes grow automatically as the bankroll grows (they are % of the current bankroll).
+- Sizing (half-Kelly, capped by the promo max and tiers): stake% ≈ 0.5 × EV ÷ (decimal payout − 1).
+  - 50% boost on 3-4 legs of 58-60% (EV ~+30%, ~+450 boosted): ~3.5% → $4-5 at $125; reaches the $10 max at ~$280.
+  - 30% boost, same legs (EV ~+15%): ~2% → $2-3.
+  - Pick6 entries with a gimme/free pick or 1.3x boost on qualifying picks: 3-5%.
+  - Tier A single 4-5%, tier B 2%, tier C 1%. Daily total <= ~20% of bankroll on promo-heavy days, 15% otherwise.
+- Go big only through the boosted long shots built from qualifying legs (the 11-01 +2056 type), never by raising stakes on coin flips or chasing.
+
+## Pick6 math (researched 11-06)
+- How it pays: Pick6 is peer-to-peer. You get a **Base Payout = stake x base multiplier x every pick multiplier** (0.7x, 0.8x, 0.9x, 1.3x...), plus **Extra Winnings** from the contest pool, split among winners at the same pick level by Standings Points. Pick multipliers also change Standings Points. Rules: at least 2 teams per set; 1 stat per player; an exact-line result or a DNP voids that pick and drops the entry to the next-lower pick level; all but one pick void = refund.
+- Base multipliers (receipts + the app's 11-06 screens): 2 picks 3x, 3 picks 6x, 4 picks 10x, 6 picks 25x (5: read the app). The 6-pick break-even at 1.0x is 58.5% per pick. "Ride the upside" = DK's name for Extra Winnings (the app's example: a 10x base plus 8x extra). Treat Extra Winnings as a small bonus, never the reason.
+- 11-06 check: George LESS 6.5 ast showed **0.8x** and Murray-Boyles LESS 2.5 ast showed **0.9x**, so a 2-pick paid 2.16x. That needs 46% to hit both; sharp gave 35% (EV -24%). SKIPPED. Pick6 discounts the picks our sharp favorites point to, so check the multiplier before adding any pick.
+- **Break-even per pick at 1.0x:** 2-pick 57.7%, 3-pick 55.0%, 4-pick 56.2%. A pick with multiplier m needs break-even / m: at the 4-pick level, a 0.8x pick needs **70%** and a 0.7x pick needs **80%**, while a 1.3x pick needs only **43%**.
+- **Stacking 0.8x picks is not an exploit.** Four 0.8x picks pay 10 x 0.41 = 4.1x, which needs a 24% all-hit rate, so each pick has to be about 70%. DK puts 0.8x on the picks it knows are popular and likely. Only use one if the sharp fair is >= 70% (gimme or promo lines).
+- **Where the value is:** (1) 1.0x picks that are sharp favorites (>= 57-59%), since Pick6 charges no per-pick vig: three 59% picks at 6x = +23% EV before Extra Winnings; (2) 1.3x picks with a sharp fair of 50%+; (3) Pick6 lines that are stale vs the sharp line (same player, better number); (4) winnings boosts and free picks. Extra Winnings are a bonus on top; contrarian winners get a bigger share.
+- The cloud odds feed has had 0 Pick6 rows since 11-06. The user screenshots the Pick6 board, and Claude prices each pick vs sharp.
+
+## 11-06: promo night over-staked (-$25)
+- Three promo bets at the max ($10 boosted SGPx, $10 SGA live most points, $5 Pick6) = 30% of the bankroll in one night, after the user said "no rules tonight". All three lost: the SGPx on Burries's 2nd three, SGA trailing Mitchell in a 22-pt blowout (a starter sitting the 4th is the real risk on a live points-leader bet when the team is already well ahead), and the Pick6 entry.
+- The EV was positive on each, but max-promo stakes on 20-55% shots swing the bankroll too hard. Size promo bets by half-Kelly, not by the promo max, and keep the day <= 20% even on promo nights. The day after a loss uses normal stakes (no chasing).

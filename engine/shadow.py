@@ -136,7 +136,7 @@ def main():
         import steam_scan; steam_scan.grade_all()
         import game_grade; game_grade.main()
     except Exception as e: lines += ["", f"(steam grading failed: {e})"]
-    for mod in ("live_report", "health"):     # real-money method report + feed freshness / credit runway
+    for mod in ("live_report", "stat_sheet", "health"):     # real-money method report + feed freshness / credit runway
         try: __import__(mod).main()
         except Exception as e: lines += ["", f"({mod} failed: {e})"]
     open("Record/Shadow/Shadow Report.md", "w").write("\n".join(lines) + "\n")

@@ -8,7 +8,7 @@ on:
     - cron: "2-59/15 16-23,0-3 * * *"  # close dispatcher, 12:00-23:59 EDT (GitHub often runs it ~hourly; the script looks 75 min ahead)
   workflow_dispatch:
     inputs:
-      tag: { description: "open|board|close|check|mlbhrr|mlbprops|nbaalt|nflalt|pregame|pick6|nbaq1|cbb", required: false, default: "board" }
+      tag: { description: "open|board|close|check|mlbhrr|mlbprops|nbaalt|nflalt|pregame|pick6|nbaq1|cbb|lines|scores|nhl|ucl", required: false, default: "board" }
       window: { description: "pregame: minutes ahead to include", required: false, default: "150" }
       force: { description: "1 = skip the credit budget guard", required: false, default: "0" }
 permissions: { contents: write }

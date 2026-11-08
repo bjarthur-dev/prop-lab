@@ -1,25 +1,26 @@
 {
  "results": {
-  "last_ok": "2026-11-02T15:44:29-05:00",
-  "date": "2026-11-01",
+  "last_ok": "2026-11-07T11:49:04-05:00",
+  "date": "2026-11-06",
   "mlb": 0
  },
  "odds_board": {
-  "last_ok": "2026-11-02T14:54:32-05:00",
+  "last_ok": "2026-11-07T14:54:06-05:00",
   "tag": "board",
-  "tier": "free",
-  "nba": 4456,
-  "mlb": 0,
-  "credits_remaining": "240"
- },
- "odds_close": {
-  "last_ok": "2026-11-02T18:22:31-05:00",
-  "tag": "close",
-  "tier": "free",
-  "nba": 291,
+  "tier": "paid",
+  "nba": 2925,
   "nfl": 0,
   "mlb": 0,
-  "credits_remaining": "88"
+  "credits_remaining": "19602"
+ },
+ "odds_close": {
+  "last_ok": "2026-11-07T18:36:15-05:00",
+  "tag": "close",
+  "tier": "paid",
+  "nba": 438,
+  "nfl": 0,
+  "mlb": 0,
+  "credits_remaining": "19549"
  },
  "odds_mlbhrr": {
   "last_ok": "2026-10-24T19:21:13-04:00",
@@ -43,22 +44,22 @@
   "credits_remaining": "11"
  },
  "odds_pregame": {
-  "last_ok": "2026-11-02T17:36:39-05:00",
+  "last_ok": "2026-11-07T18:19:08-05:00",
   "tag": "pregame",
-  "tier": "free",
-  "nba": 4650,
+  "tier": "paid",
+  "nba": 2257,
   "mlb": 0,
-  "nfl": 395,
-  "credits_remaining": "92"
+  "nfl": 0,
+  "credits_remaining": "19554"
  },
  "odds_pick6": {
-  "last_ok": "2026-10-27T18:18:49-04:00",
+  "last_ok": "2026-11-06T14:59:56-05:00",
   "tag": "pick6",
-  "tier": "free",
-  "nba": 1332,
-  "mlb": 299,
+  "tier": "paid",
+  "nba": 3060,
+  "mlb": 0,
   "nfl": 0,
-  "credits_remaining": "484"
+  "credits_remaining": "19903"
  },
  "odds_nflalt": {
   "last_ok": "2026-11-01T11:10:41-05:00",
@@ -68,9 +69,13 @@
   "credits_remaining": "348"
  },
  "odds_cbb": {
-  "last_ok": "2026-11-02T08:28:57-05:00",
-  "games": 134,
-  "credits_remaining": "302"
+  "last_ok": "2026-11-04T11:16:58-05:00",
+  "tag": "cbb",
+  "tier": "free",
+  "games": {
+   "ncaab": 11
+  },
+  "credits_remaining": "63"
  },
  "odds_nbaq1": {
   "last_ok": "2026-11-02T17:36:15-05:00",
@@ -78,5 +83,53 @@
   "tier": "free",
   "nba": 129,
   "credits_remaining": "160"
+ },
+ "odds_scores": {
+  "last_ok": "2026-11-07T21:01:08-05:00",
+  "tag": "scores",
+  "tier": "paid",
+  "scores": {
+   "ncaab": 138,
+   "nfl": 1,
+   "ncaaf": 41
+  },
+  "credits_remaining": "19543"
+ },
+ "odds_ucl": {
+  "last_ok": "2026-11-04T11:16:37-05:00",
+  "tag": "ucl",
+  "tier": "free",
+  "games": {
+   "ucl": 9
+  },
+  "credits_remaining": "66"
+ },
+ "odds_open": {
+  "last_ok": "2026-11-07T13:59:56-05:00",
+  "tag": "open",
+  "tier": "paid",
+  "nba": 2974,
+  "nfl": 0,
+  "mlb": 0,
+  "credits_remaining": "19665"
+ },
+ "odds_lines": {
+  "last_ok": "2026-11-07T21:04:39-05:00",
+  "tag": "lines",
+  "tier": "paid",
+  "games": {
+   "ncaab": 37,
+   "nba": 16,
+   "nfl": 27,
+   "ncaaf": 28
+  },
+  "credits_remaining": "19531"
+ },
+ "odds_nhlprops": {
+  "last_ok": "2026-11-07T12:19:12-05:00",
+  "tag": "nhlprops",
+  "tier": "paid",
+  "nhl": 4495,
+  "credits_remaining": "19710"
  }
 }
