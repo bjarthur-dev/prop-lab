@@ -181,3 +181,7 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 - Low targets (1.1-1.5x) are the trap: they hit often but lose 14-25%.
 - Moonshot entry rules (3x target, by situation when the round starts): >= 5 min left in the half +12 to +17%; 2-5 min about -1%; under 2 min -27% (two-minute drill means incompletions). Run-leaning offense (xpass < 0.6) +10 to +15%, pass-heavy +2%. Offense tied/leading +11 to +13%, trailing +4%. 2H +12%, 1H +4%.
 - Checklist: 3x auto-target; only rounds likely to start with 5+ min left in the half; skip when the trailing team is in hurry-up; cash out under ~1:30 left if the offer is close to the current multiplier.
+
+## 11-09 Pick6 0.8x main-line entries are -EV (priced)
+- 12 user $1 NBA entries (mostly 3-picks of 0.8x picks at the market's own line) priced vs the sharp main line (Poisson) and the alt ladders: each pick 55-67%, but a 3-pick at 0.8x^3 x 6 = 3.07x needs 68.8% per pick. Entry EVs -26% to -44% (one ~+6% with a missing price). Sum about -$4 on $12.
+- Rule: Pick6 only with 1.0x+ picks at >= 57% sharp, a promo or boost, or a discounted line the alt ladder prices clearly above Pick6's implied odds. Never volume entries of 0.8x main-line picks.
