@@ -6,7 +6,7 @@ tags: [record, live]
 
 Written by `engine/live_report.py` each morning. Tool costs come from `Record/expenses.csv`.
 
-**45 settled bets, staked $228.00, profit $+54.49 (ROI +23.9%). Tool costs $60.00. Net after tools $-5.51.** Bankroll now $44.04.
+**45 settled bets, staked $228.00, profit $+54.49 (ROI +23.9%). Tool costs $60.00. Net after tools $-5.51.** Bankroll now $32.04.
 
 | method | bets | won | staked | profit | ROI |
 |---|---:|---:|---:|---:|---:|
