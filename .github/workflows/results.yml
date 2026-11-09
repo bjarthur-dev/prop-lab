@@ -41,6 +41,7 @@ jobs:
           python engine/game_grade.py | tail -3 || echo "game-line grading failed (non-fatal)"
           python engine/steam_scan.py grade || echo "steam grading failed (non-fatal)"
           python engine/audit.py | head -8 || echo "audit failed (non-fatal)"
+          python engine/hypotheses.py | head -5 || echo "hypotheses failed (non-fatal)"
           python engine/market_backtest.py | head -5 || echo "market backtest failed (non-fatal)"
       - name: Commit
         if: always()

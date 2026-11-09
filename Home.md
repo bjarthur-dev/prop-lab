@@ -11,6 +11,14 @@ The player-prop projection system: **AI does the research, code does the math, t
 2. **Log every decision** — bets, paper bets, and passes — in the [[Bet Log]]. The record is the product.
 3. **Never trust a number you can't source** — every probability comes from the [[Math Engine]] or is marked UNKNOWN.
 
+## Scoreboard (updated every morning, 11-09 rebuild)
+- [[Audit]] — real-money results: profit with and without the biggest win, by bet type, stated chances vs what happened, closing-line value
+- [[Hypotheses]] — every betting idea graded against every NBA line we have; the "Forward test" table is the one to trust
+- [[Market Backtest]] — how accurate each book's price is, and whether "this book is off the others" pays
+- [[Promos]] — every promo taken and what it was worth (the main source of profit)
+- [[Ideas Today]] — today's lines that match the lead ideas (paper only)
+- Tools: `engine/fair.py` (price any slip), `engine/consensus_scan.py` (price edges, 6%+ only). Rules: [[Lessons]] "11-09 System audit"
+
 ## Start here
 - [[Rules]] — **the single source of every number** (sizing, caps, pass rule, books, graduation). Wins any conflict.
 - [[Slate Playbook]] — how 1 game vs 10+ games, start times and day types change bet count, slips and exposure
