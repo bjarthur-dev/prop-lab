@@ -20,7 +20,7 @@ def api(base, path, **q):
                 STATE["left"] = r.headers.get("x-ratelimit-requests-remaining"); STATE["calls"] += 1; d = json.load(r)
             if d.get("errors"):
                 print(f"::warning::{path} errors {d['errors']}")
-                if any(w in str(d["errors"]).lower() for w in ("request", "limit")): STATE["key"] += 1; continue
+                if any(w in str(d["errors"]).lower() for w in ("request", "limit", "suspend", "access", "token")) and STATE["key"] + 1 < len(KEYS): STATE["key"] += 1; continue
                 return []
             time.sleep(6.5); return d.get("response", [])
         except Exception as e:
