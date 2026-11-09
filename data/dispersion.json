@@ -1,0 +1,17 @@
+{
+ "nba": {
+  "player_points": 3.28,
+  "player_rebounds": 1.28,
+  "player_assists": 1.2,
+  "player_threes": 1.22,
+  "player_points_rebounds_assists": 2.95
+ },
+ "nfl": {
+  "player_rush_yds": 22.85,
+  "player_reception_yds": 28.0,
+  "player_receptions": 1.12,
+  "player_rush_attempts": 1.47
+ },
+ "fitted": "2026-11-09",
+ "note": "variance/mean per market, fitted on box scores vs consensus main lines; rec yds is between two fits (22 without zero-catch games, 36 with)"
+}

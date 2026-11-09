@@ -185,3 +185,22 @@ Stake = a fraction of the CURRENT bankroll, set by the edge, never by feel (quar
 ## 11-09 Pick6 0.8x main-line entries are -EV (priced)
 - 12 user $1 NBA entries (mostly 3-picks of 0.8x picks at the market's own line) priced vs the sharp main line (Poisson) and the alt ladders: each pick 55-67%, but a 3-pick at 0.8x^3 x 6 = 3.07x needs 68.8% per pick. Entry EVs -26% to -44% (one ~+6% with a missing price). Sum about -$4 on $12.
 - Rule: Pick6 only with 1.0x+ picks at >= 57% sharp, a promo or boost, or a discounted line the alt ladder prices clearly above Pick6's implied odds. Never volume entries of 0.8x main-line picks.
+
+## 11-09 System audit: what the data says works (read this before building any slip)
+Evidence: `Record/Audit.md` (real money) and `Record/Market Backtest.md` (37,821 NBA book-lines over 15 dates, joined to box scores).
+- Real money: 50 settled bets, +$69. Without the one $105.67 parlay: **-$37**. One hit carried the record.
+- Stated hit chances were too high: 19 bets added up to 7.3 expected wins; 3 won (2% chance that is luck).
+- Singles had no edge: 31 with a recorded close averaged **-1.4% CLV** and beat the close 32% of the time.
+- Cause found: **Poisson overstates lowered lines.** Points lowered two steps: Poisson said 81%, 67% hit. Assists, rebounds, threes lowered one step: Poisson 67-76%, actual 64-72%. This inflated every Pick6 discount pick, alt line and Betr promo line we priced.
+- The books' no-vig consensus is calibrated to 1-2 points. We cannot out-predict it; we can only find prices that disagree with it.
+- Overs hit about 1.5 points under their no-vig price (47.4% vs 49.0%). Not proven (1.4 sigma by day), so: haircut overs, give unders no bonus.
+- "Book X is off the others" under 4% claimed EV **lost** 6-13%. At 6%+ it hit 63% (n=48). About 3 such lines a day across all books; DraftKings had 12 at 4%+ in 15 days.
+- Pick6 standard 1.0x lines: the market had the pick at 55%+ on 11 of 1,183. Standard Pick6 lines are not an edge.
+
+Rules from this (they override earlier notes where they conflict):
+1. Price every slip with `python engine/fair.py` (negative binomial with fitted spread, consensus at the exact line when it exists). No more Poisson scripts.
+2. A pick-based bet needs 6%+ EV against the other books at the same line (`python engine/consensus_scan.py`). 2-5% is noise: pass.
+3. Profit comes from **promos priced at fair value** (discounted lines, profit boosts, bet-and-gets, bonus credit). A promo slip must still show +EV in fair.py after the boost; the legs must be near fair on their own.
+4. No un-boosted singles or parlays at standard prices. They cost 3-10% per bet.
+5. If fair.py says the stake is under $5, the honest options are pass or $5 knowing it is over-sized. Say which.
+6. Re-check `Record/Audit.md` weekly. If stated chances still run above results after 30 more bets, shrink again.
