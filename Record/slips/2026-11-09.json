@@ -1,0 +1,494 @@
+{
+ "date": "2026-11-09",
+ "slips": [
+  {
+   "id": 201,
+   "book": "Pick6",
+   "name": "E1 5p ast",
+   "stake": 1.0,
+   "pays": 3.93,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Collin Murray-Boyles",
+     "stat": "ast",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Payton Reed",
+     "stat": "ast",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Peyton Watson",
+     "stat": "ast",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Alex Sarr",
+     "stat": "ast",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Anthony Davis",
+     "stat": "ast",
+     "side": "under",
+     "line": 2.5
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "book": "Pick6",
+   "name": "E3 4p reb",
+   "stake": 1.0,
+   "pays": 4.09,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Duncan Robinson",
+     "stat": "reb",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Ty Jerome",
+     "stat": "reb",
+     "side": "under",
+     "line": 3.5
+    },
+    {
+     "sport": "nba",
+     "player": "CJ McCollum",
+     "stat": "reb",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Fred VanVleet",
+     "stat": "reb",
+     "side": "under",
+     "line": 3.5
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "book": "Pick6",
+   "name": "E4 3p 3s",
+   "stake": 1.0,
+   "pays": 3.07,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Dejounte Murray",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "RJ Barrett",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Daniss Jenkins",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "book": "Pick6",
+   "name": "E5 3p 3s",
+   "stake": 1.0,
+   "pays": 2.64,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Royce O'Neale",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Karlo Matkovic",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 0.5
+    },
+    {
+     "sport": "nba",
+     "player": "Scottie Barnes",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 0.5
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "book": "Pick6",
+   "name": "E6 3p 3s",
+   "stake": 1.0,
+   "pays": 3.07,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Ziaire Williams",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Marcus Smart",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Keyonte George",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "book": "Pick6",
+   "name": "E7 3p 3s",
+   "stake": 1.0,
+   "pays": 3.07,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Collin Gillespie",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Aaron Nesmith",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Andrew Nembhard",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "book": "Pick6",
+   "name": "E8 3p 3s",
+   "stake": 1.0,
+   "pays": 2.04,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "AJ Dybantsa",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Evan Mobley",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Peyton Watson",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "book": "Pick6",
+   "name": "E9 3p 3s",
+   "stake": 1.0,
+   "pays": 2.04,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Dylan Harper",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "De'Aaron Fox",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 0.5
+    },
+    {
+     "sport": "nba",
+     "player": "Sandro Mamukelashvili",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "book": "Pick6",
+   "name": "E10 2p reb",
+   "stake": 1.0,
+   "pays": 2.43,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Cade Cunningham",
+     "stat": "reb",
+     "side": "under",
+     "line": 5.5
+    },
+    {
+     "sport": "nba",
+     "player": "Onyeka Okongwu",
+     "stat": "reb",
+     "side": "under",
+     "line": 7.5
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "book": "Pick6",
+   "name": "E11 3p 3s",
+   "stake": 1.0,
+   "pays": 3.07,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Kevin Huerter",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Alex Sarr",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 0.5
+    },
+    {
+     "sport": "nba",
+     "player": "Tari Eason",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "book": "Pick6",
+   "name": "E12 3p 3s",
+   "stake": 1.0,
+   "pays": 3.07,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Victor Wembanyama",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Austin Reaves",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Brandin Podziemski",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "book": "Pick6",
+   "name": "E13 3p 3s",
+   "stake": 1.0,
+   "pays": 3.07,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Julian Champagnie",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Trae Young",
+     "stat": "fg3m",
+     "side": "over",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Aaron Wiggins",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 2.5
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "book": "Betr",
+   "name": "Sengun MORE + Cook LESS",
+   "stake": 5,
+   "pays": 15,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Alperen Sengun",
+     "stat": "pr",
+     "side": "over",
+     "line": 26.5
+    },
+    {
+     "sport": "nfl",
+     "player": "James Cook",
+     "stat": "rush_yds",
+     "side": "under",
+     "line": 85.5
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "book": "Betr",
+   "name": "Cook MORE + Sengun LESS",
+   "stake": 5,
+   "pays": 15,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "James Cook",
+     "stat": "rush_yds",
+     "side": "over",
+     "line": 74.5
+    },
+    {
+     "sport": "nba",
+     "player": "Alperen Sengun",
+     "stat": "pr",
+     "side": "under",
+     "line": 29.5
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "book": "Betr",
+   "name": "Cook MORE + Lendeborg MORE",
+   "stake": 5,
+   "pays": 14.5,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "James Cook",
+     "stat": "rush_yds",
+     "side": "over",
+     "line": 74.5
+    },
+    {
+     "sport": "nba",
+     "player": "Yaxel Lendeborg",
+     "stat": "ast",
+     "side": "over",
+     "line": 3.5
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "book": "Betr",
+   "name": "Lendeborg MORE + Sengun MORE",
+   "stake": 5,
+   "pays": 14.5,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Yaxel Lendeborg",
+     "stat": "ast",
+     "side": "over",
+     "line": 3.5
+    },
+    {
+     "sport": "nba",
+     "player": "Alperen Sengun",
+     "stat": "pr",
+     "side": "over",
+     "line": 26.5
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "book": "DraftKings",
+   "name": "Sengun UNDER + Cook UNDER",
+   "stake": 5,
+   "pays": 18.38,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Alperen Sengun",
+     "stat": "pr",
+     "side": "under",
+     "line": 29.5
+    },
+    {
+     "sport": "nfl",
+     "player": "James Cook",
+     "stat": "rush_yds",
+     "side": "under",
+     "line": 88.5
+    }
+   ]
+  }
+ ]
+}

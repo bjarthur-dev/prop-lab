@@ -1,0 +1,33 @@
+# Live slip tracker. Every 15 min on game nights (6 PM to 1:30 AM ET); does nothing unless Record/slips/<today>.json has open slips.
+# Writes Record/Live.md and comments on the "Live slips" issue when a slip wins or dies (that is the phone alert).
+name: live
+on:
+  schedule:
+    - cron: "4-59/15 23 * * *"
+    - cron: "4-59/15 0-6 * * *"
+  workflow_dispatch:
+    inputs: { date: { description: "YYYY-MM-DD (blank = tonight)", required: false } }
+permissions: { contents: write, issues: write }
+concurrency: { group: writer-actions, cancel-in-progress: false }
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env: { SPORTS_API_KEY_1: "${{ secrets.SPORTS_API_KEY_1 }}", SPORTS_API_KEY_2: "${{ secrets.SPORTS_API_KEY_2 }}", GH_TOKEN: "${{ github.token }}" }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python engine/cloud/live_track.py ${{ inputs.date }}
+      - name: Phone alert when a slip settles
+        run: |
+          [ -f live_news.txt ] || exit 0
+          n=$(gh issue list -R ${{ github.repository }} --state open --search "Live slips in:title" --json number --jq '.[0].number')
+          if [ -z "$n" ]; then gh issue create -R ${{ github.repository }} -t "Live slips" -b "$(cat live_news.txt)
+
+          Full board: https://github.com/${{ github.repository }}/blob/main/Record/Live.md"
+          else gh issue comment "$n" -R ${{ github.repository }} -b "$(cat live_news.txt)"; fi
+          rm -f live_news.txt
+      - name: Commit
+        env: { COMMIT_MSG: "bot: live slips" }
+        run: .github/scripts/commit.sh Record/Live.md status/live.json
