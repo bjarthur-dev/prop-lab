@@ -1,6 +1,6 @@
 # Live slips, 2026-11-09
 
-Updated **18:00 ET**. Staked $37. Won so far: **$0.00**. Still alive: 17 slips worth up to $112.97. Dead: 0.
+Updated **18:01 ET**. Staked $37. Won so far: **$0.00**. Still alive: 17 slips worth up to $112.97. Dead: 0.
 
 | # | App | Slip | Stake → pays | Status | Legs |
 |---|---|---|---|---|---|
@@ -22,4 +22,4 @@ Updated **18:00 ET**. Staked $37. Won so far: **$0.00**. Still alive: 17 slips w
 | 226 | Betr | Lendeborg MORE + Sengun MORE | $5 → $14.5 | **waiting** | · Yaxel Lendeborg over 3.5 ast: not started or no stat yet<br>· Alperen Sengun over 26.5 pr: not started or no stat yet |
 | 227 | DraftKings | Sengun UNDER + Cook UNDER | $5 → $18.38 | **waiting** | · Alperen Sengun under 29.5 pr: not started or no stat yet<br>· James Cook under 88.5 rush_yds: not started or no stat yet |
 
-An over shows WON as soon as it clears; an under shows LOST as soon as it is beaten. Final results are confirmed in the morning settlement. API requests left today: 99.
+An over shows WON as soon as it clears; an under shows LOST as soon as it is beaten. Final results are confirmed in the morning settlement. API requests left today: 97.
