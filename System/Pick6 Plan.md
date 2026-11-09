@@ -5,6 +5,8 @@ updated: 2026-10-26
 
 # Pick6 Plan — $30 → $60
 
+> **11-09 pricing rule (overrides older steps below):** price every slip with `python engine/fair.py --payout X sport:player:market:side:line ...`; run `python engine/consensus_scan.py` for price edges (6%+ only). No Poisson scripts. Evidence and rules: [[Lessons]] "11-09 System audit", `Record/Audit.md`, `Record/Market Backtest.md`.
+
 The user has **no DraftKings Sportsbook access**, so everything goes through **DraftKings Pick6**. The sportsbook no-sweat tokens and DK-price edges no longer apply.
 
 ## Where the edge is on Pick6

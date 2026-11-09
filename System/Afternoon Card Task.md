@@ -5,6 +5,8 @@ schedule: "Daily 14:52 ET (Claude cloud scheduled task)"
 
 # Afternoon Card Task: the daily bet card
 
+> **11-09 pricing rule (overrides older steps below):** price every slip with `python engine/fair.py --payout X sport:player:market:side:line ...`; run `python engine/consensus_scan.py` for price edges (6%+ only). No Poisson scripts. Evidence and rules: [[Lessons]] "11-09 System audit", `Record/Audit.md`, `Record/Market Backtest.md`.
+
 **Create it yourself** (Claude's automatic creation was blocked by a safety check, so it has to be made by you): claude.ai → **Code** → **Scheduled tasks** (or claude.ai/code/routines) → **New task** → name *Prop-Lab afternoon card* → repository **bjarthur-dev/prop-lab** → **Cloud** (not this computer) → schedule **Daily, 2:52 PM** Eastern → paste the prompt below → save. Optional second task: *Prop-Lab NFL Sunday*, **Sundays 11:07 AM**, with the NFL prompt further down.
 
 ```
