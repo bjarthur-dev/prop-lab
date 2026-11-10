@@ -572,6 +572,66 @@
      "line": 43.5
     }
    ]
+  },
+  {
+   "id": 234,
+   "book": "DraftKings",
+   "name": "Maluach 5+ reb + Harper 4+ ast + Ighodaro U3.5 ast",
+   "stake": 1,
+   "pays": 4.36,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Khaman Maluach",
+     "stat": "reb",
+     "side": "over",
+     "line": 4.5
+    },
+    {
+     "sport": "nba",
+     "player": "Dylan Harper",
+     "stat": "ast",
+     "side": "over",
+     "line": 3.5
+    },
+    {
+     "sport": "nba",
+     "player": "Oso Ighodaro",
+     "stat": "ast",
+     "side": "under",
+     "line": 3.5
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "book": "DraftKings",
+   "name": "Jefferson U6.5 + Felton U0.5 + Knox U1.5 rec",
+   "stake": 1,
+   "pays": 4.97,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "Justin Jefferson",
+     "stat": "rec",
+     "side": "under",
+     "line": 6.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Tai Felton",
+     "stat": "rec",
+     "side": "under",
+     "line": 0.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Dawson Knox",
+     "stat": "rec",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
   }
  ]
 }
