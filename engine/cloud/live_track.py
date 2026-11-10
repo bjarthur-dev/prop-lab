@@ -83,6 +83,7 @@ def nfl_feed(date, cache):
                     elif gname == "receiving": r["rec_yds"] = f("yards"); r["rec"] = f("total receptions") or f("receptions")
                     elif gname == "passing": r["pass_yds"] = f("yards")
         out[f"__game_{label}"] = dict(state=state, final=final)
+        out["__nfl"] = dict(game=label, state=state, final=final)      # one NFL game a night in practice
     return out
 
 def find(feed, player):
@@ -94,6 +95,8 @@ def find(feed, player):
 
 def leg_status(leg, feed):
     r = find(feed, leg["player"])
+    if leg["sport"] == "nfl" and "__nfl" in feed and (r is None or leg["stat"] not in r):
+        r = dict(feed["__nfl"], **{leg["stat"]: 0.0})          # game is on and he has no catch/carry yet: that is a zero
     if r is None or leg["stat"] not in r:
         finals = [v for n, v in feed.items() if n.startswith("__game_")]
         return dict(cur=None, st="waiting", note="not started or no stat yet")
