@@ -204,3 +204,7 @@ Rules from this (they override earlier notes where they conflict):
 4. No un-boosted singles or parlays at standard prices. They cost 3-10% per bet.
 5. If fair.py says the stake is under $5, the honest options are pass or $5 knowing it is over-sized. Say which.
 6. Re-check `Record/Audit.md` weekly. If stated chances still run above results after 30 more bets, shrink again.
+
+## 11-10 Betr: shielded "safe" partners cost more than they add
+- Tkachuk promo MORE 2.5 SOG (63%) + Scheifele shielded MORE 0.5 points (64%) paid **2x**: 40% x 2 = -19%. The shield cut the payout from 3x to 2x.
+- Rule: partner a Betr promo pick with an **unshielded standard line** (full payout) the market has at 60%+ (e.g. LESS 1.5 threes on low-volume shooters), not a shielded low line. Check the payout: break-even is 1 / (product of the two chances).
