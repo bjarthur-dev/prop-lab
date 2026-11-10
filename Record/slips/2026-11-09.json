@@ -489,6 +489,89 @@
      "line": 88.5
     }
    ]
+  },
+  {
+   "id": 228,
+   "book": "DraftKings",
+   "name": "Hockenson U + Cook U + Addison U",
+   "stake": 1,
+   "pays": 6.32,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "T.J. Hockenson",
+     "stat": "rec",
+     "side": "under",
+     "line": 4.5
+    },
+    {
+     "sport": "nfl",
+     "player": "James Cook",
+     "stat": "rec",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Jordan Addison",
+     "stat": "rec_yds",
+     "side": "under",
+     "line": 40.5
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "book": "DraftKings",
+   "name": "Coleman 10+ yds + U2.5 rec (bonus bet)",
+   "stake": 0,
+   "pays": 6.6,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "Keon Coleman",
+     "stat": "rec_yds",
+     "side": "over",
+     "line": 9.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Keon Coleman",
+     "stat": "rec",
+     "side": "under",
+     "line": 2.5
+    }
+   ]
+  },
+  {
+   "id": 230,
+   "book": "DraftKings",
+   "name": "Jefferson U + Hockenson U + Addison 44+",
+   "stake": 1,
+   "pays": 6.82,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "Justin Jefferson",
+     "stat": "rec",
+     "side": "under",
+     "line": 6.5
+    },
+    {
+     "sport": "nfl",
+     "player": "T.J. Hockenson",
+     "stat": "rec",
+     "side": "under",
+     "line": 4.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Jordan Addison",
+     "stat": "rec_yds",
+     "side": "over",
+     "line": 43.5
+    }
+   ]
   }
  ]
 }
