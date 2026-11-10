@@ -12,12 +12,12 @@
   ]
  },
  "afternoon_card": {
-  "last_ok": "2026-11-09T15:22:00-05:00",
-  "date": "2026-11-09",
+  "last_ok": "2026-11-10T15:25:00-05:00",
+  "date": "2026-11-10",
   "slips": 2,
   "legs": 4,
-  "shadow_rows": 872,
-  "matchup_rows": 370,
-  "note": "8 NBA + MNF; board 14:53 (18,894 credits); Draymond U5.5 pts $1 price-edge single; 3-leg boosted long shot White/Siakam/Kessler $1 (boost only); day already ~27% via user Pick6 entries; Champagnie/Harper edges blocked by Pick6 exposure; matchup --slate read nbaalt file (0 rows), ran with explicit names instead"
+  "shadow_rows": 408,
+  "matchup_rows": 0,
+  "note": "6 NBA; board 14:53 (18,474 credits); R. Williams U6.5 reb $1.25 consensus-edge single (only 6%+ line); 3-leg boosted long shot SGA/Booker/Tatum reb unders $1 (boost only); MIA/UTA + ORL/SAC injury reports not found; matchup --slate reads nbaalt file again (0 rows)"
  }
 }
