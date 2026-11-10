@@ -9,7 +9,8 @@ import datetime as dt, json, os, re, sys, time, unicodedata, urllib.parse, urlli
 from zoneinfo import ZoneInfo
 ET = ZoneInfo("America/New_York")
 KEYS = [k for k in (os.environ.get("SPORTS_API_KEY_1", ""), os.environ.get("SPORTS_API_KEY_2", "")) if k]
-STATE = {"key": 0, "left": None, "calls": 0}
+STATE = {"key": 0, "left": None, "calls": 0, "rem": {}}
+RESERVE = 14   # NBA requests kept back for the morning box-score job (same key, same UTC day)
 def norm(n): return re.sub(r"[^a-z]", "", unicodedata.normalize("NFKD", str(n)).encode("ascii", "ignore").decode().lower().replace(" jr", "").replace(" iii", "").replace(" ii", ""))
 
 def api(base, path, **q):
@@ -18,6 +19,8 @@ def api(base, path, **q):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers={"x-apisports-key": KEYS[STATE["key"]]}), timeout=30) as r:
                 STATE["left"] = r.headers.get("x-ratelimit-requests-remaining"); STATE["calls"] += 1; d = json.load(r)
+                try: STATE["rem"][base] = int(STATE["left"])
+                except (TypeError, ValueError): pass
             if d.get("errors"):
                 print(f"::warning::{path} errors {d['errors']}")
                 if any(w in str(d["errors"]).lower() for w in ("request", "limit", "suspend", "access", "token")) and STATE["key"] + 1 < len(KEYS): STATE["key"] += 1; continue
@@ -38,10 +41,14 @@ def nba_feed(date, need, cache):
         label = f'{g["teams"]["visitors"]["code"]}@{g["teams"]["home"]["code"]}'
         final = st.lower() == "finished"
         if st.lower() in ("scheduled", "not started"): out[f"__sched_{label}"] = start.strftime("%H:%M"); continue
+        roster = cache.get("roster" + gid)
         if final and gid in cache: rows = cache[gid]
+        elif roster is not None and need is not None and not (set(roster) & need): rows = []        # no open leg in this game
+        elif STATE["rem"].get(B, 99) <= RESERVE: print(f"::warning::NBA requests low ({STATE['rem'].get(B)}); skipping {label}"); rows = []
         else:
             rows = [dict(n=norm(f"{p['player']['firstname']} {p['player']['lastname']}"), pts=p.get("points") or 0, reb=p.get("totReb") or 0,
                          ast=p.get("assists") or 0, fg3m=p.get("tpm") or 0, min=str(p.get("min") or "0")) for p in api(B, "players/statistics", game=g["id"])]
+            if rows: cache["roster" + gid] = [r["n"] for r in rows]
             if final and rows: cache[gid] = rows
         per = g.get("periods", {}).get("current"); clock = g.get("status", {}).get("clock") or ""
         state = "Final" if final else f"Q{per} {clock}".strip()
@@ -83,7 +90,7 @@ def find(feed, player):
     if k in feed: return feed[k]
     last = norm(player.split()[-1]); first = norm(player)[0]
     c = [v for n, v in feed.items() if not n.startswith("__") and n.endswith(last) and n[0] == first]
-    return c[0] if len(c) == 1 else None
+    return dict(c[0], loose=True) if len(c) == 1 else None
 
 def leg_status(leg, feed):
     r = find(feed, leg["player"])
@@ -93,7 +100,7 @@ def leg_status(leg, feed):
     cur = r[leg["stat"]]; over = leg["side"] == "over"; fin = r["final"]
     if over: st = "WON" if cur > leg["line"] else ("LOST" if fin else "live")
     else: st = "LOST" if cur > leg["line"] else ("WON" if fin else "live")
-    return dict(cur=cur, st=st, note=f'{r["game"]} {r["state"]}')
+    return dict(cur=cur, st=st, note=f'{r["game"]} {r["state"]}' + (", matched by last name: check" if r.get("loose") else ""))
 
 def main():
     now = dt.datetime.now(ET); date = sys.argv[1] if len(sys.argv) > 1 else (now - dt.timedelta(hours=6)).date().isoformat()
@@ -108,7 +115,8 @@ def main():
     if not open_slips: print("all slips settled"); return
     sports = {l["sport"] for s in open_slips for l in s["legs"]}
     feed = {}
-    if "nba" in sports: feed.update(nba_feed(date, None, cache))
+    need = {norm(l["player"]) for s_ in open_slips for l in s_["legs"] if l["sport"] == "nba"}
+    if "nba" in sports: feed.update(nba_feed(date, need, cache))
     if "nfl" in sports: feed.update(nfl_feed(date, cache))
     rows = []; alive_pay = 0.0; won_pay = 0.0; staked = 0.0; news = []
     for s in slips:
@@ -127,7 +135,7 @@ def main():
     n = lambda k: sum(1 for v in prev["slips"].values() if v["st"] == k)
     md = [f"# Live slips, {date}\n", f"Updated **{now:%H:%M} ET**. Staked ${staked:g}. Won so far: **${won_pay:.2f}**. Still alive: {n('live') + n('waiting')} slips worth up to ${alive_pay:.2f}. Dead: {n('LOST')}.\n",
           "| # | App | Slip | Stake → pays | Status | Legs |\n|---|---|---|---|---|---|", *rows,
-          f"\nAn over shows WON as soon as it clears; an under shows LOST as soon as it is beaten. Final results are confirmed in the morning settlement. API requests left today: {STATE['left']}.\n"]
+          f"\nAn over shows WON as soon as it clears; an under shows LOST as soon as it is beaten. Final results are confirmed in the morning settlement. NBA data requests left today: {STATE['rem'].get('https://v2.nba.api-sports.io')} (the last {RESERVE} are kept for the morning box scores).\n"]
     open("Record/Live.md", "w").write("\n".join(md)); os.makedirs("status", exist_ok=True); json.dump(prev, open("status/live.json", "w"))
     print("\n".join(md)[:3000])
     for x in news: print("SETTLED: " + x)

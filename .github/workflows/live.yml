@@ -1,10 +1,10 @@
-# Live slip tracker. Every 15 min on game nights (6 PM to 1:30 AM ET); does nothing unless Record/slips/<today>.json has open slips.
+# Live slip tracker. Every 30 min on game nights (6 PM to 1:30 AM ET); does nothing unless Record/slips/<today>.json has open slips.
 # Writes Record/Live.md and comments on the "Live slips" issue when a slip wins or dies (that is the phone alert).
 name: live
 on:
   schedule:
-    - cron: "4-59/15 23 * * *"
-    - cron: "4-59/15 0-6 * * *"
+    - cron: "20,50 23 * * *"
+    - cron: "20,50 0-6 * * *"
   workflow_dispatch:
     inputs: { date: { description: "YYYY-MM-DD (blank = tonight)", required: false } }
 permissions: { contents: write, issues: write }
