@@ -1,0 +1,21 @@
+{
+ "date": "2026-11-10",
+ "slips": [
+  {
+   "id": 238,
+   "book": "DraftKings",
+   "name": "Giannis U5.5 ast (KOTC)",
+   "stake": 5,
+   "pays": 10.25,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Giannis Antetokounmpo",
+     "stat": "ast",
+     "side": "under",
+     "line": 5.5
+    }
+   ]
+  }
+ ]
+}
