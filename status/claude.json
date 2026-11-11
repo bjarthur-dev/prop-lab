@@ -1,23 +1,22 @@
 {
- "morning_settlement": {
-  "last_ok": "2026-11-11T08:36:00-05:00",
-  "date": "2026-11-10",
-  "settled": 7,
-  "flags": 6,
-  "shadow_graded_total": 5638,
-  "nba_logs_through": "2026-11-10",
-  "nba_logs_incomplete": [
-   "MIL 2026-11-06",
-   "CLE 2026-11-07"
-  ]
- },
- "afternoon_card": {
-  "last_ok": "2026-11-10T15:25:00-05:00",
-  "date": "2026-11-10",
-  "slips": 2,
-  "legs": 4,
-  "shadow_rows": 408,
-  "matchup_rows": 0,
-  "note": "6 NBA; board 14:53 (18,474 credits); R. Williams U6.5 reb $1.25 consensus-edge single (only 6%+ line); 3-leg boosted long shot SGA/Booker/Tatum reb unders $1 (boost only); MIA/UTA + ORL/SAC injury reports not found; matchup --slate reads nbaalt file again (0 rows)"
- }
+  "morning_settlement": {
+    "last_ok": "2026-11-11T08:36:00-05:00",
+    "date": "2026-11-10",
+    "settled": 7,
+    "flags": 6,
+    "shadow_graded_total": 5638,
+    "nba_logs_through": "2026-11-10",
+    "nba_logs_incomplete": [
+      "MIL 2026-11-06",
+      "CLE 2026-11-07"
+    ]
+  },
+  "afternoon_card": {
+    "last_ok": "2026-11-11T15:40:00-05:00",
+    "date": "2026-11-11",
+    "slips": 1,
+    "legs": 3,
+    "shadow_rows": 637,
+    "matchup_rows": 4
+  }
 }
