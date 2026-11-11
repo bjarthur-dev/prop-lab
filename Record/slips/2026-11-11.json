@@ -30,6 +30,29 @@
      "line": 1.5
     }
    ]
+  },
+  {
+   "id": 258,
+   "book": "Pick6",
+   "name": "Giddey U8.5 ast + Mobley U3.5 ast",
+   "stake": 3,
+   "pays": 10.8,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Josh Giddey",
+     "stat": "ast",
+     "side": "under",
+     "line": 8.5
+    },
+    {
+     "sport": "nba",
+     "player": "Evan Mobley",
+     "stat": "ast",
+     "side": "under",
+     "line": 3.5
+    }
+   ]
   }
  ]
 }
