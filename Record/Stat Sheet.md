@@ -9,7 +9,7 @@ Written by `engine/stat_sheet.py` every morning from Record/bets.csv and Record/
 - **Bets:** 76 settled, 20 won (26%).
 - **Staked:** $292.04. **Profit:** $+61.10 (ROI +20.9%).
 - **Tools paid from winnings:** $60.00. **Net after tools:** $+1.10.
-- **Bankroll now:** $51.65 (DraftKings).
+- **Bankroll now:** $42.00 (DraftKings).
 
 ### By venue
 
