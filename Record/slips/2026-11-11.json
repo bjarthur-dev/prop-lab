@@ -1,0 +1,35 @@
+{
+ "date": "2026-11-11",
+ "slips": [
+  {
+   "id": 255,
+   "book": "DraftKings",
+   "name": "Pritchard U2.5 3s + Gordon U5.5 reb + Wagner U1.5 3s",
+   "stake": 3,
+   "pays": 15.78,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Payton Pritchard",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Aaron Gordon",
+     "stat": "reb",
+     "side": "under",
+     "line": 5.5
+    },
+    {
+     "sport": "nba",
+     "player": "Franz Wagner",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
+  }
+ ]
+}
