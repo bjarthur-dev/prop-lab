@@ -139,6 +139,22 @@ def main():
         sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
                   "mlb": ("baseball_mlb", "pitcher_strikeouts,batter_hits,batter_total_bases,batter_hits_runs_rbis"),
                   "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds")}
+    if tag == "cbbalt":   # on-demand: college basketball alternate spreads + totals for today's games (parlay/boost building); 2 credits per game
+        key = GAME_SPORTS["ncaab"]; rows = []
+        for e in get(f"sports/{key}/events") or []:
+            t = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET)
+            if t.date().isoformat() != today or t < now: continue
+            o = get(f"sports/{key}/events/{e['id']}/odds", bookmakers=BOOKS.replace(",pick6", ""), markets="alternate_spreads,alternate_totals,spreads,totals,h2h", oddsFormat="american")
+            for b in (o or {}).get("bookmakers", []):
+                for m in b.get("markets", []):
+                    for oc in m.get("outcomes", []):
+                        rows.append(dict(snap_et=now.isoformat(timespec="seconds"), event_id=e["id"], away=e["away_team"], home=e["home_team"], start_et=t.isoformat(timespec="minutes"),
+                                         book=b["key"], market=m["key"], name=oc.get("name"), point=oc.get("point"), price=oc.get("price")))
+        if rows:
+            os.makedirs(f"data/odds/ncaab/{today}", exist_ok=True)
+            pd.DataFrame(rows).to_csv(f"data/odds/ncaab/{today}/cbbalt_{now:%H%M}.csv", index=False)
+        print(f"::notice::ncaab cbbalt: {len(rows)} rows")
+        info["ncaab"] = len(rows); sports = {}
     if tag == "nhlprops":   # on-demand: NHL player props (Pick6 promo hunting); ~6 credits per game
         sports = {"nhl": ("icehockey_nhl", "player_points,player_shots_on_goal,player_assists,player_goals,player_blocked_shots,player_total_saves,player_shots_on_goal_alternate,player_points_alternate,player_assists_alternate,player_total_saves_alternate")}
     if tag == "nflalt":   # on-demand: NFL alternate yardage/reception ladders (Sundays)
