@@ -208,3 +208,8 @@ Rules from this (they override earlier notes where they conflict):
 ## 11-10 Betr: shielded "safe" partners cost more than they add
 - Tkachuk promo MORE 2.5 SOG (63%) + Scheifele shielded MORE 0.5 points (64%) paid **2x**: 40% x 2 = -19%. The shield cut the payout from 3x to 2x.
 - Rule: partner a Betr promo pick with an **unshielded standard line** (full payout) the market has at 60%+ (e.g. LESS 1.5 threes on low-volume shooters), not a shielded low line. Check the payout: break-even is 1 / (product of the two chances).
+
+## 11-11 DraftKings "Stepped Up" college parlay boost (105% at 11+ legs)
+- DK college prices vs the other books (48 games): moneylines about -2.7% per leg, alt spreads -4.4%, alt totals -6.1%. But big-underdog alt spreads (dog getting +25 to +45 at about -360 to -400) were close to fair, some slightly positive.
+- With 105% on the profit, 11 near-fair legs at about -380 each: about 8% to hit, about +100% EV. Hand-picked favourites/alts (user's first slip) were about 4.5% and +35%.
+- Method: pull tag=cbbalt, run engine/cbb_alt.py, pick one leg per game at -360 to -400 with the highest fair chance and leg EV of -4% or better. Max bet was $5.
