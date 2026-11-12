@@ -1,0 +1,473 @@
+sport,game,start,player,market,line,side,dk_price,fair_sharp,fair_all,token_ev_5,ev_sharp,ev_all,n_books,snap
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_assists,2.5,over,124,0.406,0.409,1.65,-9.0,-8.4,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_assists,2.5,under,-163,0.594,0.591,1.2,-4.2,-4.6,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_points,15.5,over,-112,,0.51,1.54,,-3.4,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_points,15.5,under,-114,,0.49,1.38,,-8.1,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_points_rebounds_assists,23.5,over,-119,,0.51,1.41,,-6.1,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_points_rebounds_assists,23.5,under,-111,,0.49,1.44,,-6.9,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_rebounds,5.5,over,-116,0.512,0.501,1.41,-4.7,-6.8,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_rebounds,5.5,under,-113,0.488,0.499,1.46,-7.9,-5.9,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_threes,1.5,over,173,0.336,0.34,1.95,-8.2,-7.1,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_threes,1.5,under,-232,0.664,0.66,0.91,-5.0,-5.6,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_assists,1.5,over,-109,,0.506,1.58,,-2.9,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_assists,1.5,under,-121,,0.494,1.28,,-9.9,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_points,9.5,over,-113,0.491,0.493,1.42,-7.5,-7.1,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_points,9.5,under,-113,0.509,0.507,1.51,-4.0,-4.4,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_points_rebounds_assists,18.5,over,-110,0.51,0.5,1.52,-2.6,-4.6,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_points_rebounds_assists,18.5,under,-119,0.49,0.5,1.35,-9.8,-7.9,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_rebounds,6.5,over,-136,0.577,0.573,1.47,0.1,-0.6,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_rebounds,6.5,under,103,0.423,0.427,1.34,-14.1,-13.3,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_threes,0.5,over,-139,,0.583,1.47,,0.2,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_threes,0.5,under,106,,0.417,1.34,,-14.1,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Anfernee Simons,player_points,10.5,over,-113,0.5,0.495,1.43,-5.8,-6.6,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Anfernee Simons,player_points,10.5,under,-112,0.5,0.505,1.51,-5.4,-4.5,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Anfernee Simons,player_threes,1.5,over,-175,0.617,0.599,1.11,-3.1,-5.9,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Anfernee Simons,player_threes,1.5,under,132,0.383,0.401,1.75,-11.1,-7.0,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_points,21.5,over,-109,0.506,0.504,1.57,-3.0,-3.4,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_points,21.5,under,-117,0.494,0.496,1.36,-8.4,-8.0,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_threes,0.5,over,-144,,0.549,1.23,,-7.1,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_threes,0.5,under,109,,0.451,1.64,,-5.6,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_assists,4.5,over,119,0.415,0.418,1.61,-9.2,-8.4,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_assists,4.5,under,-158,0.585,0.582,1.21,-4.4,-5.0,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_points,10.5,over,-120,0.507,0.497,1.32,-7.0,-8.8,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_points,10.5,under,-106,0.493,0.503,1.62,-4.2,-2.3,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_points_rebounds_assists,22.5,over,-112,0.471,0.478,1.35,-10.9,-9.6,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_points_rebounds_assists,22.5,under,-118,0.529,0.522,1.5,-2.2,-3.5,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_rebounds,6.5,over,-147,0.571,0.568,1.28,-4.0,-4.6,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_rebounds,6.5,under,111,0.429,0.432,1.55,-9.6,-8.8,3,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_assists,4.5,over,101,0.47,0.467,1.56,-5.6,-6.0,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_assists,4.5,under,-133,0.53,0.533,1.3,-7.1,-6.7,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_points,18.5,over,-102,,0.482,1.58,,-4.6,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_points,18.5,under,-125,,0.518,1.35,,-6.7,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_points_rebounds_assists,27.5,over,-109,0.485,0.484,1.45,-6.9,-7.2,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_points_rebounds_assists,27.5,under,-120,0.515,0.516,1.42,-5.6,-5.4,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_rebounds,4.5,over,-104,0.468,0.47,1.46,-8.1,-7.8,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_rebounds,4.5,under,-126,0.532,0.53,1.4,-4.7,-4.9,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_threes,1.5,over,-140,0.54,0.538,1.23,-7.4,-7.8,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_threes,1.5,under,107,0.46,0.462,1.66,-4.8,-4.4,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_assists,8.5,over,-112,0.5,0.501,1.49,-5.4,-5.1,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_assists,8.5,under,-117,0.5,0.499,1.38,-7.3,-7.5,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_points,25.5,over,-104,,0.49,1.59,,-3.9,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_points,25.5,under,-123,,0.51,1.34,,-7.5,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_points_rebounds_assists,39.5,over,-118,0.493,0.495,1.34,-8.8,-8.5,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_points_rebounds_assists,39.5,under,-112,0.507,0.505,1.51,-4.1,-4.5,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_rebounds,5.5,over,-117,0.465,0.475,1.24,-13.8,-11.9,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_rebounds,5.5,under,-113,0.535,0.525,1.61,0.9,-1.1,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_threes,2.5,over,117,0.427,0.43,1.66,-7.3,-6.6,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_threes,2.5,under,-154,0.573,0.57,1.2,-5.6,-6.0,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Caleb Martin,player_assists,1.5,over,125,,0.434,1.86,,-2.4,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Caleb Martin,player_assists,1.5,under,-165,,0.566,1.07,,-9.1,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Caleb Martin,player_rebounds,2.5,over,120,0.433,0.427,1.7,-4.7,-6.0,3,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Caleb Martin,player_rebounds,2.5,under,-158,0.567,0.573,1.17,-7.4,-6.5,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_assists,3.5,over,-162,0.556,0.548,1.01,-10.1,-11.4,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_assists,3.5,under,122,0.444,0.452,1.94,-1.5,0.4,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_points,14.5,over,-122,,0.487,1.23,,-11.3,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_points,14.5,under,-105,,0.513,1.71,,0.1,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_rebounds,2.5,over,-115,0.526,0.515,1.51,-1.7,-3.7,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_rebounds,2.5,under,-115,0.474,0.485,1.34,-11.3,-9.3,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_threes,1.5,over,-179,,0.606,1.1,,-5.6,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_threes,1.5,under,135,,0.394,1.75,,-7.3,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_assists,3.5,over,111,0.428,0.439,1.59,-9.6,-7.4,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_assists,3.5,under,-147,0.572,0.561,1.25,-3.9,-5.7,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_points,8.5,over,-107,0.461,0.472,1.42,-10.8,-8.6,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_points,8.5,under,-119,0.539,0.528,1.51,-0.8,-2.9,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_points_rebounds_assists,14.5,over,-124,0.5,0.497,1.25,-9.7,-10.2,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_points_rebounds_assists,14.5,under,-106,0.5,0.503,1.63,-2.8,-2.2,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_rebounds,2.5,over,-143,0.555,0.546,1.23,-5.7,-7.2,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_rebounds,2.5,under,108,0.445,0.454,1.63,-7.4,-5.6,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_threes,1.5,over,-172,0.606,0.607,1.18,-4.2,-4.0,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_threes,1.5,under,130,0.394,0.393,1.64,-9.3,-9.7,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_assists,1.5,over,-135,,0.581,1.52,,1.2,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_assists,1.5,under,102,,0.419,1.26,,-15.4,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_points,12.5,over,-103,,0.489,1.61,,-3.7,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_points,12.5,under,-124,,0.511,1.33,,-7.6,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_points_rebounds_assists,19.5,over,-117,0.494,0.49,1.33,-8.4,-9.1,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_points_rebounds_assists,19.5,under,-112,0.506,0.51,1.54,-4.2,-3.5,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_rebounds,5.5,over,-105,0.474,0.472,1.46,-7.4,-7.8,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_rebounds,5.5,under,-125,0.526,0.528,1.4,-5.4,-5.0,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_assists,5.5,over,-145,0.572,0.565,1.29,-3.4,-4.6,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_assists,5.5,under,110,0.428,0.435,1.55,-10.1,-8.6,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_points,24.5,over,-112,0.492,0.497,1.46,-6.9,-5.9,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_points,24.5,under,-114,0.508,0.503,1.46,-4.6,-5.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_points_rebounds_assists,37.5,over,-111,0.492,0.491,1.45,-6.5,-6.7,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_points_rebounds_assists,37.5,under,-118,0.508,0.509,1.42,-6.1,-5.9,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_rebounds,6.5,over,-101,0.463,0.474,1.56,-7.9,-5.7,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_rebounds,6.5,under,-131,0.537,0.526,1.3,-5.3,-7.2,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_threes,1.5,over,119,0.441,0.438,1.76,-3.5,-4.1,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_threes,1.5,under,-157,0.559,0.562,1.13,-8.5,-8.0,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Daniel Gafford,player_points,8.5,over,-105,0.486,0.493,1.59,-5.2,-3.7,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Daniel Gafford,player_points,8.5,under,-122,0.514,0.507,1.34,-6.4,-7.8,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Daniel Gafford,player_points_rebounds_assists,15.5,over,-115,,0.5,1.42,,-6.5,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Daniel Gafford,player_points_rebounds_assists,15.5,under,-115,,0.5,1.42,,-6.5,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Daniel Gafford,player_rebounds,5.5,over,-109,0.5,0.505,1.57,-4.1,-3.2,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Daniel Gafford,player_rebounds,5.5,under,-120,0.5,0.495,1.31,-8.3,-9.2,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_assists,5.5,over,102,0.428,0.441,1.41,-13.5,-10.9,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_assists,5.5,under,-134,0.572,0.559,1.42,-0.2,-2.4,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_points,14.5,over,-105,0.502,0.494,1.6,-2.0,-3.5,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_points,14.5,under,-121,0.498,0.506,1.35,-9.0,-7.6,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_points_rebounds_assists,23.5,over,-114,0.506,0.496,1.42,-5.0,-6.9,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_points_rebounds_assists,23.5,under,-116,0.494,0.504,1.43,-8.0,-6.1,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_rebounds,3.5,over,-109,0.506,0.497,1.52,-3.0,-4.8,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_rebounds,3.5,under,-121,0.494,0.503,1.33,-9.8,-8.1,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_threes,1.5,over,-121,0.538,0.517,1.41,-1.8,-5.6,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_threes,1.5,under,-109,0.462,0.483,1.44,-11.4,-7.4,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Dean Wade,player_points,5.5,over,102,,0.474,1.63,,-4.3,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Dean Wade,player_points,5.5,under,-130,,0.526,1.31,,-6.9,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Dean Wade,player_rebounds,4.5,over,-105,0.472,0.475,1.47,-7.9,-7.2,3,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Dean Wade,player_rebounds,4.5,under,-125,0.528,0.525,1.39,-4.9,-5.5,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_assists,4.5,over,-136,0.532,0.545,1.32,-7.6,-5.5,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_assists,4.5,under,103,0.468,0.455,1.53,-5.0,-7.6,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_points,24.5,over,-122,0.508,0.503,1.32,-7.5,-8.5,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_points,24.5,under,-105,0.492,0.497,1.61,-4.0,-3.0,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_rebounds,3.5,over,130,0.403,0.405,1.74,-7.3,-6.8,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_rebounds,3.5,under,-172,0.597,0.595,1.12,-5.6,-6.0,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_threes,1.5,over,-172,0.585,0.59,1.1,-7.5,-6.7,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_threes,1.5,under,130,0.415,0.41,1.78,-4.6,-5.7,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_assists,1.5,over,-175,,0.597,1.1,,-6.2,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_assists,1.5,under,133,,0.403,1.79,,-6.0,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_points_rebounds_assists,20.5,over,-119,0.514,0.506,1.38,-5.4,-6.9,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_points_rebounds_assists,20.5,under,-110,0.486,0.494,1.49,-7.3,-5.6,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_rebounds,3.5,over,103,0.49,0.478,1.68,-0.6,-2.9,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_rebounds,3.5,under,-136,0.51,0.522,1.2,-11.5,-9.5,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_threes,1.5,over,-145,0.532,0.531,1.13,-10.1,-10.3,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_threes,1.5,under,110,0.468,0.469,1.78,-1.8,-1.5,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_assists,2.5,over,117,0.428,0.415,1.55,-7.1,-9.9,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_assists,2.5,under,-154,0.572,0.585,1.28,-5.7,-3.6,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_points,15.5,over,-117,0.5,0.495,1.36,-7.3,-8.1,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_points,15.5,under,-109,0.5,0.505,1.57,-4.1,-3.3,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_points_rebounds_assists,20.5,over,-121,0.5,0.493,1.28,-8.7,-10.0,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_points_rebounds_assists,20.5,under,-109,0.5,0.507,1.59,-4.1,-2.7,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_rebounds,2.5,over,-109,0.486,0.491,1.49,-6.8,-5.9,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_rebounds,2.5,under,-121,0.514,0.509,1.37,-6.1,-7.0,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_threes,3.5,over,-109,0.467,0.475,1.39,-10.5,-9.0,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_threes,3.5,under,-121,0.533,0.525,1.46,-2.6,-4.1,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_assists,4.5,over,-109,0.478,0.484,1.44,-8.4,-7.3,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_assists,4.5,under,-121,0.522,0.516,1.41,-4.6,-5.7,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_points,17.5,over,-104,0.508,0.504,1.68,-0.3,-1.0,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_points,17.5,under,-122,0.492,0.496,1.27,-10.5,-9.8,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_points_rebounds_assists,25.5,over,-110,0.498,0.494,1.49,-4.9,-5.7,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_points_rebounds_assists,25.5,under,-120,0.502,0.506,1.37,-8.0,-7.2,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_rebounds,3.5,over,117,0.431,0.433,1.68,-6.5,-6.0,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_rebounds,3.5,under,-154,0.569,0.567,1.19,-6.1,-6.5,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_threes,3.5,over,105,0.449,0.462,1.62,-7.9,-5.4,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_threes,3.5,under,-138,0.551,0.538,1.26,-5.0,-7.2,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_points,16.5,over,-107,0.49,0.496,1.56,-5.2,-4.0,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_points,16.5,under,-119,0.51,0.504,1.37,-6.1,-7.3,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_points_rebounds_assists,25.5,over,-108,0.5,0.491,1.51,-3.7,-5.4,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_points_rebounds_assists,25.5,under,-122,0.5,0.509,1.35,-9.0,-7.4,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_rebounds,3.5,over,-114,0.506,0.503,1.46,-5.1,-5.6,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_rebounds,3.5,under,-115,0.494,0.497,1.41,-7.6,-7.0,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_threes,2.5,over,103,0.47,0.468,1.61,-4.6,-5.0,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_threes,2.5,under,-136,0.53,0.532,1.25,-8.0,-7.7,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_assists,1.5,over,-116,,0.533,1.6,,-0.8,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_assists,1.5,under,-114,,0.467,1.25,,-12.3,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_points,10.5,over,-128,0.494,0.51,1.26,-12.0,-9.1,3,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_points,10.5,under,101,0.506,0.49,1.71,1.7,-1.6,3,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_points_rebounds_assists,16.5,over,-128,,0.52,1.31,,-7.3,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_points_rebounds_assists,16.5,under,-102,,0.48,1.57,,-5.0,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_rebounds,3.5,over,-148,,0.568,1.27,,-4.8,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_rebounds,3.5,under,113,,0.432,1.59,,-8.0,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_threes,2.5,over,140,0.399,0.407,1.96,-4.2,-2.2,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_threes,2.5,under,-185,0.601,0.593,0.99,-7.5,-8.7,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_assists,3.5,over,120,0.413,0.418,1.63,-9.1,-8.1,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_assists,3.5,under,-159,0.587,0.582,1.2,-4.4,-5.2,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_points,16.5,over,-121,,0.506,1.35,,-7.5,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_points,16.5,under,-105,,0.494,1.59,,-3.6,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_points_rebounds_assists,26.5,over,-104,0.476,0.478,1.51,-6.6,-6.3,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_points_rebounds_assists,26.5,under,-126,0.524,0.522,1.36,-6.0,-6.3,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_rebounds,5.5,over,-112,0.467,0.483,1.38,-11.5,-8.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_rebounds,5.5,under,-118,0.533,0.517,1.47,-1.6,-4.4,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_threes,1.5,over,127,0.431,0.431,1.89,-2.2,-2.1,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_threes,1.5,under,-168,0.569,0.569,1.04,-9.2,-9.3,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_assists,1.5,over,-175,,0.597,1.1,,-6.1,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_assists,1.5,under,132,,0.403,1.76,,-6.6,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_points,11.5,over,-109,0.494,0.483,1.44,-5.3,-7.3,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_points,11.5,under,-117,0.506,0.517,1.48,-6.1,-4.2,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_rebounds,8.5,over,-104,0.468,0.467,1.45,-8.3,-8.3,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_rebounds,8.5,under,-127,0.532,0.533,1.4,-4.9,-4.8,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_assists,2.5,over,-169,0.598,0.595,1.15,-4.9,-5.4,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_assists,2.5,under,128,0.402,0.405,1.7,-8.3,-7.6,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_points,13.5,over,-123,0.496,0.503,1.3,-10.1,-8.7,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_points,13.5,under,-104,0.504,0.497,1.63,-1.2,-2.6,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_points_rebounds_assists,20.5,over,-125,0.514,0.512,1.31,-7.4,-7.9,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_points_rebounds_assists,20.5,under,-105,0.486,0.488,1.56,-5.2,-4.7,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_rebounds,3.5,over,-133,0.518,0.517,1.22,-9.2,-9.4,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_rebounds,3.5,under,101,0.482,0.483,1.66,-3.1,-2.9,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_threes,1.5,over,121,0.447,0.443,1.84,-1.1,-2.2,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_threes,1.5,under,-159,0.553,0.557,1.09,-10.0,-9.2,8,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_assists,4.5,over,-102,0.462,0.46,1.45,-8.5,-8.9,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_assists,4.5,under,-129,0.538,0.54,1.4,-4.5,-4.2,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_points,23.5,over,-115,0.512,0.504,1.45,-4.3,-5.8,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_points,23.5,under,-111,0.488,0.496,1.48,-7.2,-5.7,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_points_rebounds_assists,34.5,over,-122,,0.507,1.34,,-7.8,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_points_rebounds_assists,34.5,under,-107,,0.493,1.55,,-4.6,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_rebounds,6.5,over,-111,0.5,0.506,1.54,-5.0,-3.9,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_rebounds,6.5,under,-118,0.5,0.494,1.34,-7.6,-8.7,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_threes,1.5,over,-147,0.561,0.561,1.25,-5.7,-5.8,8,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_threes,1.5,under,111,0.439,0.439,1.6,-7.4,-7.3,8,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_assists,4.5,over,113,0.428,0.43,1.57,-8.8,-8.5,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_assists,4.5,under,-149,0.572,0.57,1.27,-4.5,-4.7,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_points,21.5,over,-120,0.51,0.504,1.36,-6.5,-7.6,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_points,21.5,under,-106,0.49,0.496,1.58,-4.8,-3.6,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_points_rebounds_assists,35.5,over,-105,0.481,0.481,1.51,-6.1,-6.2,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_points_rebounds_assists,35.5,under,-125,0.519,0.519,1.36,-6.6,-6.5,2,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_rebounds,8.5,over,-113,0.519,0.51,1.52,-2.1,-3.9,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_rebounds,8.5,under,-116,0.481,0.49,1.35,-10.5,-8.7,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_threes,0.5,over,-164,,0.6,1.23,,-3.4,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_threes,0.5,under,124,,0.4,1.58,,-10.5,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_assists,1.5,over,134,,0.391,1.71,,-8.5,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_assists,1.5,under,-177,,0.609,1.13,,-4.7,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_points,12.5,over,-115,0.515,0.508,1.47,-3.8,-5.0,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_points,12.5,under,-111,0.485,0.492,1.45,-7.7,-6.5,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_rebounds,6.5,over,-136,0.555,0.551,1.35,-3.6,-4.5,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_rebounds,6.5,under,103,0.445,0.449,1.49,-9.8,-8.8,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_threes,0.5,over,-222,,0.647,0.93,,-6.1,2,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_threes,0.5,under,166,,0.353,1.96,,-6.1,2,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_assists,2.5,over,110,0.437,0.447,1.63,-8.3,-6.1,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_assists,2.5,under,-145,0.563,0.553,1.24,-4.8,-6.6,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_points,13.5,over,-119,0.531,0.512,1.42,-2.2,-5.7,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_points,13.5,under,-107,0.469,0.488,1.51,-9.3,-5.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_points_rebounds_assists,21.5,over,-121,,0.507,1.36,,-7.3,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_points_rebounds_assists,21.5,under,-108,,0.493,1.52,,-5.1,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_rebounds,5.5,over,-109,0.49,0.48,1.42,-6.0,-8.0,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_rebounds,5.5,under,-121,0.51,0.52,1.43,-6.9,-5.0,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_threes,1.5,over,115,0.431,0.435,1.66,-7.3,-6.4,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_threes,1.5,under,-152,0.569,0.565,1.2,-5.7,-6.4,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jordan Goodwin,player_points,6.5,over,-114,,0.514,1.52,,-3.6,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jordan Goodwin,player_points,6.5,under,-112,,0.486,1.4,,-8.0,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jordan Goodwin,player_rebounds,3.5,over,125,0.422,0.423,1.78,-5.1,-4.7,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jordan Goodwin,player_rebounds,3.5,under,-165,0.578,0.577,1.11,-7.1,-7.4,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jordan Goodwin,player_threes,1.5,over,122,0.472,0.454,1.95,4.7,0.8,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jordan Goodwin,player_threes,1.5,under,-161,0.528,0.546,1.02,-14.4,-11.5,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kevin Huerter,player_points,10.5,over,101,0.462,0.47,1.58,-7.1,-5.6,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kevin Huerter,player_points,10.5,under,-128,0.538,0.53,1.37,-4.2,-5.6,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kevin Huerter,player_threes,1.5,over,102,0.468,0.487,1.71,-5.5,-1.7,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kevin Huerter,player_threes,1.5,under,-134,0.532,0.513,1.18,-7.1,-10.4,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Khaman Maluach,player_points,6.5,over,-111,0.506,0.504,1.53,-3.9,-4.2,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Khaman Maluach,player_points,6.5,under,-115,0.494,0.496,1.4,-7.6,-7.3,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Khaman Maluach,player_rebounds,5.5,over,-111,0.498,0.498,1.49,-5.4,-5.4,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Khaman Maluach,player_rebounds,5.5,under,-118,0.502,0.502,1.38,-7.2,-7.2,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_assists,4.5,over,121,0.428,0.435,1.79,-5.4,-3.8,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_assists,4.5,under,-159,0.572,0.565,1.12,-6.9,-8.0,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_points,21.5,over,-121,,0.521,1.44,,-4.8,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_points,21.5,under,-105,,0.479,1.5,,-6.5,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_points_rebounds_assists,29.5,over,-121,,0.513,1.39,,-6.3,3,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_points_rebounds_assists,29.5,under,-109,,0.487,1.46,,-6.7,3,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_rebounds,3.5,over,-106,0.481,0.472,1.44,-6.5,-8.2,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_rebounds,3.5,under,-124,0.519,0.528,1.42,-6.2,-4.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_threes,2.5,over,-155,0.575,0.57,1.19,-5.4,-6.3,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_threes,2.5,under,118,0.425,0.43,1.68,-7.4,-6.2,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_assists,3.5,over,-154,,0.572,1.22,,-5.6,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_assists,3.5,under,116,,0.428,1.62,,-7.6,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_points,14.5,over,-101,0.47,0.474,1.56,-6.5,-5.6,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_points,14.5,under,-126,0.53,0.526,1.37,-4.9,-5.7,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_points_rebounds_assists,22.5,over,-125,0.528,0.516,1.34,-4.9,-7.1,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_points_rebounds_assists,22.5,under,-105,0.472,0.484,1.53,-7.9,-5.5,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_rebounds,4.5,over,-108,0.496,0.49,1.5,-4.5,-5.7,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_rebounds,4.5,under,-122,0.504,0.51,1.36,-8.3,-7.1,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_threes,1.5,over,-170,0.614,0.606,1.19,-2.5,-3.7,7,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_threes,1.5,under,128,0.386,0.394,1.61,-12.0,-10.2,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_assists,6.5,over,-114,0.479,0.487,1.37,-10.1,-8.5,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_assists,6.5,under,-115,0.521,0.513,1.5,-2.6,-4.2,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_points,20.5,over,-115,0.497,0.495,1.39,-7.1,-7.5,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_points,20.5,under,-110,0.503,0.505,1.55,-4.0,-3.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_points_rebounds_assists,31.5,over,-119,0.485,0.487,1.28,-10.7,-10.3,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_points_rebounds_assists,31.5,under,-111,0.515,0.513,1.58,-2.2,-2.6,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_rebounds,3.5,over,-158,0.578,0.571,1.16,-5.6,-6.8,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_rebounds,3.5,under,120,0.422,0.429,1.72,-7.2,-5.6,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_threes,3.5,over,101,0.449,0.456,1.49,-9.8,-8.3,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_threes,3.5,under,-133,0.551,0.544,1.36,-3.5,-4.8,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_assists,2.5,over,-132,0.532,0.53,1.3,-6.5,-6.8,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_assists,2.5,under,100,0.468,0.47,1.55,-6.4,-6.1,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_points,15.5,over,-117,0.5,0.5,1.39,-7.3,-7.3,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_points,15.5,under,-109,0.5,0.5,1.54,-4.1,-4.1,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_points_rebounds_assists,25.5,over,-109,,0.482,1.44,,-7.5,2,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_points_rebounds_assists,25.5,under,-121,,0.518,1.42,,-5.5,2,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_rebounds,6.5,over,-107,0.49,0.491,1.53,-5.2,-5.1,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_rebounds,6.5,under,-123,0.51,0.509,1.33,-7.5,-7.7,8,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_threes,1.5,over,-161,0.546,0.556,1.06,-11.5,-9.9,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_threes,1.5,under,122,0.454,0.444,1.88,0.8,-1.4,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_assists,1.5,over,-177,,0.578,1.0,,-9.5,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_assists,1.5,under,134,,0.422,1.96,,-1.4,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_points,8.5,over,-116,0.5,0.494,1.37,-6.9,-8.0,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_points,8.5,under,-110,0.5,0.506,1.56,-4.5,-3.4,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_points_rebounds_assists,19.5,over,-126,0.506,0.503,1.25,-9.2,-9.8,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_points_rebounds_assists,19.5,under,-104,0.494,0.497,1.64,-3.1,-2.5,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_rebounds,8.5,over,-133,,0.524,1.25,,-8.3,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_rebounds,8.5,under,101,,0.476,1.62,,-4.2,3,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_assists,2.5,over,-122,0.542,0.534,1.49,-1.4,-2.7,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_assists,2.5,under,-108,0.458,0.466,1.35,-11.8,-10.3,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_points,9.5,over,-102,0.477,0.487,1.62,-5.6,-3.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_points,9.5,under,-125,0.523,0.513,1.32,-5.8,-7.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_points_rebounds_assists,15.5,over,-109,0.486,0.494,1.51,-6.8,-5.3,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_points_rebounds_assists,15.5,under,-121,0.514,0.506,1.35,-6.1,-7.5,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_rebounds,3.5,over,127,0.406,0.41,1.72,-7.7,-7.0,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_rebounds,3.5,under,-168,0.594,0.59,1.14,-5.3,-5.8,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_assists,2.5,over,-118,0.5,0.493,1.33,-7.6,-8.9,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_assists,2.5,under,-112,0.5,0.507,1.52,-5.4,-4.0,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_points,20.5,over,-115,0.508,0.504,1.45,-5.0,-5.7,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_points,20.5,under,-110,0.492,0.496,1.5,-6.1,-5.4,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_points_rebounds_assists,31.5,over,-116,0.506,0.502,1.42,-5.8,-6.5,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_points_rebounds_assists,31.5,under,-113,0.494,0.498,1.45,-6.9,-6.1,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_threes,2.5,over,-102,0.505,0.5,1.7,0.0,-1.0,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_threes,2.5,under,-130,0.495,0.5,1.17,-12.4,-11.5,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_assists,2.5,over,119,0.421,0.434,1.73,-7.7,-4.9,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_assists,2.5,under,-157,0.579,0.566,1.15,-5.3,-7.4,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_points,6.5,over,-110,0.51,0.497,1.5,-2.6,-5.1,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_points,6.5,under,-116,0.49,0.503,1.42,-8.8,-6.3,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_points_rebounds_assists,14.5,over,-110,0.494,0.485,1.43,-5.7,-7.3,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_points_rebounds_assists,14.5,under,-119,0.506,0.515,1.43,-6.9,-5.3,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_rebounds,5.5,over,115,0.433,0.44,1.69,-6.9,-5.3,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_rebounds,5.5,under,-151,0.567,0.56,1.19,-5.7,-7.0,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_points,13.5,over,101,0.453,0.463,1.53,-8.9,-6.9,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_points,13.5,under,-129,0.547,0.537,1.39,-2.9,-4.7,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_points_rebounds_assists,21.5,over,-112,0.486,0.488,1.41,-8.0,-7.7,3,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_points_rebounds_assists,21.5,under,-117,0.514,0.512,1.46,-4.6,-5.0,3,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_rebounds,6.5,over,-113,0.485,0.491,1.41,-8.6,-7.4,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_rebounds,6.5,under,-117,0.515,0.509,1.44,-4.4,-5.6,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_threes,1.5,over,-145,0.583,0.568,1.31,-1.5,-4.0,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_threes,1.5,under,110,0.417,0.432,1.52,-12.4,-9.4,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_assists,1.5,over,-167,,0.564,1.03,,-9.9,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_assists,1.5,under,126,,0.436,1.9,,-1.4,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_points,10.5,over,-106,0.485,0.486,1.52,-5.8,-5.6,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_points,10.5,under,-121,0.515,0.514,1.4,-5.9,-6.1,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_points_rebounds_assists,19.5,over,-112,0.506,0.498,1.47,-4.2,-5.8,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_points_rebounds_assists,19.5,under,-117,0.494,0.502,1.4,-8.4,-6.8,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_rebounds,6.5,over,-126,0.571,0.552,1.52,2.5,-1.1,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_rebounds,6.5,under,-104,0.429,0.448,1.33,-15.9,-12.0,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_assists,3.5,over,-133,0.573,0.566,1.48,0.5,-0.8,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_assists,3.5,under,101,0.427,0.434,1.34,-14.3,-12.9,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_points,22.5,over,-124,0.488,0.492,1.22,-11.9,-11.1,8,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_points,22.5,under,-103,0.512,0.508,1.73,0.9,0.1,8,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_rebounds,5.5,over,-143,0.534,0.54,1.2,-9.3,-8.2,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_rebounds,5.5,under,109,0.466,0.46,1.7,-2.6,-3.9,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_threes,1.5,over,-106,0.459,0.476,1.46,-10.7,-7.5,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_threes,1.5,under,-125,0.541,0.524,1.38,-2.7,-5.7,7,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_points,6.5,over,-116,,0.5,1.4,,-7.0,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_points,6.5,under,-110,,0.5,1.52,,-4.5,3,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_rebounds,3.5,over,-124,0.542,0.52,1.38,-2.1,-6.0,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_rebounds,3.5,under,-106,0.458,0.48,1.48,-11.0,-6.8,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_threes,1.5,over,-138,,0.557,1.36,,-3.9,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_threes,1.5,under,105,,0.443,1.49,,-9.3,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_assists,1.5,over,111,0.481,0.474,1.84,1.5,-0.0,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_assists,1.5,under,-146,0.519,0.526,1.09,-12.5,-11.4,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_points,9.5,over,-107,0.5,0.493,1.54,-3.3,-4.7,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_points,9.5,under,-119,0.5,0.507,1.39,-8.0,-6.6,8,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_points_rebounds_assists,22.5,over,-108,0.486,0.489,1.5,-6.4,-5.9,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_points_rebounds_assists,22.5,under,-122,0.514,0.511,1.36,-6.4,-7.0,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_rebounds,11.5,over,102,0.437,0.453,1.49,-11.8,-8.5,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_rebounds,11.5,under,-134,0.563,0.547,1.36,-1.6,-4.5,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Ryan Kalkbrenner,player_points,5.5,over,-125,0.521,0.506,1.28,-6.2,-8.9,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Ryan Kalkbrenner,player_points,5.5,under,-102,0.479,0.494,1.66,-5.2,-2.2,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Ryan Kalkbrenner,player_rebounds,4.5,over,101,0.494,0.488,1.7,-0.7,-1.9,4,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Ryan Kalkbrenner,player_rebounds,4.5,under,-133,0.506,0.512,1.19,-11.3,-10.3,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Santi Aldama,player_points,7.5,over,-114,0.5,0.502,1.45,-6.1,-5.9,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Santi Aldama,player_points,7.5,under,-112,0.5,0.498,1.47,-5.4,-5.6,4,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Santi Aldama,player_rebounds,3.5,over,-129,0.528,0.535,1.38,-6.2,-5.0,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Santi Aldama,player_rebounds,3.5,under,-102,0.472,0.465,1.48,-6.6,-7.9,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_assists,2.5,over,-172,0.532,0.561,0.97,-15.8,-11.3,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_assists,2.5,under,130,0.468,0.439,2.01,7.6,1.0,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_points,7.5,over,-130,0.524,0.519,1.28,-7.3,-8.2,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_points,7.5,under,102,0.476,0.481,1.67,-3.9,-2.9,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_rebounds,3.5,over,-121,,0.53,1.49,,-3.1,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_rebounds,3.5,under,-108,,0.47,1.38,,-9.5,5,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_threes,1.5,over,-102,0.472,0.478,1.56,-6.6,-5.4,6,2026-11-12T14:54:23-05:00
+NBA,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_threes,1.5,under,-129,0.528,0.522,1.31,-6.2,-7.2,6,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Terrence Shannon Jr.,player_points,9.5,over,-121,0.521,0.511,1.38,-4.8,-6.7,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Terrence Shannon Jr.,player_points,9.5,under,-106,0.479,0.489,1.54,-6.9,-4.9,7,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Terrence Shannon Jr.,player_threes,1.5,over,157,0.368,0.367,1.93,-5.5,-5.6,5,2026-11-12T14:54:23-05:00
+NBA,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Terrence Shannon Jr.,player_threes,1.5,under,-210,0.632,0.633,0.96,-6.6,-6.6,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_assists,7.5,over,-134,0.567,0.551,1.38,-1.0,-3.9,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_assists,7.5,under,102,0.433,0.449,1.47,-12.5,-9.2,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_points,16.5,over,-104,0.471,0.484,1.55,-7.5,-5.0,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_points,16.5,under,-122,0.529,0.516,1.39,-3.8,-6.1,8,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_points_rebounds_assists,26.5,over,-121,0.514,0.511,1.38,-6.1,-6.7,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_points_rebounds_assists,26.5,under,-108,0.486,0.489,1.5,-6.4,-5.8,3,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_rebounds,2.5,over,114,0.434,0.445,1.71,-7.2,-4.7,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_rebounds,2.5,under,-151,0.566,0.555,1.17,-5.8,-7.8,6,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_threes,2.5,over,143,0.375,0.382,1.8,-8.8,-7.2,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_threes,2.5,under,-189,0.625,0.618,1.06,-4.5,-5.5,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Tre Johnson,player_points,9.5,over,-105,0.458,0.465,1.41,-10.6,-9.2,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Tre Johnson,player_points,9.5,under,-122,0.542,0.535,1.5,-1.4,-2.6,4,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Tre Johnson,player_threes,1.5,over,-102,,0.481,1.58,,-4.8,5,2026-11-12T14:54:23-05:00
+NBA,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Tre Johnson,player_threes,1.5,under,-128,,0.519,1.31,,-7.5,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_assists,5.5,over,-144,0.539,0.538,1.17,-8.7,-8.9,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_assists,5.5,under,109,0.461,0.462,1.71,-3.7,-3.4,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_points,25.5,over,-116,0.494,0.491,1.36,-8.0,-8.5,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_points,25.5,under,-110,0.506,0.509,1.57,-3.4,-2.9,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_points_rebounds_assists,35.5,over,-118,0.49,0.49,1.31,-9.5,-9.4,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_points_rebounds_assists,35.5,under,-112,0.51,0.51,1.54,-3.4,-3.5,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_rebounds,3.5,over,-132,0.535,0.526,1.28,-6.0,-7.5,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_rebounds,3.5,under,100,0.465,0.474,1.58,-6.9,-5.2,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_threes,2.5,over,-124,0.541,0.527,1.42,-2.4,-4.7,8,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_threes,2.5,under,-106,0.459,0.473,1.44,-10.7,-8.1,8,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_assists,3.5,over,114,0.416,0.426,1.57,-11.1,-8.8,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_assists,3.5,under,-150,0.584,0.574,1.27,-2.6,-4.4,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_points,13.5,over,-115,0.532,0.52,1.54,-0.5,-2.8,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_points,13.5,under,-110,0.468,0.48,1.4,-10.7,-8.3,6,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_points_rebounds_assists,23.5,over,-106,0.5,0.496,1.58,-2.8,-3.7,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_points_rebounds_assists,23.5,under,-124,0.5,0.504,1.29,-9.7,-8.9,5,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_rebounds,5.5,over,-138,0.575,0.561,1.38,-0.8,-3.2,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_rebounds,5.5,under,105,0.425,0.439,1.46,-12.9,-10.1,4,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_threes,1.5,over,-139,0.547,0.559,1.35,-5.9,-3.8,7,2026-11-12T14:54:23-05:00
+NBA,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_threes,1.5,under,106,0.453,0.441,1.5,-6.7,-9.2,7,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Antonio Williams,player_reception_yds,36.5,over,-114,,0.497,1.43,,-6.6,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Antonio Williams,player_reception_yds,36.5,under,-110,,0.503,1.54,,-4.1,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Antonio Williams,player_receptions,3.5,over,-115,0.522,0.51,1.48,-2.5,-4.6,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Antonio Williams,player_receptions,3.5,under,-111,0.478,0.49,1.44,-9.1,-6.9,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_reception_yds,10.5,over,-110,0.5,0.501,1.53,-4.5,-4.3,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_reception_yds,10.5,under,-114,0.5,0.499,1.44,-6.1,-6.4,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_receptions,1.5,over,-124,0.516,0.512,1.33,-6.7,-7.5,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_receptions,1.5,under,-103,0.484,0.488,1.6,-4.7,-3.8,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_attempts,8.5,over,-123,0.496,0.504,1.3,-10.1,-8.7,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_attempts,8.5,under,-104,0.504,0.496,1.63,-1.1,-2.7,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_yds,29.5,over,-115,0.502,0.509,1.47,-6.1,-4.9,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_yds,29.5,under,-109,0.498,0.491,1.49,-4.5,-5.8,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_receptions,1.5,over,115,0.436,0.427,1.6,-6.4,-8.2,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_receptions,1.5,under,-147,0.564,0.573,1.31,-5.2,-3.7,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_rush_yds,60.5,over,-114,,0.5,1.44,,-6.1,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_rush_yds,60.5,under,-110,,0.5,1.52,,-4.5,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Chig Okonkwo,player_receptions,3.5,over,-142,0.553,0.55,1.26,-5.7,-6.3,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Chig Okonkwo,player_receptions,3.5,under,111,0.447,0.45,1.68,-5.7,-5.0,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_reception_yds,14.5,over,-108,0.501,0.503,1.58,-3.5,-3.2,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_reception_yds,14.5,under,-116,0.499,0.497,1.39,-7.1,-7.4,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_receptions,1.5,over,101,0.474,0.464,1.54,-4.7,-6.7,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_receptions,1.5,under,-128,0.526,0.536,1.4,-6.3,-4.5,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_reception_yds,8.5,over,-114,,0.506,1.48,,-5.0,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_reception_yds,8.5,under,-110,,0.494,1.49,,-5.7,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_receptions,1.5,over,101,0.475,0.477,1.62,-4.6,-4.2,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_receptions,1.5,under,-128,0.525,0.523,1.33,-6.4,-6.8,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_rush_attempts,7.5,over,104,0.46,0.458,1.57,-6.2,-6.5,3,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_rush_attempts,7.5,under,-132,0.54,0.542,1.37,-5.0,-4.8,3,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_rush_yds,23.5,over,-109,0.51,0.505,1.57,-2.2,-3.2,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_rush_yds,23.5,under,-115,0.49,0.495,1.4,-8.4,-7.4,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_reception_yds,46.5,over,-112,0.5,0.499,1.48,-5.4,-5.5,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_reception_yds,46.5,under,-112,0.5,0.501,1.49,-5.4,-5.2,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_receptions,4.5,over,-112,0.469,0.486,1.4,-11.3,-7.9,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_receptions,4.5,under,-113,0.531,0.514,1.54,0.2,-3.2,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,J.J. McCarthy,player_rush_yds,15.5,over,-107,0.5,0.498,1.57,-3.3,-3.7,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,J.J. McCarthy,player_rush_yds,15.5,under,-117,0.5,0.502,1.4,-7.3,-6.9,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malachi Fields,player_receptions,2.5,over,130,0.394,0.402,1.72,-9.4,-7.5,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malachi Fields,player_receptions,2.5,under,-166,0.606,0.598,1.2,-2.9,-4.2,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malik Nabers,player_reception_yds,67.5,over,-110,,0.517,1.63,,-1.2,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malik Nabers,player_reception_yds,67.5,under,-114,,0.483,1.34,,-9.4,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malik Nabers,player_receptions,5.5,over,-137,0.523,0.525,1.2,-9.5,-9.2,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malik Nabers,player_receptions,5.5,under,107,0.477,0.475,1.76,-1.3,-1.6,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_reception_yds,11.5,over,-114,,0.504,1.47,,-5.3,3,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_reception_yds,11.5,under,-110,,0.496,1.5,,-5.4,3,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_receptions,2.5,over,148,0.399,0.391,1.98,-1.0,-3.0,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_receptions,2.5,under,-190,0.601,0.609,1.02,-8.3,-7.1,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_attempts,10.5,over,-112,0.502,0.5,1.48,-4.9,-5.3,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_attempts,10.5,under,-114,0.498,0.5,1.44,-6.5,-6.2,6,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_yds,37.5,over,-115,,0.498,1.42,,-6.8,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_yds,37.5,under,-109,,0.502,1.55,,-3.8,2,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Theo Johnson,player_receptions,0.5,over,-155,0.554,0.559,1.14,-8.8,-8.0,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Theo Johnson,player_receptions,0.5,under,121,0.446,0.441,1.83,-1.5,-2.6,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Treylon Burks,player_reception_yds,26.5,over,-114,0.5,0.501,1.45,-6.1,-6.0,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Treylon Burks,player_reception_yds,26.5,under,-110,0.5,0.499,1.52,-4.5,-4.7,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Treylon Burks,player_receptions,1.5,over,-179,0.61,0.614,1.13,-4.9,-4.4,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Treylon Burks,player_receptions,1.5,under,139,0.39,0.386,1.77,-6.9,-7.6,5,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Van Jefferson,player_reception_yds,7.5,over,-107,0.5,0.499,1.58,-3.3,-3.5,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Van Jefferson,player_reception_yds,7.5,under,-117,0.5,0.501,1.39,-7.3,-7.0,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Van Jefferson,player_receptions,1.5,over,167,0.336,0.339,1.84,-10.2,-9.5,4,2026-11-12T14:54:23-05:00
+NFL,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Van Jefferson,player_receptions,1.5,under,-215,0.664,0.661,1.03,-2.7,-3.1,4,2026-11-12T14:54:23-05:00

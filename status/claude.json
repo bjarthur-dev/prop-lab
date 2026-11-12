@@ -1,22 +1,22 @@
 {
-  "morning_settlement": {
-    "last_ok": "2026-11-12T08:39:00-05:00",
-    "date": "2026-11-11",
-    "settled": 17,
-    "flags": 4,
-    "shadow_graded_total": 5912,
-    "nba_logs_through": "2026-11-11",
-    "nba_logs_incomplete": [
-      "MIL 2026-11-06",
-      "CLE 2026-11-07"
-    ]
-  },
-  "afternoon_card": {
-    "last_ok": "2026-11-11T15:40:00-05:00",
-    "date": "2026-11-11",
-    "slips": 1,
-    "legs": 3,
-    "shadow_rows": 637,
-    "matchup_rows": 4
-  }
+ "morning_settlement": {
+  "last_ok": "2026-11-12T08:39:00-05:00",
+  "date": "2026-11-11",
+  "settled": 17,
+  "flags": 4,
+  "shadow_graded_total": 5912,
+  "nba_logs_through": "2026-11-11",
+  "nba_logs_incomplete": [
+   "MIL 2026-11-06",
+   "CLE 2026-11-07"
+  ]
+ },
+ "afternoon_card": {
+  "last_ok": "2026-11-12T15:35:00-05:00",
+  "date": "2026-11-12",
+  "slips": 0,
+  "legs": 0,
+  "shadow_rows": 545,
+  "matchup_rows": 16
+ }
 }

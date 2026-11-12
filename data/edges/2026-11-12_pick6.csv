@@ -1,0 +1,224 @@
+sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books,how,pick6_price,pick_mult
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Theo Johnson,player_reception_yds,4.5,MORE,0.615,5.5,0.5,2,fit from 5.5 (sd 3.4),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Van Jefferson,player_reception_yds,6.5,MORE,0.585,7.5,0.5,1,fit from 7.5 (sd 4.7),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_assists,4.5,LESS,0.561,4.5,0.439,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_assists,3.5,MORE,0.56,3.5,0.56,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_reception_yds,11.5,MORE,0.551,12.5,0.5,2,fit from 12.5 (sd 7.8),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malachi Fields,player_reception_yds,27.5,LESS,0.55,25.5,0.5,2,fit from 25.5 (sd 15.8),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Jayden Daniels,player_rush_yds,38.5,LESS,0.55,34.5,0.533,1,fit from 34.5 (sd 19.0),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Treylon Burks,player_reception_yds,28.5,LESS,0.548,26.5,0.5,2,fit from 26.5 (sd 16.4),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,J.J. McCarthy,player_rush_yds,14.5,MORE,0.547,15.5,0.5,1,fit from 15.5 (sd 8.5),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_reception_yds,13.5,MORE,0.544,14.5,0.5,1,fit from 14.5 (sd 9.0),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Stefon Diggs,player_reception_yds,38.5,LESS,0.535,36.5,0.5,1,fit from 36.5 (sd 22.6),-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_points,13.5,LESS,0.533,13.5,0.467,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_points,22.5,LESS,0.532,22.5,0.468,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,LeBron James,player_points,16.5,LESS,0.532,16.5,0.468,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Caleb Martin,player_points,3.5,MORE,0.531,3.5,0.531,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_points,23.5,MORE,0.531,24.5,0.49,2,fit from 24.5 (sd 9.6),-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_points,13.5,MORE,0.53,13.5,0.53,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_points,24.5,LESS,0.528,24.5,0.472,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_points,14.5,LESS,0.528,14.5,0.472,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_receptions,1.5,LESS,0.528,1.5,0.472,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_points,16.5,LESS,0.527,16.5,0.473,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_rush_yds,55.5,LESS,0.527,50.5,0.545,1,fit from 50.5 (sd 27.8),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_points,14.5,MORE,0.527,14.5,0.527,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_points,17.5,LESS,0.526,17.5,0.474,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_assists,2.5,LESS,0.524,2.5,0.476,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_points,24.5,MORE,0.524,24.5,0.524,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_points,21.5,MORE,0.524,21.5,0.524,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_points,15.5,LESS,0.522,14.5,0.545,2,fit from 14.5 (sd 6.0),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_points,13.5,MORE,0.522,13.5,0.522,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_points,13.5,MORE,0.522,13.5,0.522,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Chig Okonkwo,player_reception_yds,33.5,MORE,0.521,34.5,0.502,1,fit from 34.5 (sd 21.4),-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_assists,6.5,LESS,0.519,6.5,0.481,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_assists,2.5,MORE,0.518,2.5,0.518,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Antonio Williams,player_reception_yds,38.5,LESS,0.517,37.5,0.5,1,fit from 37.5 (sd 23.2),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_points,12.5,MORE,0.517,12.5,0.517,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_points,16.5,LESS,0.517,16.5,0.483,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,J.J. McCarthy,player_pass_yds,210.5,LESS,0.516,208.5,0.5,1,fit from 208.5 (sd 50.0),-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_points,10.5,MORE,0.516,10.5,0.516,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_reception_yds,47.5,MORE,0.515,48.5,0.502,2,fit from 48.5 (sd 30.1),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_receptions,4.5,MORE,0.514,4.5,0.514,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_receptions,1.5,MORE,0.514,1.5,0.514,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_points,14.5,LESS,0.513,14.5,0.487,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_points,17.5,MORE,0.513,17.5,0.513,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_assists,3.5,MORE,0.513,3.5,0.513,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Jayden Daniels,player_pass_yds,200.5,MORE,0.512,202.5,0.496,2,fit from 202.5 (sd 48.6),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malik Nabers,player_reception_yds,69.5,LESS,0.511,67.5,0.508,1,fit from 67.5 (sd 41.9),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_points,20.5,LESS,0.511,20.5,0.489,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_yds,29.5,LESS,0.509,29.5,0.491,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_points,10.5,MORE,0.509,10.5,0.509,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_points,9.5,LESS,0.509,9.5,0.491,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_points,20.5,LESS,0.508,20.5,0.492,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_points,13.5,LESS,0.508,13.5,0.492,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Terrence Shannon Jr.,player_points,9.5,MORE,0.508,9.5,0.508,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_points,22.5,MORE,0.507,22.5,0.507,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_points,15.5,LESS,0.507,15.5,0.493,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_reception_yds,7.5,MORE,0.507,7.5,0.507,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_points_rebounds_assists,19.5,MORE,0.506,19.5,0.506,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_points,19.5,LESS,0.506,19.5,0.494,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_assists,2.5,LESS,0.506,2.5,0.494,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_threes,1.5,LESS,0.506,1.5,0.494,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_threes,2.5,MORE,0.505,2.5,0.505,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_attempts,8.5,LESS,0.504,8.5,0.496,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_points,22.5,MORE,0.504,22.5,0.504,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_points,10.5,MORE,0.504,10.5,0.504,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_yds,37.5,MORE,0.504,37.5,0.504,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_points,15.5,MORE,0.503,15.5,0.503,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_rush_yds,23.5,MORE,0.502,23.5,0.502,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_attempts,10.5,MORE,0.502,10.5,0.502,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_points,24.5,MORE,0.502,24.5,0.502,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_points,9.5,MORE,0.502,9.5,0.502,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_reception_yds,9.5,LESS,0.502,9.5,0.498,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_points,11.5,MORE,0.502,11.5,0.502,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Khaman Maluach,player_points,6.5,MORE,0.501,6.5,0.501,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_points,10.5,LESS,0.501,10.5,0.499,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,LeBron James,player_assists,6.5,MORE,0.5,6.5,0.5,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,LeBron James,player_assists,6.5,LESS,0.5,6.5,0.5,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_points_rebounds_assists,14.5,MORE,0.5,14.5,0.5,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_assists,8.5,LESS,0.5,8.5,0.5,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_reception_yds,8.5,LESS,0.5,8.5,0.5,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_reception_yds,8.5,MORE,0.5,8.5,0.5,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_assists,1.5,MORE,0.5,1.5,0.5,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_assists,1.5,LESS,0.5,1.5,0.5,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_points,10.5,MORE,0.499,10.5,0.499,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_points,11.5,LESS,0.498,11.5,0.502,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_reception_yds,9.5,MORE,0.498,9.5,0.498,1,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_rush_yds,23.5,LESS,0.498,23.5,0.502,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_assists,3.5,MORE,0.498,3.5,0.498,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_attempts,10.5,LESS,0.498,10.5,0.502,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_points,9.5,LESS,0.498,9.5,0.502,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_points,24.5,LESS,0.498,24.5,0.502,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_points,15.5,LESS,0.497,15.5,0.503,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_attempts,8.5,MORE,0.496,8.5,0.496,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Kyrie Irving,player_points,22.5,LESS,0.496,22.5,0.504,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_points,10.5,LESS,0.496,10.5,0.504,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_rush_yds,37.5,LESS,0.496,37.5,0.504,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Caleb Martin,player_points_rebounds_assists,7.5,MORE,0.495,7.5,0.495,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_assists,2.5,MORE,0.494,2.5,0.494,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_points_rebounds_assists,34.5,MORE,0.494,34.5,0.494,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_rebounds,3.5,MORE,0.494,3.5,0.494,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Ryan Kalkbrenner,player_rebounds,4.5,MORE,0.494,4.5,0.494,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Joel Embiid,player_points,19.5,MORE,0.494,19.5,0.494,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_threes,1.5,MORE,0.494,1.5,0.494,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_points_rebounds_assists,19.5,MORE,0.494,19.5,0.494,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_points,9.5,LESS,0.494,9.5,0.506,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_points,22.5,LESS,0.493,22.5,0.507,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_points,15.5,MORE,0.493,15.5,0.493,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_reception_yds,7.5,LESS,0.493,7.5,0.507,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Terrence Shannon Jr.,player_points,9.5,LESS,0.492,9.5,0.508,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_points,20.5,MORE,0.492,20.5,0.492,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_points,13.5,MORE,0.492,13.5,0.492,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_points,9.5,MORE,0.491,9.5,0.491,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_points,10.5,LESS,0.491,10.5,0.509,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_rush_yds,29.5,MORE,0.491,29.5,0.491,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malik Nabers,player_reception_yds,69.5,MORE,0.489,67.5,0.508,1,fit from 67.5 (sd 41.9),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_points,20.5,MORE,0.489,20.5,0.489,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Jayden Daniels,player_pass_yds,200.5,LESS,0.488,202.5,0.496,2,fit from 202.5 (sd 48.6),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_points,14.5,MORE,0.487,14.5,0.487,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_points,17.5,LESS,0.487,17.5,0.513,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Austin Ekeler,player_receptions,1.5,LESS,0.486,1.5,0.514,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_points_rebounds_assists,22.5,MORE,0.486,22.5,0.486,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_assists,1.5,MORE,0.486,1.5,0.486,1,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_receptions,4.5,LESS,0.486,4.5,0.514,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_points_rebounds_assists,21.5,MORE,0.486,21.5,0.486,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_points_rebounds_assists,27.5,MORE,0.485,27.5,0.485,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Isaiah Likely,player_reception_yds,47.5,LESS,0.485,48.5,0.502,2,fit from 48.5 (sd 30.1),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,J.J. McCarthy,player_pass_yds,210.5,MORE,0.484,208.5,0.5,1,fit from 208.5 (sd 50.0),-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_points,10.5,LESS,0.484,10.5,0.516,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Daniel Gafford,player_points,8.5,MORE,0.483,7.5,0.551,2,fit from 7.5 (sd 5.9),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Antonio Williams,player_reception_yds,38.5,MORE,0.483,37.5,0.5,1,fit from 37.5 (sd 23.2),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_points,16.5,MORE,0.483,16.5,0.483,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_points,12.5,LESS,0.483,12.5,0.517,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_assists,2.5,LESS,0.482,2.5,0.518,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_threes,3.5,MORE,0.481,3.5,0.481,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_points_rebounds_assists,24.5,MORE,0.481,24.5,0.481,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_assists,6.5,MORE,0.481,6.5,0.481,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Chig Okonkwo,player_reception_yds,33.5,LESS,0.479,34.5,0.502,1,fit from 34.5 (sd 21.4),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Coby White,player_points,13.5,LESS,0.478,13.5,0.522,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_points,13.5,LESS,0.478,13.5,0.522,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Miles Bridges,player_points,15.5,MORE,0.478,14.5,0.545,2,fit from 14.5 (sd 6.0),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Cade Cunningham,player_points,24.5,LESS,0.476,24.5,0.524,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_points,21.5,LESS,0.476,21.5,0.524,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_assists,2.5,MORE,0.476,2.5,0.476,1,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Antonio Williams,player_receptions,3.5,LESS,0.475,3.5,0.525,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Anthony Davis,player_rebounds,10.5,MORE,0.474,10.5,0.474,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_points,17.5,MORE,0.474,17.5,0.474,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_points,14.5,LESS,0.473,14.5,0.527,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_rush_yds,55.5,MORE,0.473,50.5,0.545,1,fit from 50.5 (sd 27.8),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,AJ Dybantsa,player_points,16.5,MORE,0.473,16.5,0.473,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Immanuel Quickley,player_threes,2.5,MORE,0.472,2.5,0.472,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_receptions,1.5,MORE,0.472,1.5,0.472,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_threes,1.5,MORE,0.472,1.5,0.472,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_points,24.5,MORE,0.472,24.5,0.472,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_points_rebounds_assists,22.5,MORE,0.472,22.5,0.472,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_rebounds,2.5,MORE,0.472,2.5,0.472,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jonathan Kuminga,player_points_rebounds_assists,22.5,MORE,0.472,22.5,0.472,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Ja'Kobe Walter,player_assists,1.5,LESS,0.472,1.5,0.528,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kyshawn George,player_points,14.5,MORE,0.472,14.5,0.472,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_assists,4.5,MORE,0.472,4.5,0.472,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Khaman Maluach,player_rebounds,5.5,MORE,0.471,5.5,0.471,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_points,13.5,LESS,0.47,13.5,0.53,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_points,23.5,LESS,0.469,24.5,0.49,2,fit from 24.5 (sd 9.6),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malik Nabers,player_receptions,5.5,LESS,0.468,5.5,0.532,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Dillon Brooks,player_threes,1.5,LESS,0.468,1.5,0.532,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Devin Booker,player_assists,4.5,LESS,0.468,4.5,0.532,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jaylen Brown,player_points,22.5,MORE,0.468,22.5,0.468,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kevin Huerter,player_threes,1.5,MORE,0.468,1.5,0.468,1,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,LeBron James,player_points,16.5,MORE,0.468,16.5,0.468,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_points,13.5,MORE,0.467,13.5,0.467,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_points,18.5,MORE,0.466,17.5,0.534,2,fit from 17.5 (sd 5.8),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Stefon Diggs,player_reception_yds,38.5,MORE,0.465,36.5,0.5,1,fit from 36.5 (sd 22.6),-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_threes,1.5,MORE,0.464,1.5,0.464,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Collin Murray-Boyles,player_rebounds,5.5,MORE,0.463,5.5,0.463,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Ayo Dosunmu,player_threes,1.5,LESS,0.462,1.5,0.538,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_threes,2.5,LESS,0.459,2.5,0.541,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Duncan Robinson,player_rebounds,2.5,MORE,0.458,2.5,0.458,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_points,7.5,MORE,0.457,7.5,0.457,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jordan Goodwin,player_points,7.5,MORE,0.457,7.5,0.457,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Darnell Mooney,player_reception_yds,13.5,LESS,0.456,14.5,0.5,1,fit from 14.5 (sd 9.0),-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Tyrese Maxey,player_assists,5.5,LESS,0.456,5.5,0.544,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Sion James,player_points,8.5,MORE,0.456,8.5,0.456,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_rebounds,6.5,MORE,0.454,6.5,0.454,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Caleb Martin,player_rebounds,2.5,MORE,0.454,2.5,0.454,1,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,J.J. McCarthy,player_rush_yds,14.5,LESS,0.453,15.5,0.5,1,fit from 15.5 (sd 8.5),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_rebounds,5.5,MORE,0.452,4.5,0.583,1,fit from 4.5 (sd 3.0),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Treylon Burks,player_reception_yds,28.5,MORE,0.452,26.5,0.5,2,fit from 26.5 (sd 16.4),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Tre Johnson,player_points,9.5,MORE,0.451,8.5,0.524,1,fit from 8.5 (sd 5.5),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Jayden Daniels,player_rush_yds,38.5,MORE,0.45,34.5,0.533,1,fit from 34.5 (sd 19.0),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Trae Young,player_assists,7.5,LESS,0.45,8.5,0.433,2,fit from 8.5 (sd 3.4),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Malachi Fields,player_reception_yds,27.5,MORE,0.45,25.5,0.5,2,fit from 25.5 (sd 15.8),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Rachaad White,player_reception_yds,11.5,LESS,0.449,12.5,0.5,2,fit from 12.5 (sd 7.8),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_threes,3.5,MORE,0.449,3.5,0.449,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Naz Reid,player_rebounds,8.5,MORE,0.448,8.5,0.448,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Jalen Green,player_threes,1.5,MORE,0.447,1.5,0.447,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,LaMelo Ball,player_threes,3.5,MORE,0.443,3.5,0.443,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,P.J. Washington,player_assists,1.5,MORE,0.442,1.5,0.442,4,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,VJ Edgecombe,player_threes,1.5,LESS,0.442,1.5,0.558,2,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Tre Johnson,player_threes,1.5,MORE,0.44,1.5,0.44,5,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Royce O'Neale,player_threes,1.5,LESS,0.439,1.5,0.561,5,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_assists,4.5,MORE,0.439,4.5,0.439,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_rush_attempts,7.5,MORE,0.438,7.5,0.438,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Kevin Huerter,player_points,9.5,MORE,0.437,8.5,0.519,1,fit from 8.5 (sd 4.8),-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_rebounds,5.5,MORE,0.436,5.5,0.436,2,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Devin Singletary,player_receptions,1.5,MORE,0.436,1.5,0.436,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_rebounds,9.5,MORE,0.433,9.5,0.433,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Rudy Gobert,player_rebounds,11.5,MORE,0.432,11.5,0.432,2,same line,-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,Jakob Poeltl,player_rebounds,8.5,MORE,0.431,7.5,0.569,2,fit from 7.5 (sd 2.9),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Grayson Allen,player_rebounds,3.5,MORE,0.431,3.5,0.431,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Jaden McDaniels,player_threes,1.5,MORE,0.429,1.5,0.429,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Naji Marshall,player_assists,2.5,LESS,0.428,2.5,0.572,1,same line,-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Ausar Thompson,player_rebounds,7.5,MORE,0.427,6.5,0.569,2,fit from 6.5 (sd 2.8),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Daniss Jenkins,player_assists,5.5,MORE,0.426,4.5,0.551,1,fit from 4.5 (sd 3.2),-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,R.J. Barrett,player_assists,3.5,LESS,0.425,3.5,0.575,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Minnesota Timberwolves,2026-11-12T20:10-05:00,Cooper Flagg,player_assists,5.5,LESS,0.417,6.5,0.431,2,fit from 6.5 (sd 2.6),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Collin Gillespie,player_threes,1.5,LESS,0.416,1.5,0.584,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Oso Ighodaro,player_points,7.5,MORE,0.416,6.5,0.508,2,fit from 6.5 (sd 4.3),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Van Jefferson,player_reception_yds,6.5,LESS,0.415,7.5,0.5,1,fit from 7.5 (sd 4.7),-137.0,1.0
+nba,Toronto Raptors@Philadelphia 76ers,2026-11-12T19:10-05:00,LeBron James,player_rebounds,7.5,MORE,0.413,6.5,0.563,1,fit from 6.5 (sd 2.6),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,John Collins,player_rebounds,7.5,MORE,0.407,6.5,0.545,2,fit from 6.5 (sd 2.9),-137.0,1.0
+nba,Charlotte Hornets@Phoenix Suns,2026-11-12T21:10-05:00,Moussa Diabate,player_points,9.5,MORE,0.406,8.5,0.503,2,fit from 8.5 (sd 4.1),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Paul Reed Jr,player_rebounds,7.5,MORE,0.406,6.5,0.57,2,fit from 6.5 (sd 2.4),-137.0,1.0
+nba,Detroit Pistons@Washington Wizards,2026-11-12T19:10-05:00,Alex Sarr,player_threes,0.5,LESS,0.396,0.5,0.604,1,same line,-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Theo Johnson,player_reception_yds,4.5,LESS,0.385,5.5,0.5,2,fit from 5.5 (sd 3.4),-137.0,1.0
+nfl,Washington Commanders@New York Giants,2026-11-12T20:15-05:00,Cam Skattebo,player_rush_attempts,16.5,MORE,0.325,14.5,0.502,1,fit from 14.5 (sd 4.3),-137.0,1.0
