@@ -106,6 +106,36 @@
      "line": 35.5
     }
    ]
+  },
+  {
+   "id": 278,
+   "book": "DraftKings",
+   "name": "Trae U2.5 3s + LeBron U16.5 + Booker U24.5 (40% boost)",
+   "stake": 5,
+   "pays": 39,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Trae Young",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "LeBron James",
+     "stat": "pts",
+     "side": "under",
+     "line": 16.5
+    },
+    {
+     "sport": "nba",
+     "player": "Devin Booker",
+     "stat": "pts",
+     "side": "under",
+     "line": 24.5
+    }
+   ]
   }
  ]
 }
