@@ -142,6 +142,21 @@ def main():
     if tag == "nfltmr":   # on-demand: tomorrow's NFL props (Thursday game, priced the night before); files go in tomorrow's folder
         today = (now + dt.timedelta(days=1)).date().isoformat()
         sports = {"nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds,player_pass_tds,player_rush_attempts,player_anytime_td,player_reception_yds_alternate,player_pass_yds_alternate,player_rush_yds_alternate")}
+    if tag.startswith("cbbprops"):   # on-demand: college basketball player props for games whose team name contains the text after ":" (e.g. cbbprops:Indiana)
+        team = tag.split(":", 1)[1] if ":" in tag else ""; key = GAME_SPORTS["ncaab"]; rows = []
+        for e in get(f"sports/{key}/events") or []:
+            if team and team.lower() not in (e["home_team"] + e["away_team"]).lower(): continue
+            t = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET)
+            if t.date().isoformat() != today: continue
+            o = get(f"sports/{key}/events/{e['id']}/odds", bookmakers=BOOKS, markets="player_points,player_rebounds,player_assists,player_threes,player_points_rebounds_assists", oddsFormat="american")
+            for b in (o or {}).get("bookmakers", []):
+                for m in b.get("markets", []):
+                    for oc in m.get("outcomes", []):
+                        rows.append(dict(snap_et=now.isoformat(timespec="seconds"), game=f"{e['away_team']}@{e['home_team']}", start_et=t.isoformat(timespec="minutes"), book=b["key"], market=m["key"], player=oc.get("description"), side=oc.get("name"), line=oc.get("point"), price=oc.get("price")))
+        if rows:
+            os.makedirs(f"data/odds/ncaab/{today}", exist_ok=True)
+            pd.DataFrame(rows).to_csv(f"data/odds/ncaab/{today}/cbbprops_{now:%H%M}.csv", index=False)
+        print(f"::notice::ncaab props: {len(rows)} rows"); info["ncaab"] = len(rows); sports = {}
     if tag == "cbbalt":   # on-demand: college basketball alternate spreads + totals for today's games (parlay/boost building); 2 credits per game
         key = GAME_SPORTS["ncaab"]; rows = []
         for e in get(f"sports/{key}/events") or []:
