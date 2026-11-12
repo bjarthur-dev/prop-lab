@@ -2,7 +2,7 @@
 tags: [system, health]
 ---
 
-# System health (2026-11-12 08:23 ET)
+# System health (2026-11-12 08:37 ET)
 
 Written by `engine/health.py` each morning. Fix STALE rows before trusting a card.
 
@@ -12,8 +12,8 @@ Written by `engine/health.py` each morning. Fix STALE rows before trusting a car
 | odds board | 0.7 d | 1.5 d | ok |
 | odds pregame | 0.6 d | 1.5 d | ok |
 | NBA game logs (cloud: API-NBA + morning gap fill) | 1.0 d | 2.5 d | ok |
-| NBA matchup context (laptop, optional) | 0.4 d | 14 d | ok |
-| NFL data (nflverse) | 0.4 d | 8 d | ok |
+| NBA matchup context (laptop, optional) | 2.2 d | 14 d | ok |
+| NFL data (nflverse) | 1.8 d | 8 d | ok |
 
 ## Odds API credits
 
