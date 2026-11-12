@@ -4,8 +4,8 @@ tags: [record, shadow, steam]
 
 # Steam method (sharp move >= 2 pts), graded
 
-**All steam legs: 320, win 55.0% vs last fair 51.4%, ROI +2.3% as DK singles.**
-**DK lagging (price >= new fair): 39, win 53.8%, ROI +4.1%.**
+**All steam legs: 396, win 55.6% vs last fair 51.3%, ROI +3.4% as DK singles.**
+**DK lagging (price >= new fair): 55, win 54.5%, ROI +5.6%.**
 
 | date | n | win | ROI | lagging n | lagging win |
 |---|---:|---:|---:|---:|---:|
@@ -26,3 +26,4 @@ tags: [record, shadow, steam]
 | 2026-11-08 | 36 | 53% | -2% | 1 | 100% |
 | 2026-11-09 | 66 | 56% | +4% | 7 | 43% |
 | 2026-11-10 | 25 | 60% | +12% | 2 | 50% |
+| 2026-11-11 | 76 | 58% | +8% | 16 | 56% |
