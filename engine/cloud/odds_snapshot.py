@@ -139,6 +139,9 @@ def main():
         sports = {"nba": ("basketball_nba", "player_points,player_rebounds,player_assists,player_threes"),
                   "mlb": ("baseball_mlb", "pitcher_strikeouts,batter_hits,batter_total_bases,batter_hits_runs_rbis"),
                   "nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds")}
+    if tag == "nfltmr":   # on-demand: tomorrow's NFL props (Thursday game, priced the night before); files go in tomorrow's folder
+        today = (now + dt.timedelta(days=1)).date().isoformat()
+        sports = {"nfl": ("americanfootball_nfl", "player_reception_yds,player_rush_yds,player_receptions,player_pass_yds,player_pass_tds,player_rush_attempts,player_anytime_td,player_reception_yds_alternate,player_pass_yds_alternate,player_rush_yds_alternate")}
     if tag == "cbbalt":   # on-demand: college basketball alternate spreads + totals for today's games (parlay/boost building); 2 credits per game
         key = GAME_SPORTS["ncaab"]; rows = []
         for e in get(f"sports/{key}/events") or []:
