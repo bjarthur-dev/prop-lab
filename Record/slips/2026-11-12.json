@@ -1,0 +1,111 @@
+{
+ "date": "2026-11-12",
+ "slips": [
+  {
+   "id": 274,
+   "book": "DraftKings",
+   "name": "Gobert U9.5 + Bridges U6.5 reb + Ighodaro U15.5 PRA (Bet & Earn)",
+   "stake": 5,
+   "pays": 35.87,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Rudy Gobert",
+     "stat": "pts",
+     "side": "under",
+     "line": 9.5
+    },
+    {
+     "sport": "nba",
+     "player": "Miles Bridges",
+     "stat": "reb",
+     "side": "under",
+     "line": 6.5
+    },
+    {
+     "sport": "nba",
+     "player": "Oso Ighodaro",
+     "stat": "pra",
+     "side": "under",
+     "line": 15.5
+    }
+   ]
+  },
+  {
+   "id": 275,
+   "book": "DraftKings",
+   "name": "Robinson U2.5 ast + LaMelo U3.5 3s + McDaniels U5.5 reb",
+   "stake": 3,
+   "pays": 17.43,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Duncan Robinson",
+     "stat": "ast",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "LaMelo Ball",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 3.5
+    },
+    {
+     "sport": "nba",
+     "player": "Jaden McDaniels",
+     "stat": "reb",
+     "side": "under",
+     "line": 5.5
+    }
+   ]
+  },
+  {
+   "id": 273,
+   "book": "Pick6",
+   "name": "Diggs U41.5 rec yds + Mooney U1.5 rec",
+   "stake": 3,
+   "pays": 11.7,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "Stefon Diggs",
+     "stat": "rec_yds",
+     "side": "under",
+     "line": 41.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Darnell Mooney",
+     "stat": "rec",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
+  },
+  {
+   "id": 276,
+   "book": "Pick6",
+   "name": "Daniels U38.5 rush + Likely O35.5 rec yds",
+   "stake": 2,
+   "pays": 6,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "Jayden Daniels",
+     "stat": "rush_yds",
+     "side": "under",
+     "line": 38.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Isaiah Likely",
+     "stat": "rec_yds",
+     "side": "over",
+     "line": 35.5
+    }
+   ]
+  }
+ ]
+}
