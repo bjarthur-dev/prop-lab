@@ -225,3 +225,8 @@ Rules from this (they override earlier notes where they conflict):
 - Pick6 now shows a multiplier per pick: favoured sides 0.7x (e.g. LESS 1.5 threes), boosted sides 1.3x. 2-pick base 3x times each multiplier.
 - A 0.7x partner drops the payout to 2.1x, so a 64% promo x 63% partner = -16%. Always read the payout on the review screen before submitting.
 - With a discounted promo leg (~62%), a 1.3x coin-flip partner (3.9x) is the value play: break-even partner ~41%.
+
+## 11-13 FanDuel vs DraftKings head-to-head (NBA backtest, Oct 24 - Nov 12)
+- When FD and DK no-vig differ by 2+ pts on the same line (n=1171), FD's side won 52.7%; DK priced it 49.8%, FD 52.8%. FD calibrated, DK not.
+- Gap 4+ pts (n=159): FD side 54.7%.
+- Overall Brier is about equal across books; FD's value is in the disagreements. Use: on DK/Pick6 even lines, side with FD when it differs 2+ pts. Forward-test from 11-13.
