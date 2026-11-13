@@ -217,5 +217,6 @@ Rules from this (they override earlier notes where they conflict):
 ## 11-12 Live in-game bets: the leak to close
 - System bets that day: 6 bets, $21 staked, $41.87 back (Bet & Earn parlay hit, Likely/Daniels Pick6 hit). The system was up.
 - Then three live "next field goal type" bets at the IU game: $2, $3, then **$23** (72% of the bankroll on one coin flip). All lost: -$28.
-- Live micro-markets carry a big margin and settle in minutes, which makes chasing easy. Rule: **no live in-game bets**, and no single bet over 10% of the bankroll for any reason.
+- Live micro-markets carry a big margin and settle in minutes, which makes chasing easy.
+- User's call (11-12): no blanket bans. Live bets stay allowed, but they get the same treatment as everything else: priced before placing when possible (boosts, a clearly stale line), logged with the reason, and graded so we learn which live spots pay. Size is flagged, not forbidden: Claude says plainly when one bet is a large share of the bankroll.
 - Near misses that day: Diggs U41.5 lost by 1 yard (42); Aho U1.5 pts lost to 2 goals.
