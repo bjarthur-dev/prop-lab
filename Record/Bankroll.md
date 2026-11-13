@@ -6,7 +6,7 @@ tags: [record, bankroll]
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
 current_bankroll: 41.87
-balances: {draftkings: 41.87, betr: 0.00, betr_bucks: 15.00}   # 2026-11-12 23:40 estimate: 35.87 + 6.00 back; Burton SGP (16.34) not yet known; after $6.05 DK bets and $10 Bucks entry
+balances: {draftkings: 41.87, betr: 0.00, betr_bucks: 15.00}   # 2026-11-12 final (checked 11-13 morning): 52.80 - 52.80 staked + 35.87 + 6.00; Burton SGP lost
 withdrawn_total: 60.00   # 11-06: +$30 Odds API plan; 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
