@@ -1,6 +1,6 @@
 # Hypotheses: every idea, graded daily
 
-Updated 2026-11-13 08:54 ET by engine/hypotheses.py. 6,499 player-markets, 2026-10-24 to 2026-11-12.
+Updated 2026-11-13 13:29 ET by engine/hypotheses.py. 6,499 player-markets, 2026-10-24 to 2026-11-12.
 
 How to read it: **Gap** is hit rate minus the market's chance. A gap smaller than about twice the daily error is noise. A straight bet needs a positive **Return**; a pick'em app at a flat payout needs the **Hit** column above its break-even (2-pick 3x: 57.7%, 3-pick 6x: 55%).
 
