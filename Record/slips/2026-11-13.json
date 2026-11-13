@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-13",
+ "slips": [
+  {
+   "id": 288,
+   "book": "DraftKings",
+   "name": "Fears U5.5 ast + Mitchell U19.5 + J. Johnson 5+ ast (Bet & Earn)",
+   "stake": 5,
+   "pays": 21.06,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Jeremiah Fears",
+     "stat": "ast",
+     "side": "under",
+     "line": 5.5
+    },
+    {
+     "sport": "nba",
+     "player": "Ajay Mitchell",
+     "stat": "pts",
+     "side": "under",
+     "line": 19.5
+    },
+    {
+     "sport": "nba",
+     "player": "Jalen Johnson",
+     "stat": "ast",
+     "side": "over",
+     "line": 4.5
+    }
+   ]
+  },
+  {
+   "id": 289,
+   "book": "DraftKings",
+   "name": "Cissoko U8.5 + P. Williams 6+ + Caruso U1.5 3s (50% boost)",
+   "stake": 5,
+   "pays": 27.9,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Sidy Cissoko",
+     "stat": "pts",
+     "side": "under",
+     "line": 8.5
+    },
+    {
+     "sport": "nba",
+     "player": "Patrick Williams",
+     "stat": "pts",
+     "side": "over",
+     "line": 5.5
+    },
+    {
+     "sport": "nba",
+     "player": "Alex Caruso",
+     "stat": "fg3m",
+     "side": "under",
+     "line": 1.5
+    }
+   ]
+  }
+ ]
+}
