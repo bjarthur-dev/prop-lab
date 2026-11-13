@@ -60,6 +60,36 @@
      "line": 1.5
     }
    ]
+  },
+  {
+   "id": 290,
+   "book": "DraftKings",
+   "name": "Draymond U5.5 + Carter U9.5 reb + Boozer 7+ reb (30%)",
+   "stake": 5,
+   "pays": 24.7,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Draymond Green",
+     "stat": "pts",
+     "side": "under",
+     "line": 5.5
+    },
+    {
+     "sport": "nba",
+     "player": "Wendell Carter Jr.",
+     "stat": "reb",
+     "side": "under",
+     "line": 9.5
+    },
+    {
+     "sport": "nba",
+     "player": "Cameron Boozer",
+     "stat": "reb",
+     "side": "over",
+     "line": 6.5
+    }
+   ]
   }
  ]
 }
