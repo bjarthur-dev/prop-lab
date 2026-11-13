@@ -1,0 +1,999 @@
+sport,game,start,player,market,line,side,dk_price,fair_sharp,fair_all,token_ev_5,ev_sharp,ev_all,n_books,snap
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_assists,1.5,over,114,,0.465,1.85,,-0.4,3,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_assists,1.5,under,-151,,0.535,1.07,,-11.1,3,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_points,11.5,over,-114,,0.514,1.52,,-3.5,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_points,11.5,under,-112,,0.486,1.4,,-8.0,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_points_rebounds_assists,16.5,over,-114,,0.516,1.54,,-3.2,3,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_points_rebounds_assists,16.5,under,-115,,0.484,1.33,,-9.5,3,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_rebounds,3.5,over,112,,0.433,1.57,,-8.2,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Aaron Nesmith,player_rebounds,3.5,under,-148,,0.567,1.27,,-5.0,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Aaron Wiggins,player_points,13.5,over,-104,0.447,0.465,1.43,-12.3,-8.8,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Aaron Wiggins,player_points,13.5,under,-123,0.553,0.535,1.48,0.2,-3.0,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Aaron Wiggins,player_threes,2.5,over,125,0.431,0.422,1.77,-3.1,-5.0,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Aaron Wiggins,player_threes,2.5,under,-166,0.569,0.578,1.11,-8.8,-7.4,5,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_points,14.5,over,-107,,0.492,1.54,,-4.8,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_points,14.5,under,-120,,0.508,1.38,,-6.9,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_points_rebounds_assists,21.5,over,-125,0.524,0.515,1.33,-5.7,-7.2,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_points_rebounds_assists,21.5,under,-105,0.476,0.485,1.53,-7.1,-5.4,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_rebounds,5.5,over,101,0.465,0.468,1.56,-6.6,-6.0,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_rebounds,5.5,under,-132,0.535,0.532,1.31,-6.0,-6.5,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_threes,2.5,over,132,,0.399,1.73,,-7.3,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Ace Bailey,player_threes,2.5,under,-174,,0.601,1.13,,-5.4,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_assists,1.5,over,-143,,0.556,1.28,,-5.6,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_assists,1.5,under,108,,0.444,1.57,,-7.6,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_points,10.5,over,-116,0.487,0.484,1.31,-9.4,-9.9,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_points,10.5,under,-110,0.513,0.516,1.62,-2.0,-1.5,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_points_rebounds_assists,20.5,over,-122,0.5,0.491,1.25,-9.0,-10.6,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_points_rebounds_assists,20.5,under,-108,0.5,0.509,1.62,-3.7,-2.0,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_rebounds,7.5,over,-132,0.498,0.506,1.17,-12.5,-11.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Aday Mara,player_rebounds,7.5,under,100,0.502,0.494,1.71,0.4,-1.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_assists,3.5,over,108,0.441,0.455,1.64,-8.4,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_assists,3.5,under,-142,0.559,0.545,1.24,-4.6,-7.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_points,18.5,over,-105,0.481,0.488,1.55,-6.1,-4.8,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_points,18.5,under,-121,0.519,0.512,1.39,-5.2,-6.4,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_points_rebounds_assists,25.5,over,-112,0.494,0.494,1.45,-6.5,-6.5,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_points_rebounds_assists,25.5,under,-117,0.506,0.506,1.42,-6.1,-6.2,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_rebounds,3.5,over,-114,0.5,0.498,1.43,-6.1,-6.6,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_rebounds,3.5,under,-116,0.5,0.502,1.42,-6.9,-6.5,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_threes,1.5,over,151,0.369,0.364,1.79,-7.3,-8.6,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Ajay Mitchell,player_threes,1.5,under,-201,0.631,0.636,1.04,-5.6,-4.8,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_assists,1.5,over,-148,,0.551,1.19,,-7.8,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_assists,1.5,under,112,,0.449,1.69,,-4.7,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_points,6.5,over,-105,0.478,0.475,1.48,-6.7,-7.2,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_points,6.5,under,-122,0.522,0.525,1.44,-5.0,-4.6,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_points_rebounds_assists,12.5,over,-118,0.528,0.514,1.45,-2.4,-5.1,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_points_rebounds_assists,12.5,under,-111,0.472,0.486,1.42,-10.3,-7.5,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_rebounds,4.5,over,107,0.427,0.426,1.42,-11.6,-11.8,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_rebounds,4.5,under,-142,0.573,0.574,1.38,-2.3,-2.2,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_threes,1.5,over,127,0.406,0.413,1.74,-7.9,-6.3,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Al Horford,player_threes,1.5,under,-168,0.594,0.587,1.13,-5.2,-6.3,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_assists,2.5,over,109,0.468,0.47,1.76,-2.2,-1.8,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_assists,2.5,under,-144,0.532,0.53,1.14,-9.8,-10.1,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_points,6.5,over,-124,0.507,0.505,1.29,-8.4,-8.8,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_points,6.5,under,-103,0.493,0.495,1.65,-2.9,-2.4,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_points_rebounds_assists,12.5,over,-124,0.524,0.521,1.38,-5.3,-5.9,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_points_rebounds_assists,12.5,under,-106,0.476,0.479,1.48,-7.5,-6.9,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_rebounds,3.5,over,110,0.466,0.464,1.74,-2.1,-2.7,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_rebounds,3.5,under,-145,0.534,0.536,1.15,-9.8,-9.4,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_threes,1.5,over,129,0.368,0.381,1.53,-15.8,-12.8,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Alex Caruso,player_threes,1.5,under,-171,0.632,0.619,1.24,0.2,-1.9,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_assists,6.5,over,-120,0.521,0.514,1.41,-4.5,-5.8,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_assists,6.5,under,-110,0.479,0.486,1.44,-8.5,-7.2,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_points,20.5,over,-121,0.486,0.496,1.29,-11.3,-9.4,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_points,20.5,under,-105,0.514,0.504,1.66,0.4,-1.6,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_points_rebounds_assists,37.5,over,-112,,0.495,1.45,,-6.3,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_points_rebounds_assists,37.5,under,-117,,0.505,1.42,,-6.3,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_rebounds,9.5,over,105,0.493,0.488,1.79,1.0,0.0,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Alperen Sengun,player_rebounds,9.5,under,-139,0.507,0.512,1.11,-12.8,-12.0,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_assists,3.5,over,-113,0.488,0.491,1.41,-8.0,-7.5,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_assists,3.5,under,-116,0.512,0.509,1.46,-4.6,-5.2,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_points,16.5,over,-110,0.447,0.482,1.41,-14.7,-8.1,5,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_points,16.5,under,-116,0.553,0.518,1.51,3.0,-3.5,5,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_points_rebounds_assists,27.5,over,-113,0.452,0.474,1.31,-14.9,-10.7,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_points_rebounds_assists,27.5,under,-116,0.548,0.526,1.56,2.1,-2.0,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_rebounds,7.5,over,108,0.447,0.448,1.59,-7.0,-6.7,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Amen Thompson,player_rebounds,7.5,under,-142,0.553,0.552,1.27,-5.8,-6.0,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andre Drummond,player_points,3.5,over,-135,0.524,0.528,1.25,-8.8,-8.2,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andre Drummond,player_points,3.5,under,106,0.476,0.472,1.71,-2.0,-2.7,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andre Drummond,player_rebounds,6.5,over,-110,0.486,0.486,1.44,-7.3,-7.2,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andre Drummond,player_rebounds,6.5,under,-119,0.514,0.514,1.43,-5.4,-5.4,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_assists,7.5,over,-104,0.503,0.493,1.61,-1.3,-3.3,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_assists,7.5,under,-126,0.497,0.507,1.27,-10.9,-9.1,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_points,15.5,over,-108,0.47,0.481,1.45,-9.4,-7.4,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_points,15.5,under,-118,0.53,0.519,1.48,-2.1,-4.1,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_points_rebounds_assists,25.5,over,-114,0.505,0.497,1.43,-5.2,-6.7,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_points_rebounds_assists,25.5,under,-115,0.495,0.503,1.44,-7.5,-6.0,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_rebounds,2.5,over,111,0.46,0.453,1.7,-2.9,-4.3,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_rebounds,2.5,under,-147,0.54,0.547,1.18,-9.3,-8.2,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_threes,1.5,over,-182,0.601,0.602,1.06,-6.9,-6.7,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Andrew Nembhard,player_threes,1.5,under,137,0.399,0.398,1.82,-5.4,-5.7,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Andrew Wiggins,player_points,11.5,over,-124,0.501,0.504,1.29,-9.6,-8.9,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Andrew Wiggins,player_points,11.5,under,-103,0.499,0.496,1.65,-1.6,-2.3,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Andrew Wiggins,player_rebounds,3.5,over,-156,0.544,0.557,1.12,-10.8,-8.5,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Andrew Wiggins,player_rebounds,3.5,under,118,0.456,0.443,1.78,-0.6,-3.5,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Andrew Wiggins,player_threes,1.5,over,-134,0.528,0.534,1.3,-7.8,-6.7,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Andrew Wiggins,player_threes,1.5,under,102,0.472,0.466,1.57,-4.7,-5.9,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_assists,4.5,over,-106,0.476,0.488,1.53,-7.4,-5.2,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_assists,4.5,under,-124,0.524,0.512,1.33,-5.4,-7.5,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_points,15.5,over,-112,0.5,0.499,1.48,-5.4,-5.5,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_points,15.5,under,-114,0.5,0.501,1.45,-6.1,-6.0,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_points_rebounds_assists,25.5,over,-115,0.503,0.5,1.42,-6.0,-6.6,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_points_rebounds_assists,25.5,under,-114,0.497,0.5,1.44,-6.7,-6.1,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_rebounds,4.5,over,-152,0.559,0.56,1.18,-7.3,-7.1,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_rebounds,4.5,under,116,0.441,0.44,1.71,-4.8,-5.0,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_threes,1.5,over,-132,0.522,0.518,1.24,-8.3,-9.0,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Anthony Black,player_threes,1.5,under,101,0.478,0.482,1.66,-3.8,-3.1,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_assists,3.5,over,-119,0.503,0.496,1.33,-7.4,-8.7,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_assists,3.5,under,-111,0.497,0.504,1.53,-5.5,-4.2,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_points,18.5,over,-111,0.506,0.501,1.51,-3.8,-4.8,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_points,18.5,under,-115,0.494,0.499,1.42,-7.7,-6.6,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_points_rebounds_assists,31.5,over,-112,0.487,0.489,1.42,-7.7,-7.3,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_points_rebounds_assists,31.5,under,-117,0.513,0.511,1.45,-4.9,-5.3,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_rebounds,8.5,over,-137,,0.549,1.33,,-5.1,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_rebounds,8.5,under,104,,0.451,1.52,,-8.0,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_threes,1.5,over,160,0.371,0.37,2.01,-3.5,-3.8,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Bam Adebayo,player_threes,1.5,under,-214,0.629,0.63,0.92,-7.7,-7.5,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Bennett Stirtz,player_points,8.5,over,-106,0.462,0.471,1.43,-10.2,-8.5,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Bennett Stirtz,player_points,8.5,under,-120,0.538,0.529,1.5,-1.4,-3.0,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Bennett Stirtz,player_threes,1.5,over,-105,0.472,0.47,1.45,-7.9,-8.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Bennett Stirtz,player_threes,1.5,under,-125,0.528,0.53,1.41,-4.9,-4.7,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_assists,4.5,over,122,0.423,0.423,1.71,-6.2,-6.2,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_assists,4.5,under,-161,0.577,0.577,1.16,-6.4,-6.4,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_points,17.5,over,-110,0.492,0.492,1.47,-6.0,-6.1,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_points,17.5,under,-115,0.508,0.508,1.47,-5.1,-5.0,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_points_rebounds_assists,27.5,over,-112,0.486,0.488,1.41,-8.0,-7.6,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_points_rebounds_assists,27.5,under,-117,0.514,0.512,1.46,-4.6,-5.1,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_rebounds,5.5,over,-110,0.492,0.487,1.44,-6.1,-7.0,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_rebounds,5.5,under,-119,0.508,0.513,1.43,-6.5,-5.6,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_threes,2.5,over,-112,0.481,0.491,1.43,-9.0,-7.1,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Brandin Podziemski,player_threes,2.5,under,-118,0.519,0.509,1.42,-4.1,-5.9,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_assists,2.5,over,-134,0.542,0.538,1.32,-5.4,-6.0,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_assists,2.5,under,102,0.458,0.462,1.55,-7.5,-6.8,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_points,11.5,over,-117,0.515,0.505,1.42,-4.5,-6.4,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_points,11.5,under,-109,0.485,0.495,1.51,-7.0,-5.1,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_points_rebounds_assists,20.5,over,-105,0.486,0.479,1.5,-5.2,-6.4,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_points_rebounds_assists,20.5,under,-126,0.514,0.521,1.35,-7.8,-6.6,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_rebounds,5.5,over,102,0.453,0.456,1.51,-8.6,-7.9,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_rebounds,5.5,under,-134,0.547,0.544,1.35,-4.4,-5.0,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_threes,1.5,over,134,0.357,0.369,1.52,-16.5,-13.7,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Brayden Burries,player_threes,1.5,under,-178,0.643,0.631,1.22,0.4,-1.4,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_assists,1.5,over,163,,0.387,2.23,,1.8,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_assists,1.5,under,-218,,0.613,0.83,,-10.6,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_points_rebounds_assists,17.5,over,-121,,0.513,1.39,,-6.3,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_points_rebounds_assists,17.5,under,-109,,0.487,1.47,,-6.6,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_rebounds,5.5,over,105,0.441,0.441,1.48,-9.7,-9.6,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_rebounds,5.5,under,-138,0.559,0.559,1.36,-3.5,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_threes,1.5,over,109,0.425,0.427,1.47,-11.2,-10.8,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Brook Lopez,player_threes,1.5,under,-143,0.575,0.573,1.36,-2.3,-2.6,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,C.J. McCollum,player_points,14.5,over,-121,,0.508,1.36,,-7.1,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,C.J. McCollum,player_points,14.5,under,-106,,0.492,1.56,,-4.5,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,C.J. McCollum,player_threes,1.5,over,-142,0.563,0.552,1.27,-4.1,-5.9,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,C.J. McCollum,player_threes,1.5,under,108,0.437,0.448,1.59,-9.1,-6.8,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_assists,4.5,over,113,0.442,0.44,1.64,-5.8,-6.4,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_assists,4.5,under,-150,0.558,0.56,1.21,-7.0,-6.6,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_points,8.5,over,-105,0.49,0.49,1.57,-4.4,-4.4,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_points,8.5,under,-121,0.51,0.51,1.37,-6.8,-6.8,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_points_rebounds_assists,15.5,over,-110,0.494,0.493,1.48,-5.7,-5.9,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_points_rebounds_assists,15.5,under,-119,0.506,0.507,1.39,-6.9,-6.6,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_rebounds,2.5,over,-109,0.468,0.465,1.33,-10.3,-10.8,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_rebounds,2.5,under,-121,0.532,0.535,1.51,-2.8,-2.3,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_threes,1.5,over,124,0.421,0.417,1.71,-5.6,-6.6,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cam Spencer,player_threes,1.5,under,-164,0.579,0.583,1.15,-6.8,-6.1,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_points,17.5,over,-122,0.515,0.513,1.37,-6.4,-6.7,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_points,17.5,under,-105,0.485,0.487,1.55,-5.2,-4.8,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_points_rebounds_assists,32.5,over,-118,0.506,0.503,1.39,-6.5,-7.0,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_points_rebounds_assists,32.5,under,-111,0.494,0.497,1.48,-6.1,-5.6,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_rebounds,9.5,over,-104,0.492,0.48,1.53,-3.5,-5.8,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_rebounds,9.5,under,-127,0.508,0.52,1.32,-9.2,-7.1,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_threes,1.5,over,-146,0.578,0.561,1.26,-2.5,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cameron Boozer,player_threes,1.5,under,111,0.422,0.439,1.59,-11.1,-7.4,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_assists,2.5,over,-127,0.514,0.514,1.29,-8.1,-8.2,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_assists,2.5,under,-104,0.486,0.486,1.57,-4.7,-4.6,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_points,13.5,over,-114,0.497,0.498,1.43,-6.7,-6.6,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_points,13.5,under,-112,0.503,0.502,1.5,-4.8,-4.9,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_points_rebounds_assists,23.5,over,-120,0.49,0.5,1.33,-10.2,-8.3,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_points_rebounds_assists,23.5,under,-109,0.51,0.5,1.54,-2.2,-4.2,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_rebounds,7.5,over,108,0.433,0.445,1.57,-10.0,-7.4,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_rebounds,7.5,under,-142,0.567,0.555,1.29,-3.3,-5.4,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_threes,1.5,over,-135,0.543,0.54,1.31,-5.5,-6.1,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Cedric Coward,player_threes,1.5,under,103,0.457,0.46,1.56,-7.2,-6.5,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_assists,4.5,over,-139,0.524,0.518,1.14,-10.0,-10.9,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_assists,4.5,under,105,0.476,0.482,1.75,-2.3,-1.2,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_points,21.5,over,-115,0.512,0.502,1.44,-4.2,-6.1,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_points,21.5,under,-110,0.488,0.498,1.51,-6.9,-5.0,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_points_rebounds_assists,30.5,over,-104,0.494,0.487,1.57,-3.1,-4.5,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_points_rebounds_assists,30.5,under,-126,0.506,0.513,1.31,-9.2,-8.0,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_rebounds,3.5,over,105,0.474,0.469,1.66,-2.9,-3.9,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_rebounds,3.5,under,-139,0.526,0.531,1.21,-9.5,-8.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_threes,3.5,over,115,0.402,0.419,1.54,-13.6,-10.0,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Damian Lillard,player_threes,3.5,under,-152,0.598,0.581,1.28,-0.8,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_assists,6.5,over,-115,0.513,0.502,1.44,-4.2,-6.1,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_assists,6.5,under,-114,0.487,0.498,1.43,-8.5,-6.6,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_points,24.5,over,-114,0.49,0.494,1.41,-7.9,-7.3,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_points,24.5,under,-112,0.51,0.506,1.52,-3.5,-4.2,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_points_rebounds_assists,34.5,over,-123,0.513,0.51,1.34,-7.1,-7.6,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_points_rebounds_assists,34.5,under,-107,0.487,0.49,1.53,-5.7,-5.1,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_rebounds,3.5,over,111,0.444,0.444,1.63,-6.3,-6.3,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_rebounds,3.5,under,-147,0.556,0.556,1.22,-6.6,-6.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_threes,2.5,over,-143,0.554,0.552,1.26,-5.8,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Darius Acuff Jr.,player_threes,2.5,under,108,0.446,0.448,1.59,-7.3,-6.8,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_assists,6.5,over,-133,0.535,0.544,1.36,-6.3,-4.8,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_assists,6.5,under,101,0.465,0.456,1.49,-6.5,-8.3,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_points,18.5,over,-124,0.523,0.519,1.37,-5.5,-6.2,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_points,18.5,under,-103,0.477,0.481,1.55,-6.0,-5.3,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_points_rebounds_assists,28.5,over,-121,0.504,0.507,1.36,-7.9,-7.3,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_points_rebounds_assists,28.5,under,-109,0.496,0.493,1.5,-4.9,-5.5,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_rebounds,2.5,over,-107,0.471,0.466,1.38,-8.8,-9.9,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_rebounds,2.5,under,-123,0.529,0.534,1.47,-4.1,-3.2,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_threes,2.5,over,103,0.465,0.464,1.59,-5.5,-5.7,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Darius Garland,player_threes,2.5,under,-136,0.535,0.536,1.27,-7.2,-7.1,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_assists,4.5,over,120,0.379,0.402,1.51,-16.7,-11.6,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_assists,4.5,under,-158,0.621,0.598,1.29,1.5,-2.3,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_points,18.5,over,-110,,0.498,1.51,,-4.9,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_points,18.5,under,-116,,0.502,1.42,,-6.5,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_points_rebounds_assists,27.5,over,-107,0.472,0.477,1.44,-8.7,-7.8,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_points_rebounds_assists,27.5,under,-122,0.528,0.523,1.43,-3.9,-4.8,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_rebounds,4.5,over,116,0.361,0.407,1.47,-22.0,-12.2,5,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_rebounds,4.5,under,-153,0.639,0.593,1.33,5.7,-1.9,5,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_threes,2.5,over,129,0.404,0.4,1.68,-7.6,-8.3,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Darryn Peterson,player_threes,2.5,under,-170,0.596,0.6,1.16,-5.3,-4.8,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_assists,8.5,over,102,0.458,0.464,1.56,-7.5,-6.3,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_assists,8.5,under,-134,0.542,0.536,1.3,-5.4,-6.4,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_points,14.5,over,-118,0.517,0.509,1.42,-4.5,-5.9,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_points,14.5,under,-108,0.483,0.491,1.51,-6.9,-5.5,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_points_rebounds_assists,26.5,over,-106,0.476,0.477,1.46,-7.5,-7.4,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_points_rebounds_assists,26.5,under,-124,0.524,0.523,1.4,-5.3,-5.5,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_rebounds,2.5,over,-116,0.506,0.502,1.41,-5.8,-6.6,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_rebounds,2.5,under,-113,0.494,0.498,1.45,-6.9,-6.0,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_threes,2.5,over,124,0.388,0.391,1.51,-13.1,-12.4,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Davion Mitchell,player_threes,2.5,under,-163,0.612,0.609,1.28,-1.2,-1.7,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_assists,5.5,over,-138,0.538,0.54,1.27,-7.3,-6.8,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_assists,5.5,under,105,0.462,0.46,1.6,-5.2,-5.8,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_points,13.5,over,-119,0.493,0.495,1.32,-9.3,-8.8,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_points,13.5,under,-107,0.507,0.505,1.61,-1.9,-2.4,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_points_rebounds_assists,23.5,over,-122,0.474,0.484,1.21,-13.8,-12.0,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_points_rebounds_assists,23.5,under,-108,0.526,0.516,1.66,1.3,-0.6,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_rebounds,3.5,over,-136,0.532,0.528,1.24,-7.6,-8.3,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_rebounds,3.5,under,103,0.468,0.472,1.64,-5.0,-4.3,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_threes,1.5,over,154,0.385,0.377,1.97,-2.3,-4.3,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Aaron Fox,player_threes,1.5,under,-206,0.615,0.623,0.95,-8.6,-7.4,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_assists,1.5,over,-109,,0.483,1.44,,-7.3,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_assists,1.5,under,-121,,0.517,1.41,,-5.6,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_points,12.5,over,-123,0.53,0.522,1.4,-3.9,-5.4,9,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_points,12.5,under,-103,0.47,0.478,1.54,-7.4,-5.8,9,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_points_rebounds_assists,18.5,over,-128,,0.522,1.32,,-7.0,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_points_rebounds_assists,18.5,under,-103,,0.478,1.54,,-5.8,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_rebounds,4.5,over,112,0.454,0.448,1.68,-3.9,-5.1,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_rebounds,4.5,under,-148,0.546,0.552,1.19,-8.4,-7.4,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_threes,1.5,over,-136,0.555,0.558,1.39,-3.7,-3.2,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,De'Andre Hunter,player_threes,1.5,under,103,0.445,0.442,1.44,-9.6,-10.2,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_assists,2.5,over,-162,0.59,0.574,1.13,-4.5,-7.2,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_assists,2.5,under,123,0.41,0.426,1.76,-8.7,-4.9,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_points,12.5,over,-114,0.496,0.495,1.41,-6.9,-7.1,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_points,12.5,under,-111,0.504,0.505,1.53,-4.2,-4.0,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_rebounds,4.5,over,113,0.413,0.424,1.53,-12.0,-9.7,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_rebounds,4.5,under,-149,0.587,0.576,1.3,-1.9,-3.7,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_threes,1.5,over,-193,0.606,0.609,0.99,-8.1,-7.5,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,De'Anthony Melton,player_threes,1.5,under,145,0.394,0.391,1.92,-3.4,-4.3,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_assists,6.5,over,-120,0.501,0.496,1.31,-8.1,-9.1,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_assists,6.5,under,-110,0.499,0.504,1.55,-4.7,-3.8,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_points,23.5,over,-118,0.508,0.509,1.42,-6.1,-5.9,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_points,23.5,under,-108,0.492,0.491,1.51,-5.3,-5.5,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_points_rebounds_assists,37.5,over,-109,0.483,0.485,1.45,-7.3,-7.1,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_points_rebounds_assists,37.5,under,-120,0.517,0.515,1.42,-5.3,-5.5,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_rebounds,6.5,over,-116,0.475,0.491,1.35,-11.5,-8.5,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_rebounds,6.5,under,-114,0.525,0.509,1.49,-1.5,-4.5,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_threes,1.5,over,-173,0.563,0.58,1.05,-11.1,-8.5,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Deni Avdija,player_threes,1.5,under,131,0.437,0.42,1.88,0.8,-3.0,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_assists,2.5,over,-139,0.542,0.539,1.25,-6.8,-7.3,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_assists,2.5,under,106,0.458,0.461,1.63,-5.6,-5.1,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_points,10.5,over,-127,0.515,0.512,1.28,-8.0,-8.5,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_points,10.5,under,-101,0.485,0.488,1.65,-3.4,-2.9,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_points_rebounds_assists,20.5,over,-123,0.519,0.5,1.28,-5.9,-9.4,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_points_rebounds_assists,20.5,under,-107,0.481,0.5,1.59,-7.0,-3.2,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_rebounds,6.5,over,-120,0.488,0.496,1.31,-10.6,-9.0,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Derik Queen,player_rebounds,6.5,under,-109,0.512,0.504,1.57,-1.8,-3.4,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_assists,1.5,over,148,,0.391,1.98,,-3.0,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_assists,1.5,under,-197,,0.609,0.96,,-8.2,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_points,10.5,over,-103,0.479,0.482,1.56,-5.6,-5.1,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_points,10.5,under,-123,0.521,0.518,1.38,-5.5,-6.0,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_points_rebounds_assists,15.5,over,-128,0.506,0.52,1.31,-9.9,-7.3,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_points_rebounds_assists,15.5,under,-103,0.494,0.48,1.55,-2.7,-5.4,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_rebounds,4.5,over,104,0.456,0.456,1.55,-6.9,-7.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_rebounds,4.5,under,-137,0.544,0.544,1.3,-6.0,-5.8,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_threes,1.5,over,124,0.399,0.412,1.67,-10.6,-7.6,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Derrick Jones,player_threes,1.5,under,-163,0.601,0.588,1.18,-3.1,-5.2,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_assists,2.5,over,-166,0.59,0.586,1.15,-5.4,-6.1,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_assists,2.5,under,126,0.41,0.414,1.73,-7.4,-6.5,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_points,20.5,over,-105,0.48,0.485,1.53,-6.3,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_points,20.5,under,-122,0.52,0.515,1.39,-5.3,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_points_rebounds_assists,27.5,over,-122,0.504,0.501,1.3,-8.3,-8.8,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_points_rebounds_assists,27.5,under,-108,0.496,0.499,1.56,-4.5,-3.9,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_rebounds,4.5,over,106,0.436,0.447,1.54,-10.3,-7.9,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_rebounds,4.5,under,-140,0.564,0.553,1.3,-3.3,-5.2,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_threes,3.5,over,111,0.458,0.449,1.67,-3.3,-5.2,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Desmond Bane,player_threes,3.5,under,-146,0.542,0.551,1.21,-8.8,-7.2,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_assists,2.5,over,102,,0.467,1.58,,-5.6,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_assists,2.5,under,-134,,0.533,1.29,,-7.0,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_points,11.5,over,-116,0.519,0.508,1.45,-3.3,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_points,11.5,under,-110,0.481,0.492,1.47,-8.2,-6.1,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_points_rebounds_assists,18.5,over,-105,0.481,0.482,1.52,-6.1,-5.9,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_points_rebounds_assists,18.5,under,-125,0.519,0.518,1.35,-6.6,-6.7,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_rebounds,3.5,over,-141,0.528,0.526,1.16,-9.7,-10.1,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_rebounds,3.5,under,107,0.472,0.474,1.75,-2.3,-1.9,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_threes,1.5,over,-141,0.548,0.547,1.26,-6.3,-6.5,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Devin Vassell,player_threes,1.5,under,107,0.452,0.453,1.6,-6.5,-6.3,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Domantas Sabonis,player_points,12.5,over,-113,0.465,0.476,1.32,-12.3,-10.4,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Domantas Sabonis,player_points,12.5,under,-113,0.535,0.524,1.61,0.8,-1.1,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Domantas Sabonis,player_points_rebounds_assists,30.5,over,-125,0.492,0.499,1.24,-11.4,-10.2,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Domantas Sabonis,player_points_rebounds_assists,30.5,under,-105,0.508,0.501,1.64,-0.9,-2.2,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Domantas Sabonis,player_rebounds,11.5,over,-126,0.533,0.528,1.39,-4.4,-5.3,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Domantas Sabonis,player_rebounds,11.5,under,-104,0.467,0.472,1.48,-8.4,-7.4,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_assists,1.5,over,-181,0.61,0.607,1.09,-5.2,-5.8,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_assists,1.5,under,137,0.39,0.393,1.78,-7.7,-6.9,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_points,11.5,over,100,0.514,0.504,1.78,2.8,0.8,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_points,11.5,under,-128,0.486,0.496,1.18,-13.5,-11.6,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_points_rebounds_assists,24.5,over,-118,,0.513,1.44,,-5.3,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_points_rebounds_assists,24.5,under,-111,,0.487,1.43,,-7.4,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_rebounds,11.5,over,103,0.458,0.465,1.59,-7.0,-5.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_rebounds,11.5,under,-135,0.542,0.535,1.28,-5.7,-6.9,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_threes,0.5,over,-196,,0.622,1.02,,-6.1,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Donovan Clingan,player_threes,0.5,under,148,,0.378,1.86,,-6.2,3,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_assists,5.5,over,-103,0.488,0.484,1.58,-3.9,-4.5,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_assists,5.5,under,-128,0.512,0.516,1.29,-8.8,-8.2,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_points,26.5,over,-105,,0.495,1.6,,-3.4,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_points,26.5,under,-122,,0.505,1.33,,-8.1,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_points_rebounds_assists,36.5,over,-108,0.481,0.485,1.48,-7.4,-6.5,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_points_rebounds_assists,36.5,under,-121,0.519,0.515,1.4,-5.2,-6.0,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_rebounds,4.5,over,110,0.476,0.47,1.79,0.0,-1.4,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_rebounds,4.5,under,-145,0.524,0.53,1.12,-11.5,-10.4,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_threes,2.5,over,-141,0.538,0.542,1.23,-8.1,-7.4,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Donovan Mitchell,player_threes,2.5,under,107,0.462,0.458,1.64,-4.3,-5.2,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_assists,5.5,over,-136,0.5,0.524,1.21,-13.2,-9.2,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_assists,5.5,under,104,0.5,0.476,1.69,2.0,-2.8,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_points,5.5,over,-121,,0.492,1.27,,-10.2,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_points,5.5,under,-106,,0.508,1.66,,-1.2,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_points_rebounds_assists,17.5,over,-106,,0.477,1.47,,-7.3,2,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_points_rebounds_assists,17.5,under,-124,,0.523,1.39,,-5.5,2,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_rebounds,5.5,over,118,0.429,0.426,1.66,-6.5,-7.0,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_rebounds,5.5,under,-155,0.571,0.574,1.21,-6.0,-5.6,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_threes,0.5,over,-145,,0.557,1.26,,-5.9,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Draymond Green,player_threes,0.5,under,110,,0.443,1.6,,-7.0,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_assists,4.5,over,-121,0.494,0.5,1.32,-9.8,-8.7,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_assists,4.5,under,-109,0.506,0.5,1.54,-3.0,-4.1,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_points,16.5,over,-124,0.525,0.515,1.35,-5.2,-7.0,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_points,16.5,under,-103,0.475,0.485,1.58,-6.3,-4.4,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_points_rebounds_assists,27.5,over,-111,,0.488,1.43,,-7.2,3,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_points_rebounds_assists,27.5,under,-118,,0.512,1.44,,-5.4,3,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_rebounds,5.5,over,-102,0.443,0.448,1.37,-12.3,-11.2,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Dylan Harper,player_rebounds,5.5,under,-130,0.557,0.552,1.45,-1.4,-2.4,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_assists,5.5,over,-151,0.558,0.556,1.18,-7.3,-7.5,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_assists,5.5,under,114,0.442,0.444,1.69,-5.4,-5.0,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_points,11.5,over,-114,0.465,0.477,1.31,-12.7,-10.5,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_points,11.5,under,-112,0.535,0.523,1.62,1.3,-1.0,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_rebounds,7.5,over,113,,0.437,1.63,,-6.9,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_rebounds,7.5,under,-149,,0.563,1.23,,-6.0,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_threes,0.5,over,117,,0.399,1.43,,-13.4,2,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Dyson Daniels,player_threes,0.5,under,-155,,0.601,1.34,,-1.1,2,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_assists,6.5,over,-111,0.506,0.489,1.43,-3.8,-7.1,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_assists,6.5,under,-119,0.494,0.511,1.42,-9.1,-5.9,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_points,24.5,over,-115,0.494,0.496,1.4,-7.7,-7.3,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_points,24.5,under,-110,0.506,0.504,1.55,-3.4,-3.7,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_points_rebounds_assists,37.5,over,-123,0.51,0.509,1.33,-7.5,-7.7,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_points_rebounds_assists,37.5,under,-107,0.49,0.491,1.53,-5.2,-5.0,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_rebounds,6.5,over,-106,0.462,0.477,1.46,-10.1,-7.4,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_rebounds,6.5,under,-124,0.538,0.523,1.4,-2.9,-5.5,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_threes,1.5,over,-113,0.508,0.508,1.51,-4.2,-4.3,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Franz Wagner,player_threes,1.5,under,-116,0.492,0.492,1.36,-8.4,-8.4,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_points,13.5,over,-115,0.472,0.486,1.34,-11.8,-9.2,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_points,13.5,under,-111,0.528,0.514,1.59,0.4,-2.3,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_points_rebounds_assists,22.5,over,-105,,0.469,1.43,,-8.5,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_points_rebounds_assists,22.5,under,-126,,0.531,1.41,,-4.7,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_rebounds,3.5,over,129,0.41,0.412,1.77,-6.2,-5.7,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_rebounds,3.5,under,-171,0.59,0.588,1.1,-6.4,-6.8,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_threes,2.5,over,-128,0.505,0.513,1.27,-10.0,-8.7,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Fred VanVleet,player_threes,2.5,under,-102,0.495,0.487,1.62,-2.0,-3.5,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Giannis Antetokounmpo,player_assists,5.5,over,-134,0.532,0.542,1.33,-7.1,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Giannis Antetokounmpo,player_assists,5.5,under,102,0.468,0.458,1.52,-5.5,-7.4,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Giannis Antetokounmpo,player_points,29.5,over,-115,0.487,0.494,1.39,-8.9,-7.6,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Giannis Antetokounmpo,player_points,29.5,under,-111,0.513,0.506,1.54,-2.6,-3.9,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Giannis Antetokounmpo,player_points_rebounds_assists,48.5,over,-109,,0.497,1.52,,-4.8,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Giannis Antetokounmpo,player_points_rebounds_assists,48.5,under,-120,,0.503,1.35,,-7.7,2,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Herb Jones,player_points,8.5,over,-111,0.483,0.487,1.42,-8.1,-7.5,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Herb Jones,player_points,8.5,under,-114,0.517,0.513,1.52,-3.0,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Herb Jones,player_rebounds,3.5,over,-112,0.478,0.484,1.39,-9.4,-8.4,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Herb Jones,player_rebounds,3.5,under,-118,0.522,0.516,1.46,-3.6,-4.7,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Herb Jones,player_threes,1.5,over,133,,0.399,1.75,,-7.0,3,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Herb Jones,player_threes,1.5,under,-176,,0.601,1.11,,-5.8,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Isaac Okoro,player_points,8.5,over,-101,0.459,0.461,1.48,-8.6,-8.2,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Isaac Okoro,player_points,8.5,under,-127,0.541,0.539,1.43,-3.3,-3.7,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Isaac Okoro,player_rebounds,2.5,over,-103,,0.46,1.43,,-9.3,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Isaac Okoro,player_rebounds,2.5,under,-128,,0.54,1.42,,-3.9,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Isaac Okoro,player_threes,0.5,over,-170,,0.586,1.1,,-7.0,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Isaac Okoro,player_threes,0.5,under,129,,0.414,1.79,,-5.1,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Isaiah Collier,player_assists,3.5,over,-124,0.514,0.514,1.35,-7.2,-7.1,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Isaiah Collier,player_assists,3.5,under,-106,0.486,0.486,1.52,-5.5,-5.6,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Isaiah Collier,player_points,6.5,over,-103,0.46,0.466,1.46,-9.3,-8.2,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Isaiah Collier,player_points,6.5,under,-123,0.54,0.534,1.47,-2.1,-3.1,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Isaiah Collier,player_points_rebounds_assists,12.5,over,-111,0.481,0.487,1.42,-8.6,-7.5,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Isaiah Collier,player_points_rebounds_assists,12.5,under,-119,0.519,0.513,1.43,-4.5,-5.6,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_assists,4.5,over,118,0.426,0.426,1.65,-7.1,-7.1,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_assists,4.5,under,-155,0.574,0.574,1.21,-5.6,-5.6,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_points,9.5,over,-117,0.496,0.498,1.37,-8.0,-7.7,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_points,9.5,under,-109,0.504,0.502,1.56,-3.4,-3.7,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_points_rebounds_assists,24.5,over,-112,0.483,0.483,1.38,-8.5,-8.7,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_points_rebounds_assists,24.5,under,-117,0.517,0.517,1.49,-4.2,-4.0,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_rebounds,10.5,over,-104,0.468,0.475,1.5,-8.3,-6.8,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Isaiah Hartenstein,player_rebounds,10.5,under,-127,0.532,0.525,1.35,-4.8,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Isaiah Stewart,player_points,11.5,over,-115,0.491,0.496,1.4,-8.1,-7.2,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Isaiah Stewart,player_points,11.5,under,-111,0.509,0.504,1.53,-3.3,-4.2,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Isaiah Stewart,player_rebounds,5.5,over,-111,0.444,0.457,1.24,-15.5,-13.2,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Isaiah Stewart,player_rebounds,5.5,under,-118,0.556,0.543,1.62,2.7,0.4,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_assists,1.5,over,-180,0.594,0.604,1.08,-7.7,-6.0,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_assists,1.5,under,136,0.406,0.396,1.79,-4.1,-6.6,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_points,12.5,over,-117,0.519,0.51,1.45,-3.7,-5.3,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_points,12.5,under,-109,0.481,0.49,1.48,-7.8,-6.1,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_points_rebounds_assists,25.5,over,-108,0.476,0.487,1.49,-8.3,-6.2,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_points_rebounds_assists,25.5,under,-122,0.524,0.513,1.37,-4.6,-6.7,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_rebounds,10.5,over,107,0.422,0.421,1.38,-12.6,-12.8,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Ivica Zubac,player_rebounds,10.5,under,-141,0.578,0.579,1.42,-1.2,-1.1,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_assists,1.5,over,-152,,0.561,1.19,,-6.9,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_assists,1.5,under,115,,0.439,1.68,,-5.7,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_points,14.5,over,-101,0.479,0.484,1.62,-4.7,-3.7,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_points,14.5,under,-127,0.521,0.516,1.31,-6.8,-7.8,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_points_rebounds_assists,23.5,over,-108,0.486,0.49,1.5,-6.4,-5.6,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_points_rebounds_assists,23.5,under,-122,0.514,0.51,1.35,-6.4,-7.2,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_rebounds,6.5,over,-143,0.555,0.559,1.29,-5.7,-5.1,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_rebounds,6.5,under,109,0.445,0.441,1.57,-7.0,-7.8,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_threes,2.5,over,117,0.425,0.413,1.54,-7.8,-10.3,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jabari Smith Jr,player_threes,2.5,under,-154,0.575,0.587,1.29,-5.1,-3.2,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jaime Jaquez Jr,player_assists,3.5,over,107,,0.443,1.54,,-8.3,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jaime Jaquez Jr,player_assists,3.5,under,-141,,0.557,1.31,,-4.8,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jaime Jaquez Jr,player_points,13.5,over,-117,,0.514,1.47,,-4.7,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jaime Jaquez Jr,player_points,13.5,under,-109,,0.486,1.46,,-6.8,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jaime Jaquez Jr,player_threes,1.5,over,121,,0.397,1.5,,-12.2,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jaime Jaquez Jr,player_threes,1.5,under,-160,,0.603,1.29,,-2.1,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_assists,6.5,over,113,0.441,0.437,1.63,-6.1,-6.8,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_assists,6.5,under,-149,0.559,0.563,1.23,-6.6,-6.0,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_points,25.5,over,-104,0.481,0.492,1.6,-5.7,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_points,25.5,under,-123,0.519,0.508,1.33,-5.9,-7.8,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_points_rebounds_assists,34.5,over,-123,0.514,0.511,1.35,-6.9,-7.3,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_points_rebounds_assists,34.5,under,-107,0.486,0.489,1.52,-5.9,-5.5,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_rebounds,3.5,over,115,0.407,0.417,1.52,-12.4,-10.5,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_rebounds,3.5,under,-152,0.593,0.583,1.29,-1.8,-3.3,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_threes,2.5,over,105,0.462,0.461,1.61,-5.3,-5.6,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Jalen Brunson,player_threes,2.5,under,-139,0.538,0.539,1.25,-7.5,-7.2,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_assists,7.5,over,102,0.477,0.472,1.61,-3.6,-4.7,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_assists,7.5,under,-134,0.523,0.528,1.26,-8.7,-7.8,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_points,22.5,over,-110,0.495,0.499,1.52,-5.4,-4.7,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_points,22.5,under,-116,0.505,0.501,1.41,-6.1,-6.8,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_points_rebounds_assists,39.5,over,-116,0.514,0.505,1.43,-4.3,-6.1,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_points_rebounds_assists,39.5,under,-113,0.486,0.495,1.44,-8.4,-6.6,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_rebounds,9.5,over,-107,0.479,0.482,1.48,-7.4,-6.7,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_rebounds,9.5,under,-123,0.521,0.518,1.38,-5.5,-6.2,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_threes,1.5,over,-103,0.448,0.462,1.43,-11.7,-9.0,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Johnson,player_threes,1.5,under,-128,0.552,0.538,1.41,-1.6,-4.1,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_assists,1.5,over,-141,,0.556,1.31,,-5.0,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_assists,1.5,under,107,,0.444,1.54,,-8.1,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_points,14.5,over,-105,0.497,0.491,1.57,-3.0,-4.2,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_points,14.5,under,-122,0.503,0.509,1.35,-8.5,-7.3,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_points_rebounds_assists,24.5,over,-115,0.519,0.51,1.48,-2.9,-4.6,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_points_rebounds_assists,24.5,under,-114,0.481,0.49,1.38,-9.7,-8.1,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_rebounds,8.5,over,103,0.456,0.464,1.58,-7.4,-5.9,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_rebounds,8.5,under,-135,0.544,0.536,1.29,-5.3,-6.6,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_threes,1.5,over,-158,0.566,0.565,1.13,-7.5,-7.8,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Jalen Smith,player_threes,1.5,under,120,0.434,0.435,1.77,-4.6,-4.2,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_assists,4.5,over,118,0.399,0.422,1.62,-12.9,-8.0,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_assists,4.5,under,-155,0.601,0.578,1.23,-1.2,-4.9,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_points,10.5,over,-105,0.457,0.471,1.45,-10.8,-8.1,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_points,10.5,under,-121,0.543,0.529,1.48,-0.8,-3.4,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_points_rebounds_assists,17.5,over,-129,0.51,0.515,1.27,-9.4,-8.6,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_points_rebounds_assists,17.5,under,-102,0.49,0.485,1.61,-3.0,-3.9,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_rebounds,3.5,over,106,0.435,0.437,1.47,-10.3,-9.9,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_rebounds,3.5,under,-140,0.565,0.563,1.35,-3.2,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_threes,1.5,over,-105,0.462,0.462,1.39,-9.8,-9.8,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Jalen Suggs,player_threes,1.5,under,-125,0.538,0.538,1.46,-3.2,-3.2,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_assists,6.5,over,101,0.455,0.458,1.5,-8.6,-7.9,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_assists,6.5,under,-133,0.545,0.542,1.35,-4.5,-5.1,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_points,17.5,over,-108,0.47,0.478,1.43,-9.5,-8.0,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_points,17.5,under,-118,0.53,0.522,1.5,-2.1,-3.6,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_points_rebounds_assists,28.5,over,-108,,0.479,1.44,,-7.8,3,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_points_rebounds_assists,28.5,under,-122,,0.521,1.42,,-5.2,3,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_rebounds,4.5,over,106,0.467,0.465,1.66,-3.8,-4.3,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_rebounds,4.5,under,-140,0.533,0.535,1.21,-8.6,-8.2,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_threes,2.5,over,-118,0.51,0.508,1.41,-5.8,-6.2,9,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,James Harden,player_threes,2.5,under,-112,0.49,0.492,1.44,-7.3,-6.8,9,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_assists,2.5,over,135,,0.387,1.69,,-9.1,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_assists,2.5,under,-178,,0.613,1.14,,-4.2,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_points,14.5,over,-102,0.503,0.499,1.7,-0.4,-1.1,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_points,14.5,under,-125,0.497,0.501,1.25,-10.5,-9.9,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_points_rebounds_assists,20.5,over,-105,0.5,0.492,1.58,-2.4,-4.0,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_points_rebounds_assists,20.5,under,-125,0.5,0.508,1.3,-10.0,-8.5,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_rebounds,3.5,over,-106,0.468,0.476,1.46,-9.1,-7.6,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_rebounds,3.5,under,-124,0.532,0.524,1.4,-3.9,-5.3,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_threes,2.5,over,-101,0.464,0.461,1.47,-7.7,-8.3,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Jared McCain,player_threes,2.5,under,-130,0.536,0.539,1.38,-5.2,-4.6,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_assists,1.5,over,-122,,0.5,1.3,,-9.0,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_assists,1.5,under,-108,,0.5,1.57,,-3.7,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_points,13.5,over,-124,0.524,0.519,1.37,-5.3,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_points,13.5,under,-102,0.476,0.481,1.58,-5.8,-4.7,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_points_rebounds_assists,25.5,over,-109,0.494,0.492,1.49,-5.3,-5.7,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_points_rebounds_assists,25.5,under,-121,0.506,0.508,1.36,-7.6,-7.2,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_rebounds,9.5,over,-113,0.513,0.506,1.5,-3.3,-4.6,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jarrett Allen,player_rebounds,9.5,under,-117,0.487,0.494,1.35,-9.7,-8.4,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_assists,1.5,over,114,,0.444,1.7,,-5.0,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_assists,1.5,under,-150,,0.556,1.19,,-7.3,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_points,8.5,over,109,,0.464,1.73,,-3.0,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_points,8.5,under,-140,,0.536,1.22,,-8.1,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_points_rebounds_assists,15.5,over,-112,0.506,0.501,1.49,-4.2,-5.1,5,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_points_rebounds_assists,15.5,under,-117,0.494,0.499,1.38,-8.4,-7.5,5,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_rebounds,5.5,over,-122,0.51,0.506,1.33,-7.3,-7.9,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Jaxson Hayes,player_rebounds,5.5,under,-108,0.49,0.494,1.53,-5.5,-4.9,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jaylen Wells,player_points,10.5,over,-126,0.535,0.518,1.33,-4.0,-7.1,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jaylen Wells,player_points,10.5,under,-101,0.465,0.482,1.61,-7.5,-4.0,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jaylen Wells,player_rebounds,2.5,over,-160,0.546,0.55,1.04,-11.3,-10.6,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jaylen Wells,player_rebounds,2.5,under,121,0.454,0.45,1.9,0.4,-0.6,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jaylen Wells,player_threes,1.5,over,-135,0.564,0.554,1.38,-1.8,-3.6,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jaylen Wells,player_threes,1.5,under,103,0.436,0.446,1.47,-11.5,-9.4,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jaylon Tyson,player_points,11.5,over,-103,0.476,0.48,1.55,-6.1,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jaylon Tyson,player_points,11.5,under,-123,0.524,0.52,1.39,-5.1,-5.7,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jaylon Tyson,player_rebounds,4.5,over,-125,0.522,0.521,1.36,-6.0,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jaylon Tyson,player_rebounds,4.5,under,-105,0.478,0.479,1.5,-6.7,-6.5,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jaylon Tyson,player_threes,1.5,over,-142,0.537,0.539,1.2,-8.5,-8.2,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Jaylon Tyson,player_threes,1.5,under,108,0.463,0.461,1.68,-3.7,-4.0,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jerami Grant,player_points,11.5,over,-108,0.49,0.496,1.54,-5.7,-4.5,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jerami Grant,player_points,11.5,under,-118,0.51,0.504,1.39,-5.8,-6.9,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jerami Grant,player_rebounds,2.5,over,-101,0.481,0.488,1.65,-4.3,-2.9,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jerami Grant,player_rebounds,2.5,under,-130,0.519,0.512,1.24,-8.1,-9.4,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jerami Grant,player_threes,1.5,over,108,0.476,0.472,1.76,-1.0,-1.8,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jerami Grant,player_threes,1.5,under,-142,0.524,0.528,1.15,-10.7,-10.0,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_assists,5.5,over,-133,0.542,0.539,1.33,-5.1,-5.6,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_assists,5.5,under,101,0.458,0.461,1.52,-7.9,-7.3,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_points,19.5,over,-106,0.49,0.49,1.55,-4.8,-4.8,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_points,19.5,under,-120,0.51,0.51,1.39,-6.5,-6.5,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_points_rebounds_assists,30.5,over,-111,0.506,0.493,1.46,-3.8,-6.2,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_points_rebounds_assists,30.5,under,-119,0.494,0.507,1.39,-9.1,-6.8,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_rebounds,4.5,over,-144,0.525,0.534,1.16,-11.1,-9.4,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_rebounds,4.5,under,109,0.475,0.466,1.74,-0.6,-2.7,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_threes,1.5,over,-132,0.524,0.525,1.27,-8.0,-7.8,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Jeremiah Fears,player_threes,1.5,under,100,0.476,0.475,1.59,-4.7,-4.9,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_assists,8.5,over,103,0.472,0.475,1.66,-4.1,-3.5,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_assists,8.5,under,-136,0.528,0.525,1.22,-8.4,-8.9,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_points,13.5,over,-111,0.487,0.492,1.45,-7.4,-6.5,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_points,13.5,under,-115,0.513,0.508,1.47,-4.2,-5.0,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_points_rebounds_assists,27.5,over,-126,0.524,0.513,1.31,-6.0,-8.0,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_points_rebounds_assists,27.5,under,-105,0.476,0.487,1.55,-7.1,-4.9,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_rebounds,5.5,over,-129,0.541,0.535,1.38,-3.9,-5.0,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_rebounds,5.5,under,-102,0.459,0.465,1.48,-9.2,-7.9,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_threes,1.5,over,111,0.415,0.426,1.5,-12.3,-10.1,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Josh Giddey,player_threes,1.5,under,-147,0.585,0.574,1.31,-1.8,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Josh Green,player_points,4.5,over,-132,0.528,0.53,1.3,-7.2,-6.8,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Josh Green,player_points,4.5,under,103,0.472,0.47,1.62,-4.2,-4.6,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Josh Green,player_rebounds,2.5,over,143,,0.381,1.8,,-7.4,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Josh Green,player_rebounds,2.5,under,-190,,0.619,1.06,,-5.5,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Josh Green,player_threes,0.5,over,-207,,0.632,0.97,,-6.3,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Josh Green,player_threes,0.5,under,155,,0.368,1.9,,-6.1,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_assists,3.5,over,-147,0.535,0.539,1.14,-10.1,-9.5,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_assists,3.5,under,112,0.465,0.461,1.77,-1.4,-2.2,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_points,9.5,over,-110,0.462,0.482,1.42,-11.8,-7.9,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_points,9.5,under,-116,0.538,0.518,1.51,0.2,-3.6,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_rebounds,7.5,over,102,0.456,0.459,1.53,-7.9,-7.4,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_rebounds,7.5,under,-135,0.544,0.541,1.32,-5.3,-5.7,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_threes,1.5,over,137,0.396,0.394,1.79,-6.1,-6.6,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Josh Hart,player_threes,1.5,under,-181,0.604,0.606,1.08,-6.3,-6.0,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_assists,4.5,over,107,,0.454,1.61,,-6.0,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_assists,4.5,under,-141,,0.546,1.26,,-6.7,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_points,12.5,over,-108,0.507,0.509,1.62,-2.3,-2.1,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_points,12.5,under,-118,0.493,0.491,1.32,-8.9,-9.2,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_points_rebounds_assists,20.5,over,-121,0.517,0.514,1.4,-5.6,-6.1,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_points_rebounds_assists,20.5,under,-109,0.483,0.486,1.46,-7.4,-6.9,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_rebounds,3.5,over,-122,0.526,0.53,1.47,-4.3,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_rebounds,3.5,under,-108,0.474,0.47,1.38,-8.7,-9.4,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_threes,2.5,over,129,0.396,0.41,1.76,-9.2,-6.1,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Jrue Holiday,player_threes,2.5,under,-171,0.604,0.59,1.11,-4.3,-6.5,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Julian Champagnie,player_points,9.5,over,-119,0.5,0.496,1.33,-8.0,-8.7,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Julian Champagnie,player_points,9.5,under,-107,0.5,0.504,1.61,-3.3,-2.5,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Julian Champagnie,player_threes,2.5,over,109,0.46,0.449,1.62,-3.8,-6.2,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Julian Champagnie,player_threes,2.5,under,-143,0.54,0.551,1.25,-8.3,-6.3,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_assists,3.5,over,107,0.471,0.464,1.68,-2.4,-4.0,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_assists,3.5,under,-140,0.529,0.536,1.22,-9.4,-8.0,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_points,21.5,over,-104,,0.492,1.6,,-3.6,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_points,21.5,under,-123,,0.508,1.33,,-7.8,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_points_rebounds_assists,37.5,over,-116,0.496,0.496,1.38,-7.5,-7.6,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_points_rebounds_assists,37.5,under,-113,0.504,0.504,1.48,-5.1,-5.0,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_rebounds,12.5,over,-124,0.527,0.519,1.37,-4.8,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_rebounds,12.5,under,-106,0.473,0.481,1.49,-8.1,-6.6,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_threes,1.5,over,112,0.451,0.441,1.63,-4.5,-6.4,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Karl-Anthony Towns,player_threes,1.5,under,-148,0.549,0.559,1.23,-7.9,-6.4,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Karlo Matkovic,player_points,8.5,over,-110,0.462,0.467,1.33,-11.8,-10.8,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Karlo Matkovic,player_points,8.5,under,-116,0.538,0.533,1.59,0.2,-0.8,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Karlo Matkovic,player_rebounds,5.5,over,105,0.441,0.452,1.55,-9.6,-7.3,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Karlo Matkovic,player_rebounds,5.5,under,-138,0.559,0.548,1.31,-3.6,-5.6,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Karlo Matkovic,player_threes,0.5,over,-207,,0.617,0.92,,-8.4,2,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Karlo Matkovic,player_threes,0.5,under,156,,0.383,2.06,,-2.0,2,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_assists,2.5,over,-170,0.583,0.587,1.11,-7.4,-6.7,2,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_assists,2.5,under,128,0.417,0.413,1.76,-4.9,-5.9,2,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_points,10.5,over,100,0.472,0.476,1.59,-5.6,-4.9,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_points,10.5,under,-127,0.528,0.524,1.35,-5.6,-6.3,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_points_rebounds_assists,16.5,over,-110,0.486,0.492,1.48,-7.3,-6.0,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_points_rebounds_assists,16.5,under,-119,0.514,0.508,1.4,-5.4,-6.5,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_rebounds,2.5,over,-152,0.559,0.558,1.17,-7.4,-7.5,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_rebounds,2.5,under,115,0.441,0.442,1.71,-5.1,-4.9,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_threes,1.5,over,135,0.402,0.405,1.84,-5.5,-4.9,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Keaton Wagler,player_threes,1.5,under,-179,0.598,0.595,1.06,-6.8,-7.2,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_assists,1.5,over,161,,0.373,2.06,,-2.7,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_assists,1.5,under,-215,,0.627,0.9,,-8.1,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_points,10.5,over,-128,0.519,0.518,1.3,-7.5,-7.7,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_points,10.5,under,100,0.481,0.482,1.63,-3.8,-3.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_points_rebounds_assists,16.5,over,-107,,0.479,1.45,,-7.4,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_points_rebounds_assists,16.5,under,-123,,0.521,1.4,,-5.5,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_rebounds,3.5,over,-136,,0.513,1.16,,-11.0,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_rebounds,3.5,under,103,,0.487,1.74,,-1.2,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_threes,1.5,over,126,0.406,0.416,1.74,-8.2,-6.0,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Keegan Murray,player_threes,1.5,under,-166,0.594,0.584,1.14,-4.9,-6.4,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Keldon Johnson,player_points,9.5,over,-123,0.519,0.515,1.37,-5.9,-6.6,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Keldon Johnson,player_points,9.5,under,-104,0.481,0.485,1.56,-5.7,-4.9,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Keldon Johnson,player_threes,0.5,over,-148,,0.55,1.18,,-7.9,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Keldon Johnson,player_threes,0.5,under,112,,0.45,1.7,,-4.6,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Kelly Oubre Jr.,player_points,11.5,over,102,0.472,0.477,1.65,-4.7,-3.5,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Kelly Oubre Jr.,player_points,11.5,under,-130,0.528,0.523,1.29,-6.6,-7.6,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Kelly Oubre Jr.,player_rebounds,3.5,over,-139,0.532,0.528,1.19,-8.5,-9.2,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Kelly Oubre Jr.,player_rebounds,3.5,under,105,0.468,0.472,1.68,-4.1,-3.3,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Kelly Oubre Jr.,player_threes,1.5,over,160,0.377,0.378,2.09,-2.0,-1.8,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Kelly Oubre Jr.,player_threes,1.5,under,-213,0.623,0.622,0.89,-8.4,-8.5,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_assists,1.5,over,128,,0.42,1.82,,-4.1,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_assists,1.5,under,-170,,0.58,1.07,,-7.9,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_points,7.5,over,-102,0.472,0.474,1.53,-6.6,-6.2,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_points,7.5,under,-125,0.528,0.526,1.4,-4.9,-5.2,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_points_rebounds_assists,13.5,over,-108,0.481,0.481,1.45,-7.4,-7.3,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_points_rebounds_assists,13.5,under,-122,0.519,0.519,1.4,-5.5,-5.6,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_rebounds,4.5,over,-112,0.469,0.477,1.35,-11.2,-9.7,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_rebounds,4.5,under,-117,0.531,0.523,1.52,-1.5,-3.0,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_threes,1.5,over,145,0.379,0.379,1.82,-7.1,-7.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kenrich Williams,player_threes,1.5,under,-192,0.621,0.621,1.05,-5.6,-5.6,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_assists,3.5,over,-137,0.564,0.554,1.35,-2.4,-4.2,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_assists,3.5,under,104,0.436,0.446,1.49,-11.1,-9.0,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_points,21.5,over,-118,0.472,0.499,1.36,-12.8,-7.8,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_points,21.5,under,-108,0.528,0.501,1.57,1.7,-3.5,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_points_rebounds_assists,31.5,over,-112,,0.491,1.43,,-7.1,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_points_rebounds_assists,31.5,under,-117,,0.509,1.44,,-5.6,2,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_rebounds,5.5,over,-110,0.502,0.498,1.51,-4.2,-4.9,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_rebounds,5.5,under,-119,0.498,0.502,1.36,-8.4,-7.7,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_threes,1.5,over,-147,0.561,0.546,1.18,-5.7,-8.2,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Kevin Durant,player_threes,1.5,under,112,0.439,0.454,1.72,-7.0,-3.8,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_assists,5.5,over,-126,0.49,0.493,1.2,-12.1,-11.6,9,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_assists,5.5,under,-105,0.51,0.507,1.68,-0.4,-1.0,9,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_points,20.5,over,-116,0.488,0.495,1.37,-9.1,-7.9,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_points,20.5,under,-110,0.512,0.505,1.55,-2.3,-3.5,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_points_rebounds_assists,30.5,over,-110,0.472,0.482,1.42,-9.9,-7.9,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_points_rebounds_assists,30.5,under,-120,0.528,0.518,1.43,-3.2,-5.1,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_rebounds,3.5,over,-107,0.486,0.482,1.47,-6.0,-6.8,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_rebounds,3.5,under,-123,0.514,0.518,1.38,-6.8,-6.0,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_threes,1.5,over,-191,,0.598,0.96,,-8.9,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Keyonte George,player_threes,1.5,under,144,,0.402,2.0,,-1.8,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_assists,4.5,over,105,0.458,0.466,1.65,-6.1,-4.4,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_assists,4.5,under,-139,0.542,0.534,1.22,-6.8,-8.2,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_points,10.5,over,102,0.472,0.473,1.62,-4.7,-4.5,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_points,10.5,under,-130,0.528,0.527,1.32,-6.6,-6.7,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_points_rebounds_assists,17.5,over,-118,0.514,0.503,1.38,-5.0,-7.1,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_points_rebounds_assists,17.5,under,-111,0.486,0.497,1.49,-7.7,-5.5,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_rebounds,2.5,over,-143,0.567,0.564,1.32,-3.6,-4.2,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_rebounds,2.5,under,109,0.433,0.436,1.53,-9.5,-8.8,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_threes,0.5,over,-189,,0.602,0.99,,-8.0,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Kingston Flemings,player_threes,0.5,under,142,,0.398,1.93,,-3.6,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_assists,1.5,over,-185,,0.598,1.01,,-7.9,3,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_assists,1.5,under,140,,0.402,1.92,,-3.5,3,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_points,13.5,over,-110,0.51,0.508,1.57,-2.7,-3.0,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_points,13.5,under,-115,0.49,0.492,1.38,-8.3,-8.0,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_rebounds,2.5,over,142,,0.4,1.94,,-3.2,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_rebounds,2.5,under,-188,,0.6,1.0,,-8.1,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_threes,3.5,over,108,0.472,0.472,1.75,-1.9,-1.9,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Klay Thompson,player_threes,3.5,under,-142,0.528,0.528,1.15,-10.0,-10.0,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_assists,1.5,over,-171,,0.584,1.08,,-7.4,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_assists,1.5,under,130,,0.416,1.83,,-4.4,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_points,7.5,over,-117,0.522,0.514,1.47,-3.3,-4.7,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_points,7.5,under,-109,0.478,0.486,1.46,-8.3,-6.8,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_points_rebounds_assists,12.5,over,-109,,0.49,1.48,,-6.1,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_points_rebounds_assists,12.5,under,-121,,0.51,1.37,,-6.8,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_rebounds,2.5,over,-105,0.456,0.464,1.41,-10.9,-9.4,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_rebounds,2.5,under,-125,0.544,0.536,1.45,-2.1,-3.5,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_threes,1.5,over,118,0.421,0.425,1.64,-8.1,-7.4,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kobe Sanders,player_threes,1.5,under,-155,0.579,0.575,1.22,-4.8,-5.4,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kris Dunn,player_assists,3.5,over,-124,0.538,0.527,1.41,-2.8,-4.9,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kris Dunn,player_assists,3.5,under,-106,0.462,0.473,1.44,-10.2,-8.0,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kris Dunn,player_rebounds,3.5,over,-145,,0.527,1.11,,-11.0,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kris Dunn,player_rebounds,3.5,under,110,,0.473,1.81,,-0.6,5,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kris Dunn,player_threes,0.5,over,-172,,0.582,1.07,,-7.9,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Kris Dunn,player_threes,0.5,under,130,,0.418,1.84,,-3.9,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_assists,2.5,over,-120,,0.472,1.18,,-13.4,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_assists,2.5,under,-110,,0.528,1.69,,0.7,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_points,10.5,over,-119,0.513,0.511,1.42,-5.7,-5.9,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_points,10.5,under,-107,0.487,0.489,1.52,-5.7,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_points_rebounds_assists,18.5,over,-109,0.481,0.483,1.44,-7.8,-7.4,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_points_rebounds_assists,18.5,under,-121,0.519,0.517,1.41,-5.2,-5.5,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_rebounds,4.5,over,-121,0.519,0.511,1.38,-5.3,-6.7,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_rebounds,4.5,under,-109,0.481,0.489,1.48,-7.7,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_threes,1.5,over,-103,0.468,0.463,1.44,-7.8,-8.7,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Kyle Kuzma,player_threes,1.5,under,-128,0.532,0.537,1.4,-5.2,-4.4,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Landry Shamet,player_assists,1.5,over,-112,,0.499,1.47,,-5.6,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Landry Shamet,player_assists,1.5,under,-117,,0.501,1.4,,-7.0,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Landry Shamet,player_points,8.5,over,-131,,0.513,1.23,,-9.5,3,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Landry Shamet,player_points,8.5,under,102,,0.487,1.71,,-1.7,3,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Landry Shamet,player_threes,1.5,over,-163,0.574,0.57,1.1,-7.4,-8.0,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Landry Shamet,player_threes,1.5,under,124,0.426,0.43,1.81,-4.6,-3.7,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Mario Hezonja,player_rebounds,4.5,over,-118,0.514,0.516,1.46,-5.0,-4.7,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Mario Hezonja,player_rebounds,4.5,under,-111,0.486,0.484,1.41,-7.7,-8.0,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Mario Hezonja,player_threes,1.5,over,146,0.386,0.387,1.91,-5.1,-4.8,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Mario Hezonja,player_threes,1.5,under,-195,0.614,0.613,0.99,-7.1,-7.3,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_assists,2.5,over,137,,0.409,1.92,,-3.1,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_assists,2.5,under,-181,,0.591,1.02,,-8.3,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_points,18.5,over,-106,,0.488,1.53,,-5.3,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_points,18.5,under,-120,,0.512,1.4,,-6.0,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_points_rebounds_assists,25.5,over,-125,,0.508,1.29,,-8.6,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_points_rebounds_assists,25.5,under,-105,,0.492,1.58,,-3.9,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_rebounds,5.5,over,104,0.468,0.471,1.65,-4.6,-3.9,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_rebounds,5.5,under,-137,0.532,0.529,1.23,-7.9,-8.5,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_threes,2.5,over,133,0.404,0.401,1.76,-5.8,-6.7,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Matas Buzelis,player_threes,2.5,under,-176,0.596,0.599,1.1,-6.6,-6.0,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_assists,1.5,over,123,,0.453,1.96,,1.0,3,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_assists,1.5,under,-163,,0.547,1.0,,-11.7,3,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_points,11.5,over,-118,0.498,0.508,1.42,-8.0,-6.1,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_points,11.5,under,-108,0.502,0.492,1.51,-3.3,-5.3,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_points_rebounds_assists,16.5,over,-118,0.506,0.517,1.47,-6.5,-4.5,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_points_rebounds_assists,16.5,under,-112,0.494,0.483,1.38,-6.5,-8.5,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_rebounds,3.5,over,109,0.445,0.44,1.56,-7.0,-8.0,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_rebounds,3.5,under,-143,0.555,0.56,1.3,-5.7,-4.9,6,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_threes,1.5,over,-178,,0.613,1.14,,-4.2,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Meleek Thomas,player_threes,1.5,under,134,,0.387,1.67,,-9.5,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_assists,1.5,over,-178,,0.599,1.08,,-6.4,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_assists,1.5,under,134,,0.401,1.79,,-6.2,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_points,8.5,over,-101,0.477,0.482,1.61,-5.1,-4.1,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_points,8.5,under,-126,0.523,0.518,1.33,-6.2,-7.1,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_points_rebounds_assists,12.5,over,-125,0.532,0.524,1.38,-4.2,-5.6,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_points_rebounds_assists,12.5,under,-105,0.468,0.476,1.48,-8.7,-7.1,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_rebounds,2.5,over,101,0.472,0.482,1.66,-5.2,-3.0,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_rebounds,2.5,under,-132,0.528,0.518,1.24,-7.2,-9.0,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_threes,1.5,over,170,0.354,0.353,2.03,-4.5,-4.8,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Mikal Bridges,player_threes,1.5,under,-228,0.646,0.647,0.89,-7.0,-6.9,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Miles McBride,player_points,7.5,over,-112,0.463,0.479,1.36,-12.5,-9.3,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Miles McBride,player_points,7.5,under,-114,0.537,0.521,1.57,0.9,-2.2,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Miles McBride,player_threes,1.5,over,-134,0.481,0.503,1.13,-16.0,-12.2,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Miles McBride,player_threes,1.5,under,102,0.519,0.497,1.78,4.9,0.4,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_assists,1.5,over,-152,0.53,0.544,1.1,-12.1,-9.8,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_assists,1.5,under,115,0.47,0.456,1.81,1.0,-1.9,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_points,9.5,over,-105,0.504,0.5,1.63,-1.6,-2.3,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_points,9.5,under,-121,0.496,0.5,1.31,-9.4,-8.8,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_points_rebounds_assists,16.5,over,-116,0.506,0.501,1.41,-5.8,-6.7,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_points_rebounds_assists,16.5,under,-114,0.494,0.499,1.44,-7.3,-6.3,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_rebounds,5.5,over,113,0.423,0.437,1.63,-9.9,-6.8,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_rebounds,5.5,under,-149,0.577,0.563,1.23,-3.6,-6.0,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_threes,1.5,over,-106,,0.489,1.54,,-5.0,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Myles Turner,player_threes,1.5,under,-124,,0.511,1.33,,-7.7,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Nate Ament,player_points,8.5,over,-116,0.506,0.509,1.46,-5.8,-5.2,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Nate Ament,player_points,8.5,under,-110,0.494,0.491,1.47,-5.7,-6.3,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Nate Ament,player_rebounds,3.5,over,103,0.449,0.457,1.54,-8.9,-7.2,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Nate Ament,player_rebounds,3.5,under,-135,0.551,0.543,1.33,-4.1,-5.5,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Nate Ament,player_threes,1.5,over,134,0.396,0.385,1.65,-7.3,-10.0,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Nate Ament,player_threes,1.5,under,-178,0.604,0.615,1.15,-5.7,-3.9,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_assists,2.5,over,-153,0.56,0.551,1.13,-7.4,-8.9,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_assists,2.5,under,116,0.44,0.449,1.78,-5.0,-3.0,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_points,22.5,over,-104,0.468,0.494,1.62,-8.3,-3.1,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_points,22.5,under,-123,0.532,0.506,1.31,-3.5,-8.3,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_points_rebounds_assists,28.5,over,-117,0.488,0.496,1.36,-9.5,-8.0,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_points_rebounds_assists,28.5,under,-112,0.512,0.504,1.51,-3.1,-4.6,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_rebounds,3.5,over,111,0.445,0.445,1.63,-6.1,-6.2,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_rebounds,3.5,under,-147,0.555,0.555,1.22,-6.7,-6.7,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_threes,3.5,over,-109,0.492,0.502,1.56,-5.7,-3.7,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Nickeil Alexander-Walker,player_threes,3.5,under,-120,0.508,0.498,1.32,-6.8,-8.7,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_assists,1.5,over,-168,,0.575,1.07,,-8.3,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_assists,1.5,under,127,,0.425,1.84,,-3.5,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_points,20.5,over,-119,,0.506,1.39,,-6.9,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_points,20.5,under,-107,,0.494,1.55,,-4.4,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_points_rebounds_assists,25.5,over,-121,0.506,0.5,1.32,-7.6,-8.6,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_points_rebounds_assists,25.5,under,-109,0.494,0.5,1.54,-5.3,-4.2,4,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_rebounds,2.5,over,-139,0.538,0.544,1.27,-7.5,-6.4,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_rebounds,2.5,under,105,0.462,0.456,1.58,-5.3,-6.6,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_threes,2.5,over,-112,0.492,0.497,1.46,-6.9,-6.0,8,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Norman Powell,player_threes,2.5,under,-118,0.508,0.503,1.39,-6.1,-7.0,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_assists,1.5,over,-167,,0.6,1.2,,-4.0,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_assists,1.5,under,126,,0.4,1.62,,-9.7,4,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_points,17.5,over,-117,0.505,0.503,1.4,-6.3,-6.7,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_points,17.5,under,-109,0.495,0.497,1.53,-5.1,-4.7,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_points_rebounds_assists,24.5,over,-124,0.519,0.516,1.35,-6.2,-6.8,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_points_rebounds_assists,24.5,under,-106,0.481,0.484,1.51,-6.6,-5.9,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_rebounds,5.5,over,114,0.435,0.436,1.64,-7.0,-6.6,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_rebounds,5.5,under,-150,0.565,0.564,1.22,-5.8,-6.1,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_threes,2.5,over,137,0.379,0.395,1.8,-10.1,-6.4,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,OG Anunoby,player_threes,2.5,under,-182,0.621,0.605,1.07,-3.8,-6.3,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Obi Toppin,player_points,9.5,over,-129,0.533,0.523,1.31,-5.4,-7.2,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Obi Toppin,player_points,9.5,under,101,0.467,0.477,1.63,-6.1,-4.1,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Obi Toppin,player_rebounds,4.5,over,113,0.425,0.435,1.61,-9.5,-7.3,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Obi Toppin,player_rebounds,4.5,under,-149,0.575,0.565,1.24,-3.9,-5.6,6,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Obi Toppin,player_threes,1.5,over,109,0.462,0.457,1.67,-3.4,-4.6,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Obi Toppin,player_threes,1.5,under,-144,0.538,0.543,1.2,-8.9,-7.9,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_assists,2.5,over,-126,0.528,0.524,1.37,-5.3,-5.9,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_assists,2.5,under,-105,0.472,0.476,1.48,-7.9,-7.2,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_points,14.5,over,-113,0.481,0.487,1.39,-9.4,-8.2,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_points,14.5,under,-113,0.519,0.513,1.54,-2.1,-3.3,6,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_points_rebounds_assists,25.5,over,-117,0.5,0.495,1.36,-7.3,-8.3,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_points_rebounds_assists,25.5,under,-112,0.5,0.505,1.51,-5.4,-4.3,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_rebounds,7.5,over,-138,0.567,0.564,1.39,-2.2,-2.7,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_rebounds,7.5,under,105,0.433,0.436,1.44,-11.2,-10.7,3,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_threes,1.5,over,101,0.48,0.482,1.66,-3.6,-3.0,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Onyeka Okongwu,player_threes,1.5,under,-133,0.52,0.518,1.22,-8.9,-9.3,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_assists,3.5,over,-126,0.507,0.515,1.32,-9.1,-7.6,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_assists,3.5,under,-104,0.493,0.485,1.56,-3.2,-4.9,8,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_points,20.5,over,-121,0.494,0.503,1.33,-9.8,-8.1,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_points,20.5,under,-105,0.506,0.497,1.61,-1.2,-3.0,5,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_points_rebounds_assists,31.5,over,-107,,0.509,1.64,,-1.5,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_points_rebounds_assists,31.5,under,-123,,0.491,1.23,,-11.0,2,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_rebounds,6.5,over,108,0.434,0.448,1.59,-9.8,-6.9,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_rebounds,6.5,under,-142,0.566,0.552,1.27,-3.5,-5.8,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_threes,1.5,over,-106,0.498,0.499,1.6,-3.2,-3.1,7,2026-11-13T14:54:10-05:00
+NBA,New York Knicks@Indiana Pacers,2026-11-13T19:10-05:00,Pascal Siakam,player_threes,1.5,under,-125,0.502,0.501,1.26,-9.6,-9.8,7,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Patrick Williams,player_points,8.5,over,-105,0.5,0.495,1.6,-2.4,-3.3,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Patrick Williams,player_points,8.5,under,-122,0.5,0.505,1.33,-9.0,-8.2,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Patrick Williams,player_rebounds,3.5,over,107,0.472,0.477,1.77,-2.3,-1.2,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Patrick Williams,player_rebounds,3.5,under,-141,0.528,0.523,1.14,-9.7,-10.6,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Patrick Williams,player_threes,1.5,over,137,0.392,0.404,1.87,-7.0,-4.4,5,2026-11-13T14:54:10-05:00
+NBA,Atlanta Hawks@Chicago Bulls,2026-11-13T20:10-05:00,Patrick Williams,player_threes,1.5,under,-182,0.608,0.596,1.03,-5.9,-7.6,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_assists,2.5,over,137,,0.414,1.96,,-1.9,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_assists,2.5,under,-181,,0.586,1.0,,-9.0,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_points,13.5,over,-101,0.468,0.476,1.57,-6.9,-5.3,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_points,13.5,under,-126,0.532,0.524,1.37,-4.5,-6.0,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_points_rebounds_assists,20.5,over,-113,0.494,0.489,1.4,-6.9,-7.8,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_points_rebounds_assists,20.5,under,-116,0.506,0.511,1.47,-5.8,-4.9,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_rebounds,4.5,over,-128,0.555,0.545,1.45,-1.2,-2.9,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_rebounds,4.5,under,-103,0.445,0.455,1.39,-12.3,-10.4,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_threes,1.5,over,145,0.434,0.426,2.23,6.3,4.5,7,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Peyton Watson,player_threes,1.5,under,-192,0.566,0.574,0.85,-13.9,-12.8,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_assists,2.5,over,-104,0.505,0.502,1.66,-0.9,-1.6,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_assists,2.5,under,-126,0.495,0.498,1.23,-11.2,-10.6,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_points,11.5,over,-115,0.51,0.499,1.42,-4.6,-6.7,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_points,11.5,under,-111,0.49,0.501,1.51,-6.9,-4.7,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_points_rebounds_assists,16.5,over,-109,0.51,0.503,1.56,-2.2,-3.5,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_points_rebounds_assists,16.5,under,-120,0.49,0.497,1.31,-10.2,-8.9,4,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_threes,2.5,over,117,0.431,0.437,1.71,-6.5,-5.1,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Reed Sheppard,player_threes,2.5,under,-155,0.569,0.563,1.16,-6.3,-7.4,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Robert Williams,player_points,6.5,over,-102,0.472,0.484,1.6,-6.5,-4.2,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Robert Williams,player_points,6.5,under,-125,0.528,0.516,1.34,-5.0,-7.0,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Robert Williams,player_rebounds,5.5,over,-141,0.559,0.556,1.3,-4.4,-5.0,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Robert Williams,player_rebounds,5.5,under,107,0.441,0.444,1.54,-8.7,-8.0,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_assists,1.5,over,154,,0.388,2.07,,-1.5,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_assists,1.5,under,-205,,0.612,0.91,,-8.9,3,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_points,14.5,over,-116,,0.507,1.44,,-5.7,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_points,14.5,under,-110,,0.493,1.48,,-5.8,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_points_rebounds_assists,21.5,over,-108,0.5,0.501,1.57,-3.7,-3.5,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_points_rebounds_assists,21.5,under,-121,0.5,0.499,1.31,-8.7,-8.9,4,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_rebounds,4.5,over,-149,0.562,0.559,1.21,-6.0,-6.6,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_rebounds,4.5,under,113,0.438,0.441,1.65,-6.8,-6.0,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_threes,2.5,over,115,0.452,0.44,1.69,-2.8,-5.4,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Rui Hachimura,player_threes,2.5,under,-152,0.548,0.56,1.18,-9.1,-7.2,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Saddiq Bey,player_points,17.5,over,-111,0.486,0.493,1.46,-7.7,-6.2,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Saddiq Bey,player_points,17.5,under,-115,0.514,0.507,1.46,-3.9,-5.3,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Saddiq Bey,player_rebounds,4.5,over,-118,0.519,0.513,1.45,-4.1,-5.1,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Saddiq Bey,player_rebounds,4.5,under,-112,0.481,0.487,1.4,-9.0,-7.9,5,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Saddiq Bey,player_threes,1.5,over,-176,0.602,0.6,1.1,-5.6,-6.0,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Saddiq Bey,player_threes,1.5,under,133,0.398,0.4,1.76,-7.3,-6.7,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_assists,1.5,over,-189,,0.613,1.04,,-6.3,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_assists,1.5,under,142,,0.387,1.83,,-6.2,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_points,10.5,over,-108,0.497,0.494,1.53,-4.3,-4.8,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_points,10.5,under,-118,0.503,0.506,1.4,-7.1,-6.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_points_rebounds_assists,14.5,over,-123,0.528,0.52,1.39,-4.2,-5.8,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_points_rebounds_assists,14.5,under,-107,0.472,0.48,1.47,-8.7,-7.1,3,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_rebounds,2.5,over,140,,0.395,1.86,,-5.1,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_rebounds,2.5,under,-185,,0.605,1.04,,-6.8,2,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_threes,1.5,over,137,0.413,0.41,1.92,-2.2,-2.9,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Scoot Henderson,player_threes,1.5,under,-181,0.587,0.59,1.02,-8.8,-8.3,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_assists,5.5,over,-133,0.519,0.518,1.22,-9.1,-9.3,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_assists,5.5,under,101,0.481,0.482,1.66,-3.3,-3.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_points,31.5,over,-105,0.487,0.491,1.57,-4.8,-4.2,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_points,31.5,under,-122,0.513,0.509,1.35,-6.7,-7.3,8,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_points_rebounds_assists,41.5,over,-113,0.492,0.494,1.43,-7.3,-6.8,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_points_rebounds_assists,41.5,under,-116,0.508,0.506,1.44,-5.4,-5.9,6,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_rebounds,4.5,over,114,0.431,0.434,1.63,-7.8,-7.1,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_rebounds,4.5,under,-151,0.569,0.566,1.22,-5.4,-5.9,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_threes,2.5,over,135,0.399,0.398,1.79,-6.2,-6.4,7,2026-11-13T14:54:10-05:00
+NBA,Oklahoma City Thunder@Los Angeles Clippers,2026-11-13T22:40-05:00,Shai Gilgeous-Alexander,player_threes,2.5,under,-178,0.601,0.602,1.09,-6.2,-6.0,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_assists,2.5,over,139,,0.41,1.97,,-1.9,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_assists,2.5,under,-184,,0.59,0.99,,-9.0,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_points,8.5,over,-118,0.504,0.507,1.41,-6.9,-6.3,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_points,8.5,under,-108,0.496,0.493,1.52,-4.5,-5.1,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_points_rebounds_assists,14.5,over,-113,0.506,0.503,1.48,-4.6,-5.2,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_points_rebounds_assists,14.5,under,-116,0.494,0.497,1.39,-8.0,-7.4,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_rebounds,3.5,over,106,0.503,0.491,1.84,3.6,1.1,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_rebounds,3.5,under,-140,0.497,0.509,1.08,-14.8,-12.7,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_threes,1.5,over,106,0.428,0.435,1.46,-11.9,-10.4,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Sidy Cissoko,player_threes,1.5,under,-139,0.572,0.565,1.38,-1.6,-2.9,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_assists,5.5,over,-117,0.488,0.502,1.4,-9.5,-6.8,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_assists,5.5,under,-112,0.512,0.498,1.47,-3.1,-5.8,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_points,15.5,over,-115,,0.518,1.53,,-3.2,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_points,15.5,under,-111,,0.482,1.4,,-8.3,4,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_points_rebounds_assists,27.5,over,-108,0.486,0.492,1.52,-6.4,-5.2,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_points_rebounds_assists,27.5,under,-122,0.514,0.508,1.34,-6.4,-7.6,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_rebounds,5.5,over,-107,0.461,0.472,1.42,-10.7,-8.6,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_rebounds,5.5,under,-123,0.539,0.528,1.44,-2.4,-4.3,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_threes,1.5,over,-103,0.483,0.497,1.66,-4.7,-2.0,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Stephon Castle,player_threes,1.5,under,-128,0.517,0.503,1.22,-8.0,-10.4,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_assists,1.5,over,127,,0.424,1.83,,-3.7,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_assists,1.5,under,-167,,0.576,1.09,,-8.0,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_points,9.5,over,-114,0.486,0.493,1.4,-8.8,-7.5,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_points,9.5,under,-111,0.514,0.507,1.55,-2.3,-3.6,8,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_points_rebounds_assists,16.5,over,-107,0.5,0.497,1.57,-3.3,-3.9,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_points_rebounds_assists,16.5,under,-123,0.5,0.503,1.3,-9.3,-8.7,3,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_rebounds,5.5,over,109,0.468,0.458,1.68,-2.2,-4.3,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_rebounds,5.5,under,-143,0.532,0.542,1.21,-9.6,-7.9,6,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_threes,1.5,over,155,0.377,0.38,2.02,-3.9,-3.0,7,2026-11-13T14:54:10-05:00
+NBA,Utah Jazz@Houston Rockets,2026-11-13T20:40-05:00,Tari Eason,player_threes,1.5,under,-206,0.623,0.62,0.93,-7.4,-7.9,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_assists,1.5,over,-114,,0.501,1.45,,-6.0,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_assists,1.5,under,-115,,0.499,1.42,,-6.7,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_points,12.5,over,-103,0.502,0.498,1.67,-1.1,-1.8,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_points,12.5,under,-124,0.498,0.502,1.27,-10.0,-9.4,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_points_rebounds_assists,18.5,over,-108,0.5,0.496,1.54,-3.7,-4.5,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_points_rebounds_assists,18.5,under,-122,0.5,0.504,1.32,-9.0,-8.2,4,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_rebounds,4.5,over,116,0.425,0.432,1.65,-8.2,-6.7,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_rebounds,4.5,under,-153,0.575,0.568,1.21,-4.9,-6.1,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_threes,2.5,over,-117,0.471,0.495,1.36,-12.7,-8.2,8,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Toumani Camara,player_threes,2.5,under,-112,0.529,0.505,1.51,0.2,-4.4,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tristan da Silva,player_points,12.5,over,-101,0.486,0.485,1.63,-3.3,-3.6,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tristan da Silva,player_points,12.5,under,-126,0.514,0.515,1.32,-7.8,-7.6,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tristan da Silva,player_rebounds,3.5,over,-149,0.572,0.555,1.19,-4.5,-7.3,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tristan da Silva,player_rebounds,3.5,under,113,0.428,0.445,1.68,-8.8,-5.1,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tristan da Silva,player_threes,2.5,over,-108,0.449,0.469,1.38,-13.5,-9.6,6,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tristan da Silva,player_threes,2.5,under,-122,0.551,0.531,1.47,0.3,-3.4,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_assists,5.5,over,111,0.449,0.45,1.67,-5.2,-5.1,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_assists,5.5,under,-146,0.551,0.55,1.21,-7.2,-7.3,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_points,23.5,over,-114,0.513,0.508,1.49,-3.8,-4.7,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_points,23.5,under,-111,0.487,0.492,1.46,-7.4,-6.4,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_points_rebounds_assists,32.5,over,-114,0.509,0.503,1.46,-4.4,-5.5,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_points_rebounds_assists,32.5,under,-115,0.491,0.497,1.4,-8.2,-7.2,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_rebounds,3.5,over,103,0.462,0.453,1.51,-6.2,-8.1,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_rebounds,3.5,under,-135,0.538,0.547,1.35,-6.3,-4.7,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_threes,2.5,over,-111,0.517,0.508,1.55,-1.8,-3.5,8,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Ty Jerome,player_threes,2.5,under,-119,0.483,0.492,1.31,-11.1,-9.4,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_assists,4.5,over,-115,0.469,0.478,1.3,-12.3,-10.6,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_assists,4.5,under,-115,0.531,0.522,1.55,-0.7,-2.4,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_points,21.5,over,-110,0.49,0.493,1.48,-6.5,-5.9,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_points,21.5,under,-116,0.51,0.507,1.45,-5.0,-5.6,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_points_rebounds_assists,30.5,over,-120,0.506,0.502,1.34,-7.2,-8.1,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_points_rebounds_assists,30.5,under,-110,0.494,0.498,1.51,-5.7,-4.8,4,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_rebounds,4.5,over,-109,0.488,0.481,1.43,-6.5,-7.8,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_rebounds,4.5,under,-120,0.512,0.519,1.44,-6.1,-4.8,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_threes,2.5,over,-118,0.497,0.504,1.39,-8.2,-6.9,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Tyler Herro,player_threes,2.5,under,-112,0.503,0.496,1.46,-4.8,-6.1,8,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_assists,2.5,over,-103,,0.482,1.56,,-5.1,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_assists,2.5,under,-128,,0.518,1.3,,-7.7,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_points,6.5,over,-121,0.514,0.509,1.37,-6.1,-7.0,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_points,6.5,under,-105,0.486,0.491,1.57,-5.2,-4.1,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_points_rebounds_assists,12.5,over,-104,,0.472,1.48,,-7.4,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_points_rebounds_assists,12.5,under,-126,,0.528,1.39,,-5.3,2,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_rebounds,2.5,over,-115,,0.501,1.43,,-6.3,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_rebounds,2.5,under,-115,,0.499,1.42,,-6.7,4,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_threes,1.5,over,155,0.402,0.374,1.96,2.6,-4.5,5,2026-11-13T14:54:10-05:00
+NBA,Cleveland Cavaliers@Miami Heat,2026-11-13T20:10-05:00,Tyrese Proctor,player_threes,1.5,under,-207,0.598,0.626,0.95,-11.4,-7.2,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_assists,2.5,over,-169,0.612,0.592,1.14,-2.6,-5.8,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_assists,2.5,under,128,0.388,0.408,1.73,-11.5,-6.9,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_points,28.5,over,-108,0.479,0.489,1.5,-7.7,-5.8,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_points,28.5,under,-118,0.521,0.511,1.43,-3.8,-5.7,8,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_points_rebounds_assists,43.5,over,-120,0.497,0.495,1.3,-8.9,-9.3,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_points_rebounds_assists,43.5,under,-109,0.503,0.505,1.58,-3.5,-3.1,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_rebounds,11.5,over,-135,0.516,0.515,1.18,-10.2,-10.4,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_rebounds,11.5,under,103,0.484,0.485,1.73,-1.7,-1.5,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_threes,1.5,over,-175,0.604,0.599,1.11,-5.1,-5.9,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Victor Wembanyama,player_threes,1.5,under,132,0.396,0.401,1.75,-8.2,-7.0,7,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_assists,1.5,over,-118,,0.493,1.33,,-8.8,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_assists,1.5,under,-112,,0.507,1.52,,-4.1,5,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_points,12.5,over,-110,0.483,0.486,1.44,-7.8,-7.3,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_points,12.5,under,-116,0.517,0.514,1.49,-3.7,-4.2,8,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_points_rebounds_assists,23.5,over,-118,,0.495,1.34,,-8.5,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_points_rebounds_assists,23.5,under,-112,,0.505,1.51,,-4.5,3,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_rebounds,9.5,over,102,,0.46,1.53,,-7.2,2,2026-11-13T14:54:10-05:00
+NBA,Milwaukee Bucks@Orlando Magic,2026-11-13T19:10-05:00,Wendell Carter Jr,player_rebounds,9.5,under,-134,,0.54,1.33,,-5.6,2,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_assists,3.5,over,-146,0.546,0.544,1.18,-7.9,-8.3,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_assists,3.5,under,111,0.454,0.456,1.72,-4.3,-3.8,7,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_points,20.5,over,-122,,0.505,1.32,,-8.2,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_points,20.5,under,-105,,0.495,1.6,,-3.3,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_points_rebounds_assists,32.5,over,-113,0.509,0.498,1.45,-4.1,-6.1,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_points_rebounds_assists,32.5,under,-116,0.491,0.502,1.42,-8.5,-6.5,5,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_rebounds,6.5,over,-149,,0.538,1.11,,-10.1,3,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_rebounds,6.5,under,113,,0.462,1.8,,-1.6,3,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_threes,1.5,over,-176,0.604,0.604,1.12,-5.3,-5.3,6,2026-11-13T14:54:10-05:00
+NBA,Golden State Warriors@San Antonio Spurs,2026-11-13T21:40-05:00,Yaxel Lendeborg,player_threes,1.5,under,133,0.396,0.396,1.73,-7.7,-7.7,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_assists,2.5,over,-106,0.47,0.476,1.46,-8.7,-7.6,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_assists,2.5,under,-124,0.53,0.524,1.4,-4.2,-5.3,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_points,19.5,over,-102,0.472,0.48,1.57,-6.6,-4.9,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_points,19.5,under,-125,0.528,0.52,1.36,-4.9,-6.4,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_points_rebounds_assists,24.5,over,-122,0.512,0.511,1.36,-6.8,-7.0,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_points_rebounds_assists,24.5,under,-108,0.488,0.489,1.5,-6.0,-5.8,5,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_rebounds,2.5,over,-163,0.588,0.583,1.16,-5.1,-6.0,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_rebounds,2.5,under,123,0.412,0.417,1.69,-8.2,-6.9,6,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_threes,2.5,over,-105,0.456,0.47,1.44,-10.9,-8.3,7,2026-11-13T14:54:10-05:00
+NBA,Portland Trail Blazers@Sacramento Kings,2026-11-13T22:10-05:00,Zach LaVine,player_threes,2.5,under,-125,0.544,0.53,1.42,-2.1,-4.6,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_assists,3.5,over,126,0.399,0.406,1.67,-9.9,-8.1,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_assists,3.5,under,-167,0.601,0.594,1.17,-3.8,-5.1,6,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_points,22.5,over,-111,0.487,0.493,1.46,-7.5,-6.4,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_points,22.5,under,-115,0.513,0.507,1.47,-4.1,-5.1,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_points_rebounds_assists,31.5,over,-125,0.519,0.517,1.34,-6.6,-6.9,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_points_rebounds_assists,31.5,under,-106,0.481,0.483,1.5,-6.6,-6.2,4,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_rebounds,5.5,over,-140,0.573,0.558,1.33,-1.8,-4.4,7,2026-11-13T14:54:10-05:00
+NBA,Memphis Grizzlies@New Orleans Pelicans,2026-11-13T20:10-05:00,Zion Williamson,player_rebounds,5.5,under,106,0.427,0.442,1.51,-12.1,-8.9,7,2026-11-13T14:54:10-05:00
