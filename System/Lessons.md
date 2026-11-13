@@ -220,3 +220,8 @@ Rules from this (they override earlier notes where they conflict):
 - Live micro-markets carry a big margin and settle in minutes, which makes chasing easy.
 - User's call (11-12): no blanket bans. Live bets stay allowed, but they get the same treatment as everything else: priced before placing when possible (boosts, a clearly stale line), logged with the reason, and graded so we learn which live spots pay. Size is flagged, not forbidden: Claude says plainly when one bet is a large share of the bankroll.
 - Near misses that day: Diggs U41.5 lost by 1 yard (42); Aho U1.5 pts lost to 2 goals.
+
+## 11-13 Pick6 per-pick multipliers
+- Pick6 now shows a multiplier per pick: favoured sides 0.7x (e.g. LESS 1.5 threes), boosted sides 1.3x. 2-pick base 3x times each multiplier.
+- A 0.7x partner drops the payout to 2.1x, so a 64% promo x 63% partner = -16%. Always read the payout on the review screen before submitting.
+- With a discounted promo leg (~62%), a 1.3x coin-flip partner (3.9x) is the value play: break-even partner ~41%.
