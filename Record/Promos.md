@@ -18,3 +18,8 @@ Rules: take a promo only when the slips price at or near fair in `engine/fair.py
 - Entries played with Betr Bucks pay **cash** prizes when they win.
 - No expiry date shown on the wallet screen. Not confirmed whether a winning entry pays the full prize or the prize minus the entry; check the first settled one.
 - Balance: $25.00 Betr Bucks, $29.00 cash (11-10).
+
+## 2026-11-13 Betr discounted lines (blue)
+- Wembanyama MORE 25.5 pts (reg 28.5), GS@SA 9:30 — fair 62.1% (mean 29.3, 9 books)
+- Forsberg MORE 1.5 SOG (reg 2.5), NAS@VGK 10:00 — fair 73.1% (mean 2.8, 5 books)
+- One promo per entry: each needs its own entry + regular partner leg. Holding for more promos later today.
