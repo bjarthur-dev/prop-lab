@@ -1,11 +1,11 @@
 {
  "morning_settlement": {
-  "last_ok": "2026-11-13T09:12:16-05:00",
-  "date": "2026-11-12",
-  "settled": 11,
+  "last_ok": "2026-11-14T08:50:00-05:00",
+  "date": "2026-11-13",
+  "settled": 17,
   "flags": 6,
-  "shadow_graded_total": 6103,
-  "nba_logs_through": "2026-11-12",
+  "shadow_graded_total": 6512,
+  "nba_logs_through": "2026-11-13",
   "nba_logs_incomplete": [
    "MIL 2026-11-06",
    "CLE 2026-11-07",

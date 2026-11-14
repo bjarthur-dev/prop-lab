@@ -6,17 +6,17 @@ tags: [record, stat-sheet]
 
 Written by `engine/stat_sheet.py` every morning from Record/bets.csv and Record/expenses.csv. DraftKings' own 'Stat Sheet' also counts older play and Predictions; this one is only what we've bet together.
 
-- **Bets:** 90 settled, 23 won (26%).
-- **Staked:** $353.89. **Profit:** $+51.92 (ROI +14.7%).
-- **Tools paid from winnings:** $60.00. **Net after tools:** $-8.08.
-- **Bankroll now:** $21.87 (DraftKings).
+- **Bets:** 92 settled, 24 won (26%).
+- **Staked:** $363.89. **Profit:** $+66.62 (ROI +18.3%).
+- **Tools paid from winnings:** $60.00. **Net after tools:** $+6.62.
+- **Bankroll now:** $46.57 (DraftKings).
 
 ### By venue
 
 | | bets | won | staked | profit | ROI |
 |---|---:|---:|---:|---:|---:|
 | Pick6 | 29 | 8 | $81.00 | $+45.99 | +57% |
-| Sportsbook | 61 | 15 | $272.89 | $+5.93 | +2% |
+| Sportsbook | 63 | 16 | $282.89 | $+20.63 | +7% |
 
 ### By sport
 
@@ -24,7 +24,7 @@ Written by `engine/stat_sheet.py` every morning from Record/bets.csv and Record/
 |---|---:|---:|---:|---:|---:|
 | BOX | 1 | 1 | $1.82 | $+2.18 | +120% |
 | CFB | 2 | 2 | $4.00 | $+4.14 | +104% |
-| NBA | 44 | 10 | $164.93 | $+46.38 | +28% |
+| NBA | 46 | 11 | $174.93 | $+61.08 | +35% |
 | NCAAB | 6 | 0 | $39.85 | $-39.85 | -100% |
 | NCAAF | 7 | 2 | $33.67 | $+5.02 | +15% |
 | NFL | 21 | 6 | $75.04 | $+43.33 | +58% |
@@ -40,7 +40,7 @@ Written by `engine/stat_sheet.py` every morning from Record/bets.csv and Record/
 | Pick6 entry | 24 | 4 | $69.00 | $+27.39 | +40% |
 | live hedge | 1 | 0 | $16.38 | $-16.38 | -100% |
 | moonshot | 4 | 1 | $24.00 | $-18.00 | -75% |
-| parlay | 42 | 12 | $160.67 | $+107.06 | +67% |
+| parlay | 44 | 13 | $170.67 | $+121.76 | +71% |
 | single | 19 | 6 | $83.84 | $-48.15 | -57% |
 
 ### By boosted (True = a profit boost or promo was applied)
@@ -48,14 +48,14 @@ Written by `engine/stat_sheet.py` every morning from Record/bets.csv and Record/
 | | bets | won | staked | profit | ROI |
 |---|---:|---:|---:|---:|---:|
 | False | 41 | 9 | $166.18 | $-78.41 | -47% |
-| True | 49 | 14 | $187.71 | $+130.33 | +69% |
+| True | 51 | 15 | $197.71 | $+145.03 | +73% |
 
 ### By month
 
 | | bets | won | staked | profit | ROI |
 |---|---:|---:|---:|---:|---:|
 | 2026-10 | 9 | 4 | $31.00 | $-9.86 | -32% |
-| 2026-11 | 81 | 19 | $322.89 | $+61.78 | +19% |
+| 2026-11 | 83 | 20 | $332.89 | $+76.48 | +23% |
 
 ### Biggest wins
 
