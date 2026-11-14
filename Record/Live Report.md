@@ -47,8 +47,8 @@ Without the single biggest win (2026-11-01, $+105.67) profit would be $-53.75: o
 
 | window | bets | profit | minus tools | target | status |
 |---|---:|---:|---:|---:|---|
-| last 7 days | 64 | $-40.75 | $-52.42 | $100 | behind |
-| last 14 days | 87 | $+61.92 | $+38.59 | $100 | behind |
+| last 7 days | 52 | $-31.57 | $-43.24 | $100 | behind |
+| last 14 days | 81 | $+61.78 | $+38.45 | $100 | behind |
 
 ## Tax tracker 2026 (not tax advice; confirm with a tax pro)
 
