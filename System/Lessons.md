@@ -236,3 +236,8 @@ Rules from this (they override earlier notes where they conflict):
 - 90%+ favourites won 98.0% vs 95.7% priced (+2.2, ~1.5 SE): hint of favourite-longshot bias (big favourites slightly underpriced). Watch it.
 - 50-60% CBB favourites won 39% vs 55% priced (59 games, ~2.4 SE): likely noise, re-check as data grows.
 - CFB sample too small to judge (37 games). Re-runs daily in results.yml.
+
+## 11-14 Line movement (engine/line_movement.py, Record/Line Movement.md)
+- Game moneylines, 332 games (mostly CBB), open = first snapshot, close = last pregame: close slightly more accurate than open (Brier .1307 vs .1314).
+- Moves of 1-4 pts (102 games): the side the line moved toward won ~60% vs ~49% at open and ~51.5% at close (about 2 SE vs open). Lean: don't bet against a move; when a priced leg has moved toward us, the move is information. Not yet proven, re-runs daily.
+- NBA props: only 78 props kept the same line open-to-close (lines move instead of prices); no signal. Need a fitted-mean version to test prop moves properly.
