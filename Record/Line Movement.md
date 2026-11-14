@@ -22,3 +22,21 @@ Opening = first saved snapshot, closing = last saved snapshot before start (no-v
 | 4-8 pts | 6 | 49.5% | 54.3% | 33.3% | -16.2 | 20.4 |
 
 Read: if 'that side won' beats 'open said' by more than ~2x noise, line moves carry information -> bet early with the move / avoid betting against it. If close is more accurate than open, our prices should always come from the latest snapshot.
+## NBA props by implied mean (line changes included)
+6245 player-stat-days with an open and a close snapshot (median gap 4.8 h).
+Average miss: open mean 2.99, close mean 2.98 (close more accurate).
+
+| stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |
+|---|---|---|---|---|---|
+| 3pm | 0.25-0.75 | 23 | 0.32 | -0.20 ± 0.31 | -60% |
+| ast | 0.25-0.75 | 126 | 0.41 | +0.57 ± 0.21 | 141% |
+| pra | 0.25-0.75 | 165 | 0.48 | +0.41 ± 0.65 | 85% |
+| pra | 0.75-1.5 | 86 | 1.03 | +2.90 ± 0.90 | 282% |
+| pra | 1.5-99 | 44 | 2.51 | +0.72 ± 1.27 | 29% |
+| pts | 0.25-0.75 | 398 | 0.46 | +0.90 ± 0.32 | 195% |
+| pts | 0.75-1.5 | 133 | 1.01 | +0.54 ± 0.54 | 53% |
+| pts | 1.5-99 | 55 | 2.24 | +2.31 ± 0.97 | 103% |
+| reb | 0.25-0.75 | 171 | 0.39 | +0.75 ± 0.19 | 193% |
+| reb | 0.75-1.5 | 16 | 1.01 | -0.47 ± 0.57 | -47% |
+
+Share realised ~100% = the move was right and the close is fair; >100% = moves under-react (bet with moves early); <0% = moves are noise/overreaction.

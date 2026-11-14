@@ -241,3 +241,6 @@ Rules from this (they override earlier notes where they conflict):
 - Game moneylines, 332 games (mostly CBB), open = first snapshot, close = last pregame: close slightly more accurate than open (Brier .1307 vs .1314).
 - Moves of 1-4 pts (102 games): the side the line moved toward won ~60% vs ~49% at open and ~51.5% at close (about 2 SE vs open). Lean: don't bet against a move; when a priced leg has moved toward us, the move is information. Not yet proven, re-runs daily.
 - NBA props: only 78 props kept the same line open-to-close (lines move instead of prices); no signal. Need a fitted-mean version to test prop moves properly.
+- Props done properly (implied means, line changes included; 6,245 player-stat-days, Oct 24 - Nov 12): close mean barely better than open (miss 2.98 vs 2.99).
+- Small moves (0.25-0.75 of a stat) under-react: points moved 0.46 -> result went +0.90 that way (±0.32); rebounds 0.39 -> +0.75 (±0.19); assists 0.41 -> +0.57 (±0.21). Even the close hasn't caught up.
+- Lead to forward-test: when a prop's implied mean moved 0.25+ since the morning board, lean with the move (extra ~0.3-0.4 of a stat beyond the close, worth roughly +3-5 pts of win chance on reb/ast). Bigger moves (0.75+) are mixed/noisy. Track from 11-15.
