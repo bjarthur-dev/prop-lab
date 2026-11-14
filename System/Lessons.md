@@ -230,3 +230,9 @@ Rules from this (they override earlier notes where they conflict):
 - When FD and DK no-vig differ by 2+ pts on the same line (n=1171), FD's side won 52.7%; DK priced it 49.8%, FD 52.8%. FD calibrated, DK not.
 - Gap 4+ pts (n=159): FD side 54.7%.
 - Overall Brier is about equal across books; FD's value is in the disagreements. Use: on DK/Pick6 even lines, side with FD when it differs 2+ pts. Forward-test from 11-13.
+
+## 11-14 Are game-line prices right? (engine/line_calibration.py, Record/Line Calibration.md)
+- 451 games (411 CBB, 37 CFB, 3 NFL), Oct 31 - Nov 12: favourites priced 81.3% on average won 80.7%. Prices are right overall.
+- 90%+ favourites won 98.0% vs 95.7% priced (+2.2, ~1.5 SE): hint of favourite-longshot bias (big favourites slightly underpriced). Watch it.
+- 50-60% CBB favourites won 39% vs 55% priced (59 games, ~2.4 SE): likely noise, re-check as data grows.
+- CFB sample too small to judge (37 games). Re-runs daily in results.yml.
