@@ -17,7 +17,11 @@ The player-prop projection system: **AI does the research, code does the math, t
 - [[Market Backtest]] — how accurate each book's price is, and whether "this book is off the others" pays
 - [[Promos]] — every promo taken and what it was worth (the main source of profit)
 - [[Ideas Today]] — today's lines that match the lead ideas (paper only)
-- Tools: `engine/fair.py` (price any slip), `engine/consensus_scan.py` (price edges, 6%+ only). Rules: [[Lessons]] "11-09 System audit"
+- [[Promo Ledger]] — promo/boosted vs plain bets: expected vs actual profit and hit rate
+- [[Line Calibration]] — do game-line prices match results (by sport and price bucket)
+- [[Line Movement]] — does the side a line moves toward win more (game lines + NBA props, forward test from 11-15)
+- [[Combo Correlations]] — how stats move together across teammates/opponents (SGP pricing)
+- Tools: `engine/fair.py` (price any slip), `engine/combo.py` (NBA SGP true joint vs DK), `engine/nfl/rec_combo.py` (NFL catches x yards combos), `engine/movers.py` (today's prop movers), `engine/consensus_scan.py` (price edges, 6%+ only). Rules: [[Lessons]] "11-09 System audit"
 
 ## Start here
 - [[Rules]] — **the single source of every number** (sizing, caps, pass rule, books, graduation). Wins any conflict.
