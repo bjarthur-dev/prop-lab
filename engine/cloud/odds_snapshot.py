@@ -157,6 +157,22 @@ def main():
             os.makedirs(f"data/odds/ncaab/{today}", exist_ok=True)
             pd.DataFrame(rows).to_csv(f"data/odds/ncaab/{today}/cbbprops_{now:%H%M}.csv", index=False)
         print(f"::notice::ncaab props: {len(rows)} rows"); info["ncaab"] = len(rows); sports = {}
+    if tag.startswith("cfb:"):   # on-demand: college football game lines + alternates + player props for games whose team names contain any "|"-separated text (e.g. cfb:Georgia|Indiana)
+        teams = [t.lower() for t in tag.split(":", 1)[1].split("|") if t]; key = GAME_SPORTS["ncaaf"]; rows = []
+        mk = "h2h,spreads,totals,alternate_spreads,alternate_totals,team_totals,player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td,player_pass_tds,player_rush_attempts,player_pass_completions,player_rush_yds_alternate,player_reception_yds_alternate,player_pass_yds_alternate"
+        for e in get(f"sports/{key}/events") or []:
+            if not any(t in (e["home_team"] + " " + e["away_team"]).lower() for t in teams): continue
+            t = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET)
+            if t.date().isoformat() != today: continue
+            o = get(f"sports/{key}/events/{e['id']}/odds", bookmakers=BOOKS.replace(",pick6", ""), markets=mk, oddsFormat="american")
+            for b in (o or {}).get("bookmakers", []):
+                for m in b.get("markets", []):
+                    for oc in m.get("outcomes", []):
+                        rows.append(dict(snap_et=now.isoformat(timespec="seconds"), game=f"{e['away_team']}@{e['home_team']}", start_et=t.isoformat(timespec="minutes"), book=b["key"], market=m["key"], player=oc.get("description"), side=oc.get("name"), line=oc.get("point"), price=oc.get("price")))
+        if rows:
+            os.makedirs(f"data/odds/ncaaf/{today}", exist_ok=True)
+            pd.DataFrame(rows).to_csv(f"data/odds/ncaaf/{today}/cfb_{now:%H%M}.csv", index=False)
+        print(f"::notice::ncaaf props: {len(rows)} rows"); info["ncaaf"] = len(rows); sports = {}
     if tag == "cbbalt":   # on-demand: college basketball alternate spreads + totals for today's games (parlay/boost building); 2 credits per game
         key = GAME_SPORTS["ncaab"]; rows = []
         for e in get(f"sports/{key}/events") or []:
