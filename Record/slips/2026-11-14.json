@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-14",
+ "slips": [
+  {
+   "id": 309,
+   "book": "DraftKings",
+   "name": "B&E step 1 Portis/Huerter/Wiggins unders",
+   "stake": 5,
+   "pays": 36.25,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Bobby Portis",
+     "stat": "pts",
+     "side": "under",
+     "line": 6.5
+    },
+    {
+     "sport": "nba",
+     "player": "Kevin Huerter",
+     "stat": "pts",
+     "side": "under",
+     "line": 9.5
+    },
+    {
+     "sport": "nba",
+     "player": "Andrew Wiggins",
+     "stat": "pts",
+     "side": "under",
+     "line": 9.5
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "book": "DraftKings",
+   "name": "50% SGP Kuminga ast/Powell 3pm/Giddey reb unders",
+   "stake": 5,
+   "pays": 46.25,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Jonathan Kuminga",
+     "stat": "ast",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Norman Powell",
+     "stat": "3pm",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Josh Giddey",
+     "stat": "reb",
+     "side": "under",
+     "line": 6.5
+    }
+   ]
+  }
+ ]
+}
