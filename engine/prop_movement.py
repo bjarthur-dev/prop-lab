@@ -30,17 +30,21 @@ for (dt,pl,m),g in d.groupby(['date','player','market']):
     if len(sn)<2: continue
     o=g[g.snap==sn[0]]; c=g[g.snap==sn[-1]]
     if o.book.nunique()<2 or c.book.nunique()<2: continue
-    rows.append(dict(m=MK[m],mo=o.mu.median(),mc=c.mu.median(),y=g.actual.iloc[0],hrs=(sn[-1]-sn[0]).total_seconds()/3600))
+    rows.append(dict(date=dt,m=MK[m],mo=o.mu.median(),mc=c.mu.median(),y=g.actual.iloc[0],hrs=(sn[-1]-sn[0]).total_seconds()/3600))
 R=pd.DataFrame(rows); R['mv']=R.mc-R.mo; R['res']=R.y-R.mo
 out=["","## NBA props by implied mean (line changes included)",f"{len(R)} player-stat-days with an open and a close snapshot (median gap {R.hrs.median():.1f} h).",
-     f"Average miss: open mean {np.abs(R.y-R.mo).mean():.2f}, close mean {np.abs(R.y-R.mc).mean():.2f} ({'close' if np.abs(R.y-R.mc).mean()<np.abs(R.y-R.mo).mean() else 'open'} more accurate).","",
-     "| stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |","|---|---|---|---|---|---|"]
-for m,g in R.groupby('m'):
-    for lo,hi in [(0.25,0.75),(0.75,1.5),(1.5,99)]:
-        x=g[(g.mv.abs()>=lo)&(g.mv.abs()<hi)]
-        if len(x)<15: continue
-        s=np.sign(x.mv); dirres=(x.res*s).mean(); avgmv=x.mv.abs().mean(); se=(x.res*s).std()/np.sqrt(len(x))
-        out.append(f"| {m} | {lo}-{hi} | {len(x)} | {avgmv:.2f} | {dirres:+.2f} ± {se:.2f} | {dirres/avgmv*100:.0f}% |")
+     f"Average miss: open mean {np.abs(R.y-R.mo).mean():.2f}, close mean {np.abs(R.y-R.mc).mean():.2f} ({'close' if np.abs(R.y-R.mc).mean()<np.abs(R.y-R.mo).mean() else 'open'} more accurate)."]
+def table(R,title):
+    out.extend(["",f"### {title}","| stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |","|---|---|---|---|---|---|"])
+    for m,g in list(R.groupby('m'))+[('ALL',R)]:
+        for lo,hi in [(0.25,0.75),(0.75,1.5),(1.5,99)]:
+            x=g[(g.mv.abs()>=lo)&(g.mv.abs()<hi)]
+            if len(x)<15: continue
+            s=np.sign(x.mv); dirres=(x.res*s).mean(); avgmv=x.mv.abs().mean(); se=(x.res*s).std()/np.sqrt(len(x))
+            out.append(f"| {m} | {lo}-{hi} | {len(x)} | {avgmv:.2f} | {dirres:+.2f} ± {se:.2f} | {dirres/avgmv*100:.0f}% |")
+table(R[R.date<'2026-11-15'],"Found on (Oct 24 - Nov 14)")
+F=R[R.date>='2026-11-15']
+table(F,f"Forward test (from Nov 15, {len(F)} so far)") if len(F) else out.append("\nForward test starts Nov 15.")
 out.append("")
 out.append("Share realised ~100% = the move was right and the close is fair; >100% = moves under-react (bet with moves early); <0% = moves are noise/overreaction.")
 open('Record/Line Movement.md','a').write("\n".join(out)); print("\n".join(out))

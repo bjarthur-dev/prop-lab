@@ -26,6 +26,7 @@ Read: if 'that side won' beats 'open said' by more than ~2x noise, line moves ca
 6245 player-stat-days with an open and a close snapshot (median gap 4.8 h).
 Average miss: open mean 2.99, close mean 2.98 (close more accurate).
 
+### Found on (Oct 24 - Nov 14)
 | stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |
 |---|---|---|---|---|---|
 | 3pm | 0.25-0.75 | 23 | 0.32 | -0.20 ± 0.31 | -60% |
@@ -38,5 +39,10 @@ Average miss: open mean 2.99, close mean 2.98 (close more accurate).
 | pts | 1.5-99 | 55 | 2.24 | +2.31 ± 0.97 | 103% |
 | reb | 0.25-0.75 | 171 | 0.39 | +0.75 ± 0.19 | 193% |
 | reb | 0.75-1.5 | 16 | 1.01 | -0.47 ± 0.57 | -47% |
+| ALL | 0.25-0.75 | 883 | 0.44 | +0.70 ± 0.20 | 160% |
+| ALL | 0.75-1.5 | 242 | 1.02 | +1.37 ± 0.45 | 134% |
+| ALL | 1.5-99 | 102 | 2.34 | +1.52 ± 0.76 | 65% |
+
+Forward test starts Nov 15.
 
 Share realised ~100% = the move was right and the close is fair; >100% = moves under-react (bet with moves early); <0% = moves are noise/overreaction.
