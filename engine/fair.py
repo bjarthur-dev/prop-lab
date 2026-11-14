@@ -59,6 +59,13 @@ def load(sport, date):
         if "player" in d.columns: fr.append(d)
     if not fr: raise SystemExit(f"no odds files for {sport} {date}")
     o = pd.concat(fr, ignore_index=True).sort_values("snap_et")
+    # stale guard (11-14 Edey, 11-13 Zubac): for each player-market keep only each book's rows from ITS latest snapshot,
+    # and drop books whose latest quote is 90+ min older than the newest quote on that player-market
+    o["_t"] = pd.to_datetime(o.snap_et, utc=True)
+    last_b = o.groupby(["book", "market", "player"])._t.transform("max")
+    o = o[o._t == last_b]
+    newest = o.groupby(["market", "player"])._t.transform("max")
+    o = o[(newest - o._t) <= pd.Timedelta(minutes=90)].drop(columns="_t")
     o = o.drop_duplicates(["book", "market", "player", "line"], keep="last")
     o["k"] = o.player.map(norm)
     return o

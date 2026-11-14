@@ -8,6 +8,7 @@ import sys,argparse,numpy as np,pandas as pd,glob
 sys.path.insert(0,'engine'); import fair
 from scipy.stats import norm as N, nbinom, spearmanr
 COL={'pts':'PTS','reb':'REB','ast':'AST','3pm':'FG3M','pra':'PRA','pr':'PR','pa':'PA','ra':'RA','stl':'STL','blk':'BLK'}
+PRIOR={('pts','3pm'):0.68,('pts','reb'):0.25,('reb','ast'):0.19,('pts','ast'):0.17,('reb','3pm'):0.11,('ast','3pm'):0.09}
 def box():
     b=pd.concat([pd.read_csv(f,low_memory=False) for f in glob.glob('engine/data/players_20*.csv')])
     b=b[pd.to_numeric(b.MIN,errors='coerce').fillna(0)>=10].copy()
@@ -17,8 +18,11 @@ def pair_corr(b,p1,s1,p2,s2):
     a=b[b.k==fair.norm(p1)][['GAME_ID',COL[s1]]]; c=b[b.k==fair.norm(p2)][['GAME_ID',COL[s2]]]
     if fair.norm(p1)==fair.norm(p2): m=b[b.k==fair.norm(p1)]; x,y=m[COL[s1]],m[COL[s2]]
     else: m=a.merge(c,on='GAME_ID',suffixes=('_a','_b')); x,y=m.iloc[:,1],m.iloc[:,2]
-    if len(x)<12: return None,len(x)
-    r=spearmanr(x,y).statistic; return float(r)*(len(x)/(len(x)+10)),len(x)  # shrink toward 0 on small samples
+    same=fair.norm(p1)==fair.norm(p2)
+    prior=PRIOR.get((s1,s2),PRIOR.get((s2,s1),0.0)) if same else 0.0   # league medians (combo.py --table / Record/Combo Correlations.md)
+    if len(x)<5: return prior,len(x)
+    k=20 if same else 60   # cross-player pairs are near 0 league-wide and noisy per pair: shrink hard
+    r=float(spearmanr(x,y).statistic); w=len(x)/(len(x)+k); return w*r+(1-w)*prior,len(x)
 def sim(legs,R,n=300000,seed=3):
     rng=np.random.default_rng(seed); L=np.linalg.cholesky(R+1e-9*np.eye(len(R))); z=rng.standard_normal((n,len(legs)))@L.T; u=N.cdf(z)
     hit=np.ones(n,bool)

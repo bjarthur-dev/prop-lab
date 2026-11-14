@@ -250,3 +250,7 @@ Rules from this (they override earlier notes where they conflict):
 - NFL Parker Washington U4.5 rec + O61.5 yds: DK +475 (17.4%) vs sim 12.0% (fair +732) -> -31%. Needs <=4 catches averaging 15.5+; he did it 1 of 24 games. Under-rec/over-yds is usually a trap.
 - Same player sim fair odds (Washington): over/over +166, under/under +119. Compare to DK SGP price; take only if DK pays more.
 - NBA same-player correlations (Spearman, median of 412 players): pts-3pm +0.68, pts-reb +0.25, reb-ast +0.19, pts-ast +0.17, reb-3pm +0.11, ast-3pm +0.09.
+
+## 11-14 Stale snapshot guard + combo shrinkage
+- fair.load now keeps each book's rows from its own latest snapshot per player-market and drops books 90+ min staler than the newest quote. Edey U9.5 showed +16% off a 1:53 board while DK had already moved to -125 (real edge ~+1.5%). ALWAYS refresh (open tag pulls all books) before building a slip.
+- combo.py: cross-player correlations shrink hard toward 0 (k=60 games) and same-player toward league medians (k=20). Raw 12-game rookie samples gave r=-0.27 (noise).
