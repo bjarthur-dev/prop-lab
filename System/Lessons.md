@@ -244,3 +244,9 @@ Rules from this (they override earlier notes where they conflict):
 - Props done properly (implied means, line changes included; 6,245 player-stat-days, Oct 24 - Nov 12): close mean barely better than open (miss 2.98 vs 2.99).
 - Small moves (0.25-0.75 of a stat) under-react: points moved 0.46 -> result went +0.90 that way (±0.32); rebounds 0.39 -> +0.75 (±0.19); assists 0.41 -> +0.57 (±0.21). Even the close hasn't caught up.
 - Lead to forward-test: when a prop's implied mean moved 0.25+ since the morning board, lean with the move (extra ~0.3-0.4 of a stat beyond the close, worth roughly +3-5 pts of win chance on reb/ast). Bigger moves (0.75+) are mixed/noisy. Track from 11-15.
+
+## 11-14 Combo pricing (engine/combo.py NBA, engine/nfl/rec_combo.py NFL)
+- DK SGPs price correlation; "looks wrong but is right" combos only pay when DK's correlation guess is off. Price the joint before betting.
+- NFL Parker Washington U4.5 rec + O61.5 yds: DK +475 (17.4%) vs sim 12.0% (fair +732) -> -31%. Needs <=4 catches averaging 15.5+; he did it 1 of 24 games. Under-rec/over-yds is usually a trap.
+- Same player sim fair odds (Washington): over/over +166, under/under +119. Compare to DK SGP price; take only if DK pays more.
+- NBA same-player correlations (Spearman, median of 412 players): pts-3pm +0.68, pts-reb +0.25, reb-ast +0.19, pts-ast +0.17, reb-3pm +0.11, ast-3pm +0.09.
