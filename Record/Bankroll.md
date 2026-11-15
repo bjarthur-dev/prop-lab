@@ -37,3 +37,4 @@ Gate before buying anything:
 3. **Affordable:** cost <= 15% of current bankroll, and the bankroll stays >= $60 after paying.
 4. **Review after 30 days:** if the added profit didn't cover the cost, cancel.
 Log each purchase as a row in bets.csv (type=expense) so the record shows net profit after tools.
+bonus_bets: DK NFL $5 (from 11-15 Moonshot B&G, expires 2026-11-22)
