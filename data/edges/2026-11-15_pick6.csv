@@ -1,542 +1,390 @@
 sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books,how,pick6_price,pick_mult
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Khalil Herbert,player_reception_yds,3.5,LESS,0.741,2.5,0.5,1,fit from 2.5 (sd 1.6),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tyjae Spears,player_rush_yds,11.5,LESS,0.727,8.5,0.515,1,fit from 8.5 (sd 4.7),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Foster Moreau,player_reception_yds,2.5,MORE,0.686,3.5,0.51,2,fit from 3.5 (sd 2.2),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Khalil Herbert,player_rush_yds,10.5,LESS,0.666,8.5,0.5,1,fit from 8.5 (sd 4.7),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Ben Yurosek,player_reception_yds,10.5,LESS,0.665,8.5,0.481,1,fit from 8.5 (sd 5.3),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Bam Knight,player_rush_attempts,8.5,LESS,0.649,7.5,0.524,1,fit from 7.5 (sd 2.2),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Drew Sample,player_reception_yds,5.5,LESS,0.64,4.5,0.5,1,fit from 4.5 (sd 2.8),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jack Bech,player_reception_yds,5.5,LESS,0.64,4.5,0.5,2,fit from 4.5 (sd 2.8),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Mason,player_reception_yds,5.5,LESS,0.64,4.5,0.5,2,fit from 4.5 (sd 2.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Cam Ward,player_rush_yds,12.5,LESS,0.635,10.5,0.5,1,fit from 10.5 (sd 5.8),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Alvin Kamara,player_rush_yds,13.5,LESS,0.624,11.5,0.5,1,fit from 11.5 (sd 6.3),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Quinshon Judkins,player_reception_yds,6.5,LESS,0.616,5.5,0.499,2,fit from 5.5 (sd 3.4),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Joe Burrow,player_rush_yds,7.5,LESS,0.608,6.5,0.502,2,fit from 6.5 (sd 3.6),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ollie Gordon II,player_reception_yds,6.5,LESS,0.6,5.5,0.516,2,fit from 5.5 (sd 3.4),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Davis Allen,player_reception_yds,11.5,MORE,0.593,13.5,0.499,2,fit from 13.5 (sd 8.4),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Kevin Coleman Jr.,player_reception_yds,16.5,LESS,0.588,14.5,0.5,1,fit from 14.5 (sd 9.0),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Tory Horton,player_reception_yds,6.5,MORE,0.586,7.5,0.501,2,fit from 7.5 (sd 4.7),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Tommy Tremble,player_reception_yds,16.5,LESS,0.586,14.5,0.502,2,fit from 14.5 (sd 9.0),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,James Cook,player_reception_yds,8.5,LESS,0.584,7.5,0.501,2,fit from 7.5 (sd 4.7),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Daniel Jones,player_rush_yds,8.5,LESS,0.583,7.5,0.514,2,fit from 7.5 (sd 4.1),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,C.J. Stroud,player_rush_yds,9.5,LESS,0.577,8.5,0.507,2,fit from 8.5 (sd 4.7),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chuba Hubbard,player_reception_yds,19.5,LESS,0.573,17.5,0.5,1,fit from 17.5 (sd 10.8),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Michael Penix Jr.,player_rush_yds,7.5,LESS,0.573,6.5,0.538,1,fit from 6.5 (sd 3.6),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,MarShawn Lloyd,player_rush_yds,11.5,LESS,0.569,10.5,0.5,2,fit from 10.5 (sd 5.8),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Kayshon Boutte,player_reception_yds,22.5,LESS,0.563,20.5,0.5,1,fit from 20.5 (sd 12.7),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Allgeier,player_reception_yds,9.5,MORE,0.562,10.5,0.501,2,fit from 10.5 (sd 6.5),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Travis Etienne Jr.,player_reception_yds,9.5,MORE,0.561,10.5,0.5,2,fit from 10.5 (sd 6.5),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jonathan Taylor,player_reception_yds,23.5,LESS,0.56,21.5,0.5,2,fit from 21.5 (sd 13.3),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Bryce Young,player_rush_yds,8.5,MORE,0.56,9.5,0.484,2,fit from 9.5 (sd 5.2),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,AJ Barner,player_reception_yds,19.5,MORE,0.56,21.5,0.5,2,fit from 21.5 (sd 13.3),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Allgeier,player_rush_attempts,10.5,LESS,0.558,9.5,0.581,1,fit from 9.5 (sd 2.9),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Sione Vaki,player_rush_yds,11.5,MORE,0.556,12.5,0.498,2,fit from 12.5 (sd 6.9),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Simi Fehoko,player_reception_yds,10.5,MORE,0.556,11.5,0.5,2,fit from 11.5 (sd 7.1),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Bam Knight,player_rush_yds,31.5,LESS,0.552,29.5,0.497,2,fit from 29.5 (sd 16.2),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Xavier Legette,player_reception_yds,11.5,MORE,0.551,12.5,0.5,2,fit from 12.5 (sd 7.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tyjae Spears,player_reception_yds,13.5,LESS,0.551,12.5,0.5,1,fit from 12.5 (sd 7.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Bhayshul Tuten,player_reception_yds,12.5,MORE,0.549,13.5,0.501,2,fit from 13.5 (sd 8.4),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Emmett Johnson,player_reception_yds,27.5,LESS,0.549,25.5,0.501,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Chimere Dike,player_reception_yds,27.5,MORE,0.548,29.5,0.504,2,fit from 29.5 (sd 18.3),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,CJ Daniels,player_reception_yds,12.5,MORE,0.548,13.5,0.5,1,fit from 13.5 (sd 8.4),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Laquon Treadwell,player_reception_yds,30.5,LESS,0.545,28.5,0.5,2,fit from 28.5 (sd 17.7),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Fernando Mendoza,player_rush_yds,16.5,LESS,0.545,15.5,0.502,2,fit from 15.5 (sd 8.5),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Bijan Robinson,player_rush_attempts,19.5,LESS,0.545,18.5,0.527,1,fit from 18.5 (sd 5.5),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Kyren Williams,player_reception_yds,21.5,LESS,0.545,19.5,0.521,2,fit from 19.5 (sd 12.1),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Samaje Perine,player_rush_yds,18.5,LESS,0.542,17.5,0.499,2,fit from 17.5 (sd 9.6),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Tyler Shough,player_rush_yds,17.5,LESS,0.542,16.5,0.502,2,fit from 16.5 (sd 9.1),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Drake Maye,player_rush_yds,28.5,LESS,0.542,26.5,0.513,2,fit from 26.5 (sd 14.6),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Calvin Ridley,player_reception_yds,14.5,MORE,0.541,15.5,0.5,2,fit from 15.5 (sd 9.6),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Demarcus Robinson,player_reception_yds,31.5,MORE,0.538,33.5,0.5,2,fit from 33.5 (sd 20.8),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Deebo Samuel,player_reception_yds,37.5,LESS,0.537,35.5,0.499,2,fit from 35.5 (sd 22.0),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Jaylen Warren,player_reception_yds,23.5,MORE,0.536,25.5,0.486,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Braelon Allen,player_rush_yds,33.5,LESS,0.536,31.5,0.51,2,fit from 31.5 (sd 17.3),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Rashid Shaheed,player_reception_yds,17.5,MORE,0.535,18.5,0.5,2,fit from 18.5 (sd 11.5),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Kyle Pitts,player_reception_yds,39.5,LESS,0.534,37.5,0.5,2,fit from 37.5 (sd 23.2),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Dohnte Meyers,player_reception_yds,20.5,LESS,0.533,19.5,0.5,1,fit from 19.5 (sd 12.1),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Brock Purdy,player_rush_yds,20.5,LESS,0.533,19.5,0.504,1,fit from 19.5 (sd 10.7),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Savion Williams,player_reception_yds,18.5,MORE,0.533,19.5,0.5,1,fit from 19.5 (sd 12.1),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Breece Hall,player_reception_yds,17.5,LESS,0.532,16.5,0.507,2,fit from 16.5 (sd 10.2),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Mason,player_rush_yds,47.5,LESS,0.532,45.5,0.5,1,fit from 45.5 (sd 25.0),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Tank Dell,player_reception_yds,42.5,LESS,0.532,40.5,0.5,2,fit from 40.5 (sd 25.1),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Audric Estime,player_rush_yds,25.5,LESS,0.53,24.5,0.5,1,fit from 24.5 (sd 13.5),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Dalton Kincaid,player_reception_yds,43.5,LESS,0.53,41.5,0.501,2,fit from 41.5 (sd 25.7),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ollie Gordon II,player_rush_yds,75.5,LESS,0.529,72.5,0.501,2,fit from 72.5 (sd 39.9),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Mike Washington Jr.,player_rush_yds,27.5,LESS,0.528,26.5,0.499,2,fit from 26.5 (sd 14.6),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Zach Charbonnet,player_rush_attempts,15.5,LESS,0.528,14.5,0.564,1,fit from 14.5 (sd 4.3),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,DJ Moore,player_reception_yds,48.5,LESS,0.527,45.5,0.516,2,fit from 45.5 (sd 28.2),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Chase Brown,player_reception_yds,24.5,LESS,0.527,23.5,0.5,1,fit from 23.5 (sd 14.6),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Darnell Washington,player_reception_yds,30.5,LESS,0.527,28.5,0.518,1,fit from 28.5 (sd 17.7),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Germie Bernard,player_reception_yds,49.5,LESS,0.527,47.5,0.5,1,fit from 47.5 (sd 29.4),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Jordan Watkins,player_reception_yds,24.5,LESS,0.527,23.5,0.5,1,fit from 23.5 (sd 14.6),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Brevyn Spann-Ford,player_reception_yds,22.5,MORE,0.527,23.5,0.5,2,fit from 23.5 (sd 14.6),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Breece Hall,player_receptions,2.5,LESS,0.526,2.5,0.474,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Ashton Jeanty,player_reception_yds,24.5,MORE,0.526,25.5,0.501,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Christian McCaffrey,player_reception_yds,31.5,MORE,0.526,32.5,0.506,2,fit from 32.5 (sd 20.1),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Javonte Williams,player_rush_attempts,16.5,MORE,0.526,16.5,0.526,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Pat Freiermuth,player_reception_yds,26.5,LESS,0.525,25.5,0.5,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Xavier Worthy,player_reception_yds,27.5,LESS,0.525,26.5,0.499,2,fit from 26.5 (sd 16.4),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Parker Washington,player_reception_yds,58.5,MORE,0.525,60.5,0.504,2,fit from 60.5 (sd 37.5),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Elic Ayomanor,player_reception_yds,25.5,MORE,0.524,26.5,0.5,2,fit from 26.5 (sd 16.4),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Kaleb Johnson,player_rush_yds,28.5,MORE,0.524,29.5,0.499,2,fit from 29.5 (sd 16.2),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,A.J. Brown,player_reception_yds,53.5,LESS,0.524,50.5,0.514,2,fit from 50.5 (sd 31.3),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Chris Rodriguez Jr.,player_rush_yds,30.5,MORE,0.524,31.5,0.501,2,fit from 31.5 (sd 17.3),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Deshaun Watson,player_rush_yds,23.5,MORE,0.523,24.5,0.493,2,fit from 24.5 (sd 13.5),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Christian McCaffrey,player_rush_yds,64.5,LESS,0.523,62.5,0.5,2,fit from 62.5 (sd 34.4),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Allgeier,player_rush_yds,35.5,LESS,0.522,34.5,0.499,2,fit from 34.5 (sd 19.0),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,George Pickens,player_reception_yds,59.5,LESS,0.522,57.5,0.5,1,fit from 57.5 (sd 35.6),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jaxon Smith-Njigba,player_reception_yds,91.5,LESS,0.522,88.5,0.5,1,fit from 88.5 (sd 54.9),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tutu Atwell,player_reception_yds,28.5,MORE,0.522,29.5,0.5,2,fit from 29.5 (sd 18.3),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Nico Collins,player_reception_yds,60.5,LESS,0.522,58.5,0.5,1,fit from 58.5 (sd 36.3),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Tee Higgins,player_reception_yds,77.5,LESS,0.521,75.5,0.496,2,fit from 75.5 (sd 46.8),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Darren Waller,player_reception_yds,28.5,MORE,0.521,29.5,0.499,2,fit from 29.5 (sd 18.3),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Jaylen Warren,player_rush_yds,63.5,MORE,0.521,64.5,0.51,2,fit from 64.5 (sd 35.5),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Ashton Jeanty,player_rush_yds,33.5,MORE,0.521,34.5,0.5,2,fit from 34.5 (sd 19.0),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Garrett Wilson,player_reception_yds,58.5,MORE,0.52,60.5,0.499,2,fit from 60.5 (sd 37.5),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Kyren Williams,player_rush_yds,64.5,MORE,0.52,66.5,0.498,2,fit from 66.5 (sd 36.6),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Colby Parkinson,player_reception_yds,32.5,LESS,0.52,31.5,0.5,2,fit from 31.5 (sd 19.5),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Harold Fannin Jr.,player_reception_yds,39.5,MORE,0.52,40.5,0.504,2,fit from 40.5 (sd 25.1),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Patrick Mahomes,player_rush_yds,8.5,MORE,0.52,8.5,0.52,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Tre Tucker,player_reception_yds,28.5,LESS,0.52,27.5,0.503,2,fit from 27.5 (sd 17.1),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Olamide Zaccheaus,player_reception_yds,8.5,MORE,0.52,8.5,0.52,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Greg Dulcich,player_reception_yds,32.5,LESS,0.52,31.5,0.5,2,fit from 31.5 (sd 19.5),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Matthew Golden,player_reception_yds,71.5,LESS,0.52,69.5,0.499,2,fit from 69.5 (sd 43.1),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Davis Allen,player_receptions,1.5,MORE,0.52,1.5,0.52,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Reggie Virgil,player_reception_yds,23.5,MORE,0.519,24.5,0.493,2,fit from 24.5 (sd 15.2),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Emmett Johnson,player_rush_yds,73.5,LESS,0.519,73.5,0.481,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Travis Etienne Jr.,player_rush_yds,29.5,LESS,0.519,28.5,0.506,2,fit from 28.5 (sd 15.7),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ashton Dulin,player_reception_yds,14.5,MORE,0.519,15.5,0.478,2,fit from 15.5 (sd 9.6),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Jalen Coker,player_reception_yds,52.5,LESS,0.519,50.5,0.506,2,fit from 50.5 (sd 31.3),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Dylan Sampson,player_reception_yds,23.5,LESS,0.519,22.5,0.51,2,fit from 22.5 (sd 13.9),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Deshaun Watson,player_rush_attempts,6.5,LESS,0.519,6.5,0.481,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Adonai Mitchell,player_reception_yds,35.5,MORE,0.518,36.5,0.5,2,fit from 36.5 (sd 22.6),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Kyle Juszczyk,player_reception_yds,7.5,LESS,0.518,7.5,0.482,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Bijan Robinson,player_rush_yds,85.5,LESS,0.518,83.5,0.499,2,fit from 83.5 (sd 45.9),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Jordyn Tyson,player_reception_yds,42.5,LESS,0.518,41.5,0.498,1,fit from 41.5 (sd 25.7),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Higbee,player_reception_yds,35.5,MORE,0.518,36.5,0.5,2,fit from 36.5 (sd 22.6),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Jakobi Meyers,player_reception_yds,41.5,MORE,0.517,42.5,0.502,2,fit from 42.5 (sd 26.4),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Wan'Dale Robinson,player_reception_yds,38.5,LESS,0.517,37.5,0.5,2,fit from 37.5 (sd 23.2),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Trey McBride,player_receptions,6.5,MORE,0.517,6.5,0.517,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chuba Hubbard,player_rush_attempts,18.5,LESS,0.517,18.5,0.483,1,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Ryan Flournoy,player_reception_yds,35.5,MORE,0.517,36.5,0.499,2,fit from 36.5 (sd 22.6),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Aaron Jones,player_rush_yds,28.5,LESS,0.516,27.5,0.511,1,fit from 27.5 (sd 15.1),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,George Kittle,player_reception_yds,61.5,MORE,0.516,61.5,0.516,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Caleb Douglas,player_reception_yds,41.5,MORE,0.515,42.5,0.5,2,fit from 42.5 (sd 26.4),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Travis Kelce,player_reception_yds,47.5,MORE,0.515,48.5,0.502,2,fit from 48.5 (sd 30.1),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Geno Smith,player_rush_yds,5.5,LESS,0.515,5.5,0.485,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Justin Jefferson,player_reception_yds,82.5,LESS,0.514,80.5,0.502,2,fit from 80.5 (sd 49.9),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Aaron Rodgers,player_rush_yds,0.5,LESS,0.514,0.5,0.486,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Kyren Williams,player_rush_attempts,15.5,LESS,0.514,15.5,0.486,1,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Denzel Boston,player_reception_yds,46.5,LESS,0.514,45.5,0.5,2,fit from 45.5 (sd 28.2),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Colby Parkinson,player_receptions,3.5,MORE,0.513,3.5,0.513,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Ja'Marr Chase,player_reception_yds,87.5,MORE,0.513,89.5,0.499,2,fit from 89.5 (sd 55.5),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Mason,player_rush_attempts,11.5,LESS,0.513,11.5,0.487,1,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Christian Watson,player_reception_yds,75.5,LESS,0.513,75.5,0.487,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Rashee Rice,player_reception_yds,55.5,MORE,0.512,55.5,0.512,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Woody Marks,player_rush_attempts,16.5,LESS,0.512,16.5,0.488,1,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Tetairoa McMillan,player_reception_yds,66.5,LESS,0.512,65.5,0.498,2,fit from 65.5 (sd 40.6),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,DK Metcalf,player_reception_yds,54.5,LESS,0.512,53.5,0.5,2,fit from 53.5 (sd 33.2),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,James Cook,player_rush_yds,93.5,LESS,0.511,91.5,0.505,2,fit from 91.5 (sd 50.3),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Bhayshul Tuten,player_rush_yds,68.5,LESS,0.511,67.5,0.5,1,fit from 67.5 (sd 37.1),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Breece Hall,player_rush_yds,52.5,MORE,0.511,53.5,0.498,2,fit from 53.5 (sd 29.4),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Tre Tucker,player_receptions,2.5,LESS,0.511,2.5,0.489,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Trey McBride,player_reception_yds,59.5,LESS,0.511,58.5,0.5,1,fit from 58.5 (sd 36.3),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Trevor Lawrence,player_rush_yds,7.5,MORE,0.51,7.5,0.51,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Drake London,player_reception_yds,71.5,LESS,0.51,72.5,0.481,2,fit from 72.5 (sd 45.0),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Jakobi Meyers,player_receptions,3.5,MORE,0.51,3.5,0.51,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Tucker Kraft,player_reception_yds,37.5,LESS,0.509,37.5,0.491,2,same line,-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Jahmyr Gibbs,player_rush_yds,89.5,MORE,0.509,90.5,0.501,2,fit from 90.5 (sd 49.8),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chuba Hubbard,player_rush_yds,80.5,LESS,0.509,79.5,0.5,2,fit from 79.5 (sd 43.7),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Mike Gesicki,player_reception_yds,24.5,MORE,0.508,24.5,0.508,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Kaelon Black,player_rush_yds,34.5,MORE,0.508,34.5,0.508,1,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Xavier Hutchinson,player_reception_yds,32.5,MORE,0.508,32.5,0.508,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Woody Marks,player_rush_yds,60.5,MORE,0.507,56.5,0.558,1,fit from 56.5 (sd 31.1),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Michael Mayer,player_reception_yds,21.5,MORE,0.507,21.5,0.507,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Devaughn Vele,player_reception_yds,29.5,MORE,0.507,29.5,0.507,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Blake Corum,player_rush_yds,58.5,LESS,0.507,57.5,0.505,2,fit from 57.5 (sd 31.6),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,John Metchie III,player_reception_yds,7.5,LESS,0.507,7.5,0.493,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Kenyon Sadiq,player_reception_yds,23.5,MORE,0.506,23.5,0.506,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,DJ Moore,player_receptions,3.5,LESS,0.506,3.5,0.494,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Kirk Cousins,player_rush_yds,0.5,LESS,0.506,0.5,0.494,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Seth McGowan,player_rush_yds,25.5,LESS,0.505,25.5,0.495,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Chase Brown,player_rush_yds,46.5,MORE,0.505,46.5,0.505,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Zach Charbonnet,player_rush_yds,65.5,LESS,0.505,64.5,0.506,1,fit from 64.5 (sd 35.5),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Tee Higgins,player_receptions,5.5,LESS,0.504,5.5,0.496,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Rico Dowdle,player_rush_yds,30.5,LESS,0.504,30.5,0.496,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Mike Washington Jr.,player_rush_attempts,8.5,MORE,0.504,8.5,0.504,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jadarian Price,player_reception_yds,11.5,MORE,0.504,11.5,0.504,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Zach Charbonnet,player_reception_yds,9.5,MORE,0.504,9.5,0.504,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jalen Nailor,player_reception_yds,12.5,MORE,0.504,12.5,0.504,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tony Pollard,player_rush_yds,58.5,LESS,0.504,58.5,0.496,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Malik Washington,player_receptions,3.5,LESS,0.504,3.5,0.496,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jonathan Taylor,player_rush_attempts,15.5,LESS,0.504,15.5,0.496,1,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Anthony Gould,player_reception_yds,15.5,MORE,0.504,15.5,0.504,1,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Quinshon Judkins,player_rush_attempts,13.5,LESS,0.504,13.5,0.496,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Mason Taylor,player_reception_yds,15.5,MORE,0.503,15.5,0.503,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Brenton Strange,player_reception_yds,35.5,MORE,0.503,35.5,0.503,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chris Olave,player_reception_yds,73.5,MORE,0.503,73.5,0.503,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Tyler Warren,player_reception_yds,45.5,MORE,0.503,44.5,0.518,1,fit from 44.5 (sd 27.6),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Deion Burks,player_reception_yds,17.5,LESS,0.503,17.5,0.497,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Ja'Marr Chase,player_receptions,7.5,MORE,0.503,7.5,0.503,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Josh Downs,player_reception_yds,21.5,MORE,0.503,21.5,0.503,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,CeeDee Lamb,player_reception_yds,89.5,MORE,0.503,90.5,0.496,2,fit from 90.5 (sd 56.1),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Brian Thomas Jr,player_reception_yds,9.5,MORE,0.503,9.5,0.503,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jaylen Wright,player_rush_yds,12.5,LESS,0.502,12.5,0.498,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Josh Allen,player_rush_yds,27.5,MORE,0.502,27.5,0.502,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Love,player_rush_yds,3.5,MORE,0.502,3.5,0.502,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jonathan Taylor,player_rush_yds,69.5,MORE,0.502,69.5,0.502,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Brock Bowers,player_reception_yds,58.5,MORE,0.502,58.5,0.502,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,KC Concepcion,player_reception_yds,48.5,LESS,0.502,48.5,0.498,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Elijah Higgins,player_reception_yds,18.5,MORE,0.502,18.5,0.502,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Ty Johnson,player_reception_yds,15.5,LESS,0.502,15.5,0.498,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jadarian Price,player_rush_yds,44.5,LESS,0.501,44.5,0.499,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Carson Beck,player_rush_yds,11.5,MORE,0.501,11.5,0.501,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Khalil Shakir,player_reception_yds,44.5,LESS,0.501,43.5,0.514,2,fit from 43.5 (sd 27.0),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Konata Mumpfield,player_reception_yds,29.5,LESS,0.501,29.5,0.499,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Alvin Kamara,player_reception_yds,14.5,LESS,0.501,14.5,0.499,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Juwan Johnson,player_reception_yds,24.5,MORE,0.501,24.5,0.501,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Blake Corum,player_reception_yds,6.5,LESS,0.501,6.5,0.499,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tony Pollard,player_reception_yds,8.5,LESS,0.501,8.5,0.499,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Dylan Sampson,player_rush_yds,18.5,LESS,0.501,18.5,0.499,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ollie Gordon II,player_receptions,1.5,LESS,0.501,1.5,0.499,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Jerry Jeudy,player_reception_yds,17.5,MORE,0.501,17.5,0.501,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Dak Prescott,player_rush_yds,9.5,MORE,0.501,9.5,0.501,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Javonte Williams,player_reception_yds,13.5,LESS,0.501,13.5,0.499,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Rico Dowdle,player_reception_yds,13.5,LESS,0.501,13.5,0.499,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Jaylen Warren,player_rush_attempts,13.5,LESS,0.5,13.5,0.5,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Omar Cooper Jr.,player_reception_yds,36.5,LESS,0.5,36.5,0.5,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Omar Cooper Jr.,player_reception_yds,36.5,MORE,0.5,36.5,0.5,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Jaylen Warren,player_rush_attempts,13.5,MORE,0.5,13.5,0.5,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Dawson Knox,player_reception_yds,11.5,LESS,0.5,11.5,0.5,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Devin Duvernay,player_reception_yds,11.5,MORE,0.5,11.5,0.5,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Bam Knight,player_reception_yds,6.5,LESS,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Braelon Allen,player_reception_yds,6.5,LESS,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Braelon Allen,player_reception_yds,6.5,MORE,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Keon Coleman,player_reception_yds,27.5,MORE,0.5,27.5,0.5,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Keon Coleman,player_reception_yds,27.5,LESS,0.5,27.5,0.5,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Cooper Kupp,player_reception_yds,18.5,MORE,0.5,18.5,0.5,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Cooper Kupp,player_reception_yds,18.5,LESS,0.5,18.5,0.5,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jadarian Price,player_rush_attempts,10.5,LESS,0.5,10.5,0.5,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jadarian Price,player_rush_attempts,10.5,MORE,0.5,10.5,0.5,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Breece Hall,player_rush_attempts,13.5,MORE,0.5,13.5,0.5,1,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Dalton Schultz,player_reception_yds,28.5,LESS,0.5,27.5,0.524,2,fit from 27.5 (sd 17.1),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Woody Marks,player_reception_yds,9.5,MORE,0.5,9.5,0.5,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Woody Marks,player_reception_yds,9.5,LESS,0.5,9.5,0.5,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Samaje Perine,player_reception_yds,4.5,MORE,0.5,4.5,0.5,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Samaje Perine,player_reception_yds,4.5,LESS,0.5,4.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Noah Gray,player_reception_yds,12.5,MORE,0.5,12.5,0.5,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Drew Lock,player_rush_yds,5.5,LESS,0.5,5.5,0.5,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Drew Lock,player_rush_yds,5.5,MORE,0.5,5.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Noah Gray,player_reception_yds,12.5,LESS,0.5,12.5,0.5,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Dawson Knox,player_reception_yds,11.5,MORE,0.5,11.5,0.5,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Dalton Schultz,player_reception_yds,28.5,MORE,0.5,27.5,0.524,2,fit from 27.5 (sd 17.1),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Quinshon Judkins,player_rush_yds,43.5,LESS,0.5,43.5,0.5,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Quinshon Judkins,player_rush_yds,43.5,MORE,0.5,43.5,0.5,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Myles Price,player_reception_yds,14.5,MORE,0.5,14.5,0.5,1,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Myles Price,player_reception_yds,14.5,LESS,0.5,14.5,0.5,1,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Aaron Jones,player_reception_yds,10.5,MORE,0.5,10.5,0.5,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Aaron Jones,player_reception_yds,10.5,LESS,0.5,10.5,0.5,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Addison,player_reception_yds,49.5,LESS,0.5,49.5,0.5,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Addison,player_reception_yds,49.5,MORE,0.5,49.5,0.5,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Devin Duvernay,player_reception_yds,11.5,LESS,0.5,11.5,0.5,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Bam Knight,player_reception_yds,6.5,MORE,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Travis Hunter,player_reception_yds,7.5,LESS,0.5,7.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Travis Hunter,player_reception_yds,7.5,MORE,0.5,7.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Daniel Bellinger,player_reception_yds,9.5,LESS,0.5,9.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Daniel Bellinger,player_reception_yds,9.5,MORE,0.5,9.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Josh Cameron,player_reception_yds,6.5,MORE,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Josh Cameron,player_reception_yds,6.5,LESS,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Gunnar Helm,player_reception_yds,26.5,LESS,0.5,26.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Nate Boerkircher,player_reception_yds,10.5,LESS,0.5,10.5,0.5,1,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Noah Fant,player_reception_yds,8.5,MORE,0.5,8.5,0.5,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Noah Fant,player_reception_yds,8.5,LESS,0.5,8.5,0.5,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Gunnar Helm,player_reception_yds,26.5,MORE,0.5,26.5,0.5,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Kyle McCord,player_rush_yds,6.5,MORE,0.5,6.5,0.5,1,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Trevor Etienne,player_rush_yds,7.5,LESS,0.5,7.5,0.5,1,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Trevor Etienne,player_rush_yds,7.5,MORE,0.5,7.5,0.5,1,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Kyle McCord,player_rush_yds,6.5,LESS,0.5,6.5,0.5,1,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Nate Boerkircher,player_reception_yds,10.5,MORE,0.5,10.5,0.5,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Rico Dowdle,player_rush_attempts,7.5,MORE,0.5,7.5,0.5,1,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Malik Washington,player_reception_yds,35.5,LESS,0.5,35.5,0.5,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Darren Waller,player_receptions,2.5,LESS,0.5,2.5,0.5,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Malik Washington,player_reception_yds,35.5,MORE,0.5,35.5,0.5,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Darren Waller,player_receptions,2.5,MORE,0.5,2.5,0.5,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Javonte Williams,player_rush_yds,60.5,MORE,0.5,60.5,0.5,1,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Javonte Williams,player_rush_yds,60.5,LESS,0.5,60.5,0.5,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Rico Dowdle,player_rush_attempts,7.5,LESS,0.5,7.5,0.5,1,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Keenan Allen,player_reception_yds,22.5,LESS,0.5,22.5,0.5,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Keenan Allen,player_reception_yds,22.5,MORE,0.5,22.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Bijan Robinson,player_reception_yds,28.5,LESS,0.5,28.5,0.5,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Deebo Samuel,player_rush_yds,6.5,MORE,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Deebo Samuel,player_rush_yds,6.5,LESS,0.5,6.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Jahan Dotson,player_reception_yds,28.5,MORE,0.5,28.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Jahan Dotson,player_reception_yds,28.5,LESS,0.5,28.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Bijan Robinson,player_reception_yds,28.5,MORE,0.5,28.5,0.5,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Jerry Jeudy,player_reception_yds,17.5,LESS,0.499,17.5,0.501,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jadarian Price,player_rush_yds,44.5,MORE,0.499,44.5,0.499,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Carson Beck,player_rush_yds,11.5,LESS,0.499,11.5,0.501,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Dak Prescott,player_rush_yds,9.5,LESS,0.499,9.5,0.501,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Juwan Johnson,player_reception_yds,24.5,LESS,0.499,24.5,0.501,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ollie Gordon II,player_receptions,1.5,MORE,0.499,1.5,0.499,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tony Pollard,player_reception_yds,8.5,MORE,0.499,8.5,0.499,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Konata Mumpfield,player_reception_yds,29.5,MORE,0.499,29.5,0.499,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Javonte Williams,player_reception_yds,13.5,MORE,0.499,13.5,0.499,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Rico Dowdle,player_reception_yds,13.5,MORE,0.499,13.5,0.499,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Alvin Kamara,player_reception_yds,14.5,MORE,0.499,14.5,0.499,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Dylan Sampson,player_rush_yds,18.5,MORE,0.499,18.5,0.499,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Blake Corum,player_reception_yds,6.5,MORE,0.499,6.5,0.499,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Khalil Shakir,player_reception_yds,44.5,MORE,0.499,43.5,0.514,2,fit from 43.5 (sd 27.0),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,KC Concepcion,player_reception_yds,48.5,MORE,0.498,48.5,0.498,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Josh Allen,player_rush_yds,27.5,LESS,0.498,27.5,0.502,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Ty Johnson,player_reception_yds,15.5,MORE,0.498,15.5,0.498,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Brock Bowers,player_reception_yds,58.5,LESS,0.498,58.5,0.502,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jaylen Wright,player_rush_yds,12.5,MORE,0.498,12.5,0.498,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Elijah Higgins,player_reception_yds,18.5,LESS,0.498,18.5,0.502,1,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jonathan Taylor,player_rush_yds,69.5,LESS,0.498,69.5,0.502,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Love,player_rush_yds,3.5,LESS,0.498,3.5,0.502,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Brenton Strange,player_reception_yds,35.5,LESS,0.497,35.5,0.503,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Ja'Marr Chase,player_receptions,7.5,LESS,0.497,7.5,0.503,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Deion Burks,player_reception_yds,17.5,MORE,0.497,17.5,0.497,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Tyler Warren,player_reception_yds,45.5,LESS,0.497,44.5,0.518,1,fit from 44.5 (sd 27.6),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Brian Thomas Jr,player_reception_yds,9.5,LESS,0.497,9.5,0.503,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Josh Downs,player_reception_yds,21.5,LESS,0.497,21.5,0.503,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,CeeDee Lamb,player_reception_yds,89.5,LESS,0.497,90.5,0.496,2,fit from 90.5 (sd 56.1),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chris Olave,player_reception_yds,73.5,LESS,0.497,73.5,0.503,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Mason Taylor,player_reception_yds,15.5,LESS,0.497,15.5,0.503,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Tee Higgins,player_receptions,5.5,MORE,0.496,5.5,0.496,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Anthony Gould,player_reception_yds,15.5,LESS,0.496,15.5,0.504,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Rico Dowdle,player_rush_yds,30.5,MORE,0.496,30.5,0.496,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jadarian Price,player_reception_yds,11.5,LESS,0.496,11.5,0.504,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jalen Nailor,player_reception_yds,12.5,LESS,0.496,12.5,0.504,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Mike Washington Jr.,player_rush_attempts,8.5,LESS,0.496,8.5,0.504,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Zach Charbonnet,player_reception_yds,9.5,LESS,0.496,9.5,0.504,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Malik Washington,player_receptions,3.5,MORE,0.496,3.5,0.496,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tony Pollard,player_rush_yds,58.5,MORE,0.496,58.5,0.496,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Quinshon Judkins,player_rush_attempts,13.5,MORE,0.496,13.5,0.496,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Chase Brown,player_rush_yds,46.5,LESS,0.495,46.5,0.505,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Seth McGowan,player_rush_yds,25.5,MORE,0.495,25.5,0.495,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Zach Charbonnet,player_rush_yds,65.5,MORE,0.495,64.5,0.506,1,fit from 64.5 (sd 35.5),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Kenyon Sadiq,player_reception_yds,23.5,LESS,0.494,23.5,0.506,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Kirk Cousins,player_rush_yds,0.5,MORE,0.494,0.5,0.494,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,DJ Moore,player_receptions,3.5,MORE,0.494,3.5,0.494,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Travis Etienne Jr.,player_rush_attempts,8.5,LESS,0.494,8.5,0.506,1,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Blake Corum,player_rush_yds,58.5,MORE,0.493,57.5,0.505,2,fit from 57.5 (sd 31.6),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Michael Mayer,player_reception_yds,21.5,LESS,0.493,21.5,0.507,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Devaughn Vele,player_reception_yds,29.5,LESS,0.493,29.5,0.507,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,John Metchie III,player_reception_yds,7.5,MORE,0.493,7.5,0.493,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Woody Marks,player_rush_yds,60.5,LESS,0.493,56.5,0.558,1,fit from 56.5 (sd 31.1),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Xavier Hutchinson,player_reception_yds,32.5,LESS,0.492,32.5,0.508,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Mike Gesicki,player_reception_yds,24.5,LESS,0.492,24.5,0.508,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Kaelon Black,player_rush_yds,34.5,LESS,0.492,34.5,0.508,1,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Tucker Kraft,player_reception_yds,37.5,MORE,0.491,37.5,0.491,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chuba Hubbard,player_rush_yds,80.5,MORE,0.491,79.5,0.5,2,fit from 79.5 (sd 43.7),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Jahmyr Gibbs,player_rush_yds,89.5,LESS,0.491,90.5,0.501,2,fit from 90.5 (sd 49.8),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Kevin Coleman Jr.,player_receptions,1.5,LESS,0.491,1.5,0.509,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Trevor Lawrence,player_rush_yds,7.5,LESS,0.49,7.5,0.51,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Jakobi Meyers,player_receptions,3.5,LESS,0.49,3.5,0.51,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Drake London,player_reception_yds,71.5,MORE,0.49,72.5,0.481,2,fit from 72.5 (sd 45.0),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Drake London,player_receptions,5.5,LESS,0.489,5.5,0.511,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Tre Tucker,player_receptions,2.5,MORE,0.489,2.5,0.489,2,same line,-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Drake Maye,player_rush_attempts,4.5,LESS,0.489,4.5,0.511,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Breece Hall,player_rush_yds,52.5,LESS,0.489,53.5,0.498,2,fit from 53.5 (sd 29.4),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,James Cook,player_rush_yds,93.5,MORE,0.489,91.5,0.505,2,fit from 91.5 (sd 50.3),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Bhayshul Tuten,player_rush_yds,68.5,MORE,0.489,67.5,0.5,1,fit from 67.5 (sd 37.1),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Elijah Higgins,player_receptions,2.5,MORE,0.489,2.5,0.489,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Trey McBride,player_reception_yds,59.5,MORE,0.489,58.5,0.5,1,fit from 58.5 (sd 36.3),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Tetairoa McMillan,player_reception_yds,66.5,MORE,0.488,65.5,0.498,2,fit from 65.5 (sd 40.6),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Woody Marks,player_rush_attempts,16.5,MORE,0.488,16.5,0.488,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Rashee Rice,player_reception_yds,55.5,LESS,0.488,55.5,0.512,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,DK Metcalf,player_reception_yds,54.5,MORE,0.488,53.5,0.5,2,fit from 53.5 (sd 33.2),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Ja'Marr Chase,player_reception_yds,87.5,LESS,0.487,89.5,0.499,2,fit from 89.5 (sd 55.5),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Bhayshul Tuten,player_rush_attempts,15.5,MORE,0.487,15.5,0.487,1,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Colby Parkinson,player_receptions,3.5,LESS,0.487,3.5,0.513,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Christian Watson,player_reception_yds,75.5,MORE,0.487,75.5,0.487,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Justin Jefferson,player_reception_yds,82.5,MORE,0.486,80.5,0.502,2,fit from 80.5 (sd 49.9),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Denzel Boston,player_reception_yds,46.5,MORE,0.486,45.5,0.5,2,fit from 45.5 (sd 28.2),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Aaron Rodgers,player_rush_yds,0.5,MORE,0.486,0.5,0.486,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Kyren Williams,player_rush_attempts,15.5,MORE,0.486,15.5,0.486,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Chase Brown,player_rush_attempts,11.5,LESS,0.486,11.5,0.514,1,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Gavin Bartholomew,player_receptions,2.5,LESS,0.486,2.5,0.514,1,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Dak Prescott,player_rush_attempts,2.5,LESS,0.485,2.5,0.515,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Travis Kelce,player_reception_yds,47.5,LESS,0.485,48.5,0.502,2,fit from 48.5 (sd 30.1),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tony Pollard,player_rush_attempts,15.5,MORE,0.485,15.5,0.485,1,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Caleb Douglas,player_reception_yds,41.5,LESS,0.485,42.5,0.5,2,fit from 42.5 (sd 26.4),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Geno Smith,player_rush_yds,5.5,MORE,0.485,5.5,0.485,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,George Kittle,player_reception_yds,61.5,LESS,0.484,61.5,0.516,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Aaron Jones,player_rush_yds,28.5,MORE,0.484,27.5,0.511,1,fit from 27.5 (sd 15.1),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chuba Hubbard,player_rush_attempts,18.5,MORE,0.483,18.5,0.483,1,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Jakobi Meyers,player_reception_yds,41.5,LESS,0.483,42.5,0.502,2,fit from 42.5 (sd 26.4),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Wan'Dale Robinson,player_reception_yds,38.5,MORE,0.483,37.5,0.5,2,fit from 37.5 (sd 23.2),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Rashee Rice,player_receptions,5.5,MORE,0.483,5.5,0.483,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Ryan Flournoy,player_reception_yds,35.5,LESS,0.483,36.5,0.499,2,fit from 36.5 (sd 22.6),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Trey McBride,player_receptions,6.5,LESS,0.483,6.5,0.517,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Adonai Mitchell,player_reception_yds,35.5,LESS,0.482,36.5,0.5,2,fit from 36.5 (sd 22.6),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Bijan Robinson,player_rush_yds,85.5,MORE,0.482,83.5,0.499,2,fit from 83.5 (sd 45.9),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Kyle Juszczyk,player_reception_yds,7.5,MORE,0.482,7.5,0.482,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Higbee,player_reception_yds,35.5,LESS,0.482,36.5,0.5,2,fit from 36.5 (sd 22.6),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ollie Gordon II,player_rush_attempts,17.5,LESS,0.482,17.5,0.518,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Ashton Jeanty,player_rush_attempts,10.5,MORE,0.482,10.5,0.482,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Germie Bernard,player_receptions,4.5,LESS,0.482,4.5,0.518,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Jordyn Tyson,player_reception_yds,42.5,MORE,0.482,41.5,0.498,1,fit from 41.5 (sd 25.7),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Travis Etienne Jr.,player_rush_yds,29.5,MORE,0.481,28.5,0.506,2,fit from 28.5 (sd 15.7),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Emmett Johnson,player_rush_yds,73.5,MORE,0.481,73.5,0.481,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Jalen Coker,player_reception_yds,52.5,MORE,0.481,50.5,0.506,2,fit from 50.5 (sd 31.3),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Reggie Virgil,player_reception_yds,23.5,LESS,0.481,24.5,0.493,2,fit from 24.5 (sd 15.2),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Deshaun Watson,player_rush_attempts,6.5,MORE,0.481,6.5,0.481,1,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ashton Dulin,player_reception_yds,14.5,LESS,0.481,15.5,0.478,2,fit from 15.5 (sd 9.6),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Dylan Sampson,player_reception_yds,23.5,MORE,0.481,22.5,0.51,2,fit from 22.5 (sd 13.9),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Kyren Williams,player_rush_yds,64.5,LESS,0.48,66.5,0.498,2,fit from 66.5 (sd 36.6),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Greg Dulcich,player_reception_yds,32.5,MORE,0.48,31.5,0.5,2,fit from 31.5 (sd 19.5),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Davis Allen,player_receptions,1.5,LESS,0.48,1.5,0.52,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Colby Parkinson,player_reception_yds,32.5,MORE,0.48,31.5,0.5,2,fit from 31.5 (sd 19.5),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Matthew Golden,player_reception_yds,71.5,MORE,0.48,69.5,0.499,2,fit from 69.5 (sd 43.1),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Olamide Zaccheaus,player_reception_yds,8.5,LESS,0.48,8.5,0.52,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Patrick Mahomes,player_rush_yds,8.5,LESS,0.48,8.5,0.52,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Tre Tucker,player_reception_yds,28.5,MORE,0.48,27.5,0.503,2,fit from 27.5 (sd 17.1),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Garrett Wilson,player_reception_yds,58.5,LESS,0.48,60.5,0.499,2,fit from 60.5 (sd 37.5),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Harold Fannin Jr.,player_reception_yds,39.5,LESS,0.48,40.5,0.504,2,fit from 40.5 (sd 25.1),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Darren Waller,player_reception_yds,28.5,LESS,0.479,29.5,0.499,2,fit from 29.5 (sd 18.3),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Ashton Jeanty,player_rush_yds,33.5,LESS,0.479,34.5,0.5,2,fit from 34.5 (sd 19.0),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Jaylen Warren,player_rush_yds,63.5,LESS,0.479,64.5,0.51,2,fit from 64.5 (sd 35.5),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Tee Higgins,player_reception_yds,77.5,MORE,0.479,75.5,0.496,2,fit from 75.5 (sd 46.8),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Aaron Jones,player_rush_attempts,7.5,LESS,0.478,7.5,0.522,1,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Nico Collins,player_reception_yds,60.5,MORE,0.478,58.5,0.5,1,fit from 58.5 (sd 36.3),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jaxon Smith-Njigba,player_reception_yds,91.5,MORE,0.478,88.5,0.5,1,fit from 88.5 (sd 54.9),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Allgeier,player_rush_yds,35.5,MORE,0.478,34.5,0.499,2,fit from 34.5 (sd 19.0),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tutu Atwell,player_reception_yds,28.5,LESS,0.478,29.5,0.5,2,fit from 29.5 (sd 18.3),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,George Pickens,player_reception_yds,59.5,MORE,0.478,57.5,0.5,1,fit from 57.5 (sd 35.6),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Christian McCaffrey,player_rush_yds,64.5,MORE,0.477,62.5,0.5,2,fit from 62.5 (sd 34.4),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Deshaun Watson,player_rush_yds,23.5,LESS,0.477,24.5,0.493,2,fit from 24.5 (sd 13.5),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Elic Ayomanor,player_reception_yds,25.5,LESS,0.476,26.5,0.5,2,fit from 26.5 (sd 16.4),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Chris Rodriguez Jr.,player_rush_yds,30.5,LESS,0.476,31.5,0.501,2,fit from 31.5 (sd 17.3),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Kaleb Johnson,player_rush_yds,28.5,LESS,0.476,29.5,0.499,2,fit from 29.5 (sd 16.2),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,A.J. Brown,player_reception_yds,53.5,MORE,0.476,50.5,0.514,2,fit from 50.5 (sd 31.3),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Xavier Worthy,player_reception_yds,27.5,MORE,0.475,26.5,0.499,2,fit from 26.5 (sd 16.4),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Greg Dulcich,player_receptions,3.5,MORE,0.475,3.5,0.475,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Pat Freiermuth,player_reception_yds,26.5,MORE,0.475,25.5,0.5,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Parker Washington,player_reception_yds,58.5,LESS,0.475,60.5,0.504,2,fit from 60.5 (sd 37.5),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Breece Hall,player_receptions,2.5,MORE,0.474,2.5,0.474,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Christian McCaffrey,player_reception_yds,31.5,LESS,0.474,32.5,0.506,2,fit from 32.5 (sd 20.1),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Javonte Williams,player_rush_attempts,16.5,LESS,0.474,16.5,0.526,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Ashton Jeanty,player_reception_yds,24.5,LESS,0.474,25.5,0.501,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,DJ Moore,player_reception_yds,48.5,MORE,0.473,45.5,0.516,2,fit from 45.5 (sd 28.2),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Jordan Watkins,player_reception_yds,24.5,MORE,0.473,23.5,0.5,1,fit from 23.5 (sd 14.6),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Darnell Washington,player_reception_yds,30.5,MORE,0.473,28.5,0.518,1,fit from 28.5 (sd 17.7),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Chase Brown,player_reception_yds,24.5,MORE,0.473,23.5,0.5,1,fit from 23.5 (sd 14.6),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Germie Bernard,player_reception_yds,49.5,MORE,0.473,47.5,0.5,1,fit from 47.5 (sd 29.4),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Brevyn Spann-Ford,player_reception_yds,22.5,LESS,0.473,23.5,0.5,2,fit from 23.5 (sd 14.6),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Adonai Mitchell,player_receptions,2.5,LESS,0.472,2.5,0.528,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Mike Washington Jr.,player_rush_yds,27.5,MORE,0.472,26.5,0.499,2,fit from 26.5 (sd 14.6),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Jahmyr Gibbs,player_rush_attempts,20.5,MORE,0.472,20.5,0.472,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Zach Charbonnet,player_rush_attempts,15.5,MORE,0.472,14.5,0.564,1,fit from 14.5 (sd 4.3),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Keenan Allen,player_receptions,2.5,MORE,0.472,2.5,0.472,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ollie Gordon II,player_rush_yds,75.5,MORE,0.471,72.5,0.501,2,fit from 72.5 (sd 39.9),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Audric Estime,player_rush_yds,25.5,MORE,0.47,24.5,0.5,1,fit from 24.5 (sd 13.5),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Dalton Kincaid,player_reception_yds,43.5,MORE,0.47,41.5,0.501,2,fit from 41.5 (sd 25.7),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Breece Hall,player_reception_yds,17.5,MORE,0.468,16.5,0.507,2,fit from 16.5 (sd 10.2),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Mason,player_rush_yds,47.5,MORE,0.468,45.5,0.5,1,fit from 45.5 (sd 25.0),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Higbee,player_receptions,3.5,LESS,0.468,3.5,0.532,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Tank Dell,player_reception_yds,42.5,MORE,0.468,40.5,0.5,2,fit from 40.5 (sd 25.1),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Brock Purdy,player_rush_yds,20.5,MORE,0.467,19.5,0.504,1,fit from 19.5 (sd 10.7),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Dohnte Meyers,player_reception_yds,20.5,MORE,0.467,19.5,0.5,1,fit from 19.5 (sd 12.1),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Savion Williams,player_reception_yds,18.5,LESS,0.467,19.5,0.5,1,fit from 19.5 (sd 12.1),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Dalton Kincaid,player_receptions,3.5,MORE,0.466,3.5,0.466,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Kyle Pitts,player_reception_yds,39.5,MORE,0.466,37.5,0.5,2,fit from 37.5 (sd 23.2),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Caleb Douglas,player_receptions,3.5,MORE,0.465,3.5,0.465,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Rashid Shaheed,player_reception_yds,17.5,LESS,0.465,18.5,0.5,2,fit from 18.5 (sd 11.5),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Braelon Allen,player_rush_yds,33.5,MORE,0.464,31.5,0.51,2,fit from 31.5 (sd 17.3),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,James Cook,player_rush_attempts,18.5,LESS,0.464,18.5,0.536,1,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,James Cook,player_rush_attempts,19.5,MORE,0.464,18.5,0.536,1,fit from 18.5 (sd 5.5),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Tyler Shough,player_rush_attempts,4.5,LESS,0.464,4.5,0.536,1,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Jaylen Warren,player_reception_yds,23.5,LESS,0.464,25.5,0.486,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Dawson Knox,player_receptions,1.5,MORE,0.463,1.5,0.463,2,same line,-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Mack Hollins,player_receptions,2.5,LESS,0.463,2.5,0.537,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Deebo Samuel,player_reception_yds,37.5,MORE,0.463,35.5,0.499,2,fit from 35.5 (sd 22.0),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Khalil Shakir,player_receptions,3.5,LESS,0.463,3.5,0.537,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Wan'Dale Robinson,player_receptions,4.5,LESS,0.462,4.5,0.538,1,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Demarcus Robinson,player_reception_yds,31.5,LESS,0.462,33.5,0.5,2,fit from 33.5 (sd 20.8),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Brock Bowers,player_receptions,5.5,MORE,0.462,5.5,0.462,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Kaleb Johnson,player_rush_attempts,9.5,MORE,0.462,9.5,0.462,1,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Nico Collins,player_receptions,4.5,MORE,0.461,4.5,0.461,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Mike Gesicki,player_receptions,2.5,MORE,0.461,2.5,0.461,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jonathan Taylor,player_receptions,3.5,MORE,0.461,3.5,0.461,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Emmett Johnson,player_rush_attempts,17.5,MORE,0.46,17.5,0.46,1,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Calvin Ridley,player_reception_yds,14.5,LESS,0.459,15.5,0.5,2,fit from 15.5 (sd 9.6),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Samaje Perine,player_rush_yds,18.5,MORE,0.458,17.5,0.499,2,fit from 17.5 (sd 9.6),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Tyler Shough,player_rush_yds,17.5,MORE,0.458,16.5,0.502,2,fit from 16.5 (sd 9.1),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Drake Maye,player_rush_yds,28.5,MORE,0.458,26.5,0.513,2,fit from 26.5 (sd 14.6),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Kaelon Black,player_rush_attempts,8.5,MORE,0.457,8.5,0.457,1,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jadarian Price,player_receptions,1.5,LESS,0.457,1.5,0.543,2,same line,-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Omar Cooper Jr.,player_receptions,3.5,MORE,0.457,3.5,0.457,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Laquon Treadwell,player_reception_yds,30.5,MORE,0.455,28.5,0.5,2,fit from 28.5 (sd 17.7),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Chase Brown,player_receptions,4.5,MORE,0.455,4.5,0.455,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Dylan Sampson,player_receptions,3.5,MORE,0.455,3.5,0.455,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Fernando Mendoza,player_rush_yds,16.5,MORE,0.455,15.5,0.502,2,fit from 15.5 (sd 8.5),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Kyren Williams,player_reception_yds,21.5,MORE,0.455,19.5,0.521,2,fit from 19.5 (sd 12.1),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jalen Nailor,player_receptions,1.5,MORE,0.455,1.5,0.455,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Brevyn Spann-Ford,player_receptions,2.5,LESS,0.454,2.5,0.546,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Matthew Golden,player_receptions,5.5,MORE,0.453,5.5,0.453,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Chimere Dike,player_reception_yds,27.5,LESS,0.452,29.5,0.504,2,fit from 29.5 (sd 18.3),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,CJ Daniels,player_reception_yds,12.5,LESS,0.452,13.5,0.5,1,fit from 13.5 (sd 8.4),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Noah Gray,player_receptions,1.5,MORE,0.452,1.5,0.452,2,same line,-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jaxon Smith-Njigba,player_receptions,7.5,MORE,0.452,7.5,0.452,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Emmett Johnson,player_receptions,3.5,MORE,0.451,3.5,0.451,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Emmett Johnson,player_reception_yds,27.5,MORE,0.451,25.5,0.501,2,fit from 25.5 (sd 15.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Bhayshul Tuten,player_reception_yds,12.5,LESS,0.451,13.5,0.501,2,fit from 13.5 (sd 8.4),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chris Olave,player_receptions,5.5,LESS,0.449,5.5,0.551,2,same line,-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Xavier Legette,player_reception_yds,11.5,LESS,0.449,12.5,0.5,2,fit from 12.5 (sd 7.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tyjae Spears,player_reception_yds,13.5,MORE,0.449,12.5,0.5,1,fit from 12.5 (sd 7.8),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Jordan Watkins,player_receptions,1.5,MORE,0.449,1.5,0.449,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tutu Atwell,player_receptions,2.5,MORE,0.448,2.5,0.448,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Bam Knight,player_rush_yds,31.5,MORE,0.448,29.5,0.497,2,fit from 29.5 (sd 16.2),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,Kenyon Sadiq,player_receptions,2.5,MORE,0.447,2.5,0.447,2,same line,-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Jahmyr Gibbs,player_receptions,4.5,MORE,0.447,4.5,0.447,2,same line,-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Dohnte Meyers,player_receptions,2.5,MORE,0.447,2.5,0.447,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Christian McCaffrey,player_rush_attempts,13.5,LESS,0.446,14.5,0.462,1,fit from 14.5 (sd 4.3),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,CeeDee Lamb,player_receptions,7.5,MORE,0.446,7.5,0.446,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Foster Moreau,player_receptions,0.5,LESS,0.445,0.5,0.555,3,same line,-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,Sione Vaki,player_rush_yds,11.5,LESS,0.444,12.5,0.498,2,fit from 12.5 (sd 6.9),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Simi Fehoko,player_reception_yds,10.5,LESS,0.444,11.5,0.5,2,fit from 11.5 (sd 7.1),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Jerry Jeudy,player_receptions,1.5,LESS,0.444,1.5,0.556,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Bhayshul Tuten,player_receptions,1.5,LESS,0.442,1.5,0.558,2,same line,-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Allgeier,player_rush_attempts,10.5,MORE,0.442,9.5,0.581,1,fit from 9.5 (sd 2.9),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Myles Price,player_receptions,1.5,LESS,0.441,1.5,0.559,1,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Jonathan Taylor,player_reception_yds,23.5,MORE,0.44,21.5,0.5,2,fit from 21.5 (sd 13.3),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Bryce Young,player_rush_yds,8.5,LESS,0.44,9.5,0.484,2,fit from 9.5 (sd 5.2),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,AJ Barner,player_reception_yds,19.5,LESS,0.44,21.5,0.5,2,fit from 21.5 (sd 13.3),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Travis Etienne Jr.,player_reception_yds,9.5,LESS,0.439,10.5,0.5,2,fit from 10.5 (sd 6.5),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Tyler Allgeier,player_reception_yds,9.5,LESS,0.438,10.5,0.501,2,fit from 10.5 (sd 6.5),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Kayshon Boutte,player_reception_yds,22.5,MORE,0.437,20.5,0.5,1,fit from 20.5 (sd 12.7),-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Deebo Samuel,player_receptions,3.5,MORE,0.437,3.5,0.437,2,same line,-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Chimere Dike,player_receptions,2.5,LESS,0.436,2.5,0.564,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Denzel Boston,player_receptions,3.5,MORE,0.436,3.5,0.436,2,same line,-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Woody Marks,player_receptions,1.5,LESS,0.435,1.5,0.565,2,same line,-137.0,1.0
-nfl,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,Demarcus Robinson,player_receptions,2.5,MORE,0.434,2.5,0.434,2,same line,-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,MarShawn Lloyd,player_rush_yds,11.5,MORE,0.431,10.5,0.5,2,fit from 10.5 (sd 5.8),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Michael Penix Jr.,player_rush_yds,7.5,MORE,0.427,6.5,0.538,1,fit from 6.5 (sd 3.6),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Chuba Hubbard,player_reception_yds,19.5,MORE,0.427,17.5,0.5,1,fit from 17.5 (sd 10.8),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Bhayshul Tuten,player_rush_attempts,14.5,LESS,0.427,15.5,0.487,1,fit from 15.5 (sd 4.6),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,C.J. Stroud,player_rush_yds,9.5,MORE,0.423,8.5,0.507,2,fit from 8.5 (sd 4.7),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tony Pollard,player_receptions,1.5,LESS,0.423,1.5,0.577,2,same line,-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Daniel Jones,player_rush_yds,8.5,MORE,0.417,7.5,0.514,2,fit from 7.5 (sd 4.1),-137.0,1.0
-nfl,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,James Cook,player_reception_yds,8.5,MORE,0.416,7.5,0.501,2,fit from 7.5 (sd 4.7),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Tory Horton,player_reception_yds,6.5,LESS,0.414,7.5,0.501,2,fit from 7.5 (sd 4.7),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Blake Corum,player_rush_attempts,12.5,MORE,0.414,11.5,0.529,1,fit from 11.5 (sd 3.4),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Tommy Tremble,player_reception_yds,16.5,MORE,0.414,14.5,0.502,2,fit from 14.5 (sd 9.0),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Kevin Coleman Jr.,player_reception_yds,16.5,MORE,0.412,14.5,0.5,1,fit from 14.5 (sd 9.0),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Davis Allen,player_reception_yds,11.5,LESS,0.407,13.5,0.499,2,fit from 13.5 (sd 8.4),-137.0,1.0
-nfl,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,Ollie Gordon II,player_reception_yds,6.5,MORE,0.4,5.5,0.516,2,fit from 5.5 (sd 3.4),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Joe Burrow,player_rush_yds,7.5,MORE,0.392,6.5,0.502,2,fit from 6.5 (sd 3.6),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Quinshon Judkins,player_reception_yds,6.5,MORE,0.384,5.5,0.499,2,fit from 5.5 (sd 3.4),-137.0,1.0
-nfl,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,Alvin Kamara,player_rush_yds,13.5,MORE,0.376,11.5,0.5,1,fit from 11.5 (sd 6.3),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Cam Ward,player_rush_yds,12.5,MORE,0.365,10.5,0.5,1,fit from 10.5 (sd 5.8),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Jordan Mason,player_reception_yds,5.5,MORE,0.36,4.5,0.5,2,fit from 4.5 (sd 2.8),-137.0,1.0
-nfl,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,Jack Bech,player_reception_yds,5.5,MORE,0.36,4.5,0.5,2,fit from 4.5 (sd 2.8),-137.0,1.0
-nfl,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,Drew Sample,player_reception_yds,5.5,MORE,0.36,4.5,0.5,1,fit from 4.5 (sd 2.8),-137.0,1.0
-nfl,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,Bam Knight,player_rush_attempts,8.5,MORE,0.351,7.5,0.524,1,fit from 7.5 (sd 2.2),-137.0,1.0
-nfl,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,Ben Yurosek,player_reception_yds,10.5,MORE,0.335,8.5,0.481,1,fit from 8.5 (sd 5.3),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Khalil Herbert,player_rush_yds,10.5,MORE,0.334,8.5,0.5,1,fit from 8.5 (sd 4.7),-137.0,1.0
-nfl,New England Patriots@Detroit Lions,2026-11-15T09:30-05:00,A.J. Brown,player_receptions,4.5,MORE,0.332,3.5,0.597,2,fit from 3.5 (sd 1.5),-137.0,1.0
-nfl,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,Foster Moreau,player_reception_yds,2.5,LESS,0.314,3.5,0.51,2,fit from 3.5 (sd 2.2),-137.0,1.0
-nfl,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,Tyjae Spears,player_rush_yds,11.5,MORE,0.273,8.5,0.515,1,fit from 8.5 (sd 4.7),-137.0,1.0
-nfl,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,Khalil Herbert,player_reception_yds,3.5,MORE,0.259,2.5,0.5,1,fit from 2.5 (sd 1.6),-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Tyrese Maxey,player_rebounds,3.5,MORE,0.559,3.5,0.559,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Devin Booker,player_points,25.5,LESS,0.553,24.5,0.5,2,fit from 24.5 (sd 7.5),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Jayson Tatum,player_points,27.5,LESS,0.551,26.5,0.51,2,fit from 26.5 (sd 6.6),-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Nickeil Alexander-Walker,player_points,22.5,LESS,0.55,21.5,0.509,2,fit from 21.5 (sd 6.7),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Dylan Harper,player_assists,4.5,LESS,0.546,4.5,0.454,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Anthony Davis,player_points,21.5,MORE,0.543,22.5,0.496,2,fit from 22.5 (sd 8.6),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Kyrie Irving,player_points,20.5,LESS,0.54,20.5,0.46,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Aaron Nesmith,player_points,13.5,LESS,0.538,13.5,0.462,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Zach LaVine,player_points,19.5,LESS,0.538,18.5,0.509,2,fit from 18.5 (sd 8.4),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Oso Ighodaro,player_assists,2.5,LESS,0.538,2.5,0.462,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Luka Doncic,player_threes,4.5,MORE,0.538,4.5,0.538,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Keyonte George,player_points,20.5,LESS,0.536,19.5,0.51,2,fit from 19.5 (sd 8.6),-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Reed Sheppard,player_points,14.5,LESS,0.534,14.5,0.466,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Kris Dunn,player_assists,3.5,LESS,0.534,3.5,0.466,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Ace Bailey,player_points,13.5,MORE,0.533,13.5,0.533,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Dean Wade,player_assists,1.5,LESS,0.533,1.5,0.467,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Mikal Bridges,player_assists,1.5,MORE,0.532,1.5,0.532,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Shai Gilgeous-Alexander,player_points,33.5,LESS,0.532,32.5,0.522,2,fit from 32.5 (sd 7.4),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Victor Wembanyama,player_threes,1.5,MORE,0.532,1.5,0.532,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Andrew Nembhard,player_rebounds,2.5,MORE,0.531,2.5,0.531,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Darryn Peterson,player_points,19.5,LESS,0.531,18.5,0.526,2,fit from 18.5 (sd 6.9),-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Ivica Zubac,player_points,12.5,MORE,0.53,13.5,0.466,2,fit from 13.5 (sd 6.2),-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Amen Thompson,player_assists,4.5,LESS,0.529,4.5,0.471,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Jaylen Brown,player_points,23.5,MORE,0.529,23.5,0.529,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Luka Doncic,player_points,36.5,LESS,0.528,36.5,0.472,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Karl-Anthony Towns,player_points,19.5,MORE,0.528,19.5,0.528,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Ajay Mitchell,player_assists,3.5,LESS,0.528,3.5,0.472,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Brandon Miller,player_points,21.5,MORE,0.528,21.5,0.528,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Coby White,player_points,14.5,LESS,0.528,14.5,0.472,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Tyler Herro,player_points,21.5,LESS,0.526,21.5,0.474,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Trae Young,player_points,18.5,LESS,0.525,18.5,0.475,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Josh Hart,player_assists,3.5,LESS,0.524,3.5,0.476,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Tyrese Maxey,player_threes,2.5,LESS,0.524,2.5,0.476,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Keaton Wagler,player_points,9.5,MORE,0.524,9.5,0.524,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Keaton Wagler,player_assists,2.5,LESS,0.524,2.5,0.476,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Onyeka Okongwu,player_points,13.5,LESS,0.523,13.5,0.477,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Devin Vassell,player_threes,1.5,MORE,0.521,1.5,0.521,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Immanuel Quickley,player_points,15.5,MORE,0.52,15.5,0.52,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Walker Kessler,player_points,14.5,LESS,0.52,14.5,0.48,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kyshawn George,player_points,14.5,LESS,0.519,14.5,0.481,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Andrew Nembhard,player_points,15.5,MORE,0.519,15.5,0.519,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alperen Sengun,player_threes,0.5,MORE,0.519,0.5,0.519,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Miles Bridges,player_threes,1.5,MORE,0.519,1.5,0.519,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Walker Kessler,player_assists,1.5,LESS,0.519,1.5,0.481,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Anthony Davis,player_threes,0.5,MORE,0.519,0.5,0.519,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Jared McCain,player_points,15.5,LESS,0.517,15.5,0.483,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Ace Bailey,player_threes,1.5,MORE,0.517,1.5,0.517,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Kyle Kuzma,player_threes,1.5,LESS,0.517,1.5,0.483,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Jabari Smith Jr,player_points,14.5,MORE,0.516,14.5,0.516,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Anfernee Simons,player_points,10.5,MORE,0.516,11.5,0.458,2,fit from 11.5 (sd 6.8),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Cooper Flagg,player_points,22.5,MORE,0.515,22.5,0.515,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Paul George,player_points,19.5,LESS,0.514,19.5,0.486,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,LeBron James,player_points,17.5,LESS,0.514,17.5,0.486,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Myles Turner,player_threes,1.5,MORE,0.514,1.5,0.514,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Quentin Grimes,player_points,11.5,MORE,0.514,12.5,0.459,2,fit from 12.5 (sd 7.2),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Naji Marshall,player_points,10.5,LESS,0.512,10.5,0.488,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Brayden Burries,player_points,11.5,LESS,0.512,11.5,0.488,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Tyrese Maxey,player_points,26.5,MORE,0.512,26.5,0.512,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Domantas Sabonis,player_points,13.5,LESS,0.511,13.5,0.489,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Pascal Siakam,player_points,21.5,MORE,0.51,21.5,0.51,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kevin Durant,player_threes,1.5,MORE,0.51,1.5,0.51,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alperen Sengun,player_points,20.5,LESS,0.508,20.5,0.492,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Devin Vassell,player_points,11.5,LESS,0.508,11.5,0.492,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Jalen Brunson,player_points,25.5,LESS,0.507,25.5,0.493,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Brook Lopez,player_points,11.5,MORE,0.506,11.5,0.506,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Neemias Queta,player_assists,1.5,MORE,0.506,1.5,0.506,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Darius Acuff Jr.,player_points,23.5,MORE,0.506,23.5,0.506,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Payton Pritchard,player_points_rebounds_assists,21.5,MORE,0.506,21.5,0.506,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Collin Sexton,player_assists,2.5,MORE,0.506,2.5,0.506,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Karl-Anthony Towns,player_threes,1.5,LESS,0.506,1.5,0.494,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Immanuel Quickley,player_threes,2.5,MORE,0.506,2.5,0.506,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Dillon Brooks,player_points,15.5,MORE,0.506,15.5,0.506,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Keegan Murray,player_threes,1.5,MORE,0.506,1.5,0.506,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Kyle Kuzma,player_assists,2.5,MORE,0.506,2.5,0.506,1,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Victor Wembanyama,player_points,27.5,LESS,0.506,27.5,0.494,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Devin Vassell,player_points_rebounds_assists,17.5,MORE,0.506,17.5,0.506,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,R.J. Barrett,player_points,20.5,LESS,0.506,20.5,0.494,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Stephon Castle,player_threes,1.5,MORE,0.505,1.5,0.505,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Jayson Tatum,player_assists,6.5,MORE,0.505,6.5,0.505,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Ja'Kobe Walter,player_points,11.5,LESS,0.504,11.5,0.496,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Jaime Jaquez Jr,player_points,14.5,LESS,0.504,14.5,0.496,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Darius Garland,player_threes,2.5,MORE,0.504,2.5,0.504,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Luka Doncic,player_assists,8.5,MORE,0.503,8.5,0.503,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Jaylen Brown,player_points_rebounds_assists,34.5,MORE,0.503,34.5,0.503,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Kenrich Williams,player_threes,1.5,MORE,0.503,1.5,0.503,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Darius Garland,player_points,20.5,LESS,0.503,20.5,0.497,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Jalen Green,player_points,12.5,LESS,0.503,12.5,0.497,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Rui Hachimura,player_points,14.5,MORE,0.503,14.5,0.503,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tre Johnson,player_threes,1.5,LESS,0.502,1.5,0.498,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Ajay Mitchell,player_points,17.5,MORE,0.502,17.5,0.502,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Keyonte George,player_assists,5.5,LESS,0.501,5.5,0.499,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Aday Mara,player_points,9.5,MORE,0.501,9.5,0.501,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Sandro Mamukelashvili,player_points,10.5,LESS,0.501,10.5,0.499,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kevin Durant,player_points,21.5,MORE,0.501,21.5,0.501,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Kyrie Irving,player_rebounds,3.5,MORE,0.5,3.5,0.5,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Morez Johnson Jr.,player_points,7.5,MORE,0.5,7.5,0.5,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Derrick Jones,player_points,10.5,LESS,0.5,10.5,0.5,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Derrick Jones,player_points,10.5,MORE,0.5,10.5,0.5,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,De'Aaron Fox,player_points,13.5,LESS,0.5,13.5,0.5,1,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,De'Aaron Fox,player_points,13.5,MORE,0.5,13.5,0.5,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Grayson Allen,player_points,14.5,MORE,0.5,14.5,0.5,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Grayson Allen,player_points,14.5,LESS,0.5,14.5,0.5,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alex Sarr,player_assists,1.5,LESS,0.5,1.5,0.5,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Jalen Green,player_assists,2.5,LESS,0.5,2.5,0.5,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Jalen Green,player_assists,2.5,MORE,0.5,2.5,0.5,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Aday Mara,player_assists,1.5,MORE,0.5,1.5,0.5,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Jalen Johnson,player_points,21.5,LESS,0.5,21.5,0.5,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,VJ Edgecombe,player_points,13.5,MORE,0.5,13.5,0.5,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Jalen Johnson,player_points,21.5,MORE,0.5,21.5,0.5,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Dean Wade,player_points_rebounds_assists,12.5,MORE,0.5,12.5,0.5,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Miles Bridges,player_assists,2.5,LESS,0.5,2.5,0.5,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Miles Bridges,player_assists,2.5,MORE,0.5,2.5,0.5,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alex Sarr,player_assists,1.5,MORE,0.5,1.5,0.5,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Pascal Siakam,player_threes,1.5,LESS,0.5,1.5,0.5,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Naz Reid,player_points,17.5,LESS,0.5,17.5,0.5,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Naz Reid,player_points,17.5,MORE,0.5,17.5,0.5,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Aday Mara,player_assists,1.5,LESS,0.5,1.5,0.5,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Derrick White,player_points_rebounds_assists,22.5,MORE,0.499,22.5,0.499,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Sandro Mamukelashvili,player_points,10.5,MORE,0.499,10.5,0.499,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kevin Durant,player_points,21.5,LESS,0.499,21.5,0.501,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Aday Mara,player_points,9.5,LESS,0.499,9.5,0.501,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tre Johnson,player_threes,1.5,MORE,0.498,1.5,0.498,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Ajay Mitchell,player_points,17.5,LESS,0.498,17.5,0.502,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,De'Aaron Fox,player_points_rebounds_assists,23.5,MORE,0.498,23.5,0.498,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Dylan Harper,player_points_rebounds_assists,25.5,MORE,0.497,25.5,0.497,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Rui Hachimura,player_points,14.5,LESS,0.497,14.5,0.503,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Darius Garland,player_points,20.5,MORE,0.497,20.5,0.497,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Luka Doncic,player_assists,8.5,LESS,0.497,8.5,0.503,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Jalen Green,player_points,12.5,MORE,0.497,12.5,0.497,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Kenrich Williams,player_threes,1.5,LESS,0.497,1.5,0.503,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Ja'Kobe Walter,player_points,11.5,MORE,0.496,11.5,0.496,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Darius Garland,player_threes,2.5,LESS,0.496,2.5,0.504,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Jaime Jaquez Jr,player_points,14.5,MORE,0.496,14.5,0.496,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Jaylen Brown,player_rebounds,6.5,MORE,0.495,6.5,0.495,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Darius Acuff Jr.,player_points_rebounds_assists,34.5,MORE,0.495,34.5,0.495,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Stephon Castle,player_threes,1.5,LESS,0.495,1.5,0.505,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Aaron Wiggins,player_points,12.5,MORE,0.495,12.5,0.495,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Jayson Tatum,player_assists,6.5,LESS,0.495,6.5,0.505,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Darius Acuff Jr.,player_points,23.5,LESS,0.494,23.5,0.506,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Keegan Murray,player_rebounds,4.5,MORE,0.494,4.5,0.494,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Keegan Murray,player_threes,1.5,LESS,0.494,1.5,0.506,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Brook Lopez,player_points,11.5,LESS,0.494,11.5,0.506,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Pascal Siakam,player_points_rebounds_assists,32.5,MORE,0.494,32.5,0.494,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Dillon Brooks,player_points,15.5,LESS,0.494,15.5,0.506,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Collin Sexton,player_assists,2.5,LESS,0.494,2.5,0.506,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Kyle Kuzma,player_assists,2.5,LESS,0.494,2.5,0.506,1,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Victor Wembanyama,player_points,27.5,MORE,0.494,27.5,0.494,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Immanuel Quickley,player_threes,2.5,LESS,0.494,2.5,0.506,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Karl-Anthony Towns,player_threes,1.5,MORE,0.494,1.5,0.494,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Neemias Queta,player_assists,1.5,LESS,0.494,1.5,0.506,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,R.J. Barrett,player_points,20.5,MORE,0.494,20.5,0.494,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Jalen Brunson,player_points,25.5,MORE,0.493,25.5,0.493,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alperen Sengun,player_points,20.5,MORE,0.492,20.5,0.492,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Devin Vassell,player_points,11.5,MORE,0.492,11.5,0.492,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Moussa Diabate,player_rebounds,9.5,MORE,0.491,9.5,0.491,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Collin Gillespie,player_points_rebounds_assists,15.5,MORE,0.49,15.5,0.49,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Josh Hart,player_points_rebounds_assists,19.5,MORE,0.49,19.5,0.49,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Brook Lopez,player_points_rebounds_assists,18.5,MORE,0.49,18.5,0.49,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kevin Durant,player_threes,1.5,LESS,0.49,1.5,0.51,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Pascal Siakam,player_points,21.5,LESS,0.49,21.5,0.51,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Domantas Sabonis,player_points,13.5,MORE,0.489,13.5,0.489,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Brayden Burries,player_points,11.5,MORE,0.488,11.5,0.488,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Collin Sexton,player_points,14.5,MORE,0.488,14.5,0.488,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Naji Marshall,player_points,10.5,MORE,0.488,10.5,0.488,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Tyrese Maxey,player_points,26.5,LESS,0.488,26.5,0.512,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Onyeka Okongwu,player_threes,1.5,MORE,0.488,1.5,0.488,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Amen Thompson,player_points_rebounds_assists,29.5,MORE,0.487,29.5,0.487,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Keaton Wagler,player_points_rebounds_assists,15.5,MORE,0.486,15.5,0.486,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Paul George,player_points,19.5,MORE,0.486,19.5,0.486,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Ryan Kalkbrenner,player_points,5.5,MORE,0.486,5.5,0.486,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Myles Turner,player_threes,1.5,LESS,0.486,1.5,0.514,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,LeBron James,player_points,17.5,MORE,0.486,17.5,0.486,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Caleb Martin,player_threes,0.5,LESS,0.486,0.5,0.514,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Quentin Grimes,player_assists,2.5,LESS,0.486,2.5,0.514,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Cooper Flagg,player_points,22.5,LESS,0.485,22.5,0.515,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Jabari Smith Jr,player_points,14.5,LESS,0.484,14.5,0.516,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Anfernee Simons,player_points,10.5,LESS,0.484,11.5,0.458,2,fit from 11.5 (sd 6.8),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Ace Bailey,player_threes,1.5,LESS,0.483,1.5,0.517,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Tyler Herro,player_rebounds,4.5,MORE,0.483,4.5,0.483,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Kyle Kuzma,player_threes,1.5,MORE,0.483,1.5,0.483,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Isaiah Hartenstein,player_rebounds,10.5,MORE,0.483,10.5,0.483,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Jared McCain,player_points,15.5,MORE,0.483,15.5,0.483,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Moussa Diabate,player_points,8.5,MORE,0.482,8.5,0.482,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Miles Bridges,player_threes,1.5,LESS,0.481,1.5,0.519,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Walker Kessler,player_points_rebounds_assists,27.5,MORE,0.481,27.5,0.481,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tari Eason,player_assists,1.5,MORE,0.481,1.5,0.481,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Andrew Nembhard,player_points,15.5,LESS,0.481,15.5,0.519,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Walker Kessler,player_assists,1.5,MORE,0.481,1.5,0.481,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Jaylen Brown,player_threes,1.5,LESS,0.481,1.5,0.519,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alperen Sengun,player_threes,0.5,LESS,0.481,0.5,0.519,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kyshawn George,player_points,14.5,MORE,0.481,14.5,0.481,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Anthony Davis,player_threes,0.5,LESS,0.481,0.5,0.519,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Immanuel Quickley,player_points,15.5,LESS,0.48,15.5,0.52,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Walker Kessler,player_points,14.5,MORE,0.48,14.5,0.48,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Landry Shamet,player_points,8.5,MORE,0.48,8.5,0.48,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Obi Toppin,player_points,9.5,LESS,0.479,9.5,0.521,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Devin Vassell,player_threes,1.5,LESS,0.479,1.5,0.521,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Ryan Rollins,player_threes,1.5,MORE,0.479,1.5,0.479,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Amen Thompson,player_points,17.5,MORE,0.478,17.5,0.478,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Reed Sheppard,player_rebounds,3.5,MORE,0.478,3.5,0.478,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Zach LaVine,player_assists,2.5,MORE,0.478,2.5,0.478,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Devin Vassell,player_rebounds,3.5,MORE,0.478,3.5,0.478,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Miles McBride,player_points,7.5,MORE,0.477,7.5,0.477,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Onyeka Okongwu,player_points,13.5,MORE,0.477,13.5,0.477,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Ivica Zubac,player_rebounds,10.5,MORE,0.477,10.5,0.477,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Keaton Wagler,player_assists,2.5,MORE,0.476,2.5,0.476,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Keaton Wagler,player_points,9.5,LESS,0.476,9.5,0.524,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tari Eason,player_points_rebounds_assists,20.5,MORE,0.476,20.5,0.476,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Nickeil Alexander-Walker,player_threes,3.5,LESS,0.476,3.5,0.524,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Naji Marshall,player_points_rebounds_assists,17.5,MORE,0.476,17.5,0.476,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Tyrese Maxey,player_threes,2.5,MORE,0.476,2.5,0.476,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Josh Hart,player_assists,3.5,MORE,0.476,3.5,0.476,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Jaylen Brown,player_assists,3.5,LESS,0.476,3.5,0.524,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Zach LaVine,player_threes,2.5,LESS,0.475,2.5,0.525,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Trae Young,player_points,18.5,MORE,0.475,18.5,0.475,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Tyler Herro,player_points,21.5,MORE,0.474,21.5,0.474,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Oso Ighodaro,player_points,6.5,MORE,0.474,6.5,0.474,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,De'Aaron Fox,player_assists,5.5,LESS,0.473,5.5,0.527,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Matisse Thybulle,player_points,7.5,MORE,0.472,7.5,0.472,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Reed Sheppard,player_threes,2.5,LESS,0.472,2.5,0.528,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,AJ Dybantsa,player_points,15.5,MORE,0.472,15.5,0.472,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Ajay Mitchell,player_rebounds,3.5,MORE,0.472,3.5,0.472,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Zaccharie Risacher,player_points,7.5,MORE,0.472,7.5,0.472,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Karl-Anthony Towns,player_points,19.5,LESS,0.472,19.5,0.528,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Neemias Queta,player_points_rebounds_assists,19.5,MORE,0.472,19.5,0.472,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Luka Doncic,player_points,36.5,MORE,0.472,36.5,0.472,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Ajay Mitchell,player_assists,3.5,MORE,0.472,3.5,0.472,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Tyler Herro,player_threes,2.5,LESS,0.472,2.5,0.528,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Trae Young,player_rebounds,2.5,MORE,0.472,2.5,0.472,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Brandon Miller,player_points,21.5,LESS,0.472,21.5,0.528,1,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Julian Champagnie,player_points,9.5,MORE,0.472,8.5,0.538,2,fit from 8.5 (sd 6.0),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Mikal Bridges,player_rebounds,2.5,MORE,0.472,2.5,0.472,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Coby White,player_points,14.5,MORE,0.472,14.5,0.472,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Jaylen Brown,player_points,23.5,LESS,0.471,23.5,0.529,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Amen Thompson,player_assists,4.5,MORE,0.471,4.5,0.471,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alex Sarr,player_points,10.5,MORE,0.47,10.5,0.47,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Miles Bridges,player_points,14.5,MORE,0.47,14.5,0.47,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Ivica Zubac,player_points,12.5,LESS,0.47,13.5,0.466,2,fit from 13.5 (sd 6.2),-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Dyson Daniels,player_points,9.5,LESS,0.47,9.5,0.53,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Stephon Castle,player_assists,5.5,MORE,0.47,5.5,0.47,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Darryn Peterson,player_points,19.5,MORE,0.469,18.5,0.526,2,fit from 18.5 (sd 6.9),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Shai Gilgeous-Alexander,player_points,33.5,MORE,0.468,32.5,0.522,2,fit from 32.5 (sd 7.4),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Collin Gillespie,player_points,9.5,MORE,0.468,9.5,0.468,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Victor Wembanyama,player_threes,1.5,LESS,0.468,1.5,0.532,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Victor Wembanyama,player_rebounds,11.5,MORE,0.468,11.5,0.468,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Darius Acuff Jr.,player_assists,6.5,MORE,0.468,6.5,0.468,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Sam Hauser,player_points,7.5,MORE,0.468,7.5,0.468,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Landry Shamet,player_threes,1.5,LESS,0.468,1.5,0.532,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Mikal Bridges,player_points,8.5,MORE,0.468,8.5,0.468,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Mikal Bridges,player_assists,1.5,LESS,0.468,1.5,0.532,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Dean Wade,player_assists,1.5,MORE,0.467,1.5,0.467,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alperen Sengun,player_assists,7.5,MORE,0.467,7.5,0.467,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Ace Bailey,player_points,13.5,LESS,0.467,13.5,0.533,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Reed Sheppard,player_points,14.5,MORE,0.466,14.5,0.466,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Ryan Kalkbrenner,player_rebounds,4.5,MORE,0.466,4.5,0.466,4,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Kris Dunn,player_assists,3.5,MORE,0.466,3.5,0.466,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Aday Mara,player_rebounds,6.5,MORE,0.465,6.5,0.465,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kevin Durant,player_rebounds,5.5,MORE,0.465,5.5,0.465,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Payton Pritchard,player_points,14.5,MORE,0.465,14.5,0.465,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Keyonte George,player_points,20.5,MORE,0.464,19.5,0.51,2,fit from 19.5 (sd 8.6),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,OG Anunoby,player_points,17.5,MORE,0.463,17.5,0.463,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Scottie Barnes,player_assists,4.5,LESS,0.463,4.5,0.537,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,P.J. Washington,player_points,12.5,MORE,0.463,11.5,0.528,2,fit from 11.5 (sd 6.1),-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Obi Toppin,player_threes,1.5,MORE,0.463,1.5,0.463,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Zach LaVine,player_points,19.5,MORE,0.462,18.5,0.509,2,fit from 18.5 (sd 8.4),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Collin Gillespie,player_rebounds,2.5,MORE,0.462,2.5,0.462,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Jared McCain,player_threes,2.5,MORE,0.462,2.5,0.462,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tre Johnson,player_points,9.5,LESS,0.462,9.5,0.538,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Luka Doncic,player_threes,4.5,LESS,0.462,4.5,0.538,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Oso Ighodaro,player_assists,2.5,MORE,0.462,2.5,0.462,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tari Eason,player_points,11.5,LESS,0.462,11.5,0.538,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Aaron Nesmith,player_points,13.5,MORE,0.462,13.5,0.462,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Jabari Smith Jr,player_assists,1.5,LESS,0.462,1.5,0.538,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Caleb Martin,player_points,5.5,MORE,0.462,5.5,0.462,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,VJ Edgecombe,player_rebounds,6.5,MORE,0.462,6.5,0.462,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Zaccharie Risacher,player_rebounds,3.5,MORE,0.462,3.5,0.462,1,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Kentavious Caldwell-Pope,player_rebounds,2.5,MORE,0.461,2.5,0.461,3,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Derrick White,player_points,14.5,MORE,0.46,13.5,0.518,2,fit from 13.5 (sd 6.8),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Paul George,player_assists,3.5,MORE,0.46,3.5,0.46,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Cooper Flagg,player_assists,5.5,MORE,0.46,5.5,0.46,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Kyrie Irving,player_points,20.5,MORE,0.46,20.5,0.46,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Immanuel Quickley,player_rebounds,3.5,MORE,0.459,3.5,0.459,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Jordan Walsh,player_rebounds,3.5,MORE,0.459,3.5,0.459,5,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Isaiah Hartenstein,player_points,9.5,LESS,0.459,10.5,0.472,2,fit from 10.5 (sd 5.8),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Naji Marshall,player_rebounds,3.5,MORE,0.458,3.5,0.458,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Scottie Barnes,player_rebounds,6.5,MORE,0.458,6.5,0.458,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Matisse Thybulle,player_threes,1.5,MORE,0.458,1.5,0.458,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,C.J. McCollum,player_points,16.5,MORE,0.458,15.5,0.52,2,fit from 15.5 (sd 6.4),-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Aaron Nesmith,player_assists,1.5,MORE,0.457,1.5,0.457,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Anthony Davis,player_points,21.5,LESS,0.457,22.5,0.496,2,fit from 22.5 (sd 8.6),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Jared McCain,player_rebounds,3.5,MORE,0.456,3.5,0.456,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alperen Sengun,player_rebounds,9.5,MORE,0.456,9.5,0.456,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Brayden Burries,player_rebounds,5.5,MORE,0.454,5.5,0.454,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Cooper Flagg,player_rebounds,6.5,MORE,0.454,6.5,0.454,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Sam Hauser,player_threes,1.5,LESS,0.454,1.5,0.546,4,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,VJ Edgecombe,player_threes,1.5,LESS,0.454,1.5,0.546,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Immanuel Quickley,player_assists,4.5,LESS,0.454,4.5,0.546,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Dylan Harper,player_assists,4.5,MORE,0.454,4.5,0.454,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Walker Kessler,player_rebounds,11.5,MORE,0.454,11.5,0.454,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Myles Turner,player_points,10.5,MORE,0.453,9.5,0.519,2,fit from 9.5 (sd 6.0),-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Andrew Nembhard,player_assists,7.5,MORE,0.453,7.5,0.453,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,VJ Edgecombe,player_assists,3.5,MORE,0.453,2.5,0.604,1,fit from 2.5 (sd 2.6),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Kenrich Williams,player_points,9.5,MORE,0.452,8.5,0.53,2,fit from 8.5 (sd 5.1),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Shai Gilgeous-Alexander,player_assists,5.5,MORE,0.452,5.5,0.452,2,same line,-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,Pascal Siakam,player_rebounds,6.5,MORE,0.451,6.5,0.451,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Kyle Kuzma,player_points,12.5,MORE,0.451,11.5,0.51,2,fit from 11.5 (sd 6.8),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Dylan Harper,player_points,16.5,MORE,0.451,15.5,0.522,2,fit from 15.5 (sd 5.6),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Josh Hart,player_points,9.5,MORE,0.451,8.5,0.512,2,fit from 8.5 (sd 6.5),-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Nickeil Alexander-Walker,player_points,22.5,MORE,0.45,21.5,0.509,2,fit from 21.5 (sd 6.7),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,OG Anunoby,player_assists,1.5,LESS,0.45,1.5,0.55,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Oso Ighodaro,player_rebounds,5.5,MORE,0.449,5.5,0.449,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Andre Drummond,player_rebounds,6.5,MORE,0.449,6.5,0.449,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,De'Andre Hunter,player_rebounds,4.5,MORE,0.449,4.5,0.449,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Collin Gillespie,player_assists,3.5,MORE,0.449,3.5,0.449,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Jayson Tatum,player_threes,2.5,LESS,0.449,2.5,0.551,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Jayson Tatum,player_points,27.5,MORE,0.449,26.5,0.51,2,fit from 26.5 (sd 6.6),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Matisse Thybulle,player_rebounds,2.5,MORE,0.449,2.5,0.449,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Luguentz Dort,player_points,8.5,MORE,0.448,7.5,0.528,1,fit from 7.5 (sd 4.9),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,De'Andre Hunter,player_points,14.5,MORE,0.447,13.5,0.508,2,fit from 13.5 (sd 6.5),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Devin Booker,player_points,25.5,MORE,0.447,24.5,0.5,2,fit from 24.5 (sd 7.5),-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Kris Dunn,player_rebounds,3.5,MORE,0.445,3.5,0.445,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Ryan Rollins,player_points,11.5,MORE,0.445,10.5,0.505,2,fit from 10.5 (sd 6.6),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Domantas Sabonis,player_assists,5.5,MORE,0.445,5.5,0.445,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Aaron Wiggins,player_assists,2.5,MORE,0.445,2.5,0.445,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Derrick White,player_rebounds,3.5,MORE,0.445,3.5,0.445,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tre Johnson,player_assists,1.5,MORE,0.445,1.5,0.445,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,R.J. Barrett,player_threes,1.5,LESS,0.445,1.5,0.555,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Amen Thompson,player_rebounds,7.5,MORE,0.443,7.5,0.443,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Domantas Sabonis,player_rebounds,12.5,MORE,0.443,11.5,0.535,2,fit from 11.5 (sd 4.3),-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Brook Lopez,player_threes,1.5,MORE,0.441,1.5,0.441,1,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Kyshawn George,player_rebounds,4.5,MORE,0.441,4.5,0.441,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Anthony Davis,player_rebounds,10.5,MORE,0.441,10.5,0.441,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Darius Garland,player_assists,7.5,MORE,0.439,7.5,0.439,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Miles McBride,player_threes,1.5,LESS,0.437,1.5,0.563,1,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Jakob Poeltl,player_points,9.5,MORE,0.437,8.5,0.511,2,fit from 8.5 (sd 5.4),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Devin Vassell,player_assists,2.5,MORE,0.437,2.5,0.437,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Kenrich Williams,player_assists,1.5,LESS,0.437,1.5,0.563,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Jalen Johnson,player_assists,7.5,MORE,0.437,7.5,0.437,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Jake LaRavia,player_rebounds,4.5,MORE,0.436,3.5,0.594,1,fit from 3.5 (sd 2.5),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Dillon Brooks,player_rebounds,3.5,MORE,0.435,3.5,0.435,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Tyler Herro,player_assists,4.5,LESS,0.435,4.5,0.565,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Keegan Murray,player_points,12.5,MORE,0.434,11.5,0.494,2,fit from 11.5 (sd 6.6),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Darryn Peterson,player_threes,2.5,MORE,0.434,2.5,0.434,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Caleb Martin,player_rebounds,3.5,MORE,0.433,3.5,0.433,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Grayson Allen,player_threes,2.5,LESS,0.433,2.5,0.567,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Julian Champagnie,player_rebounds,4.5,MORE,0.433,4.5,0.433,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Ja'Kobe Walter,player_assists,1.5,MORE,0.433,1.5,0.433,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Nickeil Alexander-Walker,player_rebounds,3.5,MORE,0.433,3.5,0.433,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Tari Eason,player_rebounds,6.5,MORE,0.433,6.5,0.433,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Zach LaVine,player_rebounds,3.5,MORE,0.431,3.5,0.431,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Bogdan Bogdanovic,player_points,7.5,MORE,0.431,6.5,0.51,1,fit from 6.5 (sd 5.0),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Ace Bailey,player_rebounds,5.5,MORE,0.431,5.5,0.431,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Trae Young,player_assists,8.5,MORE,0.429,7.5,0.542,2,fit from 7.5 (sd 3.5),-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Victor Wembanyama,player_assists,2.5,LESS,0.429,2.5,0.571,2,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Kris Dunn,player_threes,0.5,LESS,0.428,0.5,0.572,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Nate Ament,player_rebounds,3.5,MORE,0.428,3.5,0.428,1,same line,-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Kris Dunn,player_points,7.5,MORE,0.425,6.5,0.515,2,fit from 6.5 (sd 4.4),-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Jaime Jaquez Jr,player_rebounds,5.5,MORE,0.425,5.5,0.425,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Neemias Queta,player_points,10.5,MORE,0.424,9.5,0.503,2,fit from 9.5 (sd 5.0),-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Brook Lopez,player_rebounds,5.5,MORE,0.424,4.5,0.572,2,fit from 4.5 (sd 2.7),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Payton Pritchard,player_assists,3.5,LESS,0.423,3.5,0.577,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Stephon Castle,player_rebounds,5.5,MORE,0.423,5.5,0.423,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Alex Sarr,player_rebounds,7.5,MORE,0.423,6.5,0.534,2,fit from 6.5 (sd 3.6),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Jayson Tatum,player_rebounds,7.5,MORE,0.423,7.5,0.423,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Darryn Peterson,player_rebounds,4.5,MORE,0.422,4.5,0.422,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Dillon Brooks,player_threes,1.5,LESS,0.421,1.5,0.579,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Dyson Daniels,player_rebounds,7.5,MORE,0.42,6.5,0.559,2,fit from 6.5 (sd 2.9),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Jakob Poeltl,player_rebounds,7.5,MORE,0.42,6.5,0.558,2,fit from 6.5 (sd 2.9),-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Kyle Kuzma,player_rebounds,5.5,MORE,0.419,4.5,0.563,2,fit from 4.5 (sd 2.8),-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Myles Turner,player_rebounds,6.5,MORE,0.418,5.5,0.557,2,fit from 5.5 (sd 2.9),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Khaman Maluach,player_points,7.5,MORE,0.418,6.5,0.507,2,fit from 6.5 (sd 4.5),-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Naji Marshall,player_assists,3.5,MORE,0.414,3.5,0.414,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,C.J. McCollum,player_assists,4.5,MORE,0.413,3.5,0.588,2,fit from 3.5 (sd 2.3),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Kenrich Williams,player_rebounds,5.5,MORE,0.41,4.5,0.557,2,fit from 4.5 (sd 2.7),-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Sion James,player_points,7.5,MORE,0.41,6.5,0.51,2,fit from 6.5 (sd 3.9),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Karl-Anthony Towns,player_rebounds,13.5,MORE,0.409,12.5,0.509,2,fit from 12.5 (sd 4.0),-137.0,1.0
+nba,Los Angeles Lakers@Phoenix Suns,2026-11-15T16:10-05:00,Devin Booker,player_assists,4.5,LESS,0.408,5.5,0.419,2,fit from 5.5 (sd 2.3),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,OG Anunoby,player_rebounds,5.5,MORE,0.408,5.5,0.408,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Scottie Barnes,player_points,19.5,MORE,0.408,17.5,0.522,2,fit from 17.5 (sd 7.0),-137.0,1.0
+nba,Oklahoma City Thunder@Sacramento Kings,2026-11-15T21:10-05:00,Shai Gilgeous-Alexander,player_rebounds,4.5,MORE,0.402,4.5,0.402,2,same line,-137.0,1.0
+nba,San Antonio Spurs@Utah Jazz,2026-11-15T17:10-05:00,Julian Champagnie,player_threes,2.5,MORE,0.4,2.5,0.4,2,same line,-137.0,1.0
+nba,Houston Rockets@Washington Wizards,2026-11-15T19:10-05:00,Reed Sheppard,player_assists,4.5,MORE,0.396,4.5,0.396,2,same line,-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,Josh Hart,player_rebounds,7.5,MORE,0.393,6.5,0.522,2,fit from 6.5 (sd 3.1),-137.0,1.0
+nba,Indiana Pacers@Philadelphia 76ers,2026-11-15T13:10-05:00,LeBron James,player_rebounds,7.5,MORE,0.388,6.5,0.538,2,fit from 6.5 (sd 2.6),-137.0,1.0
+nba,Atlanta Hawks@Milwaukee Bucks,2026-11-15T20:10-05:00,Jalen Johnson,player_rebounds,10.5,MORE,0.384,9.5,0.513,2,fit from 9.5 (sd 3.1),-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Darius Garland,player_rebounds,2.5,MORE,0.373,1.5,0.629,1,fit from 1.5 (sd 1.5),-137.0,1.0
+nba,New York Knicks@Toronto Raptors,2026-11-15T18:10-05:00,R.J. Barrett,player_rebounds,6.5,MORE,0.362,5.5,0.535,2,fit from 5.5 (sd 2.3),-137.0,1.0
+nba,Charlotte Hornets@Los Angeles Clippers,2026-11-15T16:40-05:00,Derrick Jones,player_assists,1.5,MORE,0.349,1.5,0.349,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Boston Celtics,2026-11-15T18:10-05:00,Morez Johnson Jr.,player_rebounds,6.5,MORE,0.316,5.5,0.5,1,fit from 5.5 (sd 2.1),-137.0,1.0
