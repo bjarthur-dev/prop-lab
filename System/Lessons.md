@@ -269,3 +269,7 @@ Rules from this (they override earlier notes where they conflict):
 - Low targets are a trap: 1.2x hits only 53% (return 0.64/$). Best league targets 2.5-4x return ~0.78-0.80/$ (Moonshot holds ~20%).
 - Starting team matters: JAX 3x 41% (1.23/$), 5x 26% (1.32/$) n=110; BUF/KC/ATL/NYJ ~0.90-0.95 at 3x; MIA/MIN/GB/IND ~0.57-0.66. Shrink team numbers ~halfway to league (n~110 each).
 - Moonshot alone is -EV; worth it only with a promo (e.g. $10 Moonshot -> $5 bonus bet ~ $3.50).
+
+## 11-15 Moonshot chasing
+- After the $10 promo Moonshot lost, $29.80 more went into non-promo Moonshots (backtest ~0.79-0.89 per $1) within ~2 hours; cash 82.05 -> 42.25. Same pattern as 11-12 live bets.
+- Moonshot only with a promo attached. After a loss, no new live bets that day unless priced with an edge first.
