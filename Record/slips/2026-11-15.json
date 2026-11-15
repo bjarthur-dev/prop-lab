@@ -1,0 +1,139 @@
+{
+ "date": "2026-11-15",
+ "slips": [
+  {
+   "id": 312,
+   "book": "DraftKings",
+   "name": "B&G step 1 IND@PHI ast unders",
+   "stake": 10,
+   "pays": 54.5,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Ivica Zubac",
+     "stat": "ast",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Obi Toppin",
+     "stat": "ast",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nba",
+     "player": "Andrew Nembhard",
+     "stat": "ast",
+     "side": "under",
+     "line": 7.5
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "book": "DraftKings",
+   "name": "75% boost T.Johnson/Turner/Sabonis",
+   "stake": 10,
+   "pays": 81.6,
+   "legs": [
+    {
+     "sport": "nba",
+     "player": "Tre Johnson",
+     "stat": "reb",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nba",
+     "player": "Myles Turner",
+     "stat": "pts",
+     "side": "under",
+     "line": 10.5
+    },
+    {
+     "sport": "nba",
+     "player": "Domantas Sabonis",
+     "stat": "reb",
+     "side": "under",
+     "line": 12.5
+    }
+   ]
+  },
+  {
+   "id": 314,
+   "book": "DraftKings",
+   "name": "NFL B&G step 1",
+   "stake": 5,
+   "pays": 60.44,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "Ollie Gordon II",
+     "stat": "rush_yds",
+     "side": "under",
+     "line": 75.5
+    },
+    {
+     "sport": "nfl",
+     "player": "James Cook",
+     "stat": "rec",
+     "side": "under",
+     "line": 1.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Quinshon Judkins",
+     "stat": "rec_yds",
+     "side": "under",
+     "line": 6.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Travis Hunter",
+     "stat": "rec_yds",
+     "side": "under",
+     "line": 8.5
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "book": "DraftKings",
+   "name": "NFL 50% SGP PIT@CIN TE unders",
+   "stake": 5,
+   "pays": 95,
+   "legs": [
+    {
+     "sport": "nfl",
+     "player": "Drew Sample",
+     "stat": "rec_yds",
+     "side": "under",
+     "line": 5.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Darnell Washington",
+     "stat": "rec",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Pat Freiermuth",
+     "stat": "rec",
+     "side": "under",
+     "line": 2.5
+    },
+    {
+     "sport": "nfl",
+     "player": "Mike Gesicki",
+     "stat": "rec",
+     "side": "under",
+     "line": 2.5
+    }
+   ]
+  }
+ ]
+}
