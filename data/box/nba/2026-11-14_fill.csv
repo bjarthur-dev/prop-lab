@@ -1,0 +1,18 @@
+date,game,team,player,min,pts,reb,ast,fg3m,fg3a,oreb,dreb,stl,blk,tov,team_final,source
+2026-11-14,DEN@NOP,NOP,Herbert Jones,27.0,10,2,1,2,5,0.0,2.0,0.0,0.0,2.0,108,api-sports game 17124
+2026-11-14,DEN@NOP,NOP,Zion Williamson,31.0,24,6,2,2,4,2.0,4.0,0.0,2.0,2.0,108,api-sports game 17124
+2026-11-14,DEN@NOP,NOP,Saddiq Bey,41.0,16,6,4,2,7,1.0,5.0,1.0,0.0,0.0,108,api-sports game 17124
+2026-11-14,DEN@NOP,NOP,Yves Missi,22.0,3,8,1,0,0,3.0,5.0,0.0,4.0,1.0,108,api-sports game 17124
+2026-11-14,DEN@NOP,NOP,J. Fears,33.0,13,4,7,1,3,0.0,4.0,2.0,0.0,2.0,108,api-sports game 17124
+2026-11-14,DEN@NOP,NOP,Karlo Matkovic,14.0,5,3,1,1,2,2.0,1.0,0.0,1.0,0.0,108,api-sports game 17124
+2026-11-14,DEN@NOP,NOP,Derik Queen,25.0,10,5,4,2,4,1.0,4.0,2.0,0.0,2.0,108,api-sports game 17124
+2026-11-14,DEN@NOP,NOP,Jordan Poole,24.0,14,2,5,1,3,2.0,0.0,0.0,0.0,1.0,108,api-sports game 17124
+2026-11-14,DAL@CLE,CLE,Thomas Bryant,27.0,19,11,3,2,4,2.0,9.0,0.0,0.0,1.0,127,api-sports game 17125
+2026-11-14,DAL@CLE,CLE,Jaylon Tyson,34.0,18,4,4,3,7,0.0,4.0,0.0,0.0,2.0,127,api-sports game 17125
+2026-11-14,DAL@CLE,CLE,T. Proctor,34.0,24,11,10,4,13,4.0,7.0,0.0,0.0,1.0,127,api-sports game 17125
+2026-11-14,DAL@CLE,CLE,Riley Minix,22.0,2,0,0,0,3,0.0,0.0,0.0,0.0,0.0,127,api-sports game 17125
+2026-11-14,DAL@CLE,CLE,N. Omier,27.0,13,8,2,1,1,2.0,6.0,1.0,0.0,1.0,127,api-sports game 17125
+2026-11-14,DAL@CLE,CLE,Craig Jr. Porter,28.0,9,9,6,0,1,4.0,5.0,1.0,1.0,5.0,127,api-sports game 17125
+2026-11-14,DAL@CLE,CLE,Mario Hezonja,34.0,22,7,4,2,2,,,,,,127,"https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261114_DAL@CLE/ + bvmsports recap (Hezonja+Bryant 41 pts, 16-24 FG)"
+2026-11-14,DAL@CLE,CLE,Meleek Thomas,33.0,20,4,2,3,9,,,,,,127,CBS box (sum to 127 with API rows)
+2026-11-14,DEN@NOP,NOP,Jaron Pierre Jr.,23.0,13,2,0,2,5,,,,,,108,"https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261114_DEN@NO/ + si.com Pelicans onsi (13 pts in 23 min, two 3s)"
