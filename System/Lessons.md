@@ -264,3 +264,8 @@ Rules from this (they override earlier notes where they conflict):
 - 2,123 NFL player-lines (Oct 25 - Nov 12) vs play-by-play. Yardage overs hit less than priced: rush_yds over 45-47% (priced 50%), rec_yds 46-49%, depending on whether zero-target games count. Receptions about fair. Pass yds overs 60% but n=55.
 - Lean (not proven, ~1.5-2 SE): NFL yardage UNDERS slightly better than the market says. Consistent with public-overs money. Forward-test; re-runs daily.
 - Started Record/promo_legs.csv: every Pick6/Betr discounted line seen, our fair chance, whether played; grade to test if promo legs hit as often as priced.
+
+## 11-15 DK Football Moonshot backtest (engine/nfl/moonshot.py, 4,002 drive starts, 2026 nflverse pbp)
+- Low targets are a trap: 1.2x hits only 53% (return 0.64/$). Best league targets 2.5-4x return ~0.78-0.80/$ (Moonshot holds ~20%).
+- Starting team matters: JAX 3x 41% (1.23/$), 5x 26% (1.32/$) n=110; BUF/KC/ATL/NYJ ~0.90-0.95 at 3x; MIA/MIN/GB/IND ~0.57-0.66. Shrink team numbers ~halfway to league (n~110 each).
+- Moonshot alone is -EV; worth it only with a promo (e.g. $10 Moonshot -> $5 bonus bet ~ $3.50).
