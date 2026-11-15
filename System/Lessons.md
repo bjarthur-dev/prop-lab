@@ -254,3 +254,8 @@ Rules from this (they override earlier notes where they conflict):
 ## 11-14 Stale snapshot guard + combo shrinkage
 - fair.load now keeps each book's rows from its own latest snapshot per player-market and drops books 90+ min staler than the newest quote. Edey U9.5 showed +16% off a 1:53 board while DK had already moved to -125 (real edge ~+1.5%). ALWAYS refresh (open tag pulls all books) before building a slip.
 - combo.py: cross-player correlations shrink hard toward 0 (k=60 games) and same-player toward league medians (k=20). Raw 12-game rookie samples gave r=-0.27 (noise).
+
+## 11-15 Betr pricing (checked vs sharp pass-yds market, nflx tag)
+- Betr's normal two-sided lines sit exactly on the sharp median (Rodgers 240.5 vs 240.3, Burrow 292.5 vs 290.9, Young/Stroud/Lawrence/Shough all within 0.5 yd; RB/WR rush/rec lines the same). Normal picks = 50/50.
+- 2-pick 3x needs 57.7% per leg (like -137 juice). Promo leg ~57% + normal 50% pick = 0.86 per $; two promos can't share an entry. Same-team stacks get a correlation cut (3-pick 3-stack paid 4x).
+- So Betr cash entries are -EV even with typical 10-yd promos. Betr Bucks: any use returns cash, but a strong promo (60%+, e.g. Forsberg 1.5 SOG at 73%, Wemby -3 pts at 62%) is worth ~1.1 per $ vs ~0.86-0.93 for a weak one. Hold Bucks for strong promos unless they expire.
