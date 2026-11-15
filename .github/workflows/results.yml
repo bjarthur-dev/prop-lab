@@ -47,6 +47,7 @@ jobs:
           python engine/line_movement.py | tail -2 || echo "line movement failed (non-fatal)"
           python engine/prop_movement.py | tail -2 || echo "prop movement failed (non-fatal)"
           python engine/promo_ledger.py | tail -3 || echo "promo ledger failed (non-fatal)"
+          python engine/nfl/prop_calibration.py | tail -2 || echo "nfl calibration failed (non-fatal)"
       - name: Commit
         if: always()
         env: { COMMIT_MSG: "bot: results + autosettle" }

@@ -259,3 +259,8 @@ Rules from this (they override earlier notes where they conflict):
 - Betr's normal two-sided lines sit exactly on the sharp median (Rodgers 240.5 vs 240.3, Burrow 292.5 vs 290.9, Young/Stroud/Lawrence/Shough all within 0.5 yd; RB/WR rush/rec lines the same). Normal picks = 50/50.
 - 2-pick 3x needs 57.7% per leg (like -137 juice). Promo leg ~57% + normal 50% pick = 0.86 per $; two promos can't share an entry. Same-team stacks get a correlation cut (3-pick 3-stack paid 4x).
 - So Betr cash entries are -EV even with typical 10-yd promos. Betr Bucks: any use returns cash, but a strong promo (60%+, e.g. Forsberg 1.5 SOG at 73%, Wemby -3 pts at 62%) is worth ~1.1 per $ vs ~0.86-0.93 for a weak one. Hold Bucks for strong promos unless they expire.
+
+## 11-15 NFL prop calibration (engine/nfl/prop_calibration.py, Record/NFL Prop Calibration.md)
+- 2,123 NFL player-lines (Oct 25 - Nov 12) vs play-by-play. Yardage overs hit less than priced: rush_yds over 45-47% (priced 50%), rec_yds 46-49%, depending on whether zero-target games count. Receptions about fair. Pass yds overs 60% but n=55.
+- Lean (not proven, ~1.5-2 SE): NFL yardage UNDERS slightly better than the market says. Consistent with public-overs money. Forward-test; re-runs daily.
+- Started Record/promo_legs.csv: every Pick6/Betr discounted line seen, our fair chance, whether played; grade to test if promo legs hit as often as priced.
