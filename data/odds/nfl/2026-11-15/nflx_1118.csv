@@ -1,0 +1,823 @@
+snap_et,game,start_et,book,market,player,side,line,price
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Patrick Mahomes,Over,32.5,-126
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Patrick Mahomes,Under,32.5,-101
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Michael Penix Jr.,Over,31.5,-111
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Michael Penix Jr.,Under,31.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Patrick Mahomes,Over,22.5,-116
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Patrick Mahomes,Under,22.5,-110
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Michael Penix Jr.,Over,19.5,-126
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Michael Penix Jr.,Under,19.5,-101
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Patrick Mahomes,Over,242.5,-111
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Patrick Mahomes,Under,242.5,-113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Michael Penix Jr.,Over,217.5,-111
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Michael Penix Jr.,Under,217.5,-113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Michael Penix Jr.,Over,215.5,-113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Michael Penix Jr.,Under,215.5,-113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Patrick Mahomes,Over,241.5,-113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Patrick Mahomes,Under,241.5,-113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Patrick Mahomes,Over,32.5,-130
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Patrick Mahomes,Under,32.5,101
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Michael Penix Jr.,Over,31.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Michael Penix Jr.,Under,31.5,-112
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Michael Penix Jr.,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Michael Penix Jr.,Under,19.5,-103
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Patrick Mahomes,Over,22.5,-116
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Patrick Mahomes,Under,22.5,-111
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Patrick Mahomes,Over,242.5,-114
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Patrick Mahomes,Under,242.5,-114
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Michael Penix Jr.,Over,215.5,-114
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Michael Penix Jr.,Under,215.5,-114
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Michael Penix Jr.,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Patrick Mahomes,Over,21.5,-137
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Michael Penix Jr.,Over,220.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Michael Penix Jr.,Under,220.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Patrick Mahomes,Over,243.5,-114
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Patrick Mahomes,Under,243.5,-117
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Michael Penix Jr.,Over,31.5,-120
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Michael Penix Jr.,Under,31.5,-110
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Patrick Mahomes,Over,32.5,-130
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Patrick Mahomes,Under,32.5,-105
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Michael Penix Jr.,Over,19.5,-135
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Michael Penix Jr.,Under,19.5,100
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Patrick Mahomes,Over,21.5,-135
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Patrick Mahomes,Under,21.5,100
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Michael Penix Jr.,Over,217.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Michael Penix Jr.,Under,217.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Patrick Mahomes,Over,243.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Patrick Mahomes,Under,243.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Patrick Mahomes,Over,33.5,-105
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Patrick Mahomes,Under,33.5,-125
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Michael Penix Jr.,Over,31.5,-120
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Michael Penix Jr.,Under,31.5,-110
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Michael Penix Jr.,Over,19.5,-130
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Michael Penix Jr.,Under,19.5,100
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Patrick Mahomes,Over,22.5,-125
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Patrick Mahomes,Under,22.5,-105
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Patrick Mahomes,Over,242.5,-110
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Patrick Mahomes,Under,242.5,-120
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Michael Penix Jr.,Over,224.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Michael Penix Jr.,Under,224.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Michael Penix Jr.,Over,31.5,-112
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Michael Penix Jr.,Under,31.5,-112
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Patrick Mahomes,Over,32.5,-142
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Patrick Mahomes,Under,32.5,113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Michael Penix Jr.,Over,19.5,-124
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Michael Penix Jr.,Under,19.5,-102
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Patrick Mahomes,Over,21.5,-152
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Patrick Mahomes,Under,21.5,121
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Michael Penix Jr.,Over,215.5,-135
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Michael Penix Jr.,Under,215.5,108
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Patrick Mahomes,Over,239.5,-113
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Patrick Mahomes,Under,239.5,-111
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Patrick Mahomes,Over,32.5,-135
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Patrick Mahomes,Under,32.5,100
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Patrick Mahomes,Over,22.5,-120
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Patrick Mahomes,Under,22.5,-110
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Patrick Mahomes,Over,240.5,-115
+2026-11-15T11:18:43-05:00,Kansas City Chiefs@Atlanta Falcons,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Patrick Mahomes,Under,240.5,-115
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Geno Smith,Over,32.5,-105
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Geno Smith,Under,32.5,-122
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Josh Allen,Over,28.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Josh Allen,Under,28.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Geno Smith,Over,19.5,-132
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Geno Smith,Under,19.5,103
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Josh Allen,Over,19.5,-127
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Josh Allen,Under,19.5,-101
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Josh Allen,Over,237.5,-112
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Josh Allen,Under,237.5,-112
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Geno Smith,Over,221.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Geno Smith,Under,221.5,-111
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Geno Smith,Over,225.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Geno Smith,Under,225.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Josh Allen,Over,235.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Josh Allen,Under,235.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Josh Allen,Over,28.5,-116
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Josh Allen,Under,28.5,-111
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Geno Smith,Over,31.5,-118
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Geno Smith,Under,31.5,-110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Geno Smith,Over,20.5,-106
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Geno Smith,Under,20.5,-122
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Josh Allen,Over,19.5,-123
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Josh Allen,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Josh Allen,Over,235.5,-114
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Josh Allen,Under,235.5,-114
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Geno Smith,Over,225.5,-114
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Geno Smith,Under,225.5,-114
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Josh Allen,Over,19.5,-132
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Geno Smith,Over,20.5,-113
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Josh Allen,Over,230.5,-114
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Josh Allen,Under,230.5,-117
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Geno Smith,Over,225.5,-114
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Geno Smith,Under,225.5,-117
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Geno Smith,Over,31.5,-140
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Geno Smith,Under,31.5,105
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Josh Allen,Over,28.5,-120
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Josh Allen,Under,28.5,-110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Geno Smith,Over,20.5,-110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Geno Smith,Under,20.5,-120
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Josh Allen,Over,19.5,-111
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Josh Allen,Under,19.5,-120
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Josh Allen,Over,231.5,-115
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Josh Allen,Under,231.5,-115
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Geno Smith,Over,225.5,-115
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Geno Smith,Under,225.5,-115
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Geno Smith,Over,32.5,-105
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Geno Smith,Under,32.5,-125
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Josh Allen,Over,28.5,-130
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Josh Allen,Under,28.5,100
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Josh Allen,Over,19.5,-110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Josh Allen,Under,19.5,-120
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Geno Smith,Over,20.5,100
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Geno Smith,Under,20.5,-130
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Geno Smith,Over,224.5,-110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Geno Smith,Under,224.5,-120
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Josh Allen,Over,234.5,-120
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Josh Allen,Under,234.5,-110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Geno Smith,Over,31.5,-125
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Geno Smith,Under,31.5,-105
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Josh Allen,Over,19.5,-135
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Josh Allen,Under,19.5,100
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Geno Smith,Over,220.5,-115
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Geno Smith,Under,220.5,-115
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Geno Smith,Over,30.5,-158
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Geno Smith,Under,30.5,125
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Josh Allen,Over,28.5,-109
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Josh Allen,Under,28.5,-116
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Geno Smith,Over,20.5,-105
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Geno Smith,Under,20.5,-119
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Josh Allen,Over,18.5,-138
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Josh Allen,Under,18.5,110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Geno Smith,Over,221.5,-123
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Geno Smith,Under,221.5,-102
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Josh Allen,Over,235.5,-110
+2026-11-15T11:18:43-05:00,Buffalo Bills@New York Jets,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Josh Allen,Under,235.5,-114
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Bryce Young,Over,36.5,-113
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Bryce Young,Under,36.5,-113
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Tyler Shough,Over,35.5,-127
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Tyler Shough,Under,35.5,100
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Tyler Shough,Over,24.5,-111
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Tyler Shough,Under,24.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Bryce Young,Over,22.5,-133
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Bryce Young,Under,22.5,104
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Bryce Young,Over,254.5,-112
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Bryce Young,Under,254.5,-112
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Tyler Shough,Over,252.5,-113
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Tyler Shough,Under,252.5,-111
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Tyler Shough,Over,252.5,-113
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Tyler Shough,Under,252.5,-113
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Bryce Young,Over,248.5,-113
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Bryce Young,Under,248.5,-113
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Bryce Young,Over,36.5,-110
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Bryce Young,Under,36.5,-118
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Tyler Shough,Over,35.5,-108
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Tyler Shough,Under,35.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Tyler Shough,Over,24.5,-110
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Tyler Shough,Under,24.5,-118
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Bryce Young,Over,22.5,-114
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Bryce Young,Under,22.5,-114
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Tyler Shough,Over,252.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Tyler Shough,Under,252.5,-112
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Bryce Young,Over,254.5,-114
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Bryce Young,Under,254.5,-114
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Bryce Young,Over,23.5,-104
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Tyler Shough,Over,23.5,-134
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Tyler Shough,Over,251.5,-121
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Tyler Shough,Under,251.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Bryce Young,Over,249.5,-121
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Bryce Young,Under,249.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Bryce Young,Over,36.5,-105
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Bryce Young,Under,36.5,-125
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Tyler Shough,Over,36.5,105
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Tyler Shough,Under,36.5,-140
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Bryce Young,Over,22.5,-140
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Bryce Young,Under,22.5,105
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Tyler Shough,Over,24.5,-111
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Tyler Shough,Under,24.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Bryce Young,Over,247.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Bryce Young,Under,247.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Tyler Shough,Over,254.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Tyler Shough,Under,254.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Tyler Shough,Over,35.5,-125
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Tyler Shough,Under,35.5,-105
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Bryce Young,Over,36.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Bryce Young,Under,36.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Bryce Young,Over,22.5,-125
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Bryce Young,Under,22.5,-105
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Tyler Shough,Over,24.5,-105
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Tyler Shough,Under,24.5,-125
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Tyler Shough,Over,255.5,-110
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Tyler Shough,Under,255.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Bryce Young,Over,249.5,-110
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Bryce Young,Under,249.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Bryce Young,Over,35.5,-126
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Bryce Young,Under,35.5,100
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Tyler Shough,Over,35.5,-126
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Tyler Shough,Under,35.5,101
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Bryce Young,Over,22.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Bryce Young,Under,22.5,-109
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Tyler Shough,Over,24.5,-108
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Tyler Shough,Under,24.5,-116
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Bryce Young,Over,248.5,-114
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Bryce Young,Under,248.5,-110
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Tyler Shough,Over,252.5,-110
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Tyler Shough,Under,252.5,-114
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Bryce Young,Over,36.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Bryce Young,Under,36.5,-115
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Tyler Shough,Over,24.5,-110
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Tyler Shough,Under,24.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Bryce Young,Over,245.5,-120
+2026-11-15T11:18:43-05:00,Carolina Panthers@New Orleans Saints,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Bryce Young,Under,245.5,-110
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,C.J. Stroud,Over,34.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,C.J. Stroud,Under,34.5,-111
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Deshaun Watson,Over,31.5,-102
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Deshaun Watson,Under,31.5,-125
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_completions,C.J. Stroud,Over,20.5,100
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_completions,C.J. Stroud,Under,20.5,-127
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Deshaun Watson,Over,19.5,-120
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Deshaun Watson,Under,19.5,-106
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_yds,C.J. Stroud,Over,243.5,-112
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_yds,C.J. Stroud,Under,243.5,-111
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Deshaun Watson,Over,205.5,-112
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Deshaun Watson,Under,205.5,-112
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanduel,player_pass_yds,C.J. Stroud,Over,244.5,-113
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanduel,player_pass_yds,C.J. Stroud,Under,244.5,-113
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Deshaun Watson,Over,208.5,-113
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Deshaun Watson,Under,208.5,-113
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,C.J. Stroud,Over,34.5,-116
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,C.J. Stroud,Under,34.5,-111
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Deshaun Watson,Over,31.5,-111
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Deshaun Watson,Under,31.5,-116
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Deshaun Watson,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Deshaun Watson,Under,19.5,-103
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,C.J. Stroud,Over,20.5,100
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,C.J. Stroud,Under,20.5,-130
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,C.J. Stroud,Over,244.5,-114
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,C.J. Stroud,Under,244.5,-114
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Deshaun Watson,Over,208.5,-114
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Deshaun Watson,Under,208.5,-114
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betrivers,player_pass_completions,C.J. Stroud,Over,21.5,-106
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Deshaun Watson,Over,20.5,-109
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Deshaun Watson,Over,206.5,-114
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Deshaun Watson,Under,206.5,-117
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betrivers,player_pass_yds,C.J. Stroud,Over,242.5,-117
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betrivers,player_pass_yds,C.J. Stroud,Under,242.5,-114
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,C.J. Stroud,Over,34.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,C.J. Stroud,Under,34.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Deshaun Watson,Over,31.5,-105
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Deshaun Watson,Under,31.5,-130
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Deshaun Watson,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Deshaun Watson,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_completions,C.J. Stroud,Over,21.5,120
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_completions,C.J. Stroud,Under,21.5,-160
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Deshaun Watson,Over,207.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Deshaun Watson,Under,207.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_yds,C.J. Stroud,Over,245.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,betmgm,player_pass_yds,C.J. Stroud,Under,245.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,C.J. Stroud,Over,34.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,C.J. Stroud,Under,34.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Deshaun Watson,Over,31.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Deshaun Watson,Under,31.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_completions,C.J. Stroud,Over,20.5,-105
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_completions,C.J. Stroud,Under,20.5,-125
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Deshaun Watson,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Deshaun Watson,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_yds,C.J. Stroud,Over,244.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_yds,C.J. Stroud,Under,244.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Deshaun Watson,Over,205.5,-120
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Deshaun Watson,Under,205.5,-110
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,C.J. Stroud,Over,33.5,-122
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,C.J. Stroud,Under,33.5,-103
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Deshaun Watson,Over,31.5,-119
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Deshaun Watson,Under,31.5,-105
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,C.J. Stroud,Over,20.5,-104
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,C.J. Stroud,Under,20.5,-121
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Deshaun Watson,Over,19.5,-126
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Deshaun Watson,Under,19.5,101
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,C.J. Stroud,Over,244.5,-110
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,C.J. Stroud,Under,244.5,-114
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Deshaun Watson,Over,208.5,-111
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Deshaun Watson,Under,208.5,-113
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,C.J. Stroud,Over,34.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,C.J. Stroud,Under,34.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Deshaun Watson,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Deshaun Watson,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Deshaun Watson,Over,205.5,-115
+2026-11-15T11:18:43-05:00,Houston Texans@Cleveland Browns,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Deshaun Watson,Under,205.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Jordan Love,Over,36.5,-112
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Jordan Love,Under,36.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Kirk Cousins,Over,34.5,-107
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Kirk Cousins,Under,34.5,-120
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Jordan Love,Over,21.5,-119
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Jordan Love,Under,21.5,-107
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Kirk Cousins,Over,20.5,-127
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Kirk Cousins,Under,20.5,100
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Jordan Love,Over,253.5,-111
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Jordan Love,Under,253.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Kirk Cousins,Over,232.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Kirk Cousins,Under,232.5,-111
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Kirk Cousins,Over,232.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Kirk Cousins,Under,232.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Jordan Love,Over,251.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Jordan Love,Under,251.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Jordan Love,Over,36.5,-114
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Jordan Love,Under,36.5,-114
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Kirk Cousins,Over,34.5,-112
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Kirk Cousins,Under,34.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Kirk Cousins,Over,20.5,-130
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Kirk Cousins,Under,20.5,101
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Jordan Love,Over,21.5,-120
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Jordan Love,Under,21.5,-108
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Kirk Cousins,Over,232.5,-111
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Kirk Cousins,Under,232.5,-116
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Jordan Love,Over,253.5,-114
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Jordan Love,Under,253.5,-114
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Jordan Love,Over,22.5,-105
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Kirk Cousins,Over,21.5,-103
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Kirk Cousins,Over,228.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Kirk Cousins,Under,228.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Jordan Love,Over,247.5,-114
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Jordan Love,Under,247.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Kirk Cousins,Over,21.5,115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Kirk Cousins,Under,21.5,-155
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Kirk Cousins,Over,230.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Kirk Cousins,Under,230.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Jordan Love,Over,255.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Jordan Love,Under,255.5,-115
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Jordan Love,Over,36.5,-125
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Jordan Love,Under,36.5,-105
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Kirk Cousins,Over,33.5,-125
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Kirk Cousins,Under,33.5,-105
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Jordan Love,Over,21.5,-105
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Jordan Love,Under,21.5,-125
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Kirk Cousins,Over,20.5,-120
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Kirk Cousins,Under,20.5,-110
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Jordan Love,Over,254.5,-110
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Jordan Love,Under,254.5,-120
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Kirk Cousins,Over,233.5,-110
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Kirk Cousins,Under,233.5,-120
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Jordan Love,Over,36.5,-110
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Jordan Love,Under,36.5,-120
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Kirk Cousins,Over,20.5,-135
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Kirk Cousins,Under,20.5,100
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Jordan Love,Over,250.5,-120
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Jordan Love,Under,250.5,-110
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Jordan Love,Over,35.5,-122
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Jordan Love,Under,35.5,-108
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Kirk Cousins,Over,32.5,-126
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Kirk Cousins,Under,32.5,101
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Jordan Love,Over,21.5,-103
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Jordan Love,Under,21.5,-122
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Kirk Cousins,Over,21.5,119
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Kirk Cousins,Under,21.5,-150
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Jordan Love,Over,251.5,-113
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Jordan Love,Under,251.5,-111
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Kirk Cousins,Over,232.5,-103
+2026-11-15T11:18:43-05:00,Minnesota Vikings@Green Bay Packers,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Kirk Cousins,Under,232.5,-121
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Daniel Jones,Over,29.5,-118
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Daniel Jones,Under,29.5,-108
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Kyle McCord,Over,27.5,-124
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Kyle McCord,Under,27.5,-102
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Daniel Jones,Over,18.5,-129
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Daniel Jones,Under,18.5,101
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Kyle McCord,Over,16.5,107
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Kyle McCord,Under,16.5,-137
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Daniel Jones,Over,185.5,-112
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Daniel Jones,Under,185.5,-112
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Kyle McCord,Over,161.5,-111
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Kyle McCord,Under,161.5,-113
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Kyle McCord,Over,159.5,-113
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Kyle McCord,Under,159.5,-113
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Daniel Jones,Over,183.5,-113
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Daniel Jones,Under,183.5,-113
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Daniel Jones,Over,29.5,-123
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Daniel Jones,Under,29.5,-105
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Kyle McCord,Over,27.5,-125
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Kyle McCord,Under,27.5,-103
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Daniel Jones,Over,18.5,-128
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Daniel Jones,Under,18.5,-101
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Kyle McCord,Over,16.5,-103
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Kyle McCord,Under,16.5,-125
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Kyle McCord,Over,158.5,-116
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Kyle McCord,Under,158.5,-111
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Daniel Jones,Over,183.5,-114
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Daniel Jones,Under,183.5,-114
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Kyle McCord,Over,15.5,-125
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Daniel Jones,Over,19.5,-104
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Kyle McCord,Over,159.5,-121
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Kyle McCord,Under,159.5,-120
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Daniel Jones,Over,182.5,-118
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Daniel Jones,Under,182.5,-122
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Daniel Jones,Over,29.5,-120
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Daniel Jones,Under,29.5,-110
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Kyle McCord,Over,28.5,-105
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Kyle McCord,Under,28.5,-125
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Kyle McCord,Over,16.5,-110
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Kyle McCord,Under,16.5,-120
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Daniel Jones,Over,18.5,-135
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Daniel Jones,Under,18.5,100
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Kyle McCord,Over,163.5,-115
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Kyle McCord,Under,163.5,-115
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Daniel Jones,Over,187.5,-115
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Daniel Jones,Under,187.5,-115
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Daniel Jones,Over,29.5,-125
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Daniel Jones,Under,29.5,-105
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Kyle McCord,Over,28.5,100
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Kyle McCord,Under,28.5,-130
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Daniel Jones,Over,18.5,-135
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Daniel Jones,Under,18.5,105
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Kyle McCord,Over,16.5,-105
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Kyle McCord,Under,16.5,-125
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Daniel Jones,Over,185.5,-110
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Daniel Jones,Under,185.5,-120
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Kyle McCord,Over,161.5,-110
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Kyle McCord,Under,161.5,-120
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Daniel Jones,Over,29.5,-126
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Daniel Jones,Under,29.5,101
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Kyle McCord,Over,27.5,-126
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Kyle McCord,Under,27.5,101
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Daniel Jones,Over,18.5,-122
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Daniel Jones,Under,18.5,-103
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Kyle McCord,Over,15.5,-149
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Kyle McCord,Under,15.5,119
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Daniel Jones,Over,183.5,-112
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Daniel Jones,Under,183.5,-112
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Kyle McCord,Over,158.5,-118
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Kyle McCord,Under,158.5,-106
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Kyle McCord,Over,27.5,-135
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Kyle McCord,Under,27.5,100
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Daniel Jones,Over,19.5,110
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Daniel Jones,Under,19.5,-150
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Kyle McCord,Over,160.5,-110
+2026-11-15T11:18:43-05:00,Miami Dolphins@Indianapolis Colts,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Kyle McCord,Under,160.5,-120
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Cam Ward,Over,32.5,-109
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Cam Ward,Under,32.5,-117
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Trevor Lawrence,Over,29.5,101
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_attempts,Trevor Lawrence,Under,29.5,-128
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Cam Ward,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Cam Ward,Under,19.5,-102
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Trevor Lawrence,Over,19.5,-119
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_completions,Trevor Lawrence,Under,19.5,-107
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Trevor Lawrence,Over,243.5,-111
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Trevor Lawrence,Under,243.5,-113
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Cam Ward,Over,196.5,-111
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,draftkings,player_pass_yds,Cam Ward,Under,196.5,-113
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Cam Ward,Over,197.5,-113
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Cam Ward,Under,197.5,-113
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Trevor Lawrence,Over,247.5,-113
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanduel,player_pass_yds,Trevor Lawrence,Under,247.5,-113
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Trevor Lawrence,Over,29.5,100
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Trevor Lawrence,Under,29.5,-130
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Cam Ward,Over,33.5,100
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_attempts,Cam Ward,Under,33.5,-130
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Trevor Lawrence,Over,19.5,-123
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Trevor Lawrence,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Cam Ward,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_completions,Cam Ward,Under,19.5,-103
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Trevor Lawrence,Over,247.5,-116
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Trevor Lawrence,Under,247.5,-111
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Cam Ward,Over,196.5,-114
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betonlineag,player_pass_yds,Cam Ward,Under,196.5,-114
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Cam Ward,Over,19.5,-121
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betrivers,player_pass_completions,Trevor Lawrence,Over,20.5,-134
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Cam Ward,Over,195.5,-121
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Cam Ward,Under,195.5,-118
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Trevor Lawrence,Over,241.5,-118
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betrivers,player_pass_yds,Trevor Lawrence,Under,241.5,-122
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Cam Ward,Over,32.5,-120
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_attempts,Cam Ward,Under,32.5,-111
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Cam Ward,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_completions,Cam Ward,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Trevor Lawrence,Over,242.5,-125
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Trevor Lawrence,Under,242.5,-105
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Cam Ward,Over,197.5,-115
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,betmgm,player_pass_yds,Cam Ward,Under,197.5,-115
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Cam Ward,Over,32.5,-120
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Cam Ward,Under,32.5,-110
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Trevor Lawrence,Over,29.5,-110
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_attempts,Trevor Lawrence,Under,29.5,-120
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Trevor Lawrence,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Trevor Lawrence,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Cam Ward,Over,19.5,-125
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_completions,Cam Ward,Under,19.5,-105
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Trevor Lawrence,Over,246.5,-110
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Trevor Lawrence,Under,246.5,-120
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Cam Ward,Over,204.5,-110
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,espnbet,player_pass_yds,Cam Ward,Under,204.5,-120
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Cam Ward,Over,32.5,-112
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Cam Ward,Under,32.5,-112
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Trevor Lawrence,Over,29.5,-110
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_attempts,Trevor Lawrence,Under,29.5,-114
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Cam Ward,Over,19.5,-126
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Cam Ward,Under,19.5,101
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Trevor Lawrence,Over,19.5,-126
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_completions,Trevor Lawrence,Under,19.5,101
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Cam Ward,Over,195.5,-143
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Cam Ward,Under,195.5,114
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Trevor Lawrence,Over,247.5,-114
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,pinnacle,player_pass_yds,Trevor Lawrence,Under,247.5,-110
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Trevor Lawrence,Over,28.5,-135
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanatics,player_pass_attempts,Trevor Lawrence,Under,28.5,100
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Trevor Lawrence,Over,19.5,-120
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanatics,player_pass_completions,Trevor Lawrence,Under,19.5,-110
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Cam Ward,Over,200.5,-115
+2026-11-15T11:18:43-05:00,Jacksonville Jaguars@Tennessee Titans,2026-11-15T13:00-05:00,fanatics,player_pass_yds,Cam Ward,Under,200.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Carson Beck,Over,32.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Carson Beck,Under,32.5,-111
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Matthew Stafford,Over,30.5,-117
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Matthew Stafford,Under,30.5,-109
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Matthew Stafford,Over,19.5,-133
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Matthew Stafford,Under,19.5,104
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Carson Beck,Over,18.5,-120
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Carson Beck,Under,18.5,-106
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Matthew Stafford,Over,207.5,-113
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Matthew Stafford,Under,207.5,-111
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Carson Beck,Over,173.5,-112
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Carson Beck,Under,173.5,-112
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Carson Beck,Over,175.5,-113
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Carson Beck,Under,175.5,-113
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Matthew Stafford,Over,212.5,-113
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Matthew Stafford,Under,212.5,-113
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Matthew Stafford,Over,30.5,-108
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Matthew Stafford,Under,30.5,-120
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Carson Beck,Over,32.5,-120
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Carson Beck,Under,32.5,-108
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Carson Beck,Over,18.5,-116
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Carson Beck,Under,18.5,-111
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Matthew Stafford,Over,19.5,-135
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Matthew Stafford,Under,19.5,105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Carson Beck,Over,173.5,-114
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Carson Beck,Under,173.5,-114
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Matthew Stafford,Over,207.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Matthew Stafford,Under,207.5,-112
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betrivers,player_pass_completions,Matthew Stafford,Over,20.5,-134
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betrivers,player_pass_completions,Carson Beck,Over,18.5,-114
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Carson Beck,Over,176.5,-121
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Carson Beck,Under,176.5,-121
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Matthew Stafford,Over,211.5,-120
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Matthew Stafford,Under,211.5,-121
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Matthew Stafford,Over,30.5,-105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Matthew Stafford,Under,30.5,-125
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Carson Beck,Over,30.5,-150
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Carson Beck,Under,30.5,110
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_completions,Carson Beck,Over,18.5,-105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_completions,Carson Beck,Under,18.5,-125
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_completions,Matthew Stafford,Over,19.5,-145
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_completions,Matthew Stafford,Under,19.5,105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Matthew Stafford,Over,213.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Matthew Stafford,Under,213.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Carson Beck,Over,173.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Carson Beck,Under,173.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Carson Beck,Over,31.5,-125
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Carson Beck,Under,31.5,-105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Matthew Stafford,Over,30.5,-105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Matthew Stafford,Under,30.5,-125
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Matthew Stafford,Over,19.5,-135
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Matthew Stafford,Under,19.5,105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Carson Beck,Over,18.5,-130
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Carson Beck,Under,18.5,100
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Matthew Stafford,Over,212.5,-105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Matthew Stafford,Under,212.5,-125
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Carson Beck,Over,174.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Carson Beck,Under,174.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Carson Beck,Over,31.5,-114
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Carson Beck,Under,31.5,-110
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Matthew Stafford,Over,29.5,-126
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Matthew Stafford,Under,29.5,101
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Carson Beck,Over,18.5,-119
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Carson Beck,Under,18.5,-105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Matthew Stafford,Over,19.5,-134
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Matthew Stafford,Under,19.5,107
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Carson Beck,Over,175.5,-115
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Carson Beck,Under,175.5,-109
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Matthew Stafford,Over,212.5,-103
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Matthew Stafford,Under,212.5,-121
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanatics,player_pass_attempts,Carson Beck,Over,32.5,-120
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanatics,player_pass_attempts,Carson Beck,Under,32.5,-110
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanatics,player_pass_completions,Matthew Stafford,Over,20.5,105
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanatics,player_pass_completions,Matthew Stafford,Under,20.5,-140
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanatics,player_pass_yds,Matthew Stafford,Over,210.5,-110
+2026-11-15T11:18:43-05:00,Los Angeles Rams@Arizona Cardinals,2026-11-15T16:05-05:00,fanatics,player_pass_yds,Matthew Stafford,Under,210.5,-120
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Fernando Mendoza,Over,30.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Fernando Mendoza,Under,30.5,-111
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Drew Lock,Over,28.5,-121
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_attempts,Drew Lock,Under,28.5,-105
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Drew Lock,Over,19.5,-109
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Drew Lock,Under,19.5,-117
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Fernando Mendoza,Over,17.5,-132
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_completions,Fernando Mendoza,Under,17.5,104
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Drew Lock,Over,200.5,-112
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Drew Lock,Under,200.5,-112
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Fernando Mendoza,Over,180.5,-113
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,draftkings,player_pass_yds,Fernando Mendoza,Under,180.5,-111
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Drew Lock,Over,199.5,-113
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Drew Lock,Under,199.5,-113
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Fernando Mendoza,Over,182.5,-113
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanduel,player_pass_yds,Fernando Mendoza,Under,182.5,-113
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Drew Lock,Over,28.5,-118
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Drew Lock,Under,28.5,-110
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Fernando Mendoza,Over,30.5,-120
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_attempts,Fernando Mendoza,Under,30.5,-108
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Drew Lock,Over,19.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Drew Lock,Under,19.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Fernando Mendoza,Over,17.5,-130
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_completions,Fernando Mendoza,Under,17.5,100
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Fernando Mendoza,Over,180.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Fernando Mendoza,Under,180.5,-112
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Drew Lock,Over,200.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betonlineag,player_pass_yds,Drew Lock,Under,200.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betrivers,player_pass_completions,Drew Lock,Over,19.5,-103
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betrivers,player_pass_completions,Fernando Mendoza,Over,17.5,-130
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Drew Lock,Over,202.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Drew Lock,Under,202.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Fernando Mendoza,Over,177.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betrivers,player_pass_yds,Fernando Mendoza,Under,177.5,-117
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Drew Lock,Over,28.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Drew Lock,Under,28.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Fernando Mendoza,Over,30.5,-130
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_attempts,Fernando Mendoza,Under,30.5,-105
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_completions,Drew Lock,Over,18.5,-155
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_completions,Drew Lock,Under,18.5,115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Drew Lock,Over,205.5,105
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Drew Lock,Under,205.5,-140
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Fernando Mendoza,Over,186.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,betmgm,player_pass_yds,Fernando Mendoza,Under,186.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Fernando Mendoza,Over,30.5,-130
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Fernando Mendoza,Under,30.5,100
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Drew Lock,Over,28.5,-120
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_attempts,Drew Lock,Under,28.5,-110
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Fernando Mendoza,Over,18.5,-105
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Fernando Mendoza,Under,18.5,-125
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Drew Lock,Over,19.5,-110
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_completions,Drew Lock,Under,19.5,-120
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Fernando Mendoza,Over,184.5,-105
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Fernando Mendoza,Under,184.5,-125
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Drew Lock,Over,199.5,-120
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,espnbet,player_pass_yds,Drew Lock,Under,199.5,-110
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Drew Lock,Over,28.5,-112
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Drew Lock,Under,28.5,-112
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Fernando Mendoza,Over,30.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_attempts,Fernando Mendoza,Under,30.5,-109
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Drew Lock,Over,19.5,-111
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Drew Lock,Under,19.5,-113
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Fernando Mendoza,Over,18.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_completions,Fernando Mendoza,Under,18.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Drew Lock,Over,203.5,104
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Drew Lock,Under,203.5,-130
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Fernando Mendoza,Over,180.5,-114
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,pinnacle,player_pass_yds,Fernando Mendoza,Under,180.5,-110
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanatics,player_pass_attempts,Fernando Mendoza,Over,30.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanatics,player_pass_attempts,Fernando Mendoza,Under,30.5,-115
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanatics,player_pass_completions,Fernando Mendoza,Over,17.5,-135
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanatics,player_pass_completions,Fernando Mendoza,Under,17.5,100
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanatics,player_pass_yds,Fernando Mendoza,Over,175.5,-120
+2026-11-15T11:18:43-05:00,Seattle Seahawks@Las Vegas Raiders,2026-11-15T16:05-05:00,fanatics,player_pass_yds,Fernando Mendoza,Under,175.5,-110
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_attempts,Dak Prescott,Over,36.5,-123
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_attempts,Dak Prescott,Under,36.5,-103
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_attempts,Brock Purdy,Over,31.5,-119
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_attempts,Brock Purdy,Under,31.5,-107
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_completions,Dak Prescott,Over,24.5,101
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_completions,Dak Prescott,Under,24.5,-128
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_completions,Brock Purdy,Over,21.5,-113
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_completions,Brock Purdy,Under,21.5,-113
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_yds,Dak Prescott,Over,270.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_yds,Dak Prescott,Under,270.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_yds,Brock Purdy,Over,261.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,draftkings,player_pass_yds,Brock Purdy,Under,261.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanduel,player_pass_yds,Brock Purdy,Over,259.5,-113
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanduel,player_pass_yds,Brock Purdy,Under,259.5,-113
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanduel,player_pass_yds,Dak Prescott,Over,269.5,-113
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanduel,player_pass_yds,Dak Prescott,Under,269.5,-113
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_attempts,Brock Purdy,Over,31.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_attempts,Brock Purdy,Under,31.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_attempts,Dak Prescott,Over,36.5,-119
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_attempts,Dak Prescott,Under,36.5,-109
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_completions,Brock Purdy,Over,21.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_completions,Brock Purdy,Under,21.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_completions,Dak Prescott,Over,24.5,-109
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_completions,Dak Prescott,Under,24.5,-119
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_yds,Dak Prescott,Over,270.5,-114
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_yds,Dak Prescott,Under,270.5,-114
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_yds,Brock Purdy,Over,261.5,-109
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betonlineag,player_pass_yds,Brock Purdy,Under,261.5,-119
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betrivers,player_pass_completions,Dak Prescott,Over,24.5,-121
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betrivers,player_pass_completions,Brock Purdy,Over,21.5,-110
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betrivers,player_pass_yds,Dak Prescott,Over,268.5,-114
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betrivers,player_pass_yds,Dak Prescott,Under,268.5,-117
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betrivers,player_pass_yds,Brock Purdy,Over,260.5,-114
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betrivers,player_pass_yds,Brock Purdy,Under,260.5,-117
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_attempts,Brock Purdy,Over,31.5,-111
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_attempts,Brock Purdy,Under,31.5,-120
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_attempts,Dak Prescott,Over,36.5,-111
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_attempts,Dak Prescott,Under,36.5,-120
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_completions,Brock Purdy,Over,21.5,-120
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_completions,Brock Purdy,Under,21.5,-110
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_yds,Dak Prescott,Over,269.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_yds,Dak Prescott,Under,269.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_yds,Brock Purdy,Over,258.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,betmgm,player_pass_yds,Brock Purdy,Under,258.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_attempts,Dak Prescott,Over,36.5,-125
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_attempts,Dak Prescott,Under,36.5,-105
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_attempts,Brock Purdy,Over,31.5,-110
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_attempts,Brock Purdy,Under,31.5,-120
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_completions,Dak Prescott,Over,24.5,100
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_completions,Dak Prescott,Under,24.5,-130
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_completions,Brock Purdy,Over,21.5,-110
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_completions,Brock Purdy,Under,21.5,-120
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_yds,Dak Prescott,Over,263.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_yds,Dak Prescott,Under,263.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_yds,Brock Purdy,Over,254.5,-125
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,espnbet,player_pass_yds,Brock Purdy,Under,254.5,-105
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_attempts,Brock Purdy,Over,30.5,-147
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_attempts,Brock Purdy,Under,30.5,117
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_attempts,Dak Prescott,Over,37.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_attempts,Dak Prescott,Under,37.5,-112
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_completions,Brock Purdy,Over,20.5,-154
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_completions,Brock Purdy,Under,20.5,122
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_completions,Dak Prescott,Over,24.5,100
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_completions,Dak Prescott,Under,24.5,-126
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_yds,Brock Purdy,Over,261.5,100
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_yds,Brock Purdy,Under,261.5,-126
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_yds,Dak Prescott,Over,272.5,103
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,pinnacle,player_pass_yds,Dak Prescott,Under,272.5,-129
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanatics,player_pass_attempts,Brock Purdy,Over,31.5,-125
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanatics,player_pass_attempts,Brock Purdy,Under,31.5,-105
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanatics,player_pass_completions,Brock Purdy,Over,21.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanatics,player_pass_completions,Brock Purdy,Under,21.5,-115
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanatics,player_pass_yds,Brock Purdy,Over,255.5,-120
+2026-11-15T11:18:43-05:00,San Francisco 49ers@Dallas Cowboys,2026-11-15T16:25-05:00,fanatics,player_pass_yds,Brock Purdy,Under,255.5,-110
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_attempts,Joe Burrow,Over,37.5,-114
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_attempts,Joe Burrow,Under,37.5,-111
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_attempts,Aaron Rodgers,Over,35.5,-110
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_attempts,Aaron Rodgers,Under,35.5,-116
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_completions,Joe Burrow,Over,27.5,103
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_completions,Joe Burrow,Under,27.5,-131
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_completions,Aaron Rodgers,Over,21.5,-109
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_completions,Aaron Rodgers,Under,21.5,-117
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_yds,Joe Burrow,Over,292.5,-113
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_yds,Joe Burrow,Under,292.5,-111
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_yds,Aaron Rodgers,Over,239.5,-111
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,draftkings,player_pass_yds,Aaron Rodgers,Under,239.5,-113
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanduel,player_pass_yds,Aaron Rodgers,Over,240.5,-113
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanduel,player_pass_yds,Aaron Rodgers,Under,240.5,-113
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanduel,player_pass_yds,Joe Burrow,Over,289.5,-113
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanduel,player_pass_yds,Joe Burrow,Under,289.5,-113
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_attempts,Joe Burrow,Over,37.5,-118
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_attempts,Joe Burrow,Under,37.5,-110
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_attempts,Aaron Rodgers,Over,35.5,-106
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_attempts,Aaron Rodgers,Under,35.5,-122
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_completions,Aaron Rodgers,Over,21.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_completions,Aaron Rodgers,Under,21.5,-112
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_completions,Joe Burrow,Over,26.5,-128
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_completions,Joe Burrow,Under,26.5,-101
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_yds,Aaron Rodgers,Over,241.5,-112
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_yds,Aaron Rodgers,Under,241.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_yds,Joe Burrow,Over,292.5,-114
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betonlineag,player_pass_yds,Joe Burrow,Under,292.5,-114
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betrivers,player_pass_completions,Joe Burrow,Over,26.5,-112
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betrivers,player_pass_completions,Aaron Rodgers,Over,21.5,-104
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betrivers,player_pass_yds,Joe Burrow,Over,292.5,-117
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betrivers,player_pass_yds,Joe Burrow,Under,292.5,-114
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betrivers,player_pass_yds,Aaron Rodgers,Over,238.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betrivers,player_pass_yds,Aaron Rodgers,Under,238.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_attempts,Joe Burrow,Over,37.5,-125
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_attempts,Joe Burrow,Under,37.5,-105
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_attempts,Aaron Rodgers,Over,35.5,-111
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_attempts,Aaron Rodgers,Under,35.5,-120
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_completions,Joe Burrow,Over,26.5,-135
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_completions,Joe Burrow,Under,26.5,100
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_completions,Aaron Rodgers,Over,21.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_completions,Aaron Rodgers,Under,21.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_yds,Joe Burrow,Over,292.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_yds,Joe Burrow,Under,292.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_yds,Aaron Rodgers,Over,241.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,betmgm,player_pass_yds,Aaron Rodgers,Under,241.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_attempts,Joe Burrow,Over,37.5,-125
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_attempts,Joe Burrow,Under,37.5,-105
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_attempts,Aaron Rodgers,Over,35.5,-110
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_attempts,Aaron Rodgers,Under,35.5,-120
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_completions,Joe Burrow,Over,26.5,-120
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_completions,Joe Burrow,Under,26.5,-110
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_completions,Aaron Rodgers,Over,21.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_completions,Aaron Rodgers,Under,21.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_yds,Joe Burrow,Over,289.5,-120
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_yds,Joe Burrow,Under,289.5,-110
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_yds,Aaron Rodgers,Over,240.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,espnbet,player_pass_yds,Aaron Rodgers,Under,240.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_attempts,Aaron Rodgers,Over,36.5,108
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_attempts,Aaron Rodgers,Under,36.5,-135
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_attempts,Joe Burrow,Over,37.5,-116
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_attempts,Joe Burrow,Under,37.5,-108
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_completions,Aaron Rodgers,Over,21.5,-113
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_completions,Aaron Rodgers,Under,21.5,-111
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_completions,Joe Burrow,Over,26.5,-109
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_completions,Joe Burrow,Under,26.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_yds,Aaron Rodgers,Over,240.5,-112
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_yds,Aaron Rodgers,Under,240.5,-112
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_yds,Joe Burrow,Over,289.5,-117
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,pinnacle,player_pass_yds,Joe Burrow,Under,289.5,-107
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanatics,player_pass_attempts,Joe Burrow,Over,37.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanatics,player_pass_attempts,Joe Burrow,Under,37.5,-115
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanatics,player_pass_completions,Joe Burrow,Over,26.5,-125
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanatics,player_pass_completions,Joe Burrow,Under,26.5,-105
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanatics,player_pass_yds,Joe Burrow,Over,285.5,-120
+2026-11-15T11:18:43-05:00,Pittsburgh Steelers@Cincinnati Bengals,2026-11-15T20:20-05:00,fanatics,player_pass_yds,Joe Burrow,Under,285.5,-110

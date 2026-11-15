@@ -182,5 +182,12 @@
   "tier": "paid",
   "ncaaf": 5537,
   "credits_remaining": "16285"
+ },
+ "odds_nflx:player_pass_yds,player_pass_attempts,player_pass_completions": {
+  "last_ok": "2026-11-15T11:18:43-05:00",
+  "tag": "nflx:player_pass_yds,player_pass_attempts,player_pass_completions",
+  "tier": "paid",
+  "nflx": 822,
+  "credits_remaining": "15691"
  }
 }
