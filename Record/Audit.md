@@ -1,10 +1,10 @@
 # Audit (real money)
 
-Updated 2026-11-15 08:19 ET. Built by engine/audit.py.
+Updated 2026-11-15 12:39 ET. Built by engine/audit.py.
 
 - Settled bets: **103**, staked **$451.89**, profit **$+136.65** (+30%).
 - Without the single biggest win ($105.67): **$+30.98**. That is the number to judge the method by.
-- Open bets: 0.
+- Open bets: 4.
 
 ## By bet type
 
@@ -46,6 +46,6 @@ Updated 2026-11-15 08:19 ET. Built by engine/audit.py.
 
 ## Closing-line value (singles with a recorded close)
 
-- 38 bets. Average CLV **-1.9%**; beat the close **26%** of the time.
-- Our stated chance averaged 55.8%, the closing no-vig price 53.7%, and 50.0% won.
+- 40 bets. Average CLV **-2.1%**; beat the close **25%** of the time.
+- Our stated chance averaged 55.9%, the closing no-vig price 54.0%, and 50.0% won.
 - Positive average CLV over 50+ bets is the proof of an edge. Negative means the picks are not beating the market.
