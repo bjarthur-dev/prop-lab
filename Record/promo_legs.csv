@@ -1,9 +1,9 @@
 date,app,sport,player,stat,side,promo_line,normal_line,fair_p,played,actual,hit,notes
-2026-11-13,Betr,nba,Victor Wembanyama,pts,over,25.5,28.5,0.621,no,,,
+2026-11-13,Betr,nba,Victor Wembanyama,pts,over,25.5,28.5,0.621,no,12,0,21 min
 2026-11-13,Betr,nhl,Filip Forsberg,sog,over,1.5,2.5,0.731,no,,,
-2026-11-13,Pick6,nba,Donovan Mitchell,pts,over,21.5,24.5,0.655,no,,,regular line later 26.5
-2026-11-13,Pick6,nba,Kevin Durant,pts,over,19.5,22.5,0.61,no,,,
-2026-11-13,Pick6,nba,Shai Gilgeous-Alexander,pts,over,28.5,31.5,0.594,no,,,
+2026-11-13,Pick6,nba,Donovan Mitchell,pts,over,21.5,24.5,0.655,no,25,1,regular line later 26.5
+2026-11-13,Pick6,nba,Kevin Durant,pts,over,19.5,22.5,0.61,no,22,1,
+2026-11-13,Pick6,nba,Shai Gilgeous-Alexander,pts,over,28.5,31.5,0.594,no,40,1,
 2026-11-14,Betr,ufc,Josh Hokit,sig_strikes,over,40.5,,,no,,,no sharp line
 2026-11-15,Betr,nfl,CeeDee Lamb,rec_yds,over,79.5,90.5,0.573,no,,,
 2026-11-15,Betr,nfl,Ja'Marr Chase,rec_yds,over,79.5,89.5,0.568,no,,,
