@@ -273,3 +273,4 @@ Rules from this (they override earlier notes where they conflict):
 ## 11-15 Moonshot chasing
 - After the $10 promo Moonshot lost, $29.80 more went into non-promo Moonshots (backtest ~0.79-0.89 per $1) within ~2 hours; cash 82.05 -> 42.25. Same pattern as 11-12 live bets.
 - Moonshot only with a promo attached. After a loss, no new live bets that day unless priced with an edge first.
+- Full 11-15 tally: promo Moonshot -$10 (+$5 bonus bet); 28 more Moonshots staked $103, returned $67.20 (-$35.80, 0.65/$, worse than the ~0.8 backtest). Then the whole $63.05 balance went on a live CAR+IND ML parlay (-114) and won (+$55.72). Net of all self-directed bets vs doing nothing: +$9.92, but only because a coin-flip-sized all-in bet hit. Never stake the whole balance on one bet.
