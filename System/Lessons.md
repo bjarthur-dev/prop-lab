@@ -292,3 +292,8 @@ Rules from this (they override earlier notes where they conflict):
 - Our repeatable live edge is profit boosts on fairly priced lines (a 30% boost on a −110 coin flip is +9%). Without a boost, live bets need CLV proof first.
 - Always check the market label and timestamp: Pinnacle "−4.5" may have been a 2H line, not full-game.
 - TODO: log DK + Pinnacle halftime lines (full-game and 2H) with timestamps every night to build a CLV dataset.
+
+## Live hedge timing (11-15, #313)
+- A one-leg-left boosted ticket hedges best while the key player sits. DK lengthens the over each minute he's on the bench (−175 → +125), and the price snaps back (to −230) the moment he checks in.
+- Rule: decide before the usual check-in window (~9:00 Q4). Don't wait on a drifting price. The drift moves the lock value and the ride value together, so waiting gains nothing in EV.
+- The result (won by one rebound, 12 vs 12.5) doesn't validate riding at −230. That was a ~20-25% spot.
