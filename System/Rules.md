@@ -1,94 +1,33 @@
----
-tags: [system, rules]
-version: 3
-updated: 2026-10-24
----
+# Betting Rules v2 (2026-11-16)
+Built from our own record (Oct 22 – Nov 15, 120+ real bets) and the 11-16 pricing mistakes.
 
-# Rules — the single source of constants
+## What has made and lost money
+- Promo parlays +$220 on $222. Pick6 +$37. Straight singles −$31 ($28 of it impulsive live "next FG" bets). Moonshot/live no-edge −$75.
+- So: parlays only with a promo that makes them +EV; straights only with a priced line edge; never live/Moonshot without a priced edge.
 
-> **This file wins.** If any other note (Guide, Daily Workflow, Master Prompts, Market Intel) gives a different number, this file is correct and the other note is stale. Change a rule only here, and log why in the changelog at the bottom.
+## Every leg must pass (written on the slip)
+1. **Exact-line price**: fair % from books quoting that exact line (Pinnacle/FD weighted, 4+ books). Extrapolate only when the app line is outside every book's line. Never use averaged-consensus fits.
+2. **Why this leg**: one line: the edge source (stale app line / promo discount / measured bias / book disagreement / news), not a narrative.
+3. **Assumptions listed**: injury status confirmed, minutes/role, line freshness (time of quote), market type (full game vs 2H).
+4. **Backups**: 2 pre-priced replacements per entry, listed up front with their fair % and line limits.
+5. **Kill switch**: the worst price/line we still take; past it, skip.
 
-Background for every number: [[Research - Upgrade Report]]. Items marked *(heuristic)* are reasoned starting points, not validated findings, so tune them from your own record.
+## Parlays
+- Only with a promo/boost or a correlation the app does NOT reprice (check payout after selecting all legs: Pick6 reprices same-game QB–WR stacks).
+- Legs: prefer 2–3. 4+ only when the promo requires it; every leg ≥ the per-leg break-even and none that can die on one play unless it carries its own edge.
+- Show hit rate AND EV for the slip. Target hit rate ≥ 25% on promo parlays; if the promo forces lower (e.g. +400 min), stake smaller.
+- Correlation: same-game legs priced with measured correlations (QB pass ↔ WR1 +0.48, ↔ WR2 +0.37; RB1 vs opp RB1 −0.17; most others ≈ 0).
 
-## 1. Sizing
-- **Unit = 1% of current bankroll** for paper and live. On $100 that's $1, not $10.
-- Kelly is only a ceiling: quarter-Kelly on the **shrunk** edge (§3), capped at 1%. Take whichever is smaller.
-- Pick'em slips: Power 0.25–0.5%, Flex 0.5–1% per entry *(heuristic)*.
-- Re-size after each settlement window (early games settle → recompute on the new bankroll).
+## Straights
+- Edge ≥ +2% at exact line, 4+ books incl. Pinnacle or FanDuel. Prefer fair ≥ 52% (wins more often than not) when the user asks for hit rate.
 
-## 2. Exposure caps (hard)
-| Cap | Limit |
-|---|---|
-| Per bet | 1% |
-| Per game (all singles + slips touching it) | 3% |
-| Per player (all props + slips) | 1.5–2% |
-| Positions per game | ≤ 2 straight bets |
-| Per slate | by class, see [[Slate Playbook]] (micro 3–5% → large 10–20%) |
+## Sizing (bankroll = DK working balance)
+- Straights: ~¼ Kelly, capped at 3% of bankroll ($3 at ~$110).
+- Promo parlays: stake = promo max if EV ≥ +10% and hit ≥ 20%; else half.
+- Bonus bets: maximize conversion vs hit rate; default +200 to +300 fair-priced legs (~65–75% conversion, ~1 in 3 hits); price close to kickoff.
+- Never more than 15% of bankroll at risk in one night without a promo reason.
 
-- **Never hold singles plus an SGP made of the same legs.** Pick one expression of the thesis.
-- A same-game cluster counts as **one bet** for exposure.
-
-## 3. The pass rule (enforce before logging)
-A leg is a **BET** only if all of these hold:
-1. The price is **executable**: a real book, app or exchange you can actually bet into, at the timestamped price. Media and aggregator quotes (SBD, StatMuse, Covers, Action) are *reference only*.
-2. **Shrunk edge ≥ 3 percentage points** over break-even. Shrunk edge = 0.3–0.5 × (p_model − break-even) until CLV data justifies more *(heuristic: the winner's-curse simulation implied a shrinkage of about 0.31)*.
-3. The model probability beats the devigged sharp price by **≥ 3 pts**. If there's no sharp two-way market, the bet is PAPER at most.
-4. No thesis built on: head-to-head history, last 1–5 games, ATS/quarter trends, or an affiliate site's pick.
-5. **SGP or parlay:** only with an actual quoted payout and timestamp. Never log "product pricing".
-
-6. **Blend check:** the market-weighted (0.75) probability must beat break-even by **≥ 2 pts**.
-7. **Too-good-to-be-true check:** if the model disagrees with the sharp consensus by **> 10 pts**, it's WATCH (investigate missing info), never a bet.
-8. **Stale-price path:** a side also qualifies if ≥ 2 *other* books' devigged consensus beats our break-even by ≥ 2.5 pts, the model doesn't say it's > 3 pts below break-even, and check 6 passes.
-
-Anything else → **WATCH** (tracked, no stake) or **PASS**. Log all three. Items 6–8 came from the synthetic test of [[NBA Engine]] (2026-10-23), where they cut fake edges on fair lines from ~6% of sides to ~0.
-
-## 4. Allowed price sources
-| Use | Sources |
-|---|---|
-| Sharp reference (devig) | FanDuel, Caesars, Pinnacle, Circa, Kalshi/Polymarket mid (with depth) |
-| Executable | Any regulated book or app you actually hold an account at |
-| Never a benchmark | Media sites, one-way FanDuel props, stale quotes, markets with hold > ~10% |
-
-- Treat DraftKings, Caesars and MGM as possibly **one source** when building a consensus (they reportedly share a price feed).
-- Devig method: multiplicative for ~4–5% hold; power or worst-case for lopsided or high-hold markets.
-
-## 5. Prediction markets & pick'em
-- Price = **ask** + **live fee from the order ticket**. The fee schedule is unresolved: one source says Feb 18 2026 (~0.75% effective), another says 5%·P(1−P) for Polymarket US from Jul 1 2026. Check the ticket.
-- Polymarket player props: **DNP resolves "No"** (a loss, not a void). Count that in p.
-- Integer lines (6+) = over **5.5**. Log the half-point equivalent.
-- Pick'em break-even comes from the multiplier **shown on the actual entry**. Reference: PP 6-Flex 54.2%, 6-Power 54.7%, 3-Power 58.5%, 2-Power 57.7%; Underdog 3-pick 6x 55.0%.
-- All the apps need ≥ 2 teams. On a 1-game slate every leg is correlated: stack in the script direction on purpose, or skip.
-
-## 6. Logging (every row)
-Required fields: `p_model`, `p_market`, `p_market_method`, `market_source`, `executable`, `quoted`, `dist`, `mu`, `sd_or_vmr`, `game_id`, `corr_group`, `reason_code`, `minutes_to_start`, `slate_class`, `dnp_rule`, `model_version`, `run_id`.
-Reject the row if `odds_ts > logged_at` or `logged_at > start_time`.
-
-## 7. Blend
-- Blend **parameters** (means), not probabilities.
-- Market weight 0.7–0.8 to start *(heuristic)*. Refit after ~200 settled bets with stored p_model and p_market.
-
-## 8. Measurement & graduation
-- Order of truth: **CLV vs the devigged close → Brier/log-loss skill vs the close → calibration → ROI last.**
-- Delete "Brier < 0.25" as a target. Any coin-flip forecaster passes it.
-- Proving ROI needs ~3,900 bets for a 3% edge at −110, so CLV is the only fast signal.
-- **Go live only when all hold:** 300–500 timestamped paper bets with both sides captured; mean devigged CLV ≥ +1.5–2% with t > 2 (or test-martingale wealth > 20); Brier skill vs close ≥ 0; calibration-in-the-large within ±2 pts; positive CLV in ≥ 2 independent segments; zero hallucination or integrity incidents in the last 100; ≥ 4 weeks of steady runs.
-- **Kill switch:** rolling-200 CLV ≤ 0, or drawdown > 35%, sends you back to paper.
-
-## 9. Live pilot (real money, started 2026-10-24 at the user's request)
-The graduation gate in §8 has **not** been met (9 settled paper bets, no CLV record yet). The pilot is the user's choice; these limits keep it small enough to learn from without risking the bankroll.
-- **Stake:** 0.5% of bankroll per straight bet; pick'em/parlay entries 0.25% each, **or the app's minimum if that is larger** (with the $30 pilot roll: $1 a bet, max 3 a day; see [[Bankroll]]). Never more, whatever the edge.
-- **Daily cap:** 2% total across everything (≈ 4 straights). Per game 1%, per player 0.5%.
-- **What qualifies as LIVE:** only a side that passes **all** of §3 (executable price at a book you hold, shrunk edge ≥ 3, model vs sharp 3–10 pts, blend ≥ 2) or the §3.8 stale-price path. WATCH never goes live. NFL and MLB stay PAPER until each engine has 50 paper bets with closes captured; NBA is the only live sport at the start.
-- **Slips (pick'em / parlays):** build one only when **every leg is LIVE on its own** at the slip's per-leg break-even (PrizePicks 2-Power 57.7%, 3-Power 58.5%, 6-Flex 54.2%; Underdog 3-pick 55.0%; a sportsbook parlay = product of each leg's price). Max 3 legs, legs from different games unless the correlation is the thesis. Never a slip to "make the price worth it": a parlay of non-edges is a bigger non-edge.
-- **Price discipline:** bet at the listed price or better. If the line moved past the model's break-even, it's a PASS.
-- **Every live bet is logged before it's placed** (the Record/Bets note + bets.csv row, decision LIVE), with both closing sides captured (Job E or the odds Action).
-- **Kill switch → back to paper:** drawdown ≥ 15% of the starting pilot bankroll (with the $30 roll: below $20, because $1 minimums make 15% only ~4 bets), or after 50 live bets mean CLV ≤ 0, or any bet placed that wasn't logged first.
-- **Price-edge legs (added 2026-10-26):** `engine/edge_scan.py` flags DraftKings sides whose price beats the sharp books' fair odds: EV vs Pinnacle/FanDuel devig ≥ +2% **and** EV vs all-book consensus ≥ 0, with ≥ 2 other books at the same line. These may go **LIVE at $1** (NBA, and NFL/MLB too, since the edge is the price, not our model), within the daily limit, if the model doesn't put the side > 3 pts below break-even. A 2-leg slip is allowed only from two qualifying legs in different games. The late update re-checks each price before tip; if DK moved to a worse price than the qualifying price, it's a PASS. Tracked as its own segment (`reason_code: price_edge`); back to paper if its mean CLV ≤ 0 after 50 bets.
-- **Shadow grading decides when the model is trusted** (`engine/shadow.py` → Record/Shadow/Shadow Report.md grades every priced prop daily, not just bets). The NBA model-health gate (board lean > ±4 pts = no bets) is retuned once **≥ 1,000 graded NBA props** exist: if model or blend skill vs market is ≥ 0 and the over/under lean is explained, the gate relaxes. NFL and MLB go LIVE when their own shadow skill vs market is ≥ 0 over ≥ 500 graded props (plus the 50 paper bets above).
-- **Review at 100 live bets:** if CLV ≥ +1.5% with t > 2, the stakes move toward the §1 sizes (1%); otherwise they don't.
-
-## Changelog
-- 2026-10-26 v4: price-edge legs (§9) may go LIVE at $1 on any sport.
-- 2026-10-24 v3: added §9 live pilot (NBA only at start, 0.5% stakes, 2%/day, kill switch).
-- 2026-10-23 v2: added §3 items 6–8 (blend ≥ 2 pts, >10-pt disagreement = WATCH, stale-price path) and the WATCH decision.
-- 2026-10-23 v1: created after the 2026-10-22 audit. Supersedes the Daily Workflow "2% cap", the Guide's "Brier < 0.25" and its 300–500 ROI sample, and the probability-blend.
+## Tracking (every bet)
+- Log fair %, line, price, time, edge source, backups used; close price for CLV (beat-the-close is the edge test, ~50–100 bets to read).
+- Settle ONLY from the official final box score, never a live tracker or screenshot.
+- Weekly review: CLV by edge source; drop sources with negative CLV after 50 bets.
