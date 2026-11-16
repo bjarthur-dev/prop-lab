@@ -283,3 +283,12 @@ Rules from this (they override earlier notes where they conflict):
   3. Favor sturdy lines: higher-volume stats, alt lines and game-script legs over "U2.5 rec".
   4. Use SGPx (two picks per game, across games) when the promo allows it. That spreads out game-script risk.
   5. Compare the best 2–3 leg version against the long version on EV *and* hit rate, then show the user both.
+
+## Halftime / live betting (research 11-15)
+- Fair live line (NBA): E[final margin] = current margin + pregame spread × (minutes left/48); σ_rem ≈ 12×√(min left/48), about 8.5 at the half. P(cover L) = Φ((E−L)/σ). NCAAB σ≈10.3 full game; NFL σ≈14 but jumpy (3/7).
+- Halftime/2H markets are near-efficient after vig. Broad Bet Labs slices (thousands of games) land at 50–51% ATS, and the "profitable" systems are small-sample data mining. The Berger–Pope "trailing at half" effect did not replicate.
+- Fade "the better team comes back" narratives: favorites losing at half cover under 50%, and NFL 10+ favorites not leading at half went 40%.
+- Only plausible angles (unproven, need our own test): NBA 2H under after the 1H goes 10+ under; NFL 2H dogs of 7+; NBA playoff 2H dogs leading at half.
+- Our repeatable live edge is profit boosts on fairly priced lines (a 30% boost on a −110 coin flip is +9%). Without a boost, live bets need CLV proof first.
+- Always check the market label and timestamp: Pinnacle "−4.5" may have been a 2H line, not full-game.
+- TODO: log DK + Pinnacle halftime lines (full-game and 2H) with timestamps every night to build a CLV dataset.
