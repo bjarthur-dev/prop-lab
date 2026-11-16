@@ -6,7 +6,7 @@ tags: [record, bankroll]
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
 current_bankroll: 129.17
-balances: {draftkings: 129.17, betr: 0.00, betr_bucks: 15.00}   # 2026-11-15 morning: 11-14 all settled (297 W +11.28, 298 W +41.30 payout 46.30, 299/309/310 L); no change this morning. 289 Cissoko recorded W but still single-source on Cissoko (confirm in DK app); 291 CBB L
+balances: {draftkings: 129.17, betr: 0.00, betr_bucks: 15.00}   # 2026-11-16 morning: 11-15 all 8 live bets settled the evening before (net +17.12: 312 W, 321 W, 327 W; 311/313/314/319/320 L); no change this morning. $5 DK NFL bonus bet expires 11-22
 withdrawn_total: 60.00   # 11-06: +$30 Odds API plan; 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
