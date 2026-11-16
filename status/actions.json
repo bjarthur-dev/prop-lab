@@ -203,5 +203,12 @@
   "tier": "paid",
   "nflx": 533,
   "credits_remaining": "15455"
+ },
+ "odds_nflx:player_rush_yds,player_reception_yds,player_receptions": {
+  "last_ok": "2026-11-16T08:49:59-05:00",
+  "tag": "nflx:player_rush_yds,player_reception_yds,player_receptions",
+  "tier": "paid",
+  "nflx": 418,
+  "credits_remaining": "15430"
  }
 }
