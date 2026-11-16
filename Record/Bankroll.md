@@ -5,8 +5,8 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 112.61
-balances: {draftkings: 112.61, betr: 0.00, betr_bucks: 15.00}   # 2026-11-16 morning: 11-15 all 8 live bets settled the evening before (net +17.12: 312 W, 321 W, 327 W; 311/313/314/319/320 L); no change this morning. $5 DK NFL bonus bet expires 11-22
+current_bankroll: 44.00
+balances: {draftkings: 44.00, betr: 0.00, betr_bucks: 15.00}   # 2026-11-16 morning: 11-15 all 8 live bets settled the evening before (net +17.12: 312 W, 321 W, 327 W; 311/313/314/319/320 L); no change this morning. $5 DK NFL bonus bet expires 11-22
 withdrawn_total: 60.00   # 11-06: +$30 Odds API plan; 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
@@ -40,3 +40,4 @@ Log each purchase as a row in bets.csv (type=expense) so the record shows net pr
 bonus_bets: DK NFL $5 (from 11-15 Moonshot B&G, expires 2026-11-22)
 - 2026-11-16: user withdrew $29.17 from DK (set aside as winnings); DK working bankroll reset to $100.00
 - 2026-11-16 16:30: DK credited +$12.40 cash (AwardUserBonusOffer, Promotions and Rewards - Financial); DK balance $112.61 (pre-credit $100.21)
+- 2026-11-16 18:23: user withdrew $68.61 (set aside); DK working bankroll $44.00. Total pulled out today: $97.78
