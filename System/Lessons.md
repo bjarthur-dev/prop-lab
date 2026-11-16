@@ -274,3 +274,12 @@ Rules from this (they override earlier notes where they conflict):
 - After the $10 promo Moonshot lost, $29.80 more went into non-promo Moonshots (backtest ~0.79-0.89 per $1) within ~2 hours; cash 82.05 -> 42.25. Same pattern as 11-12 live bets.
 - Moonshot only with a promo attached. After a loss, no new live bets that day unless priced with an edge first.
 - Full 11-15 tally: promo Moonshot -$10 (+$5 bonus bet); 28 more Moonshots staked $103, returned $67.20 (-$35.80, 0.65/$, worse than the ~0.8 backtest). Then the whole $63.05 balance went on a live CAR+IND ML parlay (-114) and won (+$55.72). Net of all self-directed bets vs doing nothing: +$9.92, but only because a coin-flip-sized all-in bet hit. Never stake the whole balance on one bet.
+
+## Promo parlay construction (11-15 post-mortem, #311)
+- 4 receiving unders in one game was a weak build: every leg is one-catch-sensitive, they share one game script, and they die early.
+- Before any 4+ leg promo, run this checklist:
+  1. Each leg has to be a side we'd play straight (>=53% fair). Don't let the boost carry coin flips.
+  2. No more than 2 legs of the same stat type.
+  3. Favor sturdy lines: higher-volume stats, alt lines and game-script legs over "U2.5 rec".
+  4. Use SGPx (two picks per game, across games) when the promo allows it. That spreads out game-script risk.
+  5. Compare the best 2–3 leg version against the long version on EV *and* hit rate, then show the user both.
