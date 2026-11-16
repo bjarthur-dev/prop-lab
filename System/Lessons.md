@@ -298,3 +298,8 @@ Rules from this (they override earlier notes where they conflict):
 - Rule: decide before the usual check-in window (~9:00 Q4). Don't wait on a drifting price. The drift moves the lock value and the ride value together, so waiting gains nothing in EV.
 - Result: Sabonis got the 13th rebound and the ticket lost. Riding at −230 was a ~20-25% spot; hedging at +105..+125 would have locked $24-26.
 - Never settle a prop from a live tracker or screenshot. Wait for the final official box score; stats get updated after the buzzer.
+
+## Exact-line pricing (11-16): my ad hoc fit inflated Pick6 edges
+- My quick scratch script fit a normal curve to an *averaged* consensus line. Books post main lines at different numbers, each near 50% (e.g. Henry rush 77.5–84.5 all ~0.50), so averaging made Pick6 lines look 1–2 pts off when the same number was quoted at ~50%.
+- Repricing with exact-line quotes, the NFL Pick6 legs (Brissett U7.5 rush, Hampton U5.5 rec yds, Hill O10.5 rec yds, K. Mitchell U11.5 rec yds) were all ~50%, not 54–62%. The 4-pick at 12.5x would have been about −19% EV. Caught before placing.
+- Rule: always price at the exact Pick6/Betr line when books quote it (engine/pick6_scan.py already does this; use it, not scratch fits). Only extrapolate when the app line sits outside *every* book's line (e.g. Henry 69.5 vs books 77.5+).
