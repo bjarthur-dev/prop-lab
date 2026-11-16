@@ -296,4 +296,5 @@ Rules from this (they override earlier notes where they conflict):
 ## Live hedge timing (11-15, #313)
 - A one-leg-left boosted ticket hedges best while the key player sits. DK lengthens the over each minute he's on the bench (−175 → +125), and the price snaps back (to −230) the moment he checks in.
 - Rule: decide before the usual check-in window (~9:00 Q4). Don't wait on a drifting price. The drift moves the lock value and the ride value together, so waiting gains nothing in EV.
-- The result (won by one rebound, 12 vs 12.5) doesn't validate riding at −230. That was a ~20-25% spot.
+- Result: Sabonis got the 13th rebound and the ticket lost. Riding at −230 was a ~20-25% spot; hedging at +105..+125 would have locked $24-26.
+- Never settle a prop from a live tracker or screenshot. Wait for the final official box score; stats get updated after the buzzer.
