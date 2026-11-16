@@ -1,29 +1,31 @@
 # NFL Prop Calibration
-2123 player-lines (2+ books, last pregame quote) joined to play-by-play, 2026-10-25 to 2026-11-12.
+2896 player-lines (2+ books, last pregame quote) joined to play-by-play, 2026-10-25 to 2026-11-15.
 Over side. 'Books said' = no-vig consensus chance of the over.
 
 | stat | n | books said (over) | over hit | gap | noise ± |
 |---|---|---|---|---|---|
-| pass_yds | 55 | 50.0% | 60.0% | +10.0 | 6.7 |
-| rec | 408 | 48.5% | 47.8% | -0.7 | 2.4 |
-| rec_yds | 1083 | 50.0% | 46.3% | -3.8 | 1.5 |
-| rush_att | 64 | 49.7% | 46.9% | -2.8 | 6.2 |
-| rush_yds | 513 | 50.0% | 45.0% | -4.9 | 2.2 |
-| ALL | 2123 | 49.7% | 46.6% | -3.1 | 1.1 |
+| pass_att | 25 | 50.4% | 40.0% | -10.4 | 10.0 |
+| pass_yds | 99 | 50.1% | 58.6% | +8.5 | 5.0 |
+| rec | 581 | 48.5% | 46.0% | -2.6 | 2.1 |
+| rec_yds | 1410 | 50.0% | 46.7% | -3.4 | 1.3 |
+| rush_att | 112 | 49.9% | 45.5% | -4.4 | 4.7 |
+| rush_yds | 669 | 49.9% | 45.7% | -4.2 | 1.9 |
+| ALL | 2896 | 49.7% | 46.6% | -3.1 | 0.9 |
 
 | priced (over) | n | books said | over hit | gap |
 |---|---|---|---|---|
-| (0.3, 0.4] | 51 | 37.8% | 41.2% | +3.4 |
-| (0.4, 0.45] | 113 | 42.7% | 38.9% | -3.8 |
-| (0.45, 0.55] | 1860 | 50.0% | 46.5% | -3.5 |
-| (0.55, 0.6] | 72 | 56.9% | 61.1% | +4.2 |
-| (0.6, 0.7] | 27 | 62.5% | 63.0% | +0.5 |
+| (0.3, 0.4] | 68 | 37.5% | 42.6% | +5.1 |
+| (0.4, 0.45] | 169 | 42.8% | 37.3% | -5.5 |
+| (0.45, 0.55] | 2510 | 50.0% | 46.7% | -3.3 |
+| (0.55, 0.6] | 107 | 57.0% | 55.1% | -1.9 |
+| (0.6, 0.7] | 42 | 62.5% | 64.3% | +1.8 |
 
-Zero-stat games assumed (player known, no touch/target that day; true inactives would have voided): 104 of 2123. Results below with them counted as 0; 'matched only' excludes them (upper bound for overs).
-- matched only pass_yds: n=55, said 50.0%, over hit 60.0%
-- matched only rec: n=379, said 48.5%, over hit 51.5%
-- matched only rec_yds: n=1029, said 50.0%, over hit 48.7%
-- matched only rush_att: n=63, said 49.8%, over hit 47.6%
-- matched only rush_yds: n=493, said 50.0%, over hit 46.9%
+Zero-stat games assumed (player known, no touch/target that day; true inactives would have voided): 132 of 2896. Results below with them counted as 0; 'matched only' excludes them (upper bound for overs).
+- matched only pass_att: n=25, said 50.4%, over hit 40.0%
+- matched only pass_yds: n=99, said 50.1%, over hit 58.6%
+- matched only rec: n=542, said 48.6%, over hit 49.3%
+- matched only rec_yds: n=1338, said 50.1%, over hit 49.2%
+- matched only rush_att: n=111, said 50.0%, over hit 45.9%
+- matched only rush_yds: n=649, said 49.9%, over hit 47.1%
 
-Low lines (rec <=2.5, yards <20): n=829, books said over 49.6%, over hit 49.8% (+0.3).
+Low lines (rec <=2.5, yards <20): n=1089, books said over 49.6%, over hit 50.4% (+0.8).

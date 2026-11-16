@@ -7,23 +7,23 @@ tags: [record, shadow, game-lines]
 Written by `engine/game_grade.py`. Sharp fair = Pinnacle devig (FanDuel if missing) at the last snapshot. ROI is per 1-unit DK bet; the boost column shows the same bets with a 30% profit boost.
 
 ## College basketball
-524 games, 3036 DK sides graded (1634 with the sharp book at the same number).
+527 games, 3054 DK sides graded (1642 with the sharp book at the same number).
 
 | slice | n | win | sharp fair | ROI flat | ROI with 30% boost |
 |---|---:|---:|---:|---:|---:|
-| spreads | 462 | 50.0% | 50.0% | -4.7% | +8.9% |
+| spreads | 466 | 50.0% | 50.0% | -4.7% | +8.9% |
 | totals | 350 | 50.0% | 50.0% | -4.6% | +9.0% |
-| h2h | 822 | 50.0% | 50.0% | -10.8% | +1.0% |
+| h2h | 826 | 50.0% | 50.0% | -10.8% | +1.0% |
 | unders | 175 | 59.4% | 50.1% | +13.4% | +29.6% |
 | overs | 175 | 40.6% | 49.9% | -22.6% | -11.5% |
-| favorites (fair >= 55%) | 367 | 82.3% | 82.1% | -4.0% | +0.1% |
-| underdogs (fair < 45%) | 367 | 17.7% | 17.9% | -19.6% | -0.8% |
-| DK beats sharp (EV >= 2%) | 46 | 23.9% | 22.2% | -7.7% | +12.8% |
+| favorites (fair >= 55%) | 369 | 82.1% | 82.0% | -4.2% | -0.1% |
+| underdogs (fair < 45%) | 369 | 17.9% | 18.0% | -19.4% | -0.5% |
+| DK beats sharp (EV >= 2%) | 47 | 23.4% | 22.7% | -9.7% | +10.4% |
 | steam side (sharp moved >= 2 pts toward) | 150 | 57.3% | 56.5% | +2.1% | +15.5% |
 | steam + DK lagging | 13 | 30.8% | 43.6% | +41.9% | +75.3% |
 
 ## NFL
-17 games, 74 DK sides graded (36 with the sharp book at the same number).
+18 games, 84 DK sides graded (36 with the sharp book at the same number).
 
 | slice | n | win | sharp fair | ROI flat | ROI with 30% boost |
 |---|---:|---:|---:|---:|---:|
