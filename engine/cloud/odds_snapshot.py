@@ -157,11 +157,11 @@ def main():
             os.makedirs(f"data/odds/ncaab/{today}", exist_ok=True)
             pd.DataFrame(rows).to_csv(f"data/odds/ncaab/{today}/cbbprops_{now:%H%M}.csv", index=False)
         print(f"::notice::ncaab props: {len(rows)} rows"); info["ncaab"] = len(rows); sports = {}
-    if tag.startswith("nflx:"):   # on-demand: today's NFL props for any markets, e.g. nflx:player_pass_yds,player_pass_attempts
-        mk = tag.split(":", 1)[1]; key = "americanfootball_nfl"; rows = []
+    if tag.startswith("nflx:") or tag.startswith("nfllive:"):   # on-demand: today's NFL props for any markets, e.g. nflx:player_pass_yds; nfllive: also includes games in progress (live props)
+        live = tag.startswith("nfllive:"); mk = tag.split(":", 1)[1]; key = "americanfootball_nfl"; rows = []
         for e in get(f"sports/{key}/events") or []:
             t = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET)
-            if t.date().isoformat() != today or t < now: continue
+            if t.date().isoformat() != today or (t < now and not (live and now - t < dt.timedelta(hours=4))): continue
             o = get(f"sports/{key}/events/{e['id']}/odds", bookmakers=BOOKS.replace(",pick6", ""), markets=mk, oddsFormat="american")
             for b in (o or {}).get("bookmakers", []):
                 for m in b.get("markets", []):
