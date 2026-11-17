@@ -315,3 +315,10 @@ Rules from this (they override earlier notes where they conflict):
 - Lambert-Smith 1+ rec +255 looked like +38% in the model; ESPN had +220, DK main +240 → the market agreed, the model was missing role info. Big unexplained gaps = info, not edge.
 - New tag `nbalive:<markets>` pulls live NBA props (FD/ESPN/WH/DK; no Pinnacle). Files: data/odds/nba/<date>/live_HHMM.csv.
 - Pinnacle's live NBA game lines in the Odds API feed look stale at halftime (MIN −3.5 vs books −6.5; PHX@DEN DEN −7 / 225 vs books −4.5/−5.5 / 222). Don't price live NBA off Pinnacle alone; use the FD/MGM/ESPN/Caesars consensus.
+
+## Timing: bet DK prop edges early (11-17 study, engine/clv_study.py)
+- 23 days of NBA prop snapshots, same DK line at the first and last pre-tip snapshot (>= 2 h apart), fair = exact-line consensus (Pinnacle x2, FD x1.5, >= 3 books).
+- All DK sides: price moved toward/away 36%/36%, mean 0.00 -> no drift in general.
+- DK sides that were +EV early (n=158): DK's price got worse for that side 76% of the time (away 6%), mean +2.7 pts implied; early EV >= 2% (n=21): 90% / 0%, +3.3 pts; >= 4% (n=4): 4/4, +5.0 pts.
+- The consensus itself barely moved (-0.2 to -0.3 pts), so the early edge is DK lagging the market, not noise; DK catches up before tip.
+- Rule: when a DK leg is fair-or-better vs the consensus in the morning, place it then; waiting usually costs ~3 pts of probability. Small samples at >= 2% — keep re-running as data grows.
