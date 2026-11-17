@@ -303,3 +303,8 @@ Rules from this (they override earlier notes where they conflict):
 - My quick scratch script fit a normal curve to an *averaged* consensus line. Books post main lines at different numbers, each near 50% (e.g. Henry rush 77.5–84.5 all ~0.50), so averaging made Pick6 lines look 1–2 pts off when the same number was quoted at ~50%.
 - Repricing with exact-line quotes, the NFL Pick6 legs (Brissett U7.5 rush, Hampton U5.5 rec yds, Hill O10.5 rec yds, K. Mitchell U11.5 rec yds) were all ~50%, not 54–62%. The 4-pick at 12.5x would have been about −19% EV. Caught before placing.
 - Rule: always price at the exact Pick6/Betr line when books quote it (engine/pick6_scan.py already does this; use it, not scratch fits). Only extrapolate when the app line sits outside *every* book's line (e.g. Henry 69.5 vs books 77.5+).
+
+## DK 25% SGP boosts and Pick6 multipliers (11-16)
+- 4-leg same-game DK SGPs: DK's SGP margin plus its correlation pricing ate the whole 25% boost. Tested live: Slip 1 (BAL ML + 3 rec unders) boosted +406 (raw +325) vs needed ~+500. Slip 2 (4 rec unders) boosted +607 vs needed +690. Both −EV. Rule: 25% boosts on 4-leg same-game SGPs at DK = pass unless the quoted boosted price beats 1/joint-fair.
+- Pick6 1.1x–1.3x multipliers are priced off the books (e.g. Henry More 1.5 rec 35.5% × 1.3 = 46%). Not an edge by themselves.
+- Cross-game parlays of individually +EV legs keep their edge (DK pays full multiplied prices). That's the parlay type to use when no promo is available.
