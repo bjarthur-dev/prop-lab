@@ -6,9 +6,9 @@ tags: [record, shadow, price-edge]
 
 Written by `engine/edge_grade.py` (morning settlement). Qualifying = DK beats the sharp fair by >= 2% EV and the all-book consensus. Profit is per 1-unit single at the DK price. CLV uses the last sharp snapshot before tip (a true close only when one was taken).
 
-**106 legs over 19 days: 55-51, ROI -4.7% per unit (expected at scan +6.2%).** CLV: 64 legs with a later snapshot, mean +3.1%, positive on 84%.
+**110 legs over 20 days: 57-53, ROI -4.6% per unit (expected at scan +6.1%).** CLV: 68 legs with a later snapshot, mean +3.2%, positive on 85%.
 
-One standard error on ROI at this sample is about ±10%: CLV is the faster signal.
+One standard error on ROI at this sample is about ±9%: CLV is the faster signal.
 
 | market | n | record | ROI | mean CLV |
 |---|---:|---:|---:|---:|
@@ -16,9 +16,9 @@ One standard error on ROI at this sample is about ±10%: CLV is the faster signa
 | alt_pts | 22 | 12-10 | -24.3% | n/a |
 | alt_reb | 5 | 2-3 | -50.2% | n/a |
 | assists | 14 | 8-6 | +15.2% | +2.5% |
-| points | 17 | 10-7 | +17.2% | +2.8% |
+| points | 19 | 12-7 | +25.2% | +3.2% |
 | rebounds | 17 | 10-7 | +21.2% | +3.0% |
-| threes | 16 | 7-9 | -7.9% | +4.1% |
+| threes | 18 | 7-11 | -18.2% | +4.0% |
 
 | date | n | record | ROI | mean CLV |
 |---|---:|---:|---:|---:|
@@ -41,3 +41,4 @@ One standard error on ROI at this sample is about ±10%: CLV is the faster signa
 | 2026-11-12 | 2 | 1-1 | +11.0% | +2.6% |
 | 2026-11-13 | 5 | 3-2 | +18.1% | +2.1% |
 | 2026-11-14 | 2 | 0-2 | -100.0% | +2.9% |
+| 2026-11-16 | 4 | 2-2 | -3.3% | +4.5% |
