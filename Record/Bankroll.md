@@ -5,8 +5,8 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 44.00
-balances: {draftkings: 44.00, betr: 0.00, betr_bucks: 5.00}   # 2026-11-16 morning: 11-15 all 8 live bets settled the evening before (net +17.12: 312 W, 321 W, 327 W; 311/313/314/319/320 L); no change this morning. $5 DK NFL bonus bet expires 11-22
+current_bankroll: 45.96
+balances: {draftkings: 45.96, betr: 0.00, betr_bucks: 5.00}   # 2026-11-17 morning: 11-16 live bets settled from official box scores: 347 W +4.36, 348 W +1.60, 349 L -2, 350 L -2 (DK net +1.96); Betr 346 L ($10 Betr Bucks). $5 DK NFL bonus bet expires 11-22
 withdrawn_total: 60.00   # 11-06: +$30 Odds API plan; 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
