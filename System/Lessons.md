@@ -308,3 +308,8 @@ Rules from this (they override earlier notes where they conflict):
 - 4-leg same-game DK SGPs: DK's SGP margin plus its correlation pricing ate the whole 25% boost. Tested live: Slip 1 (BAL ML + 3 rec unders) boosted +406 (raw +325) vs needed ~+500. Slip 2 (4 rec unders) boosted +607 vs needed +690. Both −EV. Rule: 25% boosts on 4-leg same-game SGPs at DK = pass unless the quoted boosted price beats 1/joint-fair.
 - Pick6 1.1x–1.3x multipliers are priced off the books (e.g. Henry More 1.5 rec 35.5% × 1.3 = 46%). Not an edge by themselves.
 - Cross-game parlays of individually +EV legs keep their edge (DK pays full multiplied prices). That's the parlay type to use when no promo is available.
+
+## Live NFL props: check the other books before trusting the halftime model (11-16 MNF)
+- New tag `nfllive:<markets>` (odds.yml) pulls props for NFL games in progress (Pinnacle posts none; FD/BetRivers/ESPN/WH/DK do).
+- Halftime pace model said Brissett 286+ pass yds −115 was ~55–60%; books had the main line at 287.5–289.5 (50/50) → ~52%, slightly −EV. Model-only leans on live props get checked against the consensus first.
+- Lambert-Smith 1+ rec +255 looked like +38% in the model; ESPN had +220, DK main +240 → the market agreed, the model was missing role info. Big unexplained gaps = info, not edge.
