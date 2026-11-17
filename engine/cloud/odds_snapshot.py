@@ -157,8 +157,9 @@ def main():
             os.makedirs(f"data/odds/ncaab/{today}", exist_ok=True)
             pd.DataFrame(rows).to_csv(f"data/odds/ncaab/{today}/cbbprops_{now:%H%M}.csv", index=False)
         print(f"::notice::ncaab props: {len(rows)} rows"); info["ncaab"] = len(rows); sports = {}
-    if tag.startswith("nflx:") or tag.startswith("nfllive:"):   # on-demand: today's NFL props for any markets, e.g. nflx:player_pass_yds; nfllive: also includes games in progress (live props)
-        live = tag.startswith("nfllive:"); mk = tag.split(":", 1)[1]; key = "americanfootball_nfl"; rows = []
+    if tag.startswith(("nflx:", "nfllive:", "nbalive:")):   # on-demand: today's NFL props for any markets, e.g. nflx:player_pass_yds; nfllive:/nbalive: also include games in progress (live props)
+        live = "live:" in tag; mk = tag.split(":", 1)[1]; lg = "nba" if tag.startswith("nba") else "nfl"
+        key = "basketball_nba" if lg == "nba" else "americanfootball_nfl"; rows = []
         for e in get(f"sports/{key}/events") or []:
             t = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET)
             if t.date().isoformat() != today or (t < now and not (live and now - t < dt.timedelta(hours=4))): continue
@@ -168,8 +169,8 @@ def main():
                     for oc in m.get("outcomes", []):
                         rows.append(dict(snap_et=now.isoformat(timespec="seconds"), game=f"{e['away_team']}@{e['home_team']}", start_et=t.isoformat(timespec="minutes"), book=b["key"], market=m["key"], player=oc.get("description"), side=oc.get("name"), line=oc.get("point"), price=oc.get("price")))
         if rows:
-            os.makedirs(f"data/odds/nfl/{today}", exist_ok=True)
-            pd.DataFrame(rows).to_csv(f"data/odds/nfl/{today}/nflx_{now:%H%M}.csv", index=False)
+            os.makedirs(f"data/odds/{lg}/{today}", exist_ok=True)
+            pd.DataFrame(rows).to_csv(f"data/odds/{lg}/{today}/{'live' if live else 'nflx'}_{now:%H%M}.csv", index=False)
         print(f"::notice::nflx: {len(rows)} rows"); info["nflx"] = len(rows); sports = {}
     if tag.startswith("cfb:"):   # on-demand: college football game lines + alternates + player props for games whose team names contain any "|"-separated text (e.g. cfb:Georgia|Indiana)
         teams = [t.lower() for t in tag.split(":", 1)[1].split("|") if t]; key = GAME_SPORTS["ncaaf"]; rows = []
