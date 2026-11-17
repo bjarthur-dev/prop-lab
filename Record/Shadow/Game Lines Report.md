@@ -7,48 +7,50 @@ tags: [record, shadow, game-lines]
 Written by `engine/game_grade.py`. Sharp fair = Pinnacle devig (FanDuel if missing) at the last snapshot. ROI is per 1-unit DK bet; the boost column shows the same bets with a 30% profit boost.
 
 ## College basketball
-527 games, 3054 DK sides graded (1642 with the sharp book at the same number).
+555 games, 3220 DK sides graded (1702 with the sharp book at the same number).
 
 | slice | n | win | sharp fair | ROI flat | ROI with 30% boost |
 |---|---:|---:|---:|---:|---:|
-| spreads | 466 | 50.0% | 50.0% | -4.7% | +8.9% |
-| totals | 350 | 50.0% | 50.0% | -4.6% | +9.0% |
-| h2h | 826 | 50.0% | 50.0% | -10.8% | +1.0% |
-| unders | 175 | 59.4% | 50.1% | +13.4% | +29.6% |
-| overs | 175 | 40.6% | 49.9% | -22.6% | -11.5% |
-| favorites (fair >= 55%) | 369 | 82.1% | 82.0% | -4.2% | -0.1% |
-| underdogs (fair < 45%) | 369 | 17.9% | 18.0% | -19.4% | -0.5% |
-| DK beats sharp (EV >= 2%) | 47 | 23.4% | 22.7% | -9.7% | +10.4% |
-| steam side (sharp moved >= 2 pts toward) | 150 | 57.3% | 56.5% | +2.1% | +15.5% |
-| steam + DK lagging | 13 | 30.8% | 43.6% | +41.9% | +75.3% |
+| spreads | 480 | 50.0% | 50.0% | -4.7% | +8.8% |
+| totals | 358 | 50.0% | 50.0% | -4.6% | +9.0% |
+| h2h | 864 | 50.0% | 50.0% | -11.2% | +0.4% |
+| unders | 179 | 60.3% | 50.0% | +15.1% | +31.6% |
+| overs | 179 | 39.7% | 50.0% | -24.3% | -13.5% |
+| favorites (fair >= 55%) | 388 | 82.5% | 82.0% | -3.5% | +0.7% |
+| underdogs (fair < 45%) | 388 | 17.5% | 18.0% | -21.0% | -2.5% |
+| DK beats sharp (EV >= 2%) | 58 | 29.3% | 27.6% | -3.8% | +16.3% |
+| steam side (sharp moved >= 2 pts toward) | 163 | 59.5% | 57.9% | +3.3% | +16.4% |
+| steam + DK lagging | 19 | 47.4% | 54.2% | +34.8% | +61.0% |
 
 ## NFL
-18 games, 84 DK sides graded (36 with the sharp book at the same number).
+29 games, 150 DK sides graded (60 with the sharp book at the same number).
 
 | slice | n | win | sharp fair | ROI flat | ROI with 30% boost |
 |---|---:|---:|---:|---:|---:|
-| spreads | 10 | 50.0% | 50.0% | -4.1% | +9.6% |
-| totals | 20 | 50.0% | 50.0% | -4.8% | +8.8% |
-| h2h | 6 | 50.0% | 50.0% | -18.1% | -8.5% |
-| unders | 10 | 50.0% | 50.3% | -5.4% | +8.0% |
-| overs | 10 | 50.0% | 49.7% | -4.2% | +9.5% |
-| favorites (fair >= 55%) | 2 | 100.0% | 67.4% | +43.2% | +56.2% |
-| underdogs (fair < 45%) | 2 | 0.0% | 32.6% | -100.0% | -100.0% |
-| steam side (sharp moved >= 2 pts toward) | 2 | 100.0% | 58.5% | +66.2% | +86.1% |
+| spreads | 14 | 50.0% | 50.0% | -5.8% | +7.4% |
+| totals | 24 | 50.0% | 50.0% | -5.3% | +8.1% |
+| h2h | 22 | 50.0% | 50.0% | -23.7% | -15.8% |
+| unders | 12 | 58.3% | 50.5% | +9.5% | +24.9% |
+| overs | 12 | 41.7% | 49.5% | -20.2% | -8.7% |
+| favorites (fair >= 55%) | 10 | 100.0% | 75.3% | +47.3% | +61.5% |
+| underdogs (fair < 45%) | 10 | 0.0% | 24.7% | -100.0% | -100.0% |
+| DK beats sharp (EV >= 2%) | 6 | 50.0% | 42.4% | +4.6% | +21.0% |
+| steam side (sharp moved >= 2 pts toward) | 10 | 100.0% | 73.5% | +51.9% | +67.5% |
+| steam + DK lagging | 3 | 100.0% | 66.3% | +109.2% | +142.0% |
 
 ## College football
-95 games, 570 DK sides graded (322 with the sharp book at the same number).
+96 games, 576 DK sides graded (324 with the sharp book at the same number).
 
 | slice | n | win | sharp fair | ROI flat | ROI with 30% boost |
 |---|---:|---:|---:|---:|---:|
 | spreads | 92 | 50.0% | 50.0% | -7.8% | +4.9% |
 | totals | 70 | 50.0% | 50.0% | -8.6% | +3.8% |
-| h2h | 160 | 50.0% | 50.0% | -10.2% | +1.7% |
+| h2h | 162 | 50.0% | 50.0% | -10.7% | +1.1% |
 | unders | 35 | 54.3% | 49.4% | +0.8% | +14.8% |
 | overs | 35 | 45.7% | 50.6% | -18.0% | -7.1% |
-| favorites (fair >= 55%) | 80 | 77.5% | 75.9% | +0.1% | +6.8% |
-| underdogs (fair < 45%) | 80 | 22.5% | 24.1% | -26.3% | -11.0% |
+| favorites (fair >= 55%) | 81 | 77.8% | 76.1% | +0.1% | +6.8% |
+| underdogs (fair < 45%) | 81 | 22.2% | 23.9% | -27.2% | -12.1% |
 | DK beats sharp (EV >= 2%) | 24 | 33.3% | 45.6% | -24.4% | -11.7% |
-| steam side (sharp moved >= 2 pts toward) | 68 | 57.4% | 62.0% | -12.5% | -3.5% |
+| steam side (sharp moved >= 2 pts toward) | 69 | 58.0% | 62.4% | -12.2% | -3.3% |
 | steam + DK lagging | 11 | 54.5% | 69.1% | -16.5% | -7.8% |
 
