@@ -313,3 +313,5 @@ Rules from this (they override earlier notes where they conflict):
 - New tag `nfllive:<markets>` (odds.yml) pulls props for NFL games in progress (Pinnacle posts none; FD/BetRivers/ESPN/WH/DK do).
 - Halftime pace model said Brissett 286+ pass yds −115 was ~55–60%; books had the main line at 287.5–289.5 (50/50) → ~52%, slightly −EV. Model-only leans on live props get checked against the consensus first.
 - Lambert-Smith 1+ rec +255 looked like +38% in the model; ESPN had +220, DK main +240 → the market agreed, the model was missing role info. Big unexplained gaps = info, not edge.
+- New tag `nbalive:<markets>` pulls live NBA props (FD/ESPN/WH/DK; no Pinnacle). Files: data/odds/nba/<date>/live_HHMM.csv.
+- Pinnacle's live NBA game lines in the Odds API feed look stale at halftime (MIN −3.5 vs books −6.5; PHX@DEN DEN −7 / 225 vs books −4.5/−5.5 / 222). Don't price live NBA off Pinnacle alone; use the FD/MGM/ESPN/Caesars consensus.
