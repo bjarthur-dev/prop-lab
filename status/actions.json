@@ -245,5 +245,12 @@
   "tier": "paid",
   "nflx": 506,
   "credits_remaining": "14842"
+ },
+ "odds_nbalive:player_points_rebounds_assists,player_double_double,player_triple_double": {
+  "last_ok": "2026-11-17T13:47:16-05:00",
+  "tag": "nbalive:player_points_rebounds_assists,player_double_double,player_triple_double",
+  "tier": "paid",
+  "nflx": 1029,
+  "credits_remaining": "14716"
  }
 }
