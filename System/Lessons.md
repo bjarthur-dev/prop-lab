@@ -322,3 +322,11 @@ Rules from this (they override earlier notes where they conflict):
 - DK sides that were +EV early (n=158): DK's price got worse for that side 76% of the time (away 6%), mean +2.7 pts implied; early EV >= 2% (n=21): 90% / 0%, +3.3 pts; >= 4% (n=4): 4/4, +5.0 pts.
 - The consensus itself barely moved (-0.2 to -0.3 pts), so the early edge is DK lagging the market, not noise; DK catches up before tip.
 - Rule: when a DK leg is fair-or-better vs the consensus in the morning, place it then; waiting usually costs ~3 pts of probability. Small samples at >= 2% — keep re-running as data grows.
+
+## 11-17 review (promo night: +$15.27 on $21 risked)
+- Results: SGPx #352 W (+22.17), KotC prop #353 W (+6.10, no bonus — Doncic 50 PRA beat Wemby 47), CBB parlay #351 L (SIU lost; 2/3), Pick6 #354/#355 L (Gimme hit both times; 1x legs Quickley/Towns/White missed).
+- CLV: sportsbook legs mostly beat the close (UND -122 -> -135, SIU -125 -> -135, Barrett -112 -> -126, Brunson -120 -> -136); Troy and Lopez (13.5 -> 12.5) went against us.
+- Pick6 1x picks at ~52% (consensus) drifted to ~48-49% by tip (Quickley, Towns, White). Pick6 sets its lines near the market; treat <54% Pick6 "edges" as noise. With a Gimme, coin-flip 1x picks are still +EV; without one, need >=55% on all picks (6x 3-pick).
+- Passes graded: 40% Bet & Earn slip (Lopez/Jenkins/Holiday) would have lost; Collins/Barrett/Gobert and Holiday/Gobert slips would have lost; 0.9x Pick6 entries (Cade/Avdija, Peterson/Camara) would have lost. Skips were right.
+- Morning edges vanish fast: 11-18 Paul George U3.5 ast went +102 -> -125 within ~40 minutes of DK posting. Place flagged early legs immediately. Clv_study re-run (24 days): early EV>=0 n=164 -> 77% move toward us; >=2% n=21 -> 90%.
+- Sizing: ran ~46% of bankroll in one night on promos. Positive outcome, but over Rules v2's 15% nightly cap; keep promo nights to <=25% unless EV is unusually high (e.g., a Gimme).
