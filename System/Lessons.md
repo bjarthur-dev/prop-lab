@@ -330,3 +330,11 @@ Rules from this (they override earlier notes where they conflict):
 - Passes graded: 40% Bet & Earn slip (Lopez/Jenkins/Holiday) would have lost; Collins/Barrett/Gobert and Holiday/Gobert slips would have lost; 0.9x Pick6 entries (Cade/Avdija, Peterson/Camara) would have lost. Skips were right.
 - Morning edges vanish fast: 11-18 Paul George U3.5 ast went +102 -> -125 within ~40 minutes of DK posting. Place flagged early legs immediately. Clv_study re-run (24 days): early EV>=0 n=164 -> 77% move toward us; >=2% n=21 -> 90%.
 - Sizing: ran ~46% of bankroll in one night on promos. Positive outcome, but over Rules v2's 15% nightly cap; keep promo nights to <=25% unless EV is unusually high (e.g., a Gimme).
+
+## 2026-11-18 review (placed bets)
+- Place the single best straight FIRST, then build parlays. Caleb Martin U1.5 ast +127 (+4.6%, best edge of the day) was pulled at 09:36 while the boosted parlay was being rebuilt; never got placed.
+- Board timeline: 09:32 one real edge (Martin) -> 09:49 all legs within +/-2% -> 15:15 one edge (Mara U9.5 pts +108, +4%). Morning edges die within ~30 min; afternoon re-run found a fresh one.
+- Boosts carry the value when legs are near fair: 25% parlay boost ~ +25-30% on a ~+1600 4-leg; 30% single-prop boost ~ +9-10% on a -125 prop.
+- Betr 2-pick pays 2.9x (not 3x): discount (~60%) + normal (~54%) = ~-4%. Fine with Betr Bucks only.
+- Discount pricing from alt ladders: shift = median alt-over implied gap between lines x ~0.93, added to devigged main fair. Flagg 21.5 vs 23.5 = +11 pts.
+- Staking: user went 2.5-4x over recommended on two singles (Giannis $10 vs $4, Mara $8.23 vs $2); day risk 35% of bankroll vs ~25% cap. Keep restating stake + reason with each pick.
