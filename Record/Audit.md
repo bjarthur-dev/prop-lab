@@ -1,10 +1,10 @@
 # Audit (real money)
 
-Updated 2026-11-17 14:46 ET. Built by engine/audit.py.
+Updated 2026-11-18 08:23 ET. Built by engine/audit.py.
 
 - Settled bets: **116**, staked **$687.94**, profit **$+155.73** (+23%).
 - Without the single biggest win ($105.67): **$+50.06**. That is the number to judge the method by.
-- Open bets: 2.
+- Open bets: 5.
 
 ## By bet type
 
