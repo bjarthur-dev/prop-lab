@@ -338,3 +338,4 @@ Rules from this (they override earlier notes where they conflict):
 - Betr 2-pick pays 2.9x (not 3x): discount (~60%) + normal (~54%) = ~-4%. Fine with Betr Bucks only.
 - Discount pricing from alt ladders: shift = median alt-over implied gap between lines x ~0.93, added to devigged main fair. Flagg 21.5 vs 23.5 = +11 pts.
 - Staking: user went 2.5-4x over recommended on two singles (Giannis $10 vs $4, Mara $8.23 vs $2); day risk 35% of bankroll vs ~25% cap. Keep restating stake + reason with each pick.
+- 11-18 results: 4 of 7 single legs lost by 1-2 units (White 12 v 13.5, da Silva 12 v 10.5, Mara 10 v 9.5, Giannis 14 v 12.5). Picks were ~coin flips at +2-10% EV; outcome variance, not model error. Oversized stakes ($10, $8.23) turned a -$3 day into -$21. Missed/declined: Martin U1.5 ast (3 ast, would have lost), Gillespie O3.5 reb (3, would have lost), Mara U7.5 reb (6, would have won). Betr discount slip hit (Flagg 33, Brooks 29).
