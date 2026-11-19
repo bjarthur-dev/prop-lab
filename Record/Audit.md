@@ -1,21 +1,21 @@
 # Audit (real money)
 
-Updated 2026-11-18 14:21 ET. Built by engine/audit.py.
+Updated 2026-11-19 08:24 ET. Built by engine/audit.py.
 
-- Settled bets: **121**, staked **$708.94**, profit **$+171.00** (+24%).
-- Without the single biggest win ($105.67): **$+65.33**. That is the number to judge the method by.
-- Open bets: 1.
+- Settled bets: **125**, staked **$735.17**, profit **$+159.27** (+22%).
+- Without the single biggest win ($105.67): **$+53.60**. That is the number to judge the method by.
+- Open bets: 0.
 
 ## By bet type
 
 | kind       |   bets |   staked |   profit |   wins |   roi_pct |
 |:-----------|-------:|---------:|---------:|-------:|----------:|
-| parlay     |     55 |   296.72 |   219.31 |     17 |        74 |
+| parlay     |     56 |   299.72 |   216.31 |     17 |        72 |
 | moonshot   |      9 |   181    |   -47.4  |      3 |       -26 |
-| single     |     27 |   121.84 |   -23.41 |     11 |       -19 |
+| single     |     29 |   140.07 |   -41.64 |     11 |       -30 |
 | pick6      |     27 |    80    |    16.71 |      4 |        21 |
 | live_hedge |      1 |    16.38 |   -16.38 |      0 |      -100 |
-| betr       |      1 |    10    |     0    |      0 |         0 |
+| betr       |      2 |    15    |     9.5  |      1 |        63 |
 | sgpx       |      1 |     3    |    22.17 |      1 |       739 |
 
 ## By day
@@ -42,11 +42,12 @@ Updated 2026-11-18 14:21 ET. Built by engine/audit.py.
 | 2026-11-15 |      8 |   216.05 |    17.12 |
 | 2026-11-16 |      5 |    20    |     1.96 |
 | 2026-11-17 |      5 |    21    |    15.27 |
+| 2026-11-18 |      4 |    26.23 |   -11.73 |
 
 ## Did our stated hit chances come true?
 
-- 82 bets carried a stated chance. They added up to **24.7 expected wins**; **23 won**.
-- Chance of doing this badly by luck alone if the numbers were right: **38%**.
+- 86 bets carried a stated chance. They added up to **26.1 expected wins**; **24 won**.
+- Chance of doing this badly by luck alone if the numbers were right: **35%**.
 - Under ~10% means the stated chances were too high, not that we were unlucky.
 
 ## Closing-line value (singles with a recorded close)

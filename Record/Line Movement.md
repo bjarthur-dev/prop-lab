@@ -2,30 +2,30 @@
 
 Opening = first saved snapshot, closing = last saved snapshot before start (no-vig consensus, Pinnacle 2x, FanDuel 1.5x).
 
-## Game moneylines (ncaab 527, ncaaf 63, nfl 16)
-460 games with 2+ snapshots. Brier (lower = more accurate): open 0.1446, close 0.1429 -> close more accurate.
+## Game moneylines (ncaab 557, ncaaf 66, nfl 5)
+479 games with 2+ snapshots. Brier (lower = more accurate): open 0.1477, close 0.1463 -> close more accurate.
 
 | moved toward a side by | n | open said | close said | that side won | won - open | noise ± |
 |---|---|---|---|---|---|---|
-| 1-2 pts | 86 | 50.5% | 52.0% | 58.1% | +7.6 | 4.3 |
-| 2-4 pts | 76 | 50.4% | 53.3% | 59.2% | +8.8 | 5.1 |
-| 4-8 pts | 37 | 54.0% | 59.4% | 59.5% | +5.4 | 7.5 |
-| 8-100 pts | 18 | 56.7% | 67.4% | 66.7% | +9.9 | 11.2 |
+| 1-2 pts | 93 | 50.3% | 51.8% | 55.9% | +5.6 | 4.1 |
+| 2-4 pts | 81 | 51.4% | 54.3% | 63.0% | +11.6 | 4.9 |
+| 4-8 pts | 39 | 51.6% | 57.1% | 53.8% | +2.2 | 7.4 |
+| 8-100 pts | 17 | 55.5% | 66.1% | 64.7% | +9.2 | 11.4 |
 
 ## NBA player props (over side, same line at open and close)
-158 props with 2+ snapshots. Brier (lower = more accurate): open 0.2477, close 0.2522 -> open more accurate.
+162 props with 2+ snapshots. Brier (lower = more accurate): open 0.2474, close 0.2520 -> open more accurate.
 
 | moved toward a side by | n | open said | close said | that side won | won - open | noise ± |
 |---|---|---|---|---|---|---|
 | 1-2 pts | 42 | 50.7% | 52.0% | 54.8% | +4.1 | 7.7 |
-| 2-4 pts | 38 | 49.8% | 52.6% | 47.4% | -2.4 | 8.1 |
+| 2-4 pts | 40 | 49.8% | 52.5% | 45.0% | -4.8 | 7.9 |
 | 4-8 pts | 15 | 48.3% | 53.3% | 33.3% | -15.0 | 12.9 |
 | 8-100 pts | 6 | 46.3% | 56.2% | 16.7% | -29.7 | 20.3 |
 
 Read: if 'that side won' beats 'open said' by more than ~2x noise, line moves carry information -> bet early with the move / avoid betting against it. If close is more accurate than open, our prices should always come from the latest snapshot.
 ## NBA props by implied mean (line changes included)
-7615 player-stat-days with an open and a close snapshot (median gap 4.8 h).
-Average miss: open mean 3.03, close mean 3.02 (close more accurate).
+8214 player-stat-days with an open and a close snapshot (median gap 5.1 h).
+Average miss: open mean 3.04, close mean 3.03 (close more accurate).
 
 ### Found on (Oct 24 - Nov 14)
 | stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |
@@ -44,16 +44,17 @@ Average miss: open mean 3.03, close mean 3.02 (close more accurate).
 | ALL | 0.75-1.5 | 251 | 1.02 | +1.36 ± 0.44 | 133% |
 | ALL | 1.5-99 | 111 | 2.32 | +1.47 ± 0.73 | 63% |
 
-### Forward test (from Nov 15, 1142 so far)
+### Forward test (from Nov 15, 1741 so far)
 | stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |
 |---|---|---|---|---|---|
-| ast | 0.25-0.75 | 28 | 0.36 | +0.73 ± 0.35 | 203% |
-| pra | 0.25-0.75 | 66 | 0.46 | -0.33 ± 1.09 | -72% |
-| pra | 0.75-1.5 | 21 | 0.97 | +0.75 ± 1.45 | 77% |
-| pts | 0.25-0.75 | 69 | 0.46 | +0.12 ± 0.80 | 27% |
-| pts | 0.75-1.5 | 35 | 0.93 | -0.56 ± 1.11 | -60% |
-| reb | 0.25-0.75 | 37 | 0.39 | +0.84 ± 0.39 | 214% |
-| ALL | 0.25-0.75 | 205 | 0.43 | +0.18 ± 0.45 | 42% |
-| ALL | 0.75-1.5 | 59 | 0.95 | -0.04 ± 0.83 | -4% |
+| ast | 0.25-0.75 | 41 | 0.37 | +1.01 ± 0.32 | 272% |
+| pra | 0.25-0.75 | 86 | 0.45 | -0.25 ± 0.92 | -55% |
+| pra | 0.75-1.5 | 22 | 0.97 | +1.18 ± 1.45 | 122% |
+| pts | 0.25-0.75 | 103 | 0.46 | +0.39 ± 0.66 | 84% |
+| pts | 0.75-1.5 | 54 | 0.95 | -1.03 ± 0.82 | -108% |
+| reb | 0.25-0.75 | 65 | 0.40 | +0.62 ± 0.34 | 157% |
+| ALL | 0.25-0.75 | 303 | 0.43 | +0.33 ± 0.35 | 77% |
+| ALL | 0.75-1.5 | 85 | 0.96 | -0.32 ± 0.65 | -33% |
+| ALL | 1.5-99 | 18 | 2.11 | +0.93 ± 1.18 | 44% |
 
 Share realised ~100% = the move was right and the close is fair; >100% = moves under-react (bet with moves early); <0% = moves are noise/overreaction.

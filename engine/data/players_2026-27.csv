@@ -4637,3 +4637,271 @@ SEASON_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_ABBREVIATION,TEAM_NAME,GAME_ID,GAME
 22026,1641711,Gradey Dick,1610612746,LAC,LA Clippers,cloud-2026-11-17-UTA@LAC,2026-11-17,LAC vs. UTA,,17.0,,,,0,0.0,,,,,0.0,0.0,0,1,0.0,0.0,0.0,,0,,,-1
 22026,1643413,Keaton Wagler,1610612746,LAC,LA Clippers,cloud-2026-11-17-UTA@LAC,2026-11-17,LAC vs. UTA,,18.0,,,,1,3.0,,,,,1.0,1.0,2,0,0.0,0.0,1.0,,15,,,-1
 22026,1642394,Baba Miller,1610612746,LAC,LA Clippers,cloud-2026-11-17-UTA@LAC,2026-11-17,LAC vs. UTA,,4.0,,,,1,2.0,,,,,0.0,0.0,0,0,0.0,0.0,2.0,,3,,,-1
+22026,-7723624,Hezonja Mario,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,28.0,,,,2,5.0,,,,,1.0,6.0,7,5,1.0,0.0,0.0,,16,,,-1
+22026,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,30.0,,,,0,1.0,,,,,5.0,4.0,9,4,1.0,0.0,4.0,,19,,,-1
+22026,201935,James Harden,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,36.0,,,,3,7.0,,,,,1.0,5.0,6,9,0.0,1.0,3.0,,14,,,-1
+22026,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,35.0,,,,2,9.0,,,,,2.0,2.0,4,3,1.0,0.0,3.0,,34,,,-1
+22026,1642878,Tyrese Proctor,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,26.0,,,,2,4.0,,,,,1.0,0.0,1,1,0.0,0.0,0.0,,8,,,-1
+22026,1628418,Thomas Bryant,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,12.0,,,,1,3.0,,,,,0.0,4.0,4,0,0.0,1.0,0.0,,5,,,-1
+22026,-6985582,N. Omier,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,16.0,,,,0,1.0,,,,,5.0,2.0,7,0,1.0,1.0,0.0,,2,,,-1
+22026,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,23.0,,,,1,4.0,,,,,2.0,0.0,2,3,2.0,0.0,0.0,,7,,,-1
+22026,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,12.0,,,,0,1.0,,,,,2.0,1.0,3,1,0.0,2.0,0.0,,2,,,-1
+22026,1643509,Meleek Thomas,1610612739,CLE,Cleveland Cavaliers,cloud-2026-11-18-MEM@CLE,2026-11-18,CLE vs. MEM,,22.0,,,,4,6.0,,,,,1.0,1.0,2,2,1.0,0.0,1.0,,14,,,-1
+22026,1642907,Cedric Coward,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,33.0,,,,4,7.0,,,,,1.0,2.0,3,5,2.0,0.0,2.0,,20,,,-1
+22026,1643409,Cameron Boozer,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,28.0,,,,1,3.0,,,,,1.0,7.0,8,5,4.0,1.0,1.0,,18,,,-1
+22026,1642377,Jaylen Wells,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,26.0,,,,1,3.0,,,,,0.0,4.0,4,2,0.0,0.0,1.0,,5,,,-1
+22026,1641744,Zach Edey,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,21.0,,,,0,0.0,,,,,0.0,2.0,2,1,2.0,0.0,1.0,,11,,,-1
+22026,1642285,Cam Spencer,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,29.0,,,,5,6.0,,,,,0.0,1.0,1,7,0.0,1.0,2.0,,26,,,-1
+22026,203924,Jerami Grant,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,20.0,,,,1,3.0,,,,,0.0,0.0,0,1,0.0,1.0,2.0,,8,,,-1
+22026,1631200,Kris Murray,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,6.0,,,,1,4.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,5,,,-1
+22026,1641765,Olivier-Maxence Prosper,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,16.0,,,,0,2.0,,,,,0.0,2.0,2,0,0.0,0.0,1.0,,5,,,-1
+22026,1641707,Taylor Hendricks,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,21.0,,,,1,2.0,,,,,2.0,4.0,6,2,0.0,2.0,0.0,,18,,,-1
+22026,1642366,Quinten Post,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,6.0,,,,1,1.0,,,,,0.0,2.0,2,0,0.0,0.0,0.0,,3,,,-1
+22026,1642942,Jahmai Mashack,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,13.0,,,,1,4.0,,,,,0.0,2.0,2,2,0.0,1.0,0.0,,3,,,-1
+22026,1642914,Javon Small,1610612763,MEM,Memphis Grizzlies,cloud-2026-11-18-MEM@CLE,2026-11-18,MEM @ CLE,,21.0,,,,0,4.0,,,,,1.0,3.0,4,5,1.0,0.0,1.0,,2,,,-1
+22026,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,33.0,,,,2,2.0,,,,,1.0,3.0,4,3,3.0,1.0,1.0,,24,,,-1
+22026,1627826,Ivica Zubac,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,24.0,,,,0,0.0,,,,,1.0,2.0,3,4,0.0,1.0,1.0,,4,,,-1
+22026,1626162,Kelly Oubre Jr.,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,23.0,,,,2,5.0,,,,,0.0,4.0,4,0,0.0,1.0,2.0,,17,,,-1
+22026,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,29.0,,,,0,3.0,,,,,0.0,3.0,3,3,1.0,1.0,1.0,,2,,,-1
+22026,1631245,Quenton Jackson,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,22.0,,,,2,3.0,,,,,2.0,0.0,2,3,3.0,0.0,3.0,,15,,,-1
+22026,1626204,Larry Nance Jr.,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,9.0,,,,1,3.0,,,,,0.0,1.0,1,0,0.0,0.0,0.0,,3,,,-1
+22026,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,17.0,,,,0,3.0,,,,,0.0,1.0,1,1,0.0,0.0,0.0,,6,,,-1
+22026,1641771,Jalen Slawson,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,12.0,,,,1,4.0,,,,,1.0,3.0,4,2,1.0,0.0,0.0,,5,,,-1
+22026,1641716,Jarace Walker,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,17.0,,,,0,3.0,,,,,0.0,3.0,3,1,1.0,0.0,1.0,,1,,,-1
+22026,1630643,Jay Huff,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,15.0,,,,0,4.0,,,,,1.0,2.0,3,0,0.0,2.0,0.0,,5,,,-1
+22026,-2590964,T.J. McConnell,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,18.0,,,,0,0.0,,,,,1.0,1.0,2,5,2.0,0.0,2.0,,14,,,-1
+22026,1641738,Kobe Brown,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,2.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,0,,,-1
+22026,1643552,Braden Smith,1610612754,IND,Indiana Pacers,cloud-2026-11-18-HOU@IND,2026-11-18,IND vs. HOU,,18.0,,,,2,4.0,,,,,0.0,5.0,5,3,2.0,0.0,0.0,,8,,,-1
+22026,201142,Kevin Durant,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,32.0,,,,4,5.0,,,,,0.0,2.0,2,3,0.0,0.0,2.0,,21,,,-1
+22026,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,26.0,,,,3,6.0,,,,,0.0,4.0,4,2,0.0,1.0,0.0,,17,,,-1
+22026,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,14.0,,,,1,1.0,,,,,3.0,4.0,7,1,0.0,0.0,3.0,,7,,,-1
+22026,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,27.0,,,,3,7.0,,,,,0.0,2.0,2,6,1.0,0.0,2.0,,15,,,-1
+22026,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,31.0,,,,0,1.0,,,,,1.0,8.0,9,3,1.0,1.0,3.0,,15,,,-1
+22026,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,1.0,,,,0,0.0,,,,,0.0,0.0,0,1,0.0,0.0,0.0,,0,,,-1
+22026,1631106,Tari Eason,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,25.0,,,,1,3.0,,,,,2.0,2.0,4,3,2.0,0.0,3.0,,11,,,-1
+22026,1642384,Isaiah Crawford,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,2.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,0,,,-1
+22026,203500,Steven Adams,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,16.0,,,,0,0.0,,,,,3.0,2.0,5,2,0.0,0.0,0.0,,4,,,-1
+22026,1631131,Oscar Tshiebwe,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,11.0,,,,0,0.0,,,,,2.0,2.0,4,3,1.0,0.0,0.0,,4,,,-1
+22026,203935,Marcus Smart,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,18.0,,,,1,2.0,,,,,0.0,2.0,2,4,1.0,1.0,2.0,,4,,,-1
+22026,203992,Bogdan Bogdanović,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,11.0,,,,0,3.0,,,,,1.0,2.0,3,0,0.0,0.0,1.0,,1,,,-1
+22026,1642263,Reed Sheppard,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,25.0,,,,6,7.0,,,,,1.0,3.0,4,2,1.0,1.0,0.0,,20,,,-1
+22026,1643570,Bruce Thornton,1610612745,HOU,Houston Rockets,cloud-2026-11-18-HOU@IND,2026-11-18,HOU @ IND,,1.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,0,,,-1
+22026,203507,Giannis Antetokounmpo,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,32.0,,,,0,1.0,,,,,3.0,11.0,14,9,1.0,1.0,2.0,,27,,,-1
+22026,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,30.0,,,,3,8.0,,,,,2.0,2.0,4,2,2.0,0.0,3.0,,26,,,-1
+22026,202691,Klay Thompson,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,23.0,,,,4,10.0,,,,,0.0,1.0,1,1,0.0,1.0,0.0,,13,,,-1
+22026,1630558,Davion Mitchell,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,36.0,,,,6,7.0,,,,,0.0,2.0,2,6,0.0,1.0,4.0,,24,,,-1
+22026,1641796,Pelle Larsson,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,15.0,,,,1,2.0,,,,,0.0,2.0,2,2,1.0,0.0,3.0,,4,,,-1
+22026,203952,Andrew Wiggins,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,26.0,,,,1,4.0,,,,,0.0,2.0,2,2,0.0,0.0,1.0,,11,,,-1
+22026,1626171,Bobby Portis Jr.,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,17.0,,,,1,5.0,,,,,0.0,3.0,3,0,0.0,0.0,2.0,,9,,,-1
+22026,1631323,Simone Fontecchio,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,18.0,,,,2,2.0,,,,,2.0,3.0,5,1,2.0,0.0,1.0,,6,,,-1
+22026,1631107,Nikola Jović,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,14.0,,,,1,3.0,,,,,1.0,0.0,1,4,0.0,1.0,2.0,,4,,,-1
+22026,1630208,Nick Richards,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,1.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,0,,,-1
+22026,-5509620,T. Donaldson,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,1.0,,,,0,1.0,,,,,0.0,0.0,0,0,0.0,0.0,1.0,,0,,,-1
+22026,1643553,Ryan Conwell,1610612748,MIA,Miami Heat,cloud-2026-11-18-MIL@MIA,2026-11-18,MIA vs. MIL,,26.0,,,,3,5.0,,,,,2.0,1.0,3,1,1.0,1.0,1.0,,13,,,-1
+22026,1628398,Kyle Kuzma,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,30.0,,,,2,5.0,,,,,1.0,4.0,5,1,2.0,1.0,3.0,,26,,,-1
+22026,1626167,Myles Turner,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,21.0,,,,0,2.0,,,,,3.0,2.0,5,4,0.0,3.0,1.0,,4,,,-1
+22026,1630579,Jericho Sims,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,18.0,,,,0,0.0,,,,,2.0,4.0,6,2,0.0,0.0,2.0,,4,,,-1
+22026,1629639,Tyler Herro,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,24.0,,,,0,5.0,,,,,2.0,0.0,2,4,1.0,0.0,0.0,,8,,,-1
+22026,1643415,Brayden Burries,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,25.0,,,,3,5.0,,,,,0.0,7.0,7,1,2.0,0.0,3.0,,20,,,-1
+22026,1631170,Jaime Jaquez Jr.,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,23.0,,,,1,4.0,,,,,0.0,2.0,2,5,0.0,0.0,2.0,,10,,,-1
+22026,1643417,Nate Ament,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,17.0,,,,0,3.0,,,,,1.0,3.0,4,1,0.0,0.0,3.0,,7,,,-1
+22026,1642276,Kel'el Ware,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,17.0,,,,1,2.0,,,,,2.0,1.0,3,1,1.0,0.0,0.0,,11,,,-1
+22026,-2684515,Caris LeVert,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,8.0,,,,1,2.0,,,,,0.0,3.0,3,2,0.0,0.0,1.0,,8,,,-1
+22026,1629018,Gary Trent Jr.,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,16.0,,,,0,3.0,,,,,1.0,0.0,1,0,2.0,0.0,0.0,,1,,,-1
+22026,1631260,AJ Green,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,14.0,,,,3,5.0,,,,,0.0,0.0,0,1,0.0,0.0,0.0,,11,,,-1
+22026,1642857,Kasparas Jakučionis,1610612749,MIL,Milwaukee Bucks,cloud-2026-11-18-MIL@MIA,2026-11-18,MIL @ MIA,,26.0,,,,3,5.0,,,,,1.0,2.0,3,5,2.0,0.0,0.0,,20,,,-1
+22026,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,36.0,,,,1,6.0,,,,,4.0,4.0,8,11,2.0,2.0,1.0,,27,,,-1
+22026,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,32.0,,,,2,4.0,,,,,3.0,5.0,8,3,0.0,1.0,0.0,,15,,,-1
+22026,1630217,Desmond Bane,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,38.0,,,,5,9.0,,,,,0.0,3.0,3,3,1.0,0.0,2.0,,15,,,-1
+22026,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,31.0,,,,5,6.0,,,,,1.0,7.0,8,4,2.0,1.0,5.0,,18,,,-1
+22026,1641710,Anthony Black,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,37.0,,,,2,5.0,,,,,0.0,2.0,2,6,1.0,1.0,2.0,,15,,,-1
+22026,1631288,Jamal Cain,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,4.0,,,,0,0.0,,,,,0.0,1.0,1,0,0.0,0.0,0.0,,0,,,-1
+22026,-331252,Tristan Silva da,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,27.0,,,,2,4.0,,,,,0.0,2.0,2,0,0.0,0.0,0.0,,12,,,-1
+22026,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,20.0,,,,0,0.0,,,,,0.0,3.0,3,1,1.0,1.0,0.0,,8,,,-1
+22026,1628975,Jevon Carter,1610612753,ORL,Orlando Magic,cloud-2026-11-18-PHI@ORL,2026-11-18,ORL vs. PHI,,16.0,,,,2,3.0,,,,,1.0,1.0,2,3,0.0,0.0,1.0,,6,,,-1
+22026,203944,Julius Randle,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,27.0,,,,3,5.0,,,,,0.0,0.0,0,4,1.0,0.0,2.0,,17,,,-1
+22026,1629008,Michael Porter Jr.,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,27.0,,,,1,5.0,,,,,0.0,3.0,3,1,1.0,0.0,1.0,,5,,,-1
+22026,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,22.0,,,,0,0.0,,,,,2.0,3.0,5,1,0.0,1.0,2.0,,6,,,-1
+22026,-6212836,Demin Egor,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,31.0,,,,3,12.0,,,,,2.0,2.0,4,4,3.0,0.0,2.0,,22,,,-1
+22026,1642849,Nolan Traore,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,23.0,,,,1,3.0,,,,,0.0,1.0,1,4,0.0,0.0,1.0,,13,,,-1
+22026,1631169,Josh Minott,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,4.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,1.0,0.0,,0,,,-1
+22026,1641730,Noah Clowney,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,19.0,,,,1,4.0,,,,,1.0,2.0,3,1,0.0,0.0,1.0,,7,,,-1
+22026,1642874,Danny Wolf,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,23.0,,,,1,1.0,,,,,1.0,5.0,6,2,0.0,0.0,3.0,,6,,,-1
+22026,1643052,Chaney Johnson,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,6.0,,,,0,1.0,,,,,0.0,2.0,2,1,0.0,2.0,0.0,,2,,,-1
+22026,1629021,Moritz Wagner,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,20.0,,,,2,2.0,,,,,2.0,0.0,2,3,1.0,0.0,2.0,,11,,,-1
+22026,1629611,Terance Mann,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,5.0,,,,0,0.0,,,,,0.0,1.0,1,0,0.0,0.0,1.0,,0,,,-1
+22026,1631165,Keon Ellis,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,6.0,,,,1,2.0,,,,,0.0,1.0,1,0,0.0,0.0,0.0,,3,,,-1
+22026,1643414,Mikel Brown Jr.,1610612751,BKN,Brooklyn Nets,cloud-2026-11-18-CHI@BKN,2026-11-18,BKN vs. CHI,,27.0,,,,2,6.0,,,,,1.0,0.0,1,4,0.0,0.0,5.0,,15,,,-1
+22026,1630188,Jalen Smith,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,21.0,,,,2,5.0,,,,,5.0,1.0,6,3,1.0,0.0,2.0,,14,,,-1
+22026,1630171,Isaac Okoro,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,25.0,,,,4,6.0,,,,,1.0,2.0,3,4,1.0,0.0,1.0,,12,,,-1
+22026,1641824,Matas Buzelis,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,30.0,,,,5,9.0,,,,,1.0,4.0,5,4,2.0,1.0,2.0,,25,,,-1
+22026,1626181,Norman Powell,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,26.0,,,,5,9.0,,,,,1.0,1.0,2,5,1.0,0.0,0.0,,17,,,-1
+22026,1630581,Josh Giddey,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,28.0,,,,1,4.0,,,,,4.0,10.0,14,9,1.0,0.0,4.0,,18,,,-1
+22026,1628380,Zach Collins,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,11.0,,,,1,1.0,,,,,1.0,1.0,2,0,0.0,1.0,0.0,,3,,,-1
+22026,-7526768,Patrick Williams,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,13.0,,,,0,0.0,,,,,0.0,1.0,1,2,0.0,1.0,0.0,,2,,,-1
+22026,1631159,Leonard Miller,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,7.0,,,,0,1.0,,,,,0.0,2.0,2,0,0.0,0.0,0.0,,4,,,-1
+22026,1642855,Noa Essengue,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,15.0,,,,0,1.0,,,,,2.0,1.0,3,0,1.0,0.0,3.0,,5,,,-1
+22026,-7621102,Nic Claxton,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,22.0,,,,0,0.0,,,,,2.0,2.0,4,1,1.0,0.0,0.0,,14,,,-1
+22026,1627741,Buddy Hield,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,19.0,,,,3,6.0,,,,,0.0,1.0,1,2,1.0,0.0,0.0,,11,,,-1
+22026,1630200,Tre Jones,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,16.0,,,,0,1.0,,,,,0.0,2.0,2,6,0.0,0.0,2.0,,10,,,-1
+22026,1643517,Dailyn Swain,1610612741,CHI,Chicago Bulls,cloud-2026-11-18-CHI@BKN,2026-11-18,CHI @ BKN,,6.0,,,,0,3.0,,,,,1.0,0.0,1,0,0.0,0.0,0.0,,2,,,-1
+22026,1642419,Jamison Battle,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,33.0,,,,5,10.0,,,,,2.0,3.0,5,0,1.0,0.0,0.0,,19,,,-1
+22026,1642867,Collin Murray-Boyles,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,5.0,,,,0,1.0,,,,,0.0,2.0,2,1,0.0,0.0,0.0,,1,,,-1
+22026,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,29.0,,,,0,0.0,,,,,3.0,6.0,9,5,3.0,1.0,3.0,,8,,,-1
+22026,1630193,Immanuel Quickley,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,34.0,,,,4,9.0,,,,,0.0,3.0,3,5,1.0,0.0,1.0,,24,,,-1
+22026,1642266,Ja'Kobe Walter,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,38.0,,,,3,8.0,,,,,2.0,5.0,7,6,3.0,0.0,2.0,,18,,,-1
+22026,203937,Kyle Anderson,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,4.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,0,,,-1
+22026,-9763700,Trayce JacksonDavis,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,17.0,,,,0,0.0,,,,,2.0,5.0,7,1,1.0,1.0,0.0,,3,,,-1
+22026,1643512,Allen Graves,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,31.0,,,,1,3.0,,,,,1.0,3.0,4,0,0.0,1.0,0.0,,9,,,-1
+22026,-171245,Malachi Smith,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,8.0,,,,0,1.0,,,,,1.0,0.0,1,3,0.0,0.0,0.0,,0,,,-1
+22026,1642347,Jamal Shead,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,24.0,,,,1,3.0,,,,,0.0,1.0,1,6,0.0,0.0,1.0,,15,,,-1
+22026,1642918,Alijah Martin,1610612761,TOR,Toronto Raptors,cloud-2026-11-18-WAS@TOR,2026-11-18,TOR vs. WAS,,17.0,,,,0,1.0,,,,,0.0,2.0,2,0,0.0,0.0,0.0,,2,,,-1
+22026,203076,Anthony Davis,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,34.0,,,,2,3.0,,,,,3.0,11.0,14,2,1.0,2.0,3.0,,25,,,-1
+22026,1643407,AJ Dybantsa,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,38.0,,,,0,3.0,,,,,4.0,8.0,12,2,1.0,0.0,2.0,,23,,,-1
+22026,1642273,Kyshawn George,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,40.0,,,,4,9.0,,,,,0.0,2.0,2,4,1.0,1.0,1.0,,20,,,-1
+22026,1642259,Alex Sarr,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,22.0,,,,3,4.0,,,,,0.0,2.0,2,3,0.0,3.0,1.0,,13,,,-1
+22026,1629027,Trae Young,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,32.0,,,,1,4.0,,,,,0.0,1.0,1,8,1.0,0.0,3.0,,11,,,-1
+22026,203114,Khris Middleton,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,20.0,,,,1,3.0,,,,,0.0,4.0,4,1,0.0,0.0,2.0,,8,,,-1
+22026,1629028,Deandre Ayton,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,9.0,,,,0,0.0,,,,,2.0,1.0,3,0,0.0,0.0,0.0,,0,,,-1
+22026,1641731,Bilal Coulibaly,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,26.0,,,,0,1.0,,,,,1.0,7.0,8,2,0.0,1.0,1.0,,3,,,-1
+22026,1642860,Will Riley,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,10.0,,,,0,2.0,,,,,1.0,2.0,3,0,0.0,0.0,2.0,,0,,,-1
+22026,1642848,Tre Johnson,1610612764,WAS,Washington Wizards,cloud-2026-11-18-WAS@TOR,2026-11-18,WAS @ TOR,,8.0,,,,0,1.0,,,,,1.0,1.0,2,0,0.0,0.0,0.0,,0,,,-1
+22026,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,32.0,,,,3,5.0,,,,,0.0,1.0,1,3,0.0,1.0,1.0,,9,,,-1
+22026,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,32.0,,,,0,0.0,,,,,4.0,3.0,7,1,0.0,0.0,3.0,,24,,,-1
+22026,1630180,Saddiq Bey,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,42.0,,,,2,7.0,,,,,1.0,7.0,8,6,1.0,0.0,2.0,,10,,,-1
+22026,1642274,Yves Missi,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,17.0,,,,0,0.0,,,,,1.0,4.0,5,2,0.0,0.0,1.0,,4,,,-1
+22026,1642847,Jeremiah Fears,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,31.0,,,,2,5.0,,,,,0.0,5.0,5,4,1.0,1.0,4.0,,16,,,-1
+22026,1631255,Karlo Matković,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,10.0,,,,0,2.0,,,,,0.0,2.0,2,0,1.0,0.0,0.0,,0,,,-1
+22026,201599,DeAndre Jordan,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,10.0,,,,0,0.0,,,,,1.0,1.0,2,1,0.0,0.0,0.0,,8,,,-1
+22026,1642852,Derik Queen,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,19.0,,,,0,1.0,,,,,2.0,3.0,5,0,1.0,1.0,2.0,,9,,,-1
+22026,1629673,Jordan Poole,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,30.0,,,,3,5.0,,,,,1.0,0.0,1,5,2.0,0.0,1.0,,22,,,-1
+22026,-750442,Jaron Pierre Jr.,1610612740,NOP,New Orleans Pelicans,cloud-2026-11-18-DET@NOP,2026-11-18,NOP vs. DET,,17.0,,,,1,3.0,,,,,1.0,0.0,1,1,0.0,0.0,0.0,,7,,,-1
+22026,1628381,John Collins,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,30.0,,,,4,6.0,,,,,2.0,5.0,7,2,0.0,1.0,2.0,,20,,,-1
+22026,1629750,Javonte Green,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,35.0,,,,3,7.0,,,,,1.0,6.0,7,0,2.0,1.0,0.0,,18,,,-1
+22026,1628989,Kevin Huerter,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,36.0,,,,1,4.0,,,,,0.0,1.0,1,7,1.0,1.0,2.0,,11,,,-1
+22026,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,34.0,,,,0,0.0,,,,,1.0,6.0,7,4,2.0,0.0,4.0,,10,,,-1
+22026,1642450,Daniss Jenkins,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,36.0,,,,3,5.0,,,,,3.0,1.0,4,9,0.0,0.0,4.0,,17,,,-1
+22026,1630194,Paul Reed,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,20.0,,,,0,0.0,,,,,2.0,5.0,7,1,0.0,2.0,2.0,,17,,,-1
+22026,1642449,Tolu Smith,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,3.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,3,,,-1
+22026,1630198,Isaiah Joe,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,16.0,,,,3,5.0,,,,,0.0,2.0,2,2,1.0,0.0,0.0,,11,,,-1
+22026,1641989,Elijah Harkless,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,14.0,,,,0,0.0,,,,,0.0,2.0,2,4,1.0,0.0,1.0,,6,,,-1
+22026,1642404,Chaz Lanier,1610612765,DET,Detroit Pistons,cloud-2026-11-18-DET@NOP,2026-11-18,DET @ NOP,,16.0,,,,3,5.0,,,,,0.0,1.0,1,0,0.0,0.0,0.0,,9,,,-1
+22026,1628392,Isaiah Hartenstein,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,27.0,,,,0,0.0,,,,,1.0,16.0,17,6,0.0,1.0,0.0,,6,,,-1
+22026,1643530,Aday Mara,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,27.0,,,,0,0.0,,,,,1.0,5.0,6,8,0.0,1.0,1.0,,10,,,-1
+22026,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,36.0,,,,1,6.0,,,,,1.0,4.0,5,3,2.0,2.0,4.0,,34,,,-1
+22026,1642272,Jared McCain,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,33.0,,,,4,9.0,,,,,1.0,2.0,3,1,1.0,0.0,1.0,,18,,,-1
+22026,1642349,Ajay Mitchell,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,34.0,,,,0,2.0,,,,,0.0,6.0,6,6,0.0,2.0,2.0,,13,,,-1
+22026,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,16.0,,,,1,2.0,,,,,0.0,1.0,1,1,0.0,1.0,2.0,,3,,,-1
+22026,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,9.0,,,,0,1.0,,,,,0.0,0.0,0,1,1.0,0.0,2.0,,5,,,-1
+22026,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,23.0,,,,0,2.0,,,,,1.0,4.0,5,1,1.0,2.0,0.0,,10,,,-1
+22026,1642363,N. Clifford,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,13.0,,,,1,2.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,7,,,-1
+22026,-9690478,Nikola Topic,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,5.0,,,,0,0.0,,,,,0.0,0.0,0,1,0.0,0.0,1.0,,0,,,-1
+22026,1642892,Bennett Stirtz,1610612760,OKC,Oklahoma City Thunder,cloud-2026-11-18-ATL@OKC,2026-11-18,OKC vs. ATL,,17.0,,,,2,2.0,,,,,0.0,0.0,0,2,0.0,0.0,0.0,,6,,,-1
+22026,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,36.0,,,,5,13.0,,,,,2.0,7.0,9,2,0.0,1.0,5.0,,28,,,-1
+22026,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,34.0,,,,1,6.0,,,,,2.0,10.0,12,11,0.0,1.0,3.0,,16,,,-1
+22026,1629638,Nickeil Alexander-Walker,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,32.0,,,,3,7.0,,,,,0.0,4.0,4,7,1.0,0.0,1.0,,19,,,-1
+22026,1630598,Aaron Wiggins,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,26.0,,,,4,8.0,,,,,2.0,1.0,3,1,1.0,0.0,1.0,,14,,,-1
+22026,1630700,Dyson Daniels,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,37.0,,,,0,2.0,,,,,4.0,6.0,10,4,2.0,0.0,1.0,,10,,,-1
+22026,1627827,Dorian Finney-Smith,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,5.0,,,,0,0.0,,,,,0.0,2.0,2,0,1.0,0.0,0.0,,0,,,-1
+22026,1630557,Corey Kispert,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,17.0,,,,2,4.0,,,,,0.0,1.0,1,2,0.0,2.0,0.0,,8,,,-1
+22026,1643544,Zuby Ejiofor,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,12.0,,,,1,2.0,,,,,1.0,2.0,3,0,0.0,0.0,1.0,,3,,,-1
+22026,1629652,Luguentz Dort,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,31.0,,,,3,6.0,,,,,1.0,2.0,3,0,2.0,0.0,0.0,,16,,,-1
+22026,-7246066,RayJ Dennis,1610612737,ATL,Atlanta Hawks,cloud-2026-11-18-ATL@OKC,2026-11-18,ATL @ OKC,,10.0,,,,1,2.0,,,,,2.0,1.0,3,5,1.0,0.0,1.0,,3,,,-1
+22026,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,31.0,,,,0,2.0,,,,,4.0,4.0,8,2,1.0,0.0,2.0,,13,,,-1
+22026,1629661,Cameron Johnson,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,26.0,,,,0,3.0,,,,,1.0,4.0,5,1,1.0,0.0,1.0,,8,,,-1
+22026,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,39.0,,,,3,7.0,,,,,0.0,8.0,8,9,0.0,1.0,2.0,,24,,,-1
+22026,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,38.0,,,,2,6.0,,,,,0.0,7.0,7,2,4.0,2.0,3.0,,21,,,-1
+22026,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,35.0,,,,1,9.0,,,,,2.0,3.0,5,3,2.0,0.0,2.0,,15,,,-1
+22026,1628963,Marvin Bagley III,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,9.0,,,,0,0.0,,,,,3.0,0.0,3,0,0.0,1.0,0.0,,4,,,-1
+22026,-3064307,Spencer Jones,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,17.0,,,,0,0.0,,,,,2.0,0.0,2,0,0.0,0.0,3.0,,2,,,-1
+22026,1642350,Trevon Brazile,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,11.0,,,,0,0.0,,,,,2.0,4.0,6,0,0.0,0.0,2.0,,0,,,-1
+22026,201942,DeMar DeRozan,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,25.0,,,,1,3.0,,,,,0.0,2.0,2,2,0.0,0.0,0.0,,18,,,-1
+22026,1626145,Tyus Jones,1610612743,DEN,Denver Nuggets,cloud-2026-11-18-BOS@DEN,2026-11-18,DEN vs. BOS,,9.0,,,,0,1.0,,,,,0.0,0.0,0,0,0.0,0.0,2.0,,0,,,-1
+22026,202331,Paul George,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,23.0,,,,1,7.0,,,,,2.0,2.0,4,1,3.0,1.0,1.0,,10,,,-1
+22026,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,37.0,,,,3,8.0,,,,,0.0,8.0,8,3,1.0,0.0,6.0,,24,,,-1
+22026,1629674,Neemias Queta,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,27.0,,,,0,1.0,,,,,7.0,3.0,10,3,2.0,0.0,2.0,,17,,,-1
+22026,1628401,Derrick White,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,35.0,,,,0,7.0,,,,,2.0,1.0,3,8,0.0,1.0,0.0,,12,,,-1
+22026,1641775,Jordan Walsh,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,4.0,,,,0,2.0,,,,,0.0,0.0,0,0,1.0,0.0,0.0,,0,,,-1
+22026,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,17.0,,,,3,6.0,,,,,0.0,2.0,2,2,1.0,1.0,0.0,,9,,,-1
+22026,1643416,Chris Cenac Jr.,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,17.0,,,,1,1.0,,,,,1.0,5.0,6,0,0.0,1.0,0.0,,6,,,-1
+22026,1630568,Luka Garza,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,5.0,,,,0,1.0,,,,,0.0,1.0,1,1,0.0,0.0,0.0,,0,,,-1
+22026,1629011,Mitchell Robinson,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,16.0,,,,0,0.0,,,,,3.0,1.0,4,1,0.0,0.0,2.0,,6,,,-1
+22026,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,30.0,,,,3,6.0,,,,,1.0,0.0,1,2,0.0,0.0,3.0,,15,,,-1
+22026,1631248,Baylor Scheierman,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,13.0,,,,0,2.0,,,,,0.0,1.0,1,1,2.0,0.0,0.0,,0,,,-1
+22026,-6104551,Gonzalez Hugo,1610612738,BOS,Boston Celtics,cloud-2026-11-18-BOS@DEN,2026-11-18,BOS @ DEN,,16.0,,,,0,3.0,,,,,2.0,4.0,6,0,0.0,1.0,1.0,,2,,,-1
+22026,1628997,Caleb Martin,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,20.0,,,,2,4.0,,,,,0.0,5.0,5,3,1.0,0.0,1.0,,8,,,-1
+22026,1629655,Daniel Gafford,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,24.0,,,,0,0.0,,,,,1.0,5.0,6,2,0.0,2.0,1.0,,6,,,-1
+22026,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,25.0,,,,5,7.0,,,,,3.0,2.0,5,2,1.0,3.0,0.0,,21,,,-1
+22026,1642843,Cooper Flagg,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,34.0,,,,3,5.0,,,,,2.0,3.0,5,9,4.0,0.0,5.0,,33,,,-1
+22026,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,29.0,,,,1,6.0,,,,,2.0,4.0,6,5,3.0,0.0,1.0,,17,,,-1
+22026,1630230,Naji Marshall,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,27.0,,,,2,4.0,,,,,0.0,5.0,5,2,2.0,0.0,2.0,,12,,,-1
+22026,-1822323,Santi Aldama,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,6.0,,,,0,2.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,0,,,-1
+22026,1643516,Morez Johnson Jr.,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,15.0,,,,0,1.0,,,,,1.0,0.0,1,1,0.0,0.0,2.0,,3,,,-1
+22026,1642258,Zaccharie Risacher,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,18.0,,,,1,5.0,,,,,1.0,2.0,3,0,0.0,2.0,2.0,,3,,,-1
+22026,1630619,Moussa Cissé,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,4.0,,,,0,0.0,,,,,0.0,1.0,1,0,0.0,0.0,1.0,,0,,,-1
+22026,1631204,Marcus Sasser,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,4.0,,,,0,0.0,,,,,1.0,1.0,2,1,0.0,0.0,0.0,,0,,,-1
+22026,1631108,Max Christie,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,8.0,,,,1,2.0,,,,,0.0,1.0,1,2,0.0,0.0,1.0,,5,,,-1
+22026,1642383,Walter Clayton Jr.,1610612742,DAL,Dallas Mavericks,cloud-2026-11-18-GSW@DAL,2026-11-18,DAL vs. GSW,,27.0,,,,2,5.0,,,,,0.0,2.0,2,7,0.0,0.0,3.0,,8,,,-1
+22026,203110,Draymond Green,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,23.0,,,,1,1.0,,,,,1.0,0.0,1,2,1.0,2.0,1.0,,3,,,-1
+22026,1642865,Yaxel Lendeborg,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,30.0,,,,0,3.0,,,,,2.0,3.0,5,4,2.0,0.0,0.0,,13,,,-1
+22026,1629646,Charles Bassey,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,22.0,,,,0,0.0,,,,,3.0,5.0,8,0,1.0,1.0,4.0,,10,,,-1
+22026,1643018,LJ Cryer,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,19.0,,,,3,7.0,,,,,0.0,0.0,0,2,0.0,0.0,0.0,,9,,,-1
+22026,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,29.0,,,,0,5.0,,,,,1.0,2.0,3,4,0.0,0.0,0.0,,10,,,-1
+22026,1627777,Georges Niang,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,14.0,,,,2,8.0,,,,,0.0,1.0,1,1,0.0,0.0,1.0,,11,,,-1
+22026,1643633,Graham Ike,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,15.0,,,,0,2.0,,,,,0.0,2.0,2,2,1.0,3.0,3.0,,2,,,-1
+22026,1642502,Malevy Leons,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,7.0,,,,0,0.0,,,,,1.0,0.0,1,0,0.0,0.0,0.0,,2,,,-1
+22026,1630611,Gui Santos,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,17.0,,,,0,2.0,,,,,2.0,4.0,6,6,1.0,0.0,1.0,,6,,,-1
+22026,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,16.0,,,,2,2.0,,,,,2.0,6.0,8,2,1.0,0.0,1.0,,8,,,-1
+22026,1629001,De'Anthony Melton,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,19.0,,,,0,3.0,,,,,0.0,2.0,2,2,3.0,0.0,4.0,,0,,,-1
+22026,1642954,Will Richard,1610612744,GSW,Golden State Warriors,cloud-2026-11-18-GSW@DAL,2026-11-18,GSW @ DAL,,27.0,,,,1,5.0,,,,,0.0,0.0,0,3,4.0,0.0,2.0,,20,,,-1
+22026,1630533,Ziaire Williams,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,18.0,,,,1,2.0,,,,,0.0,2.0,2,0,0.0,0.0,1.0,,7,,,-1
+22026,1631117,Walker Kessler,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,31.0,,,,0,0.0,,,,,5.0,6.0,11,1,0.0,0.0,1.0,,10,,,-1
+22026,1629680,Matisse Thybulle,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,21.0,,,,0,2.0,,,,,0.0,1.0,1,3,4.0,1.0,1.0,,2,,,-1
+22026,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,37.0,,,,2,12.0,,,,,2.0,3.0,5,7,2.0,0.0,9.0,,29,,,-1
+22026,1629656,Quentin Grimes,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,35.0,,,,4,10.0,,,,,2.0,5.0,7,4,0.0,0.0,1.0,,20,,,-1
+22026,1629020,Jarred Vanderbilt,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,12.0,,,,0,0.0,,,,,2.0,3.0,5,3,1.0,0.0,0.0,,0,,,-1
+22026,1630572,Sandro Mamukelashvili,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,21.0,,,,0,4.0,,,,,2.0,1.0,3,0,0.0,0.0,0.0,,6,,,-1
+22026,1631222,Jake LaRavia,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,30.0,,,,0,0.0,,,,,1.0,5.0,6,2,3.0,0.0,1.0,,4,,,-1
+22026,-9811553,Adou Thiero,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,6.0,,,,0,0.0,,,,,0.0,1.0,1,1,1.0,0.0,0.0,,0,,,-1
+22026,-4009059,C. Cooper,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,2.0,,,,0,0.0,,,,,0.0,1.0,1,0,0.0,0.0,0.0,,2,,,-1
+22026,1629012,Collin Sexton,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,20.0,,,,1,2.0,,,,,0.0,0.0,0,1,0.0,0.0,3.0,,12,,,-1
+22026,1642355,Bronny James,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,2.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,0,,,-1
+22026,1630702,Jaden Hardy,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,2.0,,,,0,0.0,,,,,0.0,0.0,0,1,0.0,0.0,0.0,,0,,,-1
+22026,-3371107,Cameron Carr,1610612747,LAL,Los Angeles Lakers,cloud-2026-11-18-UTA@LAL,2026-11-18,LAL vs. UTA,,2.0,,,,1,1.0,,,,,0.0,0.0,0,1,0.0,0.0,0.0,,5,,,-1
+22026,1628964,Mo Bamba,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,23.0,,,,0,1.0,,,,,1.0,15.0,16,0,1.0,2.0,1.0,,6,,,-1
+22026,1630182,Josh Green,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,28.0,,,,2,2.0,,,,,0.0,2.0,2,2,2.0,1.0,0.0,,11,,,-1
+22026,1641718,Keyonte George,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,39.0,,,,5,10.0,,,,,0.0,1.0,1,10,1.0,0.0,4.0,,30,,,-1
+22026,1642846,Ace Bailey,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,27.0,,,,2,7.0,,,,,3.0,5.0,8,3,1.0,0.0,2.0,,19,,,-1
+22026,1643408,Darryn Peterson,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,19.0,,,,1,3.0,,,,,0.0,1.0,1,3,0.0,0.0,2.0,,11,,,-1
+22026,1642271,Kyle Filipowski,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,6.0,,,,0,0.0,,,,,0.0,3.0,3,0,0.0,0.0,1.0,,0,,,-1
+22026,1641729,Brice Sensabaugh,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,14.0,,,,0,3.0,,,,,0.0,3.0,3,2,0.0,0.0,5.0,,8,,,-1
+22026,1629637,Jaxson Hayes,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,25.0,,,,0,0.0,,,,,2.0,5.0,7,2,2.0,2.0,1.0,,6,,,-1
+22026,1629004,Svi Mykhailiuk,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,34.0,,,,4,10.0,,,,,1.0,2.0,3,5,2.0,0.0,4.0,,15,,,-1
+22026,1629006,Josh Okogie,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,15.0,,,,0,1.0,,,,,0.0,0.0,0,0,1.0,0.0,0.0,,3,,,-1
+22026,1642268,Isaiah Collier,1610612762,UTA,Utah Jazz,cloud-2026-11-18-UTA@LAL,2026-11-18,UTA @ LAL,,10.0,,,,0,0.0,,,,,0.0,1.0,1,2,1.0,0.0,1.0,,0,,,-1
+22026,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,24.0,,,,0,1.0,,,,,4.0,9.0,13,8,1.0,0.0,3.0,,8,,,-1
+22026,1629631,De'Andre Hunter,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,35.0,,,,1,4.0,,,,,0.0,1.0,1,4,1.0,0.0,2.0,,7,,,-1
+22026,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,31.0,,,,0,3.0,,,,,0.0,7.0,7,3,1.0,0.0,1.0,,12,,,-1
+22026,203897,Zach LaVine,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,32.0,,,,2,6.0,,,,,0.0,5.0,5,2,1.0,0.0,1.0,,18,,,-1
+22026,1643411,Darius Acuff Jr.,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,35.0,,,,6,11.0,,,,,0.0,4.0,4,6,0.0,2.0,2.0,,36,,,-1
+22026,1641778,Leaky Black,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,17.0,,,,1,4.0,,,,,0.0,0.0,0,2,0.0,1.0,0.0,,3,,,-1
+22026,1630173,Precious Achiuwa,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,8.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,0.0,1.0,,0,,,-1
+22026,1642284,Alex Karaban,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,4.0,,,,0,2.0,,,,,1.0,0.0,1,0,0.0,0.0,0.0,,0,,,-1
+22026,-2104045,Mason Plumlee,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,4.0,,,,0,0.0,,,,,1.0,1.0,2,1,1.0,0.0,1.0,,0,,,-1
+22026,-6878948,D. Cardwell,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,12.0,,,,0,0.0,,,,,3.0,1.0,4,0,0.0,0.0,1.0,,6,,,-1
+22026,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,20.0,,,,2,4.0,,,,,0.0,1.0,1,2,1.0,0.0,3.0,,8,,,-1
+22026,1631342,Daeqwon Plowden,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,4.0,,,,1,1.0,,,,,0.0,0.0,0,0,0.0,0.0,0.0,,3,,,-1
+22026,1643567,Emanuel Sharp,1610612758,SAC,Sacramento Kings,cloud-2026-11-18-PHX@SAC,2026-11-18,SAC vs. PHX,,14.0,,,,1,4.0,,,,,2.0,0.0,2,1,2.0,0.0,0.0,,6,,,-1
+22026,1628415,Dillon Brooks,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,31.0,,,,5,9.0,,,,,0.0,3.0,3,5,0.0,0.0,1.0,,29,,,-1
+22026,1628970,Miles Bridges,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,29.0,,,,1,2.0,,,,,0.0,6.0,6,5,1.0,1.0,0.0,,13,,,-1
+22026,1642345,Oso Ighodaro,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,21.0,,,,0,0.0,,,,,0.0,4.0,4,2,2.0,0.0,0.0,,7,,,-1
+22026,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,33.0,,,,2,6.0,,,,,0.0,2.0,2,6,1.0,0.0,1.0,,29,,,-1
+22026,1630224,Jalen Green,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,30.0,,,,4,7.0,,,,,1.0,6.0,7,7,1.0,0.0,2.0,,18,,,-1
+22026,1642346,Ryan Dunn,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,13.0,,,,0,2.0,,,,,0.0,5.0,5,2,0.0,0.0,1.0,,6,,,-1
+22026,1643520,Koa Peat,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,4.0,,,,0,0.0,,,,,0.0,0.0,0,0,0.0,1.0,0.0,,2,,,-1
+22026,1642853,Rasheer Fleming,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,4.0,,,,0,0.0,,,,,0.0,1.0,1,1,0.0,0.0,1.0,,0,,,-1
+22026,1642863,Khaman Maluach,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,21.0,,,,0,0.0,,,,,1.0,1.0,2,0,0.0,0.0,2.0,,10,,,-1
+22026,1628379,Luke Kennard,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,17.0,,,,1,4.0,,,,,0.0,3.0,3,1,0.0,0.0,0.0,,3,,,-1
+22026,1630692,Jordan Goodwin,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,17.0,,,,0,0.0,,,,,4.0,1.0,5,3,1.0,0.0,0.0,,2,,,-1
+22026,1631221,Collin Gillespie,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,17.0,,,,2,3.0,,,,,1.0,2.0,3,1,1.0,0.0,3.0,,9,,,-1
+22026,1631123,Jamaree Bouyea,1610612756,PHX,Phoenix Suns,cloud-2026-11-18-PHX@SAC,2026-11-18,PHX @ SAC,,4.0,,,,0,1.0,,,,,0.0,1.0,1,1,1.0,0.0,0.0,,0,,,-1
