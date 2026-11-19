@@ -294,5 +294,12 @@
   "tier": "paid",
   "nflx": 688,
   "credits_remaining": "13633"
+ },
+ "odds_nbalive:player_first_basket,player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate": {
+  "last_ok": "2026-11-19T15:15:33-05:00",
+  "tag": "nbalive:player_first_basket,player_points_alternate,player_rebounds_alternate,player_assists_alternate,player_threes_alternate",
+  "tier": "paid",
+  "nflx": 9729,
+  "credits_remaining": "13539"
  }
 }
