@@ -1,16 +1,16 @@
 # Audit (real money)
 
-Updated 2026-11-19 14:27 ET. Built by engine/audit.py.
+Updated 2026-11-20 08:23 ET. Built by engine/audit.py.
 
-- Settled bets: **125**, staked **$735.17**, profit **$+159.27** (+22%).
-- Without the single biggest win ($105.67): **$+53.60**. That is the number to judge the method by.
-- Open bets: 0.
+- Settled bets: **127**, staked **$750.17**, profit **$+144.27** (+19%).
+- Without the single biggest win ($105.67): **$+38.60**. That is the number to judge the method by.
+- Open bets: 2.
 
 ## By bet type
 
 | kind       |   bets |   staked |   profit |   wins |   roi_pct |
 |:-----------|-------:|---------:|---------:|-------:|----------:|
-| parlay     |     56 |   299.72 |   216.31 |     17 |        72 |
+| parlay     |     58 |   314.72 |   201.31 |     17 |        64 |
 | moonshot   |      9 |   181    |   -47.4  |      3 |       -26 |
 | single     |     29 |   140.07 |   -41.64 |     11 |       -30 |
 | pick6      |     27 |    80    |    16.71 |      4 |        21 |
@@ -43,11 +43,12 @@ Updated 2026-11-19 14:27 ET. Built by engine/audit.py.
 | 2026-11-16 |      5 |    20    |     1.96 |
 | 2026-11-17 |      5 |    21    |    15.27 |
 | 2026-11-18 |      4 |    26.23 |   -11.73 |
+| 2026-11-19 |      2 |    15    |   -15    |
 
 ## Did our stated hit chances come true?
 
-- 86 bets carried a stated chance. They added up to **26.1 expected wins**; **24 won**.
-- Chance of doing this badly by luck alone if the numbers were right: **35%**.
+- 88 bets carried a stated chance. They added up to **26.4 expected wins**; **24 won**.
+- Chance of doing this badly by luck alone if the numbers were right: **32%**.
 - Under ~10% means the stated chances were too high, not that we were unlucky.
 
 ## Closing-line value (singles with a recorded close)
