@@ -5,8 +5,8 @@ tags: [record, bankroll]
 # Bankroll (live pilot, Rules §9)
 
 starting_bankroll: 30.00     # USD, set 2026-10-24 by the user
-current_bankroll: 24.50   # DK 10.00 + Betr 14.50 after placing 11-19 bets ($30 cash open: #360 $10, #361 $5, #363 $10, #364 $5; #362 bonus bet)
-balances: {draftkings: 40.00, betr: 14.50, betr_bucks: 0.00}   # 2026-11-19 morning: 11-18 settled (SportRadar box): 356 L -3, 357 L -10, 359 L -8.23 (DK -21.23); Betr 358 W $14.50 cash from $5 Betr Bucks.   # 2026-11-18 after placing #356 ($3), #357 ($10), #358 (Betr Bucks $5), #359 ($8.23)   # 2026-11-17 morning: 11-16 live bets settled from official box scores: 347 W +4.36, 348 W +1.60, 349 L -2, 350 L -2 (DK net +1.96); Betr 346 L ($10 Betr Bucks). $5 DK NFL bonus bet expires 11-22
+current_bankroll: 29.50   # DK 15.00 + Betr 14.50 after 11-19 settled: #360 L -10, #361 L -5, #363 L -10, #364 L -5, #362 bonus bet W +$5 cash (DK)
+balances: {draftkings: 15.00, betr: 14.50, betr_bucks: 0.00}   # 2026-11-20 morning: 11-19 settled (pbp + FOX/ESPN/SI boxes): 360/361/363/364 all L (-$30 cash), 362 Collins ATD bonus bet W (+$5 cash); $5 NFL bonus bet used.   # 2026-11-19 morning: 11-18 settled (SportRadar box): 356 L -3, 357 L -10, 359 L -8.23 (DK -21.23); Betr 358 W $14.50 cash from $5 Betr Bucks.   # 2026-11-18 after placing #356 ($3), #357 ($10), #358 (Betr Bucks $5), #359 ($8.23)   # 2026-11-17 morning: 11-16 live bets settled from official box scores: 347 W +4.36, 348 W +1.60, 349 L -2, 350 L -2 (DK net +1.96); Betr 346 L ($10 Betr Bucks). $5 DK NFL bonus bet expires 11-22
 withdrawn_total: 60.00   # 11-06: +$30 Odds API plan; 2026-11-01: AI subscriptions (Claude + Perplexity), logged in Record/expenses.csv
 venues: [DraftKings Sportsbook, DraftKings Pick6, Betr Picks]   # Betr added 2026-10-27; Betr is NOT in The Odds API -> card gives 'take on Betr only if line is at or better than X'
 pilot_start: 2026-10-24
@@ -37,10 +37,11 @@ Gate before buying anything:
 3. **Affordable:** cost <= 15% of current bankroll, and the bankroll stays >= $60 after paying.
 4. **Review after 30 days:** if the added profit didn't cover the cost, cancel.
 Log each purchase as a row in bets.csv (type=expense) so the record shows net profit after tools.
-bonus_bets: DK NFL $5 (from 11-15 Moonshot B&G, expires 2026-11-22)
+bonus_bets: none (DK NFL $5 used on #362 11-19, won $5 cash)
 - 2026-11-16: user withdrew $29.17 from DK (set aside as winnings); DK working bankroll reset to $100.00
 - 2026-11-16 16:30: DK credited +$12.40 cash (AwardUserBonusOffer, Promotions and Rewards - Financial); DK balance $112.61 (pre-credit $100.21)
 - 2026-11-16 18:23: user withdrew $68.61 (set aside); DK working bankroll $44.00. Total pulled out today: $97.78
 
 - 2026-11-17 15:33: DK 24.96 available after placing #351 ($3), #352 ($3), #353 ($5), #354/#355 Pick6 ($5+$5). $21 pending, all promo-driven.
 - 2026-11-18 08:30: 11-17 settled from official box scores: 351 L -3, 352 W +22.17, 353 W +6.10 (no KotC bonus; Doncic 50 PRA), 354 L -5, 355 L -5. Day +15.27. DK 61.23 (before any 11-18 bets).
+- 2026-11-20 08:35: 11-19 settled: 360 L -10, 361 L -5, 362 W +5 (bonus bet), 363 L -10, 364 L -5. Day -$25 cash. DK 15.00, Betr 14.50, total 29.50.
