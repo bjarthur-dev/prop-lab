@@ -1,201 +1,236 @@
 sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books,how,pick6_price,pick_mult
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_assists,6.5,LESS,0.56,5.5,0.565,1,fit from 5.5 (sd 3.2),-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_assists,2.5,LESS,0.559,2.5,0.441,1,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_points,23.5,LESS,0.553,22.5,0.509,2,fit from 22.5 (sd 6.5),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Mikal Bridges,player_points,11.5,LESS,0.541,10.5,0.525,2,fit from 10.5 (sd 6.0),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_points,9.5,LESS,0.54,8.5,0.537,1,fit from 8.5 (sd 5.2),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jrue Holiday,player_points,13.5,LESS,0.536,13.5,0.464,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_points,20.5,LESS,0.534,20.5,0.466,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_assists,6.5,LESS,0.562,5.5,0.563,1,fit from 5.5 (sd 3.2),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_points,23.5,LESS,0.55,22.5,0.501,2,fit from 22.5 (sd 7.8),-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Rui Hachimura,player_points,14.5,LESS,0.55,13.5,0.521,1,fit from 13.5 (sd 5.6),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_points,19.5,LESS,0.545,18.5,0.529,1,fit from 18.5 (sd 5.4),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_points,9.5,LESS,0.544,8.5,0.533,2,fit from 8.5 (sd 5.2),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Josh Hart,player_assists,3.5,MORE,0.543,3.5,0.543,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Landry Shamet,player_points,11.5,MORE,0.534,11.5,0.534,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_points,21.5,MORE,0.533,22.5,0.471,2,fit from 22.5 (sd 6.5),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_assists,2.5,MORE,0.533,2.5,0.533,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_assists,2.5,LESS,0.533,2.5,0.467,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jordan Poole,player_threes,1.5,MORE,0.533,1.5,0.533,1,same line,-137.0,1.0
 nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Derrick White,player_points,14.5,LESS,0.532,14.5,0.468,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ayo Dosunmu,player_points,18.5,LESS,0.53,17.5,0.535,2,fit from 17.5 (sd 6.2),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_points,17.5,LESS,0.53,17.5,0.47,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ayo Dosunmu,player_points,17.5,MORE,0.531,17.5,0.531,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Anfernee Simons,player_points,11.5,LESS,0.529,11.5,0.471,1,same line,-137.0,1.0
 nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Jayson Tatum,player_points,26.5,LESS,0.528,26.5,0.472,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_points,12.5,LESS,0.528,12.5,0.472,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Terrence Shannon Jr.,player_assists,2.5,LESS,0.528,2.5,0.472,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Keldon Johnson,player_points,11.5,LESS,0.526,11.5,0.474,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kyrie Irving,player_points,23.5,LESS,0.525,22.5,0.519,2,fit from 22.5 (sd 9.0),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_points,28.5,LESS,0.523,27.5,0.533,1,fit from 27.5 (sd 7.1),-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Stephon Castle,player_points,17.5,MORE,0.523,17.5,0.523,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_points,12.5,MORE,0.519,12.5,0.519,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Domantas Sabonis,player_points,12.5,LESS,0.519,12.5,0.481,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Devin Vassell,player_points,12.5,LESS,0.519,12.5,0.481,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_assists,1.5,LESS,0.528,1.5,0.472,3,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_points,17.5,LESS,0.526,17.5,0.474,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Zach Edey,player_points,9.5,LESS,0.525,9.5,0.475,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_points,9.5,MORE,0.524,9.5,0.524,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_points,29.5,LESS,0.524,28.5,0.532,1,fit from 28.5 (sd 7.1),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Keldon Johnson,player_points,11.5,LESS,0.523,11.5,0.477,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jrue Holiday,player_points,11.5,MORE,0.523,12.5,0.467,2,fit from 12.5 (sd 7.1),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Devin Vassell,player_points,12.5,LESS,0.522,12.5,0.478,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_points,11.5,LESS,0.52,11.5,0.48,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_points,24.5,MORE,0.52,25.5,0.471,1,fit from 25.5 (sd 8.2),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_points,9.5,LESS,0.52,9.5,0.48,2,same line,-137.0,1.0
 nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_threes,1.5,MORE,0.519,1.5,0.519,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_points,11.5,MORE,0.519,11.5,0.519,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Joel Embiid,player_points,25.5,LESS,0.519,25.5,0.481,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_points,11.5,LESS,0.517,11.5,0.483,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,De'Aaron Fox,player_points,14.5,LESS,0.516,14.5,0.484,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Domantas Sabonis,player_points,12.5,LESS,0.516,12.5,0.484,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Tyrese Maxey,player_assists,5.5,LESS,0.515,5.5,0.485,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_points,16.5,LESS,0.514,16.5,0.486,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jrue Holiday,player_assists,3.5,MORE,0.514,3.5,0.514,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jeremiah Fears,player_points,16.5,LESS,0.514,16.5,0.486,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kyrie Irving,player_points,22.5,MORE,0.514,22.5,0.514,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_assists,5.5,LESS,0.514,5.5,0.486,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Victor Wembanyama,player_points,29.5,LESS,0.514,28.5,0.529,1,fit from 28.5 (sd 9.4),-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Karl-Anthony Towns,player_points,21.5,MORE,0.513,21.5,0.513,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_points,23.5,LESS,0.512,23.5,0.488,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_points,19.5,LESS,0.512,19.5,0.488,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Zach Edey,player_points,9.5,LESS,0.512,9.5,0.488,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Josh Hart,player_assists,3.5,LESS,0.511,3.5,0.489,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_threes,3.5,LESS,0.51,3.5,0.49,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_points,17.5,MORE,0.51,18.5,0.461,2,fit from 18.5 (sd 8.2),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_assists,1.5,LESS,0.51,1.5,0.49,4,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kyrie Irving,player_assists,4.5,LESS,0.509,4.5,0.491,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_points,10.5,MORE,0.509,10.5,0.509,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_threes,2.5,LESS,0.512,2.5,0.488,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_points,11.5,MORE,0.512,11.5,0.512,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_points,20.5,LESS,0.511,20.5,0.489,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Mikal Bridges,player_assists,2.5,LESS,0.51,2.5,0.49,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_threes,2.5,MORE,0.51,2.5,0.51,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Tyrese Maxey,player_points,24.5,MORE,0.509,24.5,0.509,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cam Spencer,player_threes,1.5,LESS,0.508,1.5,0.492,1,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_threes,2.5,LESS,0.508,2.5,0.492,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_threes,2.5,LESS,0.506,2.5,0.494,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_assists,3.5,MORE,0.506,3.5,0.506,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_points,9.5,LESS,0.506,9.5,0.494,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Mikal Bridges,player_assists,2.5,MORE,0.506,2.5,0.506,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_assists,1.5,LESS,0.508,1.5,0.492,4,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_assists,5.5,MORE,0.508,5.5,0.508,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_points,17.5,MORE,0.507,18.5,0.459,2,fit from 18.5 (sd 8.2),-137.0,1.0
 nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_points_rebounds_assists,17.5,MORE,0.506,17.5,0.506,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_threes,2.5,MORE,0.506,2.5,0.506,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_threes,1.5,MORE,0.506,1.5,0.506,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_assists,3.5,MORE,0.505,3.5,0.505,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_assists,1.5,LESS,0.505,1.5,0.495,5,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_threes,3.5,LESS,0.505,3.5,0.495,2,same line,-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Karl-Anthony Towns,player_assists,3.5,LESS,0.505,3.5,0.495,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_assists,5.5,MORE,0.505,5.5,0.505,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Mikal Bridges,player_points,11.5,LESS,0.505,11.5,0.495,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_threes,1.5,MORE,0.505,1.5,0.505,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_points,15.5,MORE,0.504,15.5,0.504,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_points,12.5,LESS,0.504,12.5,0.496,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Tyrese Maxey,player_threes,2.5,MORE,0.504,2.5,0.504,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_points,22.5,MORE,0.504,22.5,0.504,1,same line,-137.0,1.0
 nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,P.J. Washington,player_points,12.5,LESS,0.503,12.5,0.497,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Keaton Wagler,player_points,9.5,LESS,0.503,9.5,0.497,2,same line,-137.0,1.0
 nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_points,21.5,LESS,0.503,21.5,0.497,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_points,10.5,MORE,0.502,10.5,0.502,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_rebounds,5.5,MORE,0.501,5.5,0.501,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_points,22.5,MORE,0.501,22.5,0.501,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Victor Wembanyama,player_points,29.5,LESS,0.501,29.5,0.499,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_points,22.5,LESS,0.501,22.5,0.499,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_points,20.5,LESS,0.5,20.5,0.5,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,De'Aaron Fox,player_points,14.5,LESS,0.503,14.5,0.497,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Keaton Wagler,player_points,9.5,LESS,0.502,9.5,0.498,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_threes,2.5,LESS,0.502,2.5,0.498,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_threes,1.5,LESS,0.501,1.5,0.499,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kyrie Irving,player_assists,4.5,LESS,0.501,4.5,0.499,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Taylor Hendricks,player_points,9.5,MORE,0.5,9.5,0.5,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_assists,3.5,MORE,0.5,3.5,0.5,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_assists,3.5,LESS,0.5,3.5,0.5,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_assists,3.5,LESS,0.5,3.5,0.5,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_assists,1.5,LESS,0.5,1.5,0.5,5,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_assists,3.5,MORE,0.5,3.5,0.5,1,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,LeBron James,player_points,17.5,LESS,0.5,17.5,0.5,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Toumani Camara,player_points,11.5,LESS,0.5,11.5,0.5,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Taylor Hendricks,player_points,9.5,LESS,0.5,9.5,0.5,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_rebounds,2.5,MORE,0.5,2.5,0.5,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Toumani Camara,player_points,11.5,MORE,0.5,11.5,0.5,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,LeBron James,player_points,17.5,MORE,0.5,17.5,0.5,1,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_points,20.5,MORE,0.5,20.5,0.5,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_points,22.5,MORE,0.499,22.5,0.499,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Victor Wembanyama,player_points,29.5,MORE,0.499,29.5,0.499,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Victor Wembanyama,player_rebounds,11.5,MORE,0.499,11.5,0.499,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_points,22.5,LESS,0.499,22.5,0.501,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Isaiah Stewart,player_points,9.5,MORE,0.498,9.5,0.498,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_points,10.5,LESS,0.498,10.5,0.502,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Keaton Wagler,player_points,9.5,MORE,0.497,9.5,0.497,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_points,21.5,MORE,0.497,21.5,0.497,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Baylor Scheierman,player_threes,1.5,LESS,0.499,1.5,0.501,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_threes,1.5,MORE,0.499,1.5,0.499,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kyrie Irving,player_assists,4.5,MORE,0.499,4.5,0.499,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_rebounds,6.5,MORE,0.498,6.5,0.498,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_threes,2.5,MORE,0.498,2.5,0.498,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Keaton Wagler,player_points,9.5,MORE,0.498,9.5,0.498,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,De'Aaron Fox,player_points,14.5,MORE,0.497,14.5,0.497,2,same line,-137.0,1.0
 nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,P.J. Washington,player_points,12.5,MORE,0.497,12.5,0.497,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_points,21.5,MORE,0.497,21.5,0.497,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_rebounds,4.5,MORE,0.496,4.5,0.496,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Josh Hart,player_threes,1.5,MORE,0.496,1.5,0.496,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_points,15.5,LESS,0.496,15.5,0.504,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_points,22.5,LESS,0.496,22.5,0.504,1,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Tyrese Maxey,player_threes,2.5,LESS,0.496,2.5,0.504,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_assists,3.5,LESS,0.495,3.5,0.505,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_assists,5.5,LESS,0.495,5.5,0.505,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_assists,1.5,MORE,0.495,1.5,0.495,5,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_threes,1.5,LESS,0.495,1.5,0.505,2,same line,-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Karl-Anthony Towns,player_assists,3.5,MORE,0.495,3.5,0.495,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_threes,2.5,LESS,0.494,2.5,0.506,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_points,9.5,MORE,0.494,9.5,0.494,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_assists,3.5,LESS,0.494,3.5,0.506,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_threes,2.5,MORE,0.494,2.5,0.494,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_threes,1.5,LESS,0.494,1.5,0.506,2,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ayo Dosunmu,player_points_rebounds_assists,26.5,MORE,0.494,26.5,0.494,1,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Mikal Bridges,player_assists,2.5,LESS,0.494,2.5,0.506,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_points,17.5,LESS,0.493,18.5,0.459,2,fit from 18.5 (sd 8.2),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_assists,5.5,LESS,0.492,5.5,0.508,2,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cam Spencer,player_threes,1.5,MORE,0.492,1.5,0.492,1,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_threes,2.5,MORE,0.492,2.5,0.492,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_rebounds,2.5,MORE,0.491,2.5,0.491,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_points,10.5,LESS,0.491,10.5,0.509,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Toumani Camara,player_assists,1.5,LESS,0.491,1.5,0.509,4,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_assists,1.5,MORE,0.492,1.5,0.492,4,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Tyrese Maxey,player_points,24.5,LESS,0.491,24.5,0.509,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_points,17.5,LESS,0.49,18.5,0.461,2,fit from 18.5 (sd 8.2),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_threes,3.5,MORE,0.49,3.5,0.49,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_assists,1.5,MORE,0.49,1.5,0.49,4,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Josh Hart,player_assists,3.5,MORE,0.489,3.5,0.489,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_points,19.5,MORE,0.488,19.5,0.488,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_points,23.5,MORE,0.488,23.5,0.488,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Zach Edey,player_points,9.5,MORE,0.488,9.5,0.488,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Caleb Martin,player_points,6.5,MORE,0.49,6.5,0.49,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Mikal Bridges,player_assists,2.5,MORE,0.49,2.5,0.49,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_threes,2.5,LESS,0.49,2.5,0.51,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_points,10.5,LESS,0.49,10.5,0.51,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Derrick White,player_points_rebounds_assists,23.5,MORE,0.49,23.5,0.49,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_points,20.5,MORE,0.489,20.5,0.489,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_points,11.5,LESS,0.488,11.5,0.512,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kris Dunn,player_points_rebounds_assists,11.5,MORE,0.488,11.5,0.488,4,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_assists,2.5,MORE,0.488,2.5,0.488,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_threes,2.5,MORE,0.488,2.5,0.488,2,same line,-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Karl-Anthony Towns,player_points,21.5,LESS,0.487,21.5,0.513,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cedric Coward,player_points,16.5,MORE,0.486,16.5,0.486,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_assists,5.5,MORE,0.486,5.5,0.486,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jrue Holiday,player_assists,3.5,LESS,0.486,3.5,0.514,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Victor Wembanyama,player_points,29.5,MORE,0.486,28.5,0.529,1,fit from 28.5 (sd 9.4),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jeremiah Fears,player_points,16.5,MORE,0.486,16.5,0.486,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kyrie Irving,player_points,22.5,LESS,0.486,22.5,0.514,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Taylor Hendricks,player_points_rebounds_assists,16.5,MORE,0.485,16.5,0.485,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Tyrese Maxey,player_assists,5.5,MORE,0.485,5.5,0.485,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,De'Aaron Fox,player_points,14.5,MORE,0.484,14.5,0.484,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_points,11.5,MORE,0.483,11.5,0.483,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Devin Vassell,player_points,12.5,MORE,0.481,12.5,0.481,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_points,11.5,LESS,0.481,11.5,0.519,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_points,12.5,LESS,0.481,12.5,0.519,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_threes,1.5,LESS,0.481,1.5,0.519,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Domantas Sabonis,player_points,12.5,MORE,0.481,12.5,0.481,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_rebounds,4.5,MORE,0.481,4.5,0.481,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Domantas Sabonis,player_points,12.5,MORE,0.484,12.5,0.484,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,De'Andre Hunter,player_points,13.5,MORE,0.481,13.5,0.481,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Toumani Camara,player_assists,1.5,MORE,0.481,1.5,0.481,4,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Joel Embiid,player_points,25.5,MORE,0.481,25.5,0.481,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Keegan Murray,player_threes,1.5,MORE,0.481,1.5,0.481,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kris Dunn,player_points_rebounds_assists,11.5,MORE,0.48,11.5,0.48,3,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_assists,4.5,LESS,0.479,4.5,0.521,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jeremiah Fears,player_assists,5.5,MORE,0.479,5.5,0.479,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_threes,1.5,LESS,0.481,1.5,0.519,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Jordan Walsh,player_points,7.5,MORE,0.48,7.5,0.48,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_points,24.5,LESS,0.48,25.5,0.471,1,fit from 25.5 (sd 8.2),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_points,9.5,MORE,0.48,9.5,0.48,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_points,11.5,MORE,0.48,11.5,0.48,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Devin Vassell,player_points,12.5,MORE,0.478,12.5,0.478,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Tyrese Maxey,player_rebounds,3.5,MORE,0.478,3.5,0.478,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_assists,5.5,MORE,0.478,5.5,0.478,2,same line,-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_points_rebounds_assists,28.5,MORE,0.478,28.5,0.478,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_rebounds,6.5,MORE,0.478,6.5,0.478,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_points,28.5,MORE,0.477,27.5,0.533,1,fit from 27.5 (sd 7.1),-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Stephon Castle,player_points,17.5,LESS,0.477,17.5,0.523,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_points_rebounds_assists,21.5,MORE,0.476,21.5,0.476,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Keldon Johnson,player_points,11.5,MORE,0.477,11.5,0.477,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jrue Holiday,player_points,11.5,LESS,0.477,12.5,0.467,2,fit from 12.5 (sd 7.1),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_points,9.5,LESS,0.476,9.5,0.524,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Keaton Wagler,player_assists,2.5,MORE,0.476,2.5,0.476,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Sam Hauser,player_threes,2.5,LESS,0.476,2.5,0.524,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_points,29.5,MORE,0.476,28.5,0.532,1,fit from 28.5 (sd 7.1),-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,VJ Edgecombe,player_points,14.5,MORE,0.475,13.5,0.533,1,fit from 13.5 (sd 6.9),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kyrie Irving,player_points,23.5,MORE,0.475,22.5,0.519,2,fit from 22.5 (sd 9.0),-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_threes,2.5,MORE,0.474,2.5,0.474,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Keldon Johnson,player_points,11.5,MORE,0.474,11.5,0.474,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jeremiah Fears,player_points,16.5,MORE,0.473,15.5,0.524,1,fit from 15.5 (sd 7.7),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Caleb Martin,player_assists,2.5,MORE,0.472,2.5,0.472,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Terrence Shannon Jr.,player_assists,2.5,MORE,0.472,2.5,0.472,1,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Jayson Tatum,player_points,26.5,MORE,0.472,26.5,0.472,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_assists,2.5,MORE,0.472,2.5,0.472,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Keaton Wagler,player_assists,2.5,MORE,0.472,2.5,0.472,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Terrence Shannon Jr.,player_points,12.5,MORE,0.472,12.5,0.472,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Zach Edey,player_points,9.5,MORE,0.475,9.5,0.475,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_points,17.5,MORE,0.474,17.5,0.474,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_assists,3.5,LESS,0.474,3.5,0.526,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_points,18.5,LESS,0.473,19.5,0.468,2,fit from 19.5 (sd 6.9),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Saddiq Bey,player_points,17.5,MORE,0.473,16.5,0.529,1,fit from 16.5 (sd 7.2),-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_assists,1.5,MORE,0.472,1.5,0.472,3,same line,-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_points_rebounds_assists,23.5,MORE,0.472,23.5,0.472,1,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_points,12.5,MORE,0.472,12.5,0.472,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Taylor Hendricks,player_points,9.5,LESS,0.472,9.5,0.528,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Victor Wembanyama,player_points_rebounds_assists,44.5,MORE,0.472,44.5,0.472,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_points_rebounds_assists,21.5,MORE,0.472,21.5,0.472,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Jayson Tatum,player_points,26.5,MORE,0.472,26.5,0.472,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_rebounds,5.5,MORE,0.471,5.5,0.471,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,Anfernee Simons,player_points,11.5,MORE,0.471,11.5,0.471,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ayo Dosunmu,player_points,18.5,MORE,0.47,17.5,0.535,2,fit from 17.5 (sd 6.2),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_points,17.5,MORE,0.47,17.5,0.47,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cam Spencer,player_points,10.5,MORE,0.469,9.5,0.531,2,fit from 9.5 (sd 6.5),-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Zaccharie Risacher,player_points,7.5,MORE,0.471,7.5,0.471,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Derrick Jones,player_points,9.5,MORE,0.47,8.5,0.548,1,fit from 8.5 (sd 5.1),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Terrence Shannon Jr.,player_points,12.5,MORE,0.469,12.5,0.469,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ayo Dosunmu,player_points,17.5,LESS,0.469,17.5,0.531,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Sidy Cissoko,player_points,7.5,MORE,0.469,7.5,0.469,2,same line,-137.0,1.0
 nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Derrick White,player_points,14.5,MORE,0.468,14.5,0.468,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kris Dunn,player_points,5.5,MORE,0.468,5.5,0.468,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Josh Hart,player_threes,1.5,MORE,0.467,1.5,0.467,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_points,9.5,MORE,0.467,8.5,0.535,2,fit from 8.5 (sd 5.9),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_points,19.5,MORE,0.468,19.5,0.468,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jeremiah Fears,player_assists,5.5,MORE,0.467,5.5,0.467,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_points,21.5,LESS,0.467,22.5,0.471,2,fit from 22.5 (sd 6.5),-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,VJ Edgecombe,player_points,13.5,LESS,0.467,13.5,0.533,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Zach Edey,player_rebounds,8.5,MORE,0.466,7.5,0.548,2,fit from 7.5 (sd 4.8),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_points,20.5,MORE,0.466,20.5,0.466,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jrue Holiday,player_points,13.5,MORE,0.464,13.5,0.464,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Caleb Martin,player_points,6.5,MORE,0.462,5.5,0.538,1,fit from 5.5 (sd 5.3),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_assists,2.5,LESS,0.467,2.5,0.533,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Kris Dunn,player_points,5.5,MORE,0.467,5.5,0.467,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jordan Poole,player_threes,1.5,LESS,0.467,1.5,0.533,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_threes,2.5,MORE,0.467,2.5,0.467,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_assists,2.5,MORE,0.467,2.5,0.467,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Stephon Castle,player_threes,1.5,LESS,0.465,1.5,0.535,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_assists,5.5,LESS,0.465,6.5,0.412,2,fit from 6.5 (sd 3.2),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cam Spencer,player_points,10.5,MORE,0.464,9.5,0.526,2,fit from 9.5 (sd 6.5),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jonathan Kuminga,player_assists,2.5,MORE,0.463,2.5,0.463,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_threes,1.5,LESS,0.463,1.5,0.537,1,same line,-137.0,1.0
 nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Jayson Tatum,player_assists,6.5,LESS,0.462,6.5,0.538,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Toumani Camara,player_points,12.5,MORE,0.462,12.5,0.462,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_points,9.5,MORE,0.46,8.5,0.537,1,fit from 8.5 (sd 5.2),-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Stephon Castle,player_threes,1.5,LESS,0.46,1.5,0.54,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Mikal Bridges,player_points,11.5,MORE,0.459,10.5,0.525,2,fit from 10.5 (sd 6.0),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_points,25.5,MORE,0.458,24.5,0.5,2,fit from 24.5 (sd 9.6),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jonathan Kuminga,player_assists,2.5,MORE,0.458,2.5,0.458,1,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Derrick Jones,player_points,9.5,MORE,0.456,8.5,0.535,2,fit from 8.5 (sd 5.1),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_threes,2.5,LESS,0.456,2.5,0.544,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jonathan Kuminga,player_rebounds,5.5,MORE,0.456,5.5,0.456,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_rebounds,10.5,MORE,0.455,9.5,0.561,2,fit from 9.5 (sd 3.8),-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Keldon Johnson,player_rebounds,5.5,MORE,0.454,5.5,0.454,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_threes,1.5,MORE,0.454,1.5,0.454,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_threes,1.5,LESS,0.454,1.5,0.546,1,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_threes,3.5,MORE,0.462,3.5,0.462,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_points,12.5,LESS,0.462,13.5,0.485,2,fit from 13.5 (sd 7.5),-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_points,9.5,MORE,0.46,8.5,0.528,2,fit from 8.5 (sd 5.9),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Julian Champagnie,player_assists,1.5,MORE,0.46,1.5,0.46,4,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Jordan Walsh,player_rebounds,4.5,MORE,0.458,4.5,0.458,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Josh Hart,player_assists,3.5,LESS,0.457,3.5,0.543,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jonathan Kuminga,player_rebounds,5.5,MORE,0.457,5.5,0.457,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_points,9.5,MORE,0.456,8.5,0.533,2,fit from 8.5 (sd 5.2),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Keldon Johnson,player_rebounds,5.5,MORE,0.456,5.5,0.456,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Harrison Barnes,player_points,6.5,MORE,0.456,5.5,0.524,1,fit from 5.5 (sd 5.9),-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_threes,1.5,MORE,0.456,1.5,0.456,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_points,25.5,MORE,0.455,24.5,0.497,2,fit from 24.5 (sd 9.6),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Zion Williamson,player_points,19.5,MORE,0.455,18.5,0.529,1,fit from 18.5 (sd 5.4),-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Payton Pritchard,player_assists,6.5,MORE,0.454,6.5,0.454,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_assists,5.5,MORE,0.453,5.5,0.453,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,VJ Edgecombe,player_rebounds,6.5,MORE,0.45,6.5,0.45,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cam Spencer,player_assists,5.5,MORE,0.447,5.5,0.447,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_points,23.5,MORE,0.447,22.5,0.509,2,fit from 22.5 (sd 6.5),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Daniel Gafford,player_assists,1.5,MORE,0.446,1.5,0.446,3,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Rui Hachimura,player_points,14.5,MORE,0.45,13.5,0.521,1,fit from 13.5 (sd 5.6),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_points,23.5,MORE,0.45,22.5,0.501,2,fit from 22.5 (sd 7.8),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Terrence Shannon Jr.,player_assists,2.5,MORE,0.449,2.5,0.449,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_rebounds,10.5,MORE,0.448,10.5,0.448,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Rudy Gobert,player_rebounds,10.5,MORE,0.446,9.5,0.552,2,fit from 9.5 (sd 3.8),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Isaiah Stewart,player_points,9.5,MORE,0.446,8.5,0.515,1,fit from 8.5 (sd 5.8),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Landry Shamet,player_assists,1.5,LESS,0.446,1.5,0.554,3,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaden McDaniels,player_rebounds,5.5,MORE,0.446,5.5,0.446,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jeremiah Fears,player_threes,1.5,MORE,0.445,1.5,0.445,2,same line,-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Karl-Anthony Towns,player_rebounds,13.5,MORE,0.445,12.5,0.544,2,fit from 12.5 (sd 4.0),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Zach Edey,player_rebounds,8.5,MORE,0.445,7.5,0.527,2,fit from 7.5 (sd 4.8),-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,VJ Edgecombe,player_assists,3.5,LESS,0.442,3.5,0.558,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Zach LaVine,player_assists,2.5,MORE,0.441,2.5,0.441,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ayo Dosunmu,player_assists,3.5,LESS,0.442,3.5,0.558,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_points,11.5,MORE,0.441,10.5,0.51,2,fit from 10.5 (sd 5.7),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Victor Wembanyama,player_rebounds,11.5,MORE,0.441,11.5,0.441,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Philadelphia 76ers,2026-11-21T13:10-05:00,LeBron James,player_assists,6.5,LESS,0.441,6.5,0.559,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jonathan Kuminga,player_points,15.5,MORE,0.44,14.5,0.5,2,fit from 14.5 (sd 6.6),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_assists,6.5,MORE,0.44,5.5,0.565,1,fit from 5.5 (sd 3.2),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Rui Hachimura,player_points,14.5,MORE,0.44,13.5,0.51,2,fit from 13.5 (sd 5.6),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ayo Dosunmu,player_assists,3.5,LESS,0.437,3.5,0.563,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Robert Williams,player_points,5.5,MORE,0.44,4.5,0.533,2,fit from 4.5 (sd 4.3),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Jordan Poole,player_points,11.5,MORE,0.439,10.5,0.496,1,fit from 10.5 (sd 6.9),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_assists,1.5,LESS,0.439,1.5,0.561,4,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_assists,6.5,MORE,0.438,5.5,0.563,1,fit from 5.5 (sd 3.2),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Andre Drummond,player_assists,1.5,LESS,0.437,1.5,0.563,3,same line,-137.0,1.0
 nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Karl-Anthony Towns,player_threes,1.5,LESS,0.437,1.5,0.563,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Bones Hyland,player_assists,2.5,LESS,0.437,2.5,0.563,1,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Donovan Clingan,player_assists,1.5,LESS,0.436,1.5,0.564,4,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,De'Aaron Fox,player_assists,6.5,MORE,0.435,6.5,0.435,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Devin Vassell,player_threes,1.5,LESS,0.435,1.5,0.565,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Stephon Castle,player_assists,7.5,MORE,0.435,6.5,0.577,1,fit from 6.5 (sd 2.8),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_rebounds,3.5,MORE,0.435,3.5,0.435,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_rebounds,3.5,MORE,0.433,3.5,0.433,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_rebounds,3.5,MORE,0.432,3.5,0.432,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Domantas Sabonis,player_assists,4.5,LESS,0.431,4.5,0.569,2,same line,-137.0,1.0
-nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_assists,5.5,LESS,0.431,6.5,0.445,2,fit from 6.5 (sd 3.2),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,De'Aaron Fox,player_assists,6.5,MORE,0.437,6.5,0.437,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,De'Andre Hunter,player_rebounds,4.5,MORE,0.437,4.5,0.437,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Devin Vassell,player_threes,1.5,LESS,0.437,1.5,0.563,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Cam Spencer,player_assists,5.5,MORE,0.435,4.5,0.563,1,fit from 4.5 (sd 3.1),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jonathan Kuminga,player_points,15.5,MORE,0.435,14.5,0.495,2,fit from 14.5 (sd 6.6),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_threes,1.5,LESS,0.431,1.5,0.569,2,same line,-137.0,1.0
 nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Jayson Tatum,player_rebounds,7.5,MORE,0.429,7.5,0.429,2,same line,-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_assists,6.5,MORE,0.429,6.5,0.429,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_threes,1.5,LESS,0.427,1.5,0.573,2,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Landry Shamet,player_points,11.5,MORE,0.425,10.5,0.49,1,fit from 10.5 (sd 6.1),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Toumani Camara,player_rebounds,4.5,MORE,0.42,3.5,0.579,2,fit from 3.5 (sd 2.5),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,LaMelo Ball,player_assists,6.5,MORE,0.429,5.5,0.587,1,fit from 5.5 (sd 2.5),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Saddiq Bey,player_assists,2.5,MORE,0.428,2.5,0.428,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_assists,6.5,MORE,0.427,6.5,0.427,2,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jrue Holiday,player_rebounds,3.5,MORE,0.427,3.5,0.427,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Caleb Martin,player_assists,2.5,MORE,0.425,2.5,0.425,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Stephon Castle,player_assists,7.5,MORE,0.425,6.5,0.567,2,fit from 6.5 (sd 2.8),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Damian Lillard,player_rebounds,3.5,MORE,0.424,3.5,0.424,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Ty Jerome,player_rebounds,3.5,MORE,0.422,3.5,0.422,2,same line,-137.0,1.0
 nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,P.J. Washington,player_rebounds,6.5,MORE,0.42,5.5,0.563,1,fit from 5.5 (sd 2.8),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_rebounds,5.5,MORE,0.415,5.5,0.415,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_rebounds,3.5,MORE,0.41,3.5,0.41,1,same line,-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_rebounds,6.5,MORE,0.402,5.5,0.552,2,fit from 5.5 (sd 2.6),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_assists,7.5,MORE,0.398,6.5,0.573,1,fit from 6.5 (sd 2.3),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_rebounds,7.5,MORE,0.395,6.5,0.553,2,fit from 6.5 (sd 2.5),-137.0,1.0
-nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_rebounds,4.5,MORE,0.377,3.5,0.538,1,fit from 3.5 (sd 2.4),-137.0,1.0
-nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_rebounds,3.5,MORE,0.35,2.5,0.555,1,fit from 2.5 (sd 1.9),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Josh Hart,player_rebounds,8.5,MORE,0.42,7.5,0.559,2,fit from 7.5 (sd 2.9),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_threes,2.5,LESS,0.42,2.5,0.58,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Darius Acuff Jr.,player_rebounds,3.5,MORE,0.42,3.5,0.42,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Stephon Castle,player_points,18.5,MORE,0.418,17.5,0.477,2,fit from 17.5 (sd 6.7),-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Toumani Camara,player_rebounds,4.5,MORE,0.418,3.5,0.577,2,fit from 3.5 (sd 2.5),-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Derik Queen,player_assists,2.5,MORE,0.417,2.5,0.417,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Brook Lopez,player_rebounds,5.5,MORE,0.416,5.5,0.416,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@San Antonio Spurs,2026-11-21T20:10-05:00,Saddiq Bey,player_threes,2.5,MORE,0.414,2.5,0.414,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Jalen Brunson,player_rebounds,3.5,MORE,0.413,3.5,0.413,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-21T20:10-05:00,Jaylen Wells,player_rebounds,3.5,MORE,0.411,3.5,0.411,1,same line,-137.0,1.0
+nba,Portland Trail Blazers@New York Knicks,2026-11-21T19:40-05:00,Deni Avdija,player_rebounds,6.5,MORE,0.41,5.5,0.56,2,fit from 5.5 (sd 2.6),-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Domantas Sabonis,player_assists,4.5,LESS,0.408,4.5,0.592,2,same line,-137.0,1.0
+nba,Boston Celtics@Sacramento Kings,2026-11-21T22:10-05:00,Paul George,player_rebounds,6.5,MORE,0.408,6.5,0.408,2,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Naji Marshall,player_rebounds,4.5,MORE,0.406,4.5,0.406,1,same line,-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Darius Garland,player_assists,7.5,MORE,0.4,6.5,0.575,1,fit from 6.5 (sd 2.3),-137.0,1.0
+nba,Los Angeles Clippers@Dallas Mavericks,2026-11-21T20:10-05:00,Cooper Flagg,player_rebounds,7.5,MORE,0.377,6.5,0.534,2,fit from 6.5 (sd 2.5),-137.0,1.0
