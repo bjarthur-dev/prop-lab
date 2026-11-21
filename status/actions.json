@@ -322,5 +322,12 @@
   "tier": "paid",
   "nflx": 2364,
   "credits_remaining": "12679"
+ },
+ "odds_cfb:UCLA|Michigan|LSU|Tennessee": {
+  "last_ok": "2026-11-21T12:38:16-05:00",
+  "tag": "cfb:UCLA|Michigan|LSU|Tennessee",
+  "tier": "paid",
+  "ncaaf": 6828,
+  "credits_remaining": "12479"
  }
 }
