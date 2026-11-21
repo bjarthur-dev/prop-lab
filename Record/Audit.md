@@ -1,19 +1,19 @@
 # Audit (real money)
 
-Updated 2026-11-21 08:19 ET. Built by engine/audit.py.
+Updated 2026-11-21 12:56 ET. Built by engine/audit.py.
 
-- Settled bets: **129**, staked **$765.17**, profit **$+129.27** (+17%).
-- Without the single biggest win ($105.67): **$+23.60**. That is the number to judge the method by.
-- Open bets: 4.
+- Settled bets: **133**, staked **$780.57**, profit **$+170.42** (+22%).
+- Without the single biggest win ($105.67): **$+64.75**. That is the number to judge the method by.
+- Open bets: 0.
 
 ## By bet type
 
 | kind       |   bets |   staked |   profit |   wins |   roi_pct |
 |:-----------|-------:|---------:|---------:|-------:|----------:|
-| parlay     |     58 |   314.72 |   201.31 |     17 |        64 |
+| parlay     |     60 |   320.12 |   223.56 |     18 |        70 |
 | moonshot   |      9 |   181    |   -47.4  |      3 |       -26 |
-| single     |     29 |   140.07 |   -41.64 |     11 |       -30 |
-| pick6      |     29 |    95    |     1.71 |      4 |         2 |
+| single     |     30 |   145.07 |   -37.24 |     12 |       -26 |
+| pick6      |     30 |   100    |    16.21 |      5 |        16 |
 | live_hedge |      1 |    16.38 |   -16.38 |      0 |      -100 |
 | betr       |      2 |    15    |     9.5  |      1 |        63 |
 | sgpx       |      1 |     3    |    22.17 |      1 |       739 |
@@ -44,15 +44,16 @@ Updated 2026-11-21 08:19 ET. Built by engine/audit.py.
 | 2026-11-17 |      5 |    21    |    15.27 |
 | 2026-11-18 |      4 |    26.23 |   -11.73 |
 | 2026-11-19 |      4 |    30    |   -30    |
+| 2026-11-20 |      4 |    15.4  |    41.15 |
 
 ## Did our stated hit chances come true?
 
-- 90 bets carried a stated chance. They added up to **27.0 expected wins**; **24 won**.
-- Chance of doing this badly by luck alone if the numbers were right: **27%**.
+- 94 bets carried a stated chance. They added up to **28.3 expected wins**; **27 won**.
+- Chance of doing this badly by luck alone if the numbers were right: **43%**.
 - Under ~10% means the stated chances were too high, not that we were unlucky.
 
 ## Closing-line value (singles with a recorded close)
 
-- 57 bets. Average CLV **-2.3%**; beat the close **32%** of the time.
-- Our stated chance averaged 55.8%, the closing no-vig price 54.2%, and 45.6% won.
+- 59 bets. Average CLV **-2.3%**; beat the close **31%** of the time.
+- Our stated chance averaged 55.9%, the closing no-vig price 54.5%, and 45.8% won.
 - Positive average CLV over 50+ bets is the proof of an edge. Negative means the picks are not beating the market.
