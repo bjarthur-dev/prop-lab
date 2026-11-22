@@ -343,5 +343,12 @@
   "tier": "paid",
   "ncaaf": 5341,
   "credits_remaining": "12277"
+ },
+ "odds_nflx:player_receptions,player_reception_yds,player_receptions_alternate,player_reception_yds_alternate": {
+  "last_ok": "2026-11-22T11:12:43-05:00",
+  "tag": "nflx:player_receptions,player_reception_yds,player_receptions_alternate,player_reception_yds_alternate",
+  "tier": "paid",
+  "nflx": 17630,
+  "credits_remaining": "12094"
  }
 }
