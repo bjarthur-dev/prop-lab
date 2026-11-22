@@ -336,5 +336,12 @@
   "tier": "paid",
   "nflx": 194,
   "credits_remaining": "12349"
+ },
+ "odds_cfb:TCU|Boise|San Diego State|Utah State|Oregon State|Hawai|Nevada|Arizona State|Oklahoma State": {
+  "last_ok": "2026-11-21T22:40:44-05:00",
+  "tag": "cfb:TCU|Boise|San Diego State|Utah State|Oregon State|Hawai|Nevada|Arizona State|Oklahoma State",
+  "tier": "paid",
+  "ncaaf": 5341,
+  "credits_remaining": "12277"
  }
 }
