@@ -348,3 +348,6 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2026_10_PIT_CIN,202611150cin,2026,10,REG,PIT,CIN,Mason Rudolph,RudoMa00,0,0,,,1,0.333,0,0,0,0,0,0,,,
 2026_10_LAC_BAL,202611160rav,2026,10,REG,BAL,LAC,Jacoby Brissett,BrisJa00,1,0.021,,,6,0.128,2,9,1,7,10,0.196,,,
 2026_10_LAC_BAL,202611160rav,2026,10,REG,LAC,BAL,Justin Herbert,HerbJu00,1,0.067,,,1,0.067,2,7,1,5,8,0.296,,,
+2026_11_IND_HOU,202611190htx,2026,11,REG,HOU,IND,C.J. Stroud,StroCJ00,0,0,,,2,0.077,1,4,1,1,3,0.097,,,
+2026_11_IND_HOU,202611190htx,2026,11,REG,IND,HOU,Daniel Jones,JoneDa05,1,0.042,,,6,0.25,2,3,2,4,8,0.267,,,
+2026_11_IND_HOU,202611190htx,2026,11,REG,IND,HOU,Anthony Richardson,RichAn03,0,0,,,1,0.5,0,0,0,0,0,0,,,
