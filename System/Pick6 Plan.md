@@ -29,3 +29,20 @@ At +20–35% EV per $5 entry, the average gain is about **$1–2 a day**. Reachi
 - Never a discounted pick. Never more than one pick from the same game, unless correlated on purpose and noted.
 - Bankroll under $15: $3 entries. At $60: goal reached, set $30 aside.
 - Check the Pick6 promos tab daily (deposit matches, boosted picks, free entries). A real boost on a pick we already like is the best play available.
+
+## Pick6 multiplier tiers = DraftKings sportsbook price of that side (found 2026-11-23)
+User observation + check vs 11-21 NHL SOG board (56 picks) and 11-23 MNF board (4 picks); every point fits:
+
+| DK sportsbook price of the side | Pick6 multiplier on that side |
+|---|---|
+| -124 or better (both sides <= ~-125) | 1x |
+| ~-125/-130 to -145 | 0.9x |
+| ~-145/-150 to -190 | 0.8x |
+| -195 or worse | 0.7x |
+
+Boundary at -125 is fuzzy (snapshot timing). Breakeven per pick: 2-pick 3x -> 57.7%; 3-pick 6x -> 55.0%; 4-pick 10x -> 56.2%.
+
+Value rules:
+- 1x is the value tier. Target: DK at -115 to -124 on the side while sharps (Pinnacle/FanDuel devig) put it >= 56-58% (about -130 to -140). DK caps it at 1x, so the extra probability is free.
+- A reduced pick is worth taking over a typical 1x pick (~53-55%) only if multiplier x sharp fair > that: 0.9x needs >= ~60-61% fair (sharps ~-155 while DK still <= -145); 0.8x needs >= ~68-69% (sharps ~-220 while DK <= -190); 0.7x needs >= ~77-79%. At DK's own price the reduced tiers are always worse than a boundary 1x pick (0.9 x 58% = 52%; 0.8 x 64% = 51%).
+- Scanner: rank candidates by multiplier x sharp fair; build entries from the top, one sport per entry, one promo/discount pick per entry.
