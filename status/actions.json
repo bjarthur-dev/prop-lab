@@ -350,5 +350,12 @@
   "tier": "paid",
   "nflx": 17630,
   "credits_remaining": "12094"
+ },
+ "odds_nbalive:player_rebounds,player_rebounds_alternate": {
+  "last_ok": "2026-11-22T20:53:33-05:00",
+  "tag": "nbalive:player_rebounds,player_rebounds_alternate",
+  "tier": "paid",
+  "nflx": 1938,
+  "credits_remaining": "11698"
  }
 }
