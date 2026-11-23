@@ -46,3 +46,9 @@ Value rules:
 - 1x is the value tier. Target: DK at -115 to -124 on the side while sharps (Pinnacle/FanDuel devig) put it >= 56-58% (about -130 to -140). DK caps it at 1x, so the extra probability is free.
 - A reduced pick is worth taking over a typical 1x pick (~53-55%) only if multiplier x sharp fair > that: 0.9x needs >= ~60-61% fair (sharps ~-155 while DK still <= -145); 0.8x needs >= ~68-69% (sharps ~-220 while DK <= -190); 0.7x needs >= ~77-79%. At DK's own price the reduced tiers are always worse than a boundary 1x pick (0.9 x 58% = 52%; 0.8 x 64% = 51%).
 - Scanner: rank candidates by multiplier x sharp fair; build entries from the top, one sport per entry, one promo/discount pick per entry.
+
+### Confirmed again on 11-23 MNF receptions board (user screenshots + DK odds, 08:43)
+- Favorite side: -124 -> 1x (Diggs U); -142 -> 0.9x (Chase U); -146 to -188 -> 0.8x (Higgins U, Burks U, Meyers U, Perine U); -208 -> 0.7x (Sample U); Sinnott O -154 -> 0.8x. Tier break 0.9x/0.8x is ~-145.
+- Underdog side gets the boost: +100 to +108 -> 1x; +111 to +121 -> 1.1x (Chase O, Higgins O, Sinnott U); +145 to +147 -> 1.2x (Burks/Meyers/Perine O); +161 -> 1.3x (Sample O). Boosted picks count as the one promo pick per entry.
+- Sometimes Pick6 hides the favorite side instead of discounting it: Okonkwo, Chase Brown, A. Williams, Gesicki (DK unders -127 to -138) show MORE only at 1x. Those MOREs are the unlikely sides (~45-46% fair).
+- Sharp check (9 books, 08:30): best multiplier x fair on the board = 0.518 (Diggs U 4.5 at 1x; Perine U 0.8x 0.517). All below the ~0.55-0.58 per-pick breakeven -> no +EV entry on this board.
