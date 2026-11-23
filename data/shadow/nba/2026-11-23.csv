@@ -1,0 +1,1045 @@
+date,player,market,line,side,decision,why,team,opp,book,price,ts,min_proj,mu,p_model,p_model_raw,shadow_offset,p_market,n_ref_books,break_even,ev_model_pct,shrunk_edge_pts,model_vs_market_pts,market_edge_pts,p_blend,blend_edge_pts,path,stake_pct
+2026-11-23,Ace Bailey,fg3m,2.5,over,PASS,no edge,UTA,LAL,DraftKings,140.0,14:54,27.4,1.7,0.273,0.25,0.024,0.378,5.0,0.417,-34.4,-5.73,-10.4,-3.9,,,,0.0
+2026-11-23,Ace Bailey,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-186.0,14:54,27.4,1.7,0.727,0.75,0.024,0.622,5.0,0.65,11.7,3.05,10.4,-2.8,0.662,1.2,,0.0
+2026-11-23,Ace Bailey,pra,22.5,over,PASS,no edge,UTA,LAL,DraftKings,-125.0,14:54,27.4,19.32,0.33,0.306,0.024,0.5,4.0,0.556,-40.6,-9.03,-17.0,-5.6,,,,0.0
+2026-11-23,Ace Bailey,pra,22.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-105.0,14:54,27.4,19.32,0.67,0.694,0.024,0.5,4.0,0.512,30.9,6.32,17.0,-1.2,0.546,3.37,,0.0
+2026-11-23,Ace Bailey,pts,14.5,over,PASS,no edge,UTA,LAL,DraftKings,-125.0,14:54,27.4,12.63,0.36,0.336,0.024,0.511,6.0,0.556,-35.2,-7.82,-15.1,-4.4,,,,0.0
+2026-11-23,Ace Bailey,pts,14.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-102.0,14:54,27.4,12.63,0.64,0.664,0.024,0.489,6.0,0.505,26.7,5.4,15.1,-1.6,0.526,2.07,,0.0
+2026-11-23,Ace Bailey,reb,5.5,over,PASS,no edge,UTA,LAL,DraftKings,-110.0,14:54,27.4,4.77,0.374,0.35,0.024,0.474,7.0,0.524,-28.5,-5.98,-10.0,-4.9,,,,0.0
+2026-11-23,Ace Bailey,reb,5.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-120.0,14:54,27.4,4.77,0.626,0.65,0.024,0.526,7.0,0.545,14.7,3.21,10.0,-2.0,0.555,0.99,,0.0
+2026-11-23,Ajay Mitchell,ast,3.5,over,PASS,no edge,OKC,IND,DraftKings,-121.0,14:54,28.0,3.7,0.5,0.476,0.024,0.54,7.0,0.548,-8.7,-1.9,-4.0,-0.8,,,,0.0
+2026-11-23,Ajay Mitchell,ast,3.5,under,PASS,no edge,OKC,IND,DraftKings,-109.0,14:54,28.0,3.7,0.5,0.524,0.024,0.46,7.0,0.522,-4.1,-0.86,4.0,-6.1,,,,0.0
+2026-11-23,Ajay Mitchell,fg3m,0.5,over,PASS,no edge,OKC,IND,DraftKings,-233.0,14:54,28.0,1.17,0.702,0.678,0.024,0.654,2.0,0.7,0.3,0.08,4.7,-4.5,,,,0.0
+2026-11-23,Ajay Mitchell,fg3m,0.5,under,PASS,no edge,OKC,IND,DraftKings,174.0,14:54,28.0,1.17,0.298,0.322,0.024,0.346,2.0,0.365,-18.3,-2.67,-4.7,-1.9,,,,0.0
+2026-11-23,Ajay Mitchell,pra,24.5,over,PASS,no edge,OKC,IND,DraftKings,-118.0,14:54,28.0,22.39,0.39,0.366,0.024,0.503,4.0,0.541,-28.0,-6.06,-11.3,-3.8,,,,0.0
+2026-11-23,Ajay Mitchell,pra,24.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-112.0,14:54,28.0,22.39,0.61,0.634,0.024,0.497,4.0,0.528,15.5,3.27,11.3,-3.1,0.525,-0.29,,0.0
+2026-11-23,Ajay Mitchell,pts,17.5,over,PASS,no edge,OKC,IND,DraftKings,-102.0,14:54,28.0,15.01,0.341,0.317,0.024,0.472,3.0,0.505,-32.5,-6.57,-13.1,-3.3,,,,0.0
+2026-11-23,Ajay Mitchell,pts,17.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-125.0,14:54,28.0,15.01,0.659,0.683,0.024,0.528,3.0,0.556,18.7,4.15,13.1,-2.7,0.556,0.06,,0.0
+2026-11-23,Ajay Mitchell,reb,3.5,over,PASS,no edge,OKC,IND,DraftKings,-110.0,14:54,28.0,3.68,0.487,0.463,0.024,0.503,7.0,0.524,-7.1,-1.48,-1.6,-2.1,,,,0.0
+2026-11-23,Ajay Mitchell,reb,3.5,under,PASS,no edge,OKC,IND,DraftKings,-119.0,14:54,28.0,3.68,0.513,0.537,0.024,0.497,7.0,0.543,-5.5,-1.21,1.6,-4.6,,,,0.0
+2026-11-23,Allen Graves,pts,8.5,over,PASS,no edge,TOR,MIL,DraftKings,-114.0,14:54,21.3,8.88,0.499,0.475,0.024,0.511,6.0,0.533,-6.4,-1.36,-1.2,-2.2,,,,0.0
+2026-11-23,Allen Graves,pts,8.5,under,PASS,no edge,TOR,MIL,DraftKings,-112.0,14:54,21.3,8.88,0.501,0.525,0.024,0.489,6.0,0.528,-5.1,-1.09,1.2,-3.9,,,,0.0
+2026-11-23,Allen Graves,reb,4.5,over,PASS,no edge,TOR,MIL,DraftKings,-128.0,14:54,21.3,4.19,0.419,0.395,0.024,0.521,6.0,0.561,-25.4,-5.7,-10.2,-4.1,,,,0.0
+2026-11-23,Allen Graves,reb,4.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",TOR,MIL,DraftKings,-103.0,14:54,21.3,4.19,0.581,0.605,0.024,0.479,6.0,0.507,14.5,2.95,10.2,-2.8,0.51,0.25,,0.0
+2026-11-23,Alperen Sengun,ast,6.5,over,PASS,no edge,HOU,LAC,DraftKings,-140.0,14:54,29.2,5.56,0.364,0.34,0.024,0.531,7.0,0.583,-37.7,-8.79,-16.7,-5.3,,,,0.0
+2026-11-23,Alperen Sengun,ast,6.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",HOU,LAC,DraftKings,106.0,14:54,29.2,5.56,0.636,0.66,0.024,0.469,7.0,0.485,31.1,6.04,16.7,-1.6,0.518,3.28,,0.0
+2026-11-23,Alperen Sengun,fg3m,0.5,over,PASS,no edge,HOU,LAC,DraftKings,-123.0,14:54,29.2,0.68,0.502,0.478,0.024,0.492,5.0,0.552,-9.0,-1.98,1.0,-6.0,,,,0.0
+2026-11-23,Alperen Sengun,fg3m,0.5,under,PASS,no edge,HOU,LAC,DraftKings,-107.0,14:54,29.2,0.68,0.498,0.522,0.024,0.508,5.0,0.517,-3.7,-0.76,-1.0,-0.9,,,,0.0
+2026-11-23,Alperen Sengun,pra,37.5,over,PASS,no edge,HOU,LAC,DraftKings,-123.0,14:54,29.2,31.46,0.297,0.274,0.024,0.496,5.0,0.552,-46.1,-10.17,-19.9,-5.6,,,,0.0
+2026-11-23,Alperen Sengun,pra,37.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",HOU,LAC,DraftKings,-107.0,14:54,29.2,31.46,0.703,0.726,0.024,0.504,5.0,0.517,35.9,7.43,19.9,-1.3,0.567,4.96,,0.0
+2026-11-23,Alperen Sengun,pts,21.5,over,PASS,no edge,HOU,LAC,DraftKings,-107.0,14:54,29.2,18.26,0.338,0.314,0.024,0.481,5.0,0.517,-34.6,-7.15,-14.3,-3.6,,,,0.0
+2026-11-23,Alperen Sengun,pts,21.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",HOU,LAC,DraftKings,-119.0,14:54,29.2,18.26,0.662,0.686,0.024,0.519,5.0,0.543,21.8,4.74,14.3,-2.4,0.566,2.3,,0.0
+2026-11-23,Alperen Sengun,reb,9.5,over,PASS,no edge,HOU,LAC,DraftKings,100.0,14:54,29.2,7.63,0.308,0.284,0.024,0.463,6.0,0.5,-38.5,-7.69,-15.5,-3.7,,,,0.0
+2026-11-23,Alperen Sengun,reb,9.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",HOU,LAC,DraftKings,-132.0,14:54,29.2,7.63,0.692,0.716,0.024,0.537,6.0,0.569,21.7,4.93,15.5,-3.2,0.584,1.49,,0.0
+2026-11-23,Amen Thompson,ast,2.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",HOU,LAC,DraftKings,-161.0,14:54,30.7,3.87,0.706,0.682,0.024,0.588,6.0,0.617,14.4,3.55,11.8,-2.9,0.614,-0.31,,0.0
+2026-11-23,Amen Thompson,ast,2.5,under,PASS,no edge,HOU,LAC,DraftKings,122.0,14:54,30.7,3.87,0.294,0.318,0.024,0.412,6.0,0.45,-34.6,-6.24,-11.8,-3.8,,,,0.0
+2026-11-23,Amen Thompson,pra,24.5,over,PASS,no edge,HOU,LAC,DraftKings,-127.0,14:54,30.7,25.49,0.535,0.511,0.024,0.52,3.0,0.559,-4.5,-1.0,1.4,-3.9,,,,0.0
+2026-11-23,Amen Thompson,pra,24.5,under,PASS,no edge,HOU,LAC,DraftKings,-103.0,14:54,30.7,25.49,0.465,0.489,0.024,0.48,3.0,0.507,-8.3,-1.68,-1.4,-2.8,,,,0.0
+2026-11-23,Amen Thompson,pts,15.5,over,PASS,no edge,HOU,LAC,DraftKings,-106.0,14:54,30.7,15.32,0.469,0.445,0.024,0.481,7.0,0.515,-8.8,-1.82,-1.2,-3.3,,,,0.0
+2026-11-23,Amen Thompson,pts,15.5,under,PASS,no edge,HOU,LAC,DraftKings,-120.0,14:54,30.7,15.32,0.531,0.555,0.024,0.519,7.0,0.545,-2.7,-0.59,1.2,-2.7,,,,0.0
+2026-11-23,Amen Thompson,reb,6.5,over,PASS,no edge,HOU,LAC,DraftKings,-107.0,14:54,30.7,6.31,0.454,0.43,0.024,0.49,7.0,0.517,-12.2,-2.53,-3.6,-2.7,,,,0.0
+2026-11-23,Amen Thompson,reb,6.5,under,PASS,no edge,HOU,LAC,DraftKings,-123.0,14:54,30.7,6.31,0.546,0.57,0.024,0.51,7.0,0.552,-1.0,-0.21,3.6,-4.1,,,,0.0
+2026-11-23,Andrew Nembhard,ast,7.5,over,PASS,no edge,IND,OKC,DraftKings,112.0,14:54,31.9,7.12,0.436,0.412,0.024,0.445,6.0,0.472,-7.5,-1.42,-0.8,-2.7,,,,0.0
+2026-11-23,Andrew Nembhard,ast,7.5,under,PASS,no edge,IND,OKC,DraftKings,-148.0,14:54,31.9,7.12,0.564,0.588,0.024,0.555,6.0,0.597,-5.5,-1.32,0.8,-4.1,,,,0.0
+2026-11-23,Andrew Nembhard,fg3m,1.5,over,PASS,no edge,IND,OKC,DraftKings,-129.0,14:54,31.9,1.84,0.556,0.532,0.024,0.52,7.0,0.563,-1.4,-0.31,3.5,-4.3,,,,0.0
+2026-11-23,Andrew Nembhard,fg3m,1.5,under,PASS,no edge,IND,OKC,DraftKings,-102.0,14:54,31.9,1.84,0.444,0.468,0.024,0.48,7.0,0.505,-12.0,-2.42,-3.5,-2.5,,,,0.0
+2026-11-23,Andrew Nembhard,pra,24.5,over,PASS,no edge,IND,OKC,DraftKings,-108.0,14:54,31.9,25.63,0.543,0.52,0.024,0.49,3.0,0.519,4.7,0.97,5.4,-2.9,,,,0.0
+2026-11-23,Andrew Nembhard,pra,24.5,under,PASS,no edge,IND,OKC,DraftKings,-121.0,14:54,31.9,25.63,0.457,0.48,0.024,0.51,3.0,0.548,-16.6,-3.64,-5.4,-3.7,,,,0.0
+2026-11-23,Andrew Nembhard,pts,14.5,over,PASS,no edge,IND,OKC,DraftKings,-109.0,14:54,31.9,15.58,0.553,0.529,0.024,0.493,6.0,0.522,6.0,1.24,6.0,-2.9,,,,0.0
+2026-11-23,Andrew Nembhard,pts,14.5,under,PASS,no edge,IND,OKC,DraftKings,-117.0,14:54,31.9,15.58,0.447,0.471,0.024,0.507,6.0,0.539,-17.0,-3.67,-6.0,-3.2,,,,0.0
+2026-11-23,Anfernee Simons,fg3m,1.5,over,PASS,no edge,PHI,POR,DraftKings,-157.0,14:54,18.5,1.59,0.473,0.45,0.024,0.569,5.0,0.611,-22.5,-5.5,-9.6,-4.2,,,,0.0
+2026-11-23,Anfernee Simons,fg3m,1.5,under,WATCH,edge below the Rules §3 bar,PHI,POR,DraftKings,119.0,14:54,18.5,1.59,0.527,0.55,0.024,0.431,5.0,0.457,15.3,2.8,9.6,-2.6,0.45,-0.62,,0.0
+2026-11-23,Anfernee Simons,pra,13.5,over,PASS,no edge,PHI,POR,DraftKings,-115.0,14:54,18.5,11.77,0.382,0.359,0.024,0.498,2.0,0.535,-28.5,-6.1,-11.6,-3.6,,,,0.0
+2026-11-23,Anfernee Simons,pra,13.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,-115.0,14:54,18.5,11.77,0.618,0.641,0.024,0.502,2.0,0.535,15.5,3.31,11.6,-3.3,0.53,-0.46,,0.0
+2026-11-23,Anfernee Simons,pts,9.5,over,PASS,no edge,PHI,POR,DraftKings,-107.0,14:54,18.5,8.54,0.401,0.377,0.024,0.482,4.0,0.517,-22.4,-4.63,-8.0,-3.5,,,,0.0
+2026-11-23,Anfernee Simons,pts,9.5,under,WATCH,edge below the Rules §3 bar,PHI,POR,DraftKings,-119.0,14:54,18.5,8.54,0.599,0.623,0.024,0.518,4.0,0.543,10.2,2.22,8.0,-2.5,0.543,-0.04,,0.0
+2026-11-23,Ayo Dosunmu,ast,3.5,over,PASS,no edge,MIN,BKN,DraftKings,-142.0,14:54,28.7,3.37,0.438,0.414,0.024,0.577,2.0,0.587,-25.4,-5.96,-13.9,-1.0,,,,0.0
+2026-11-23,Ayo Dosunmu,ast,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,108.0,14:54,28.7,3.37,0.562,0.586,0.024,0.423,2.0,0.481,16.9,3.25,13.9,-5.7,0.465,-1.58,,0.0
+2026-11-23,Ayo Dosunmu,fg3m,1.5,over,PASS,no edge,MIN,BKN,DraftKings,-164.0,14:54,28.7,1.56,0.472,0.448,0.024,0.588,6.0,0.621,-24.0,-5.96,-11.6,-3.3,,,,0.0
+2026-11-23,Ayo Dosunmu,fg3m,1.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,124.0,14:54,28.7,1.56,0.528,0.552,0.024,0.412,6.0,0.446,18.2,3.25,11.6,-3.5,0.442,-0.42,,0.0
+2026-11-23,Ayo Dosunmu,pra,25.5,over,PASS,no edge,MIN,BKN,DraftKings,-120.0,14:54,28.7,22.02,0.331,0.308,0.024,0.51,3.0,0.545,-39.2,-8.56,-17.9,-3.5,,,,0.0
+2026-11-23,Ayo Dosunmu,pra,25.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-109.0,14:54,28.7,22.02,0.669,0.692,0.024,0.49,3.0,0.522,28.2,5.88,17.9,-3.2,0.54,1.9,,0.0
+2026-11-23,Ayo Dosunmu,pts,17.5,over,PASS,no edge,MIN,BKN,DraftKings,-111.0,14:54,28.7,14.66,0.322,0.298,0.024,0.497,7.0,0.526,-38.7,-8.15,-17.5,-2.9,,,,0.0
+2026-11-23,Ayo Dosunmu,pts,17.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-115.0,14:54,28.7,14.66,0.678,0.702,0.024,0.503,7.0,0.535,26.7,5.71,17.5,-3.2,0.561,2.65,,0.0
+2026-11-23,Ayo Dosunmu,reb,4.5,over,PASS,no edge,MIN,BKN,DraftKings,114.0,14:54,28.7,3.99,0.389,0.365,0.024,0.438,2.0,0.467,-16.7,-3.12,-4.8,-3.0,,,,0.0
+2026-11-23,Ayo Dosunmu,reb,4.5,under,PASS,no edge,MIN,BKN,DraftKings,-150.0,14:54,28.7,3.99,0.611,0.635,0.024,0.562,2.0,0.6,1.8,0.42,4.8,-3.8,,,,0.0
+2026-11-23,Brandon Miller,ast,3.5,over,PASS,no edge,CHA,MEM,DraftKings,130.0,14:54,29.3,3.0,0.375,0.351,0.024,0.393,5.0,0.435,-13.7,-2.38,-1.8,-4.1,,,,0.0
+2026-11-23,Brandon Miller,ast,3.5,under,PASS,no edge,CHA,MEM,DraftKings,-172.0,14:54,29.3,3.0,0.625,0.649,0.024,0.607,5.0,0.632,-1.2,-0.3,1.8,-2.6,,,,0.0
+2026-11-23,Brandon Miller,fg3m,3.5,over,PASS,no edge,CHA,MEM,DraftKings,131.0,14:54,29.3,2.78,0.333,0.309,0.024,0.431,7.0,0.433,-23.0,-3.99,-9.7,-0.2,,,,0.0
+2026-11-23,Brandon Miller,fg3m,3.5,under,PASS,no edge,CHA,MEM,DraftKings,-173.0,14:54,29.3,2.78,0.667,0.691,0.024,0.569,7.0,0.634,5.2,1.32,9.7,-6.4,,,,0.0
+2026-11-23,Brandon Miller,pra,29.5,over,PASS,no edge,CHA,MEM,DraftKings,-118.0,14:54,29.3,26.46,0.378,0.354,0.024,0.503,6.0,0.541,-30.2,-6.53,-12.5,-3.9,,,,0.0
+2026-11-23,Brandon Miller,pra,29.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-112.0,14:54,29.3,26.46,0.622,0.646,0.024,0.497,6.0,0.528,17.7,3.75,12.5,-3.1,0.529,0.04,,0.0
+2026-11-23,Brandon Miller,pts,21.5,over,PASS,no edge,CHA,MEM,DraftKings,-109.0,14:54,29.3,18.85,0.364,0.34,0.024,0.503,6.0,0.522,-30.2,-6.3,-13.8,-1.9,,,,0.0
+2026-11-23,Brandon Miller,pts,21.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-117.0,14:54,29.3,18.85,0.636,0.66,0.024,0.497,6.0,0.539,17.9,3.87,13.8,-4.2,0.535,-0.43,,0.0
+2026-11-23,Brandon Miller,reb,4.5,over,PASS,no edge,CHA,MEM,DraftKings,-135.0,14:54,29.3,4.6,0.479,0.455,0.024,0.5,7.0,0.574,-16.6,-3.83,-2.1,-7.4,,,,0.0
+2026-11-23,Brandon Miller,reb,4.5,under,PASS,no edge,CHA,MEM,DraftKings,103.0,14:54,29.3,4.6,0.521,0.545,0.024,0.5,7.0,0.493,5.8,1.14,2.1,0.7,,,,0.0
+2026-11-23,Brayden Burries,ast,2.5,over,PASS,no edge,MIL,TOR,DraftKings,-114.0,14:54,24.0,2.25,0.402,0.378,0.024,0.495,4.0,0.533,-24.6,-5.24,-9.3,-3.8,,,,0.0
+2026-11-23,Brayden Burries,ast,2.5,under,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,-116.0,14:54,24.0,2.25,0.598,0.622,0.024,0.505,4.0,0.537,11.4,2.45,9.3,-3.2,0.537,-0.0,,0.0
+2026-11-23,Brayden Burries,fg3m,1.5,over,PASS,no edge,MIL,TOR,DraftKings,126.0,14:54,24.0,1.32,0.391,0.368,0.024,0.411,5.0,0.442,-11.5,-2.04,-2.0,-3.1,,,,0.0
+2026-11-23,Brayden Burries,fg3m,1.5,under,PASS,no edge,MIL,TOR,DraftKings,-166.0,14:54,24.0,1.32,0.609,0.632,0.024,0.589,5.0,0.624,-2.5,-0.62,2.0,-3.5,,,,0.0
+2026-11-23,Brayden Burries,pra,19.5,over,PASS,no edge,MIL,TOR,DraftKings,-122.0,14:54,24.0,17.91,0.402,0.378,0.024,0.497,3.0,0.55,-26.9,-5.91,-9.5,-5.3,,,,0.0
+2026-11-23,Brayden Burries,pra,19.5,under,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,-108.0,14:54,24.0,17.91,0.598,0.622,0.024,0.503,3.0,0.519,15.2,3.16,9.5,-1.6,0.525,0.58,,0.0
+2026-11-23,Brayden Burries,pts,11.5,over,PASS,no edge,MIL,TOR,DraftKings,-113.0,14:54,24.0,10.44,0.4,0.376,0.024,0.478,6.0,0.531,-24.5,-5.21,-7.8,-5.3,,,,0.0
+2026-11-23,Brayden Burries,pts,11.5,under,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,-113.0,14:54,24.0,10.44,0.6,0.624,0.024,0.522,6.0,0.531,13.0,2.77,7.8,-0.8,0.548,1.75,,0.0
+2026-11-23,Brayden Burries,reb,5.5,over,PASS,no edge,MIL,TOR,DraftKings,106.0,14:54,24.0,5.22,0.434,0.41,0.024,0.436,6.0,0.485,-10.6,-2.07,-0.3,-4.9,,,,0.0
+2026-11-23,Brayden Burries,reb,5.5,under,PASS,no edge,MIL,TOR,DraftKings,-139.0,14:54,24.0,5.22,0.566,0.59,0.024,0.564,6.0,0.582,-2.6,-0.61,0.3,-1.8,,,,0.0
+2026-11-23,Brook Lopez,fg3m,1.5,over,PASS,no edge,LAC,HOU,DraftKings,110.0,14:54,25.6,1.71,0.511,0.487,0.024,0.455,7.0,0.476,7.3,1.39,5.6,-2.1,,,,0.0
+2026-11-23,Brook Lopez,fg3m,1.5,under,PASS,no edge,LAC,HOU,DraftKings,-145.0,14:54,25.6,1.71,0.489,0.513,0.024,0.545,7.0,0.592,-17.4,-4.11,-5.6,-4.7,,,,0.0
+2026-11-23,Brook Lopez,pts,11.5,over,PASS,no edge,LAC,HOU,DraftKings,-121.0,14:54,25.6,12.48,0.544,0.521,0.024,0.528,4.0,0.548,-0.6,-0.12,1.7,-2.0,,,,0.0
+2026-11-23,Brook Lopez,pts,11.5,under,PASS,no edge,LAC,HOU,DraftKings,-105.0,14:54,25.6,12.48,0.456,0.479,0.024,0.472,4.0,0.512,-11.1,-2.27,-1.7,-4.0,,,,0.0
+2026-11-23,Brook Lopez,reb,4.5,over,PASS,no edge,LAC,HOU,DraftKings,-125.0,14:54,25.6,4.73,0.498,0.474,0.024,0.488,7.0,0.556,-10.3,-2.29,1.1,-6.8,,,,0.0
+2026-11-23,Brook Lopez,reb,4.5,under,PASS,no edge,LAC,HOU,DraftKings,-105.0,14:54,25.6,4.73,0.502,0.526,0.024,0.512,7.0,0.512,-2.0,-0.42,-1.1,0.0,,,,0.0
+2026-11-23,Cam Spencer,ast,5.5,over,PASS,no edge,MEM,CHA,DraftKings,-135.0,14:54,24.6,5.01,0.407,0.383,0.024,0.519,7.0,0.574,-29.2,-6.72,-11.3,-5.5,,,,0.0
+2026-11-23,Cam Spencer,ast,5.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,102.0,14:54,24.6,5.01,0.593,0.617,0.024,0.481,7.0,0.495,19.9,3.93,11.3,-1.4,0.511,1.61,,0.0
+2026-11-23,Cam Spencer,fg3m,1.5,over,PASS,no edge,MEM,CHA,DraftKings,-129.0,14:54,24.6,1.5,0.457,0.433,0.024,0.508,7.0,0.563,-18.9,-4.25,-5.1,-5.5,,,,0.0
+2026-11-23,Cam Spencer,fg3m,1.5,under,WATCH,edge below the Rules §3 bar,MEM,CHA,DraftKings,-102.0,14:54,24.6,1.5,0.543,0.567,0.024,0.492,7.0,0.505,7.5,1.52,5.1,-1.3,0.516,1.05,,0.0
+2026-11-23,Cam Spencer,pra,19.5,over,PASS,no edge,MEM,CHA,DraftKings,-108.0,14:54,24.6,17.73,0.395,0.371,0.024,0.481,4.0,0.519,-24.0,-4.99,-8.7,-3.8,,,,0.0
+2026-11-23,Cam Spencer,pra,19.5,under,WATCH,edge below the Rules §3 bar,MEM,CHA,DraftKings,-121.0,14:54,24.6,17.73,0.605,0.629,0.024,0.519,4.0,0.548,10.6,2.32,8.7,-2.9,0.547,-0.0,,0.0
+2026-11-23,Cam Spencer,pts,9.5,over,PASS,no edge,MEM,CHA,DraftKings,-129.0,14:54,24.6,9.82,0.494,0.47,0.024,0.519,2.0,0.563,-12.4,-2.78,-2.6,-4.4,,,,0.0
+2026-11-23,Cam Spencer,pts,9.5,under,PASS,no edge,MEM,CHA,DraftKings,101.0,14:54,24.6,9.82,0.506,0.53,0.024,0.481,2.0,0.498,1.8,0.35,2.6,-1.7,,,,0.0
+2026-11-23,Cam Spencer,reb,3.5,over,PASS,no edge,MEM,CHA,DraftKings,128.0,14:54,24.6,2.9,0.355,0.331,0.024,0.417,3.0,0.439,-19.1,-3.34,-6.1,-2.2,,,,0.0
+2026-11-23,Cam Spencer,reb,3.5,under,PASS,no edge,MEM,CHA,DraftKings,-169.0,14:54,24.6,2.9,0.645,0.669,0.024,0.583,3.0,0.628,2.7,0.67,6.1,-4.5,,,,0.0
+2026-11-23,Cedric Coward,ast,2.5,over,PASS,no edge,MEM,CHA,DraftKings,-180.0,14:54,27.6,2.73,0.504,0.481,0.024,0.603,1.0,0.643,-21.5,-5.54,-9.8,-4.0,,,,0.0
+2026-11-23,Cedric Coward,ast,2.5,under,WATCH,edge below the Rules §3 bar,MEM,CHA,DraftKings,136.0,14:54,27.6,2.73,0.496,0.519,0.024,0.397,1.0,0.424,16.9,2.87,9.8,-2.6,0.429,0.5,,0.0
+2026-11-23,Cedric Coward,fg3m,1.5,over,PASS,no edge,MEM,CHA,DraftKings,-180.0,14:54,27.6,1.68,0.509,0.485,0.024,0.614,5.0,0.643,-20.8,-5.35,-10.5,-2.9,,,,0.0
+2026-11-23,Cedric Coward,fg3m,1.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,136.0,14:54,27.6,1.68,0.491,0.515,0.024,0.386,5.0,0.424,15.8,2.68,10.5,-3.8,0.414,-0.99,,0.0
+2026-11-23,Cedric Coward,pra,26.5,over,PASS,no edge,MEM,CHA,DraftKings,-111.0,14:54,27.6,21.49,0.272,0.248,0.024,0.484,7.0,0.526,-48.3,-10.17,-21.2,-4.3,,,,0.0
+2026-11-23,Cedric Coward,pra,26.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,-119.0,14:54,27.6,21.49,0.728,0.752,0.024,0.516,7.0,0.543,34.0,7.4,21.2,-2.7,0.564,2.07,,0.0
+2026-11-23,Cedric Coward,pts,15.5,over,PASS,no edge,MEM,CHA,DraftKings,-119.0,14:54,27.6,12.44,0.294,0.27,0.024,0.517,6.0,0.543,-45.9,-9.98,-22.3,-2.6,,,,0.0
+2026-11-23,Cedric Coward,pts,15.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,-107.0,14:54,27.6,12.44,0.706,0.73,0.024,0.483,6.0,0.517,36.6,7.57,22.3,-3.4,0.547,2.97,,0.0
+2026-11-23,Cedric Coward,reb,7.5,over,PASS,no edge,MEM,CHA,DraftKings,111.0,14:54,27.6,6.33,0.349,0.325,0.024,0.438,4.0,0.474,-26.4,-5.0,-9.0,-3.6,,,,0.0
+2026-11-23,Cedric Coward,reb,7.5,under,WATCH,edge below the Rules §3 bar,MEM,CHA,DraftKings,-146.0,14:54,27.6,6.33,0.651,0.675,0.024,0.562,4.0,0.593,9.7,2.31,9.0,-3.2,0.59,-0.37,,0.0
+2026-11-23,Coby White,ast,3.5,over,PASS,no edge,CHA,MEM,DraftKings,-147.0,14:54,19.3,3.06,0.388,0.364,0.024,0.575,5.0,0.595,-34.8,-8.29,-18.7,-2.1,,,,0.0
+2026-11-23,Coby White,ast,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,112.0,14:54,19.3,3.06,0.612,0.636,0.024,0.425,5.0,0.472,29.8,5.62,18.7,-4.6,0.476,0.44,,0.0
+2026-11-23,Coby White,fg3m,1.5,over,PASS,no edge,CHA,MEM,DraftKings,-174.0,14:54,19.3,1.48,0.445,0.421,0.024,0.604,7.0,0.635,-30.0,-7.62,-15.9,-3.1,,,,0.0
+2026-11-23,Coby White,fg3m,1.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,131.0,14:54,19.3,1.48,0.555,0.579,0.024,0.396,7.0,0.433,28.3,4.9,15.9,-3.7,0.436,0.27,,0.0
+2026-11-23,Coby White,pra,24.5,over,PASS,no edge,CHA,MEM,DraftKings,-109.0,14:54,19.3,15.86,0.143,0.119,0.024,0.5,4.0,0.522,-72.6,-15.15,-35.7,-2.2,,,,0.0
+2026-11-23,Coby White,pra,24.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-120.0,14:54,19.3,15.86,0.857,0.881,0.024,0.5,4.0,0.545,57.2,12.47,35.7,-4.5,0.592,4.6,,0.0
+2026-11-23,Coby White,pts,17.5,over,PASS,no edge,CHA,MEM,DraftKings,-109.0,14:54,19.3,10.25,0.131,0.107,0.024,0.51,6.0,0.522,-74.9,-15.62,-37.9,-1.2,,,,0.0
+2026-11-23,Coby White,pts,17.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-117.0,14:54,19.3,10.25,0.869,0.893,0.024,0.49,6.0,0.539,61.2,13.19,37.9,-4.9,0.667,12.82,,0.0
+2026-11-23,Coby White,reb,2.5,over,PASS,no edge,CHA,MEM,DraftKings,-140.0,14:54,19.3,2.55,0.457,0.433,0.024,0.528,6.0,0.583,-21.6,-5.05,-7.1,-5.5,,,,0.0
+2026-11-23,Coby White,reb,2.5,under,WATCH,edge below the Rules §3 bar,CHA,MEM,DraftKings,107.0,14:54,19.3,2.55,0.543,0.567,0.024,0.472,6.0,0.483,12.4,2.39,7.1,-1.1,0.497,1.35,,0.0
+2026-11-23,Collin Gillespie,ast,3.5,over,PASS,no edge,PHX,NOP,DraftKings,-132.0,14:54,26.0,3.91,0.533,0.509,0.024,0.558,5.0,0.569,-6.4,-1.45,-2.5,-1.1,,,,0.0
+2026-11-23,Collin Gillespie,ast,3.5,under,PASS,no edge,PHX,NOP,DraftKings,100.0,14:54,26.0,3.91,0.467,0.491,0.024,0.442,5.0,0.5,-6.6,-1.31,2.5,-5.8,,,,0.0
+2026-11-23,Collin Gillespie,fg3m,2.5,over,PASS,no edge,PHX,NOP,DraftKings,113.0,14:54,26.0,2.36,0.433,0.409,0.024,0.476,5.0,0.469,-7.8,-1.46,-4.3,0.6,,,,0.0
+2026-11-23,Collin Gillespie,fg3m,2.5,under,PASS,no edge,PHX,NOP,DraftKings,-150.0,14:54,26.0,2.36,0.567,0.591,0.024,0.524,5.0,0.6,-5.5,-1.32,4.3,-7.6,,,,0.0
+2026-11-23,Collin Gillespie,pra,17.5,over,PASS,no edge,PHX,NOP,DraftKings,-108.0,14:54,26.0,18.34,0.531,0.507,0.024,0.5,3.0,0.519,2.2,0.47,3.1,-1.9,,,,0.0
+2026-11-23,Collin Gillespie,pra,17.5,under,PASS,no edge,PHX,NOP,DraftKings,-122.0,14:54,26.0,18.34,0.469,0.493,0.024,0.5,3.0,0.55,-14.6,-3.22,-3.1,-5.0,,,,0.0
+2026-11-23,Collin Gillespie,pts,10.5,over,PASS,no edge,PHX,NOP,DraftKings,-102.0,14:54,26.0,10.91,0.499,0.475,0.024,0.501,6.0,0.505,-1.2,-0.25,-0.2,-0.4,,,,0.0
+2026-11-23,Collin Gillespie,pts,10.5,under,PASS,no edge,PHX,NOP,DraftKings,-125.0,14:54,26.0,10.91,0.501,0.525,0.024,0.499,6.0,0.556,-9.8,-2.17,0.2,-5.6,,,,0.0
+2026-11-23,Collin Gillespie,reb,2.5,over,PASS,no edge,PHX,NOP,DraftKings,-156.0,14:54,26.0,3.52,0.635,0.611,0.024,0.583,3.0,0.609,4.2,1.03,5.2,-2.6,,,,0.0
+2026-11-23,Collin Gillespie,reb,2.5,under,PASS,no edge,PHX,NOP,DraftKings,118.0,14:54,26.0,3.52,0.365,0.389,0.024,0.417,3.0,0.459,-20.4,-3.75,-5.2,-4.2,,,,0.0
+2026-11-23,Collin Murray-Boyles,ast,2.5,over,PASS,no edge,TOR,MIL,DraftKings,112.0,14:54,26.7,2.47,0.446,0.422,0.024,0.425,3.0,0.472,-5.5,-1.04,2.1,-4.7,,,,0.0
+2026-11-23,Collin Murray-Boyles,ast,2.5,under,PASS,no edge,TOR,MIL,DraftKings,-148.0,14:54,26.7,2.47,0.554,0.578,0.024,0.575,3.0,0.597,-7.1,-1.7,-2.1,-2.2,,,,0.0
+2026-11-23,Collin Murray-Boyles,fg3m,0.5,over,PASS,no edge,TOR,MIL,DraftKings,109.0,14:54,26.7,0.69,0.493,0.469,0.024,0.448,2.0,0.478,3.0,0.58,4.5,-3.0,,,,0.0
+2026-11-23,Collin Murray-Boyles,fg3m,0.5,under,PASS,no edge,TOR,MIL,DraftKings,-144.0,14:54,26.7,0.69,0.507,0.531,0.024,0.552,2.0,0.59,-14.1,-3.32,-4.5,-3.8,,,,0.0
+2026-11-23,Collin Murray-Boyles,pra,20.5,over,PASS,no edge,TOR,MIL,DraftKings,-126.0,14:54,26.7,20.16,0.474,0.451,0.024,0.508,4.0,0.558,-14.9,-3.32,-3.4,-4.9,,,,0.0
+2026-11-23,Collin Murray-Boyles,pra,20.5,under,PASS,no edge,TOR,MIL,DraftKings,-104.0,14:54,26.7,20.16,0.526,0.549,0.024,0.492,4.0,0.51,3.1,0.63,3.4,-1.8,,,,0.0
+2026-11-23,Collin Murray-Boyles,pts,12.5,over,PASS,no edge,TOR,MIL,DraftKings,-105.0,14:54,26.7,12.16,0.456,0.432,0.024,0.47,4.0,0.512,-10.9,-2.23,-1.4,-4.2,,,,0.0
+2026-11-23,Collin Murray-Boyles,pts,12.5,under,PASS,no edge,TOR,MIL,DraftKings,-121.0,14:54,26.7,12.16,0.544,0.568,0.024,0.53,4.0,0.548,-0.7,-0.16,1.4,-1.8,,,,0.0
+2026-11-23,Collin Murray-Boyles,reb,5.5,over,PASS,no edge,TOR,MIL,DraftKings,-151.0,14:54,26.7,5.54,0.473,0.449,0.024,0.564,1.0,0.602,-21.4,-5.14,-9.1,-3.8,,,,0.0
+2026-11-23,Collin Murray-Boyles,reb,5.5,under,WATCH,edge below the Rules §3 bar,TOR,MIL,DraftKings,115.0,14:54,26.7,5.54,0.527,0.551,0.024,0.436,1.0,0.465,13.3,2.47,9.1,-2.9,0.46,-0.47,,0.0
+2026-11-23,Collin Sexton,ast,2.5,over,PASS,no edge,LAL,UTA,DraftKings,-104.0,14:54,19.7,2.39,0.433,0.409,0.024,0.494,4.0,0.51,-15.1,-3.07,-6.1,-1.5,,,,0.0
+2026-11-23,Collin Sexton,ast,2.5,under,PASS,no edge,LAL,UTA,DraftKings,-126.0,14:54,19.7,2.39,0.567,0.591,0.024,0.506,4.0,0.558,1.7,0.38,6.1,-5.2,,,,0.0
+2026-11-23,Collin Sexton,fg3m,1.5,over,PASS,no edge,LAL,UTA,DraftKings,170.0,14:54,19.7,1.17,0.347,0.323,0.024,0.368,7.0,0.37,-6.2,-0.93,-2.0,-0.3,,,,0.0
+2026-11-23,Collin Sexton,fg3m,1.5,under,PASS,no edge,LAL,UTA,DraftKings,-228.0,14:54,19.7,1.17,0.653,0.677,0.024,0.632,7.0,0.695,-6.1,-1.69,2.0,-6.3,,,,0.0
+2026-11-23,Collin Sexton,pra,16.5,over,PASS,no edge,LAL,UTA,DraftKings,-104.0,14:54,19.7,15.64,0.436,0.412,0.024,0.481,3.0,0.51,-14.5,-2.96,-4.5,-2.9,,,,0.0
+2026-11-23,Collin Sexton,pra,16.5,under,PASS,no edge,LAL,UTA,DraftKings,-126.0,14:54,19.7,15.64,0.564,0.588,0.024,0.519,3.0,0.558,1.2,0.27,4.5,-3.8,,,,0.0
+2026-11-23,Collin Sexton,pts,11.5,over,PASS,no edge,LAL,UTA,DraftKings,-112.0,14:54,19.7,11.2,0.454,0.43,0.024,0.51,7.0,0.528,-14.1,-2.98,-5.6,-1.8,,,,0.0
+2026-11-23,Collin Sexton,pts,11.5,under,PASS,no edge,LAL,UTA,DraftKings,-114.0,14:54,19.7,11.2,0.546,0.57,0.024,0.49,7.0,0.533,2.5,0.54,5.6,-4.3,,,,0.0
+2026-11-23,Damian Lillard,ast,4.5,over,PASS,no edge,POR,PHI,DraftKings,116.0,14:54,29.5,3.65,0.339,0.315,0.024,0.433,5.0,0.463,-26.9,-4.97,-9.4,-3.0,,,,0.0
+2026-11-23,Damian Lillard,ast,4.5,under,WATCH,edge below the Rules §3 bar,POR,PHI,DraftKings,-152.0,14:54,29.5,3.65,0.661,0.685,0.024,0.567,5.0,0.603,9.6,2.33,9.4,-3.6,0.605,0.22,,0.0
+2026-11-23,Damian Lillard,fg3m,3.5,over,PASS,no edge,POR,PHI,DraftKings,107.0,14:54,29.5,2.68,0.311,0.287,0.024,0.437,7.0,0.483,-35.7,-6.9,-12.7,-4.6,,,,0.0
+2026-11-23,Damian Lillard,fg3m,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",POR,PHI,DraftKings,-141.0,14:54,29.5,2.68,0.689,0.713,0.024,0.563,7.0,0.585,17.8,4.17,12.7,-2.2,0.604,1.92,,0.0
+2026-11-23,Damian Lillard,pra,29.5,over,PASS,no edge,POR,PHI,DraftKings,-119.0,14:54,29.5,25.32,0.325,0.301,0.024,0.49,5.0,0.543,-40.1,-8.72,-16.5,-5.4,,,,0.0
+2026-11-23,Damian Lillard,pra,29.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",POR,PHI,DraftKings,-110.0,14:54,29.5,25.32,0.675,0.699,0.024,0.51,5.0,0.524,28.8,6.04,16.5,-1.4,0.564,4.04,,0.0
+2026-11-23,Damian Lillard,pts,21.5,over,PASS,no edge,POR,PHI,DraftKings,-114.0,14:54,29.5,18.1,0.322,0.298,0.024,0.49,7.0,0.533,-39.5,-8.43,-16.8,-4.3,,,,0.0
+2026-11-23,Damian Lillard,pts,21.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",POR,PHI,DraftKings,-112.0,14:54,29.5,18.1,0.678,0.702,0.024,0.51,7.0,0.528,28.3,5.99,16.8,-1.8,0.553,2.51,,0.0
+2026-11-23,Damian Lillard,reb,3.5,over,PASS,no edge,POR,PHI,DraftKings,-110.0,14:54,29.5,3.57,0.472,0.448,0.024,0.476,7.0,0.524,-9.8,-2.06,-0.4,-4.8,,,,0.0
+2026-11-23,Damian Lillard,reb,3.5,under,PASS,no edge,POR,PHI,DraftKings,-120.0,14:54,29.5,3.57,0.528,0.552,0.024,0.524,7.0,0.545,-3.3,-0.71,0.4,-2.1,,,,0.0
+2026-11-23,Danny Wolf,fg3m,1.5,over,PASS,no edge,BKN,MIN,DraftKings,144.0,14:54,22.3,1.33,0.392,0.368,0.024,0.389,6.0,0.41,-4.3,-0.71,0.3,-2.1,,,,0.0
+2026-11-23,Danny Wolf,fg3m,1.5,under,PASS,no edge,BKN,MIN,DraftKings,-191.0,14:54,22.3,1.33,0.608,0.632,0.024,0.611,6.0,0.656,-7.4,-1.94,-0.3,-4.5,,,,0.0
+2026-11-23,Danny Wolf,pra,16.5,over,PASS,no edge,BKN,MIN,DraftKings,-106.0,14:54,22.3,15.79,0.452,0.428,0.024,0.508,4.0,0.515,-12.1,-2.5,-5.6,-0.6,,,,0.0
+2026-11-23,Danny Wolf,pra,16.5,under,PASS,no edge,BKN,MIN,DraftKings,-124.0,14:54,22.3,15.79,0.548,0.572,0.024,0.492,4.0,0.554,-1.0,-0.23,5.6,-6.2,,,,0.0
+2026-11-23,Danny Wolf,pts,8.5,over,PASS,no edge,BKN,MIN,DraftKings,-115.0,14:54,22.3,8.66,0.481,0.457,0.024,0.517,4.0,0.535,-10.1,-2.16,-3.6,-1.8,,,,0.0
+2026-11-23,Danny Wolf,pts,8.5,under,PASS,no edge,BKN,MIN,DraftKings,-111.0,14:54,22.3,8.66,0.519,0.543,0.024,0.483,4.0,0.526,-1.3,-0.28,3.6,-4.3,,,,0.0
+2026-11-23,Danny Wolf,reb,5.5,over,PASS,no edge,BKN,MIN,DraftKings,105.0,14:54,22.3,5.08,0.415,0.391,0.024,0.466,7.0,0.488,-14.9,-2.92,-5.1,-2.2,,,,0.0
+2026-11-23,Danny Wolf,reb,5.5,under,PASS,no edge,BKN,MIN,DraftKings,-138.0,14:54,22.3,5.08,0.585,0.609,0.024,0.534,7.0,0.58,0.9,0.21,5.1,-4.6,,,,0.0
+2026-11-23,Darius Acuff Jr.,ast,6.5,over,PASS,no edge,SAC,SAS,DraftKings,-102.0,14:54,34.2,6.11,0.43,0.406,0.024,0.492,7.0,0.505,-14.8,-2.99,-6.2,-1.3,,,,0.0
+2026-11-23,Darius Acuff Jr.,ast,6.5,under,PASS,no edge,SAC,SAS,DraftKings,-129.0,14:54,34.2,6.11,0.57,0.594,0.024,0.508,7.0,0.563,1.2,0.26,6.2,-5.5,,,,0.0
+2026-11-23,Darius Acuff Jr.,fg3m,2.5,over,PASS,no edge,SAC,SAS,DraftKings,-148.0,14:54,34.2,2.64,0.506,0.482,0.024,0.554,7.0,0.597,-15.2,-3.64,-4.8,-4.3,,,,0.0
+2026-11-23,Darius Acuff Jr.,fg3m,2.5,under,PASS,no edge,SAC,SAS,DraftKings,113.0,14:54,34.2,2.64,0.494,0.518,0.024,0.446,7.0,0.469,5.3,0.99,4.8,-2.3,,,,0.0
+2026-11-23,Darius Acuff Jr.,pra,33.5,over,PASS,no edge,SAC,SAS,DraftKings,-108.0,14:54,34.2,30.81,0.387,0.363,0.024,0.49,5.0,0.519,-25.4,-5.28,-10.3,-2.9,,,,0.0
+2026-11-23,Darius Acuff Jr.,pra,33.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAC,SAS,DraftKings,-122.0,14:54,34.2,30.81,0.613,0.637,0.024,0.51,5.0,0.55,11.5,2.53,10.3,-3.9,0.547,-0.28,,0.0
+2026-11-23,Darius Acuff Jr.,pts,23.5,over,PASS,no edge,SAC,SAS,DraftKings,-107.0,14:54,34.2,21.02,0.369,0.345,0.024,0.484,5.0,0.517,-28.6,-5.9,-11.4,-3.3,,,,0.0
+2026-11-23,Darius Acuff Jr.,pts,23.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAC,SAS,DraftKings,-120.0,14:54,34.2,21.02,0.631,0.655,0.024,0.516,5.0,0.545,15.6,3.41,11.4,-2.9,0.554,0.84,,0.0
+2026-11-23,Darius Acuff Jr.,reb,3.5,over,WATCH,edge below the Rules §3 bar,SAC,SAS,DraftKings,128.0,14:54,34.2,3.68,0.491,0.467,0.024,0.402,5.0,0.439,11.8,2.08,8.9,-3.7,0.422,-1.67,,0.0
+2026-11-23,Darius Acuff Jr.,reb,3.5,under,PASS,no edge,SAC,SAS,DraftKings,-169.0,14:54,34.2,3.68,0.509,0.533,0.024,0.598,5.0,0.628,-18.9,-4.75,-8.9,-3.0,,,,0.0
+2026-11-23,Darius Garland,ast,6.5,over,PASS,no edge,LAC,HOU,DraftKings,105.0,14:54,30.5,6.22,0.445,0.421,0.024,0.455,7.0,0.488,-8.9,-1.73,-1.1,-3.2,,,,0.0
+2026-11-23,Darius Garland,ast,6.5,under,PASS,no edge,LAC,HOU,DraftKings,-138.0,14:54,30.5,6.22,0.555,0.579,0.024,0.545,7.0,0.58,-4.2,-0.98,1.1,-3.5,,,,0.0
+2026-11-23,Darius Garland,fg3m,2.5,over,PASS,no edge,LAC,HOU,DraftKings,-101.0,14:54,30.5,2.44,0.455,0.431,0.024,0.476,7.0,0.502,-9.5,-1.91,-2.1,-2.7,,,,0.0
+2026-11-23,Darius Garland,fg3m,2.5,under,PASS,no edge,LAC,HOU,DraftKings,-131.0,14:54,30.5,2.44,0.545,0.569,0.024,0.524,7.0,0.567,-3.8,-0.87,2.1,-4.3,,,,0.0
+2026-11-23,Darius Garland,pra,26.5,over,PASS,no edge,LAC,HOU,DraftKings,-124.0,14:54,30.5,28.11,0.558,0.534,0.024,0.52,3.0,0.554,0.8,0.18,3.8,-3.3,,,,0.0
+2026-11-23,Darius Garland,pra,26.5,under,PASS,no edge,LAC,HOU,DraftKings,-106.0,14:54,30.5,28.11,0.442,0.466,0.024,0.48,3.0,0.515,-14.1,-2.91,-3.8,-3.5,,,,0.0
+2026-11-23,Darius Garland,pts,18.5,over,PASS,no edge,LAC,HOU,DraftKings,-106.0,14:54,30.5,19.4,0.532,0.508,0.024,0.48,8.0,0.515,3.3,0.69,5.2,-3.5,,,,0.0
+2026-11-23,Darius Garland,pts,18.5,under,PASS,no edge,LAC,HOU,DraftKings,-120.0,14:54,30.5,19.4,0.468,0.492,0.024,0.52,8.0,0.545,-14.2,-3.09,-5.2,-2.5,,,,0.0
+2026-11-23,Darius Garland,reb,2.5,over,PASS,no edge,LAC,HOU,DraftKings,118.0,14:54,30.5,2.49,0.452,0.428,0.024,0.433,6.0,0.459,-1.5,-0.28,1.9,-2.5,,,,0.0
+2026-11-23,Darius Garland,reb,2.5,under,PASS,no edge,LAC,HOU,DraftKings,-156.0,14:54,30.5,2.49,0.548,0.572,0.024,0.567,6.0,0.609,-10.0,-2.45,-1.9,-4.3,,,,0.0
+2026-11-23,Darryn Peterson,ast,4.5,over,PASS,no edge,UTA,LAL,DraftKings,-126.0,14:54,28.1,3.58,0.328,0.304,0.024,0.518,6.0,0.558,-41.2,-9.18,-19.0,-3.9,,,,0.0
+2026-11-23,Darryn Peterson,ast,4.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-104.0,14:54,28.1,3.58,0.672,0.696,0.024,0.482,6.0,0.51,31.8,6.49,19.0,-2.8,0.533,2.37,,0.0
+2026-11-23,Darryn Peterson,fg3m,2.5,over,PASS,no edge,UTA,LAL,DraftKings,124.0,14:54,28.1,1.79,0.297,0.273,0.024,0.433,7.0,0.446,-33.6,-6.0,-13.6,-1.3,,,,0.0
+2026-11-23,Darryn Peterson,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-164.0,14:54,28.1,1.79,0.703,0.727,0.024,0.567,7.0,0.621,13.2,3.29,13.6,-5.4,0.609,-1.23,,0.0
+2026-11-23,Darryn Peterson,pra,28.5,over,PASS,no edge,UTA,LAL,DraftKings,-107.0,14:54,28.1,22.14,0.229,0.205,0.024,0.48,3.0,0.517,-55.7,-11.51,-25.1,-3.7,,,,0.0
+2026-11-23,Darryn Peterson,pra,28.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-123.0,14:54,28.1,22.14,0.771,0.795,0.024,0.52,3.0,0.552,39.8,8.77,25.1,-3.1,0.588,3.59,,0.0
+2026-11-23,Darryn Peterson,pts,18.5,over,PASS,no edge,UTA,LAL,DraftKings,-111.0,14:54,28.1,14.38,0.265,0.241,0.024,0.488,7.0,0.526,-49.6,-10.43,-22.3,-3.8,,,,0.0
+2026-11-23,Darryn Peterson,pts,18.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-115.0,14:54,28.1,14.38,0.735,0.759,0.024,0.512,7.0,0.535,37.4,8.0,22.3,-2.3,0.57,3.54,,0.0
+2026-11-23,Darryn Peterson,reb,4.5,over,PASS,no edge,UTA,LAL,DraftKings,-108.0,14:54,28.1,4.18,0.424,0.4,0.024,0.481,7.0,0.519,-18.4,-3.83,-5.7,-3.8,,,,0.0
+2026-11-23,Darryn Peterson,reb,4.5,under,PASS,no edge,UTA,LAL,DraftKings,-122.0,14:54,28.1,4.18,0.576,0.6,0.024,0.519,7.0,0.55,4.9,1.07,5.7,-3.0,,,,0.0
+2026-11-23,Day'Ron Sharpe,ast,3.5,over,PASS,no edge,BKN,MIN,DraftKings,-102.0,14:54,22.0,2.77,0.335,0.311,0.024,0.506,6.0,0.505,-33.7,-6.8,-17.1,0.1,,,,0.0
+2026-11-23,Day'Ron Sharpe,ast,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-128.0,14:54,22.0,2.77,0.665,0.689,0.024,0.494,6.0,0.561,18.5,4.15,17.1,-6.7,0.544,-1.69,,0.0
+2026-11-23,Day'Ron Sharpe,pra,20.5,over,PASS,no edge,BKN,MIN,DraftKings,-108.0,14:54,22.0,18.25,0.372,0.349,0.024,0.51,4.0,0.519,-28.3,-5.87,-13.7,-1.0,,,,0.0
+2026-11-23,Day'Ron Sharpe,pra,20.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-122.0,14:54,22.0,18.25,0.628,0.651,0.024,0.49,4.0,0.55,14.2,3.12,13.7,-5.9,0.531,-1.84,,0.0
+2026-11-23,Day'Ron Sharpe,pts,8.5,over,PASS,no edge,BKN,MIN,DraftKings,-121.0,14:54,22.0,8.61,0.473,0.449,0.024,0.529,6.0,0.548,-13.6,-2.98,-5.6,-1.9,,,,0.0
+2026-11-23,Day'Ron Sharpe,pts,8.5,under,PASS,no edge,BKN,MIN,DraftKings,-105.0,14:54,22.0,8.61,0.527,0.551,0.024,0.471,6.0,0.512,2.9,0.59,5.6,-4.1,,,,0.0
+2026-11-23,Day'Ron Sharpe,reb,7.5,over,PASS,no edge,BKN,MIN,DraftKings,-125.0,14:54,22.0,6.88,0.412,0.389,0.024,0.52,7.0,0.556,-25.8,-5.72,-10.8,-3.5,,,,0.0
+2026-11-23,Day'Ron Sharpe,reb,7.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-105.0,14:54,22.0,6.88,0.588,0.611,0.024,0.48,7.0,0.512,14.7,3.01,10.8,-3.2,0.511,-0.08,,0.0
+2026-11-23,De'Aaron Fox,ast,6.5,over,PASS,no edge,SAS,SAC,DraftKings,107.0,14:54,28.7,5.6,0.367,0.344,0.024,0.461,7.0,0.483,-23.9,-4.63,-9.3,-2.2,,,,0.0
+2026-11-23,De'Aaron Fox,ast,6.5,under,WATCH,edge below the Rules §3 bar,SAS,SAC,DraftKings,-141.0,14:54,28.7,5.6,0.633,0.656,0.024,0.539,7.0,0.585,8.1,1.9,9.3,-4.6,0.569,-1.57,,0.0
+2026-11-23,De'Aaron Fox,fg3m,1.5,over,PASS,no edge,SAS,SAC,DraftKings,139.0,14:54,28.7,1.43,0.431,0.407,0.024,0.402,7.0,0.418,3.1,0.51,2.9,-1.6,,,,0.0
+2026-11-23,De'Aaron Fox,fg3m,1.5,under,PASS,no edge,SAS,SAC,DraftKings,-184.0,14:54,28.7,1.43,0.569,0.593,0.024,0.598,7.0,0.648,-12.2,-3.17,-2.9,-5.0,,,,0.0
+2026-11-23,De'Aaron Fox,pra,26.5,over,PASS,no edge,SAS,SAC,DraftKings,-105.0,14:54,28.7,24.43,0.397,0.373,0.024,0.493,5.0,0.512,-22.6,-4.62,-9.6,-1.9,,,,0.0
+2026-11-23,De'Aaron Fox,pra,26.5,under,WATCH,edge below the Rules §3 bar,SAS,SAC,DraftKings,-125.0,14:54,28.7,24.43,0.603,0.627,0.024,0.507,5.0,0.556,8.6,1.91,9.6,-4.8,0.526,-2.93,,0.0
+2026-11-23,De'Aaron Fox,pts,15.5,over,PASS,no edge,SAS,SAC,DraftKings,-122.0,14:54,28.7,15.12,0.457,0.433,0.024,0.505,6.0,0.55,-16.8,-3.7,-4.9,-4.4,,,,0.0
+2026-11-23,De'Aaron Fox,pts,15.5,under,PASS,no edge,SAS,SAC,DraftKings,-105.0,14:54,28.7,15.12,0.543,0.567,0.024,0.495,6.0,0.512,6.0,1.23,4.9,-1.8,,,,0.0
+2026-11-23,De'Aaron Fox,reb,3.5,over,PASS,no edge,SAS,SAC,DraftKings,-113.0,14:54,28.7,3.71,0.493,0.469,0.024,0.5,7.0,0.531,-7.1,-1.51,-0.7,-3.1,,,,0.0
+2026-11-23,De'Aaron Fox,reb,3.5,under,PASS,no edge,SAS,SAC,DraftKings,-116.0,14:54,28.7,3.71,0.507,0.531,0.024,0.5,7.0,0.537,-5.6,-1.2,0.7,-3.7,,,,0.0
+2026-11-23,De'Andre Hunter,ast,1.5,over,PASS,no edge,SAC,SAS,DraftKings,-110.0,14:54,29.7,1.92,0.546,0.522,0.024,0.503,4.0,0.524,4.3,0.9,4.3,-2.0,,,,0.0
+2026-11-23,De'Andre Hunter,ast,1.5,under,PASS,no edge,SAC,SAS,DraftKings,-120.0,14:54,29.7,1.92,0.454,0.478,0.024,0.497,4.0,0.545,-16.8,-3.67,-4.3,-4.9,,,,0.0
+2026-11-23,De'Andre Hunter,fg3m,1.5,over,PASS,no edge,SAC,SAS,DraftKings,-170.0,14:54,29.7,1.77,0.535,0.511,0.024,0.583,7.0,0.63,-15.0,-3.79,-4.8,-4.7,,,,0.0
+2026-11-23,De'Andre Hunter,fg3m,1.5,under,PASS,no edge,SAC,SAS,DraftKings,129.0,14:54,29.7,1.77,0.465,0.489,0.024,0.417,7.0,0.437,6.5,1.14,4.8,-2.0,,,,0.0
+2026-11-23,De'Andre Hunter,pra,20.5,over,PASS,no edge,SAC,SAS,DraftKings,-106.0,14:54,29.7,19.77,0.447,0.423,0.024,0.5,5.0,0.515,-13.1,-2.69,-5.3,-1.5,,,,0.0
+2026-11-23,De'Andre Hunter,pra,20.5,under,PASS,no edge,SAC,SAS,DraftKings,-124.0,14:54,29.7,19.77,0.553,0.577,0.024,0.5,5.0,0.554,-0.2,-0.04,5.3,-5.4,,,,0.0
+2026-11-23,De'Andre Hunter,pts,13.5,over,PASS,no edge,SAC,SAS,DraftKings,-126.0,14:54,29.7,13.53,0.482,0.459,0.024,0.526,1.0,0.558,-13.5,-3.0,-4.3,-3.2,,,,0.0
+2026-11-23,De'Andre Hunter,pts,13.5,under,PASS,no edge,SAC,SAS,DraftKings,-101.0,14:54,29.7,13.53,0.518,0.541,0.024,0.474,1.0,0.502,3.0,0.6,4.3,-2.8,,,,0.0
+2026-11-23,De'Andre Hunter,reb,4.5,over,PASS,no edge,SAC,SAS,DraftKings,110.0,14:54,29.7,4.32,0.444,0.42,0.024,0.437,7.0,0.476,-6.7,-1.28,0.7,-4.0,,,,0.0
+2026-11-23,De'Andre Hunter,reb,4.5,under,PASS,no edge,SAC,SAS,DraftKings,-144.0,14:54,29.7,4.32,0.556,0.58,0.024,0.563,7.0,0.59,-5.8,-1.37,-0.7,-2.7,,,,0.0
+2026-11-23,Deni Avdija,ast,6.5,over,PASS,no edge,POR,PHI,DraftKings,117.0,14:54,32.4,5.82,0.395,0.371,0.024,0.455,1.0,0.461,-14.4,-2.65,-6.1,-0.5,,,,0.0
+2026-11-23,Deni Avdija,ast,6.5,under,PASS,no edge,POR,PHI,DraftKings,-154.0,14:54,32.4,5.82,0.605,0.629,0.024,0.545,1.0,0.606,-0.1,-0.04,6.1,-6.2,,,,0.0
+2026-11-23,Deni Avdija,fg3m,1.5,over,PASS,no edge,POR,PHI,DraftKings,-139.0,14:54,32.4,1.77,0.535,0.511,0.024,0.558,7.0,0.582,-8.0,-1.87,-2.3,-2.4,,,,0.0
+2026-11-23,Deni Avdija,fg3m,1.5,under,PASS,no edge,POR,PHI,DraftKings,105.0,14:54,32.4,1.77,0.465,0.489,0.024,0.442,7.0,0.488,-4.6,-0.91,2.3,-4.5,,,,0.0
+2026-11-23,Deni Avdija,pra,36.5,over,PASS,no edge,POR,PHI,DraftKings,-122.0,14:54,32.4,33.42,0.379,0.355,0.024,0.5,7.0,0.55,-31.1,-6.83,-12.1,-5.0,,,,0.0
+2026-11-23,Deni Avdija,pra,36.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",POR,PHI,DraftKings,-108.0,14:54,32.4,33.42,0.621,0.645,0.024,0.5,7.0,0.519,19.6,4.08,12.1,-1.9,0.543,2.39,,0.0
+2026-11-23,Deni Avdija,pts,23.5,over,PASS,no edge,POR,PHI,DraftKings,-113.0,14:54,32.4,21.12,0.372,0.348,0.024,0.495,6.0,0.531,-30.0,-6.36,-12.4,-3.5,,,,0.0
+2026-11-23,Deni Avdija,pts,23.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",POR,PHI,DraftKings,-112.0,14:54,32.4,21.12,0.628,0.652,0.024,0.505,6.0,0.528,19.0,4.01,12.4,-2.4,0.537,0.86,,0.0
+2026-11-23,Deni Avdija,reb,6.5,over,PASS,no edge,POR,PHI,DraftKings,-132.0,14:54,32.4,6.49,0.478,0.455,0.024,0.519,7.0,0.569,-15.9,-3.62,-4.0,-5.0,,,,0.0
+2026-11-23,Deni Avdija,reb,6.5,under,PASS,no edge,POR,PHI,DraftKings,100.0,14:54,32.4,6.49,0.522,0.545,0.024,0.481,7.0,0.5,4.3,0.86,4.0,-1.9,,,,0.0
+2026-11-23,Derik Queen,ast,1.5,over,PASS,no edge,NOP,PHX,DraftKings,-190.0,14:54,21.1,2.48,0.655,0.631,0.024,0.61,2.0,0.655,0.0,0.0,4.5,-4.5,,,,0.0
+2026-11-23,Derik Queen,ast,1.5,under,PASS,no edge,NOP,PHX,DraftKings,143.0,14:54,21.1,2.48,0.345,0.369,0.024,0.39,2.0,0.412,-16.2,-2.67,-4.5,-2.2,,,,0.0
+2026-11-23,Derik Queen,pra,18.5,over,PASS,no edge,NOP,PHX,DraftKings,-117.0,14:54,21.1,18.12,0.47,0.446,0.024,0.51,3.0,0.539,-12.8,-2.77,-4.0,-2.9,,,,0.0
+2026-11-23,Derik Queen,pra,18.5,under,PASS,no edge,NOP,PHX,DraftKings,-113.0,14:54,21.1,18.12,0.53,0.554,0.024,0.49,3.0,0.531,-0.1,-0.02,4.0,-4.1,,,,0.0
+2026-11-23,Derik Queen,pts,10.5,over,PASS,no edge,NOP,PHX,DraftKings,-102.0,14:54,21.1,9.73,0.415,0.391,0.024,0.478,6.0,0.505,-17.8,-3.59,-6.3,-2.7,,,,0.0
+2026-11-23,Derik Queen,pts,10.5,under,PASS,no edge,NOP,PHX,DraftKings,-125.0,14:54,21.1,9.73,0.585,0.609,0.024,0.522,6.0,0.556,5.3,1.17,6.3,-3.3,,,,0.0
+2026-11-23,Derik Queen,reb,5.5,over,PASS,no edge,NOP,PHX,DraftKings,-145.0,14:54,21.1,5.91,0.514,0.49,0.024,0.562,2.0,0.592,-13.2,-3.12,-4.8,-3.0,,,,0.0
+2026-11-23,Derik Queen,reb,5.5,under,PASS,no edge,NOP,PHX,DraftKings,110.0,14:54,21.1,5.91,0.486,0.51,0.024,0.438,2.0,0.476,2.1,0.4,4.8,-3.8,,,,0.0
+2026-11-23,Derrick Jones Jr.,fg3m,0.5,over,WATCH,edge below the Rules §3 bar,LAC,HOU,DraftKings,-191.0,14:54,26.9,1.25,0.711,0.687,0.024,0.618,4.0,0.656,8.3,2.18,9.3,-3.9,0.637,-1.91,,0.0
+2026-11-23,Derrick Jones Jr.,fg3m,0.5,under,PASS,no edge,LAC,HOU,DraftKings,144.0,14:54,26.9,1.25,0.289,0.313,0.024,0.382,4.0,0.41,-29.5,-4.83,-9.3,-2.7,,,,0.0
+2026-11-23,Derrick Jones Jr.,pts,8.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAC,HOU,DraftKings,-102.0,14:54,26.9,10.0,0.593,0.57,0.024,0.475,6.0,0.505,17.5,3.54,11.8,-2.9,0.482,-2.25,,0.0
+2026-11-23,Derrick Jones Jr.,pts,8.5,under,PASS,no edge,LAC,HOU,DraftKings,-125.0,14:54,26.9,10.0,0.407,0.43,0.024,0.525,6.0,0.556,-26.8,-5.96,-11.8,-3.1,,,,0.0
+2026-11-23,Derrick Jones Jr.,reb,3.5,over,PASS,no edge,LAC,HOU,DraftKings,-113.0,14:54,26.9,3.93,0.529,0.505,0.024,0.471,6.0,0.531,-0.3,-0.06,5.8,-6.0,,,,0.0
+2026-11-23,Derrick Jones Jr.,reb,3.5,under,PASS,no edge,LAC,HOU,DraftKings,-117.0,14:54,26.9,3.93,0.471,0.495,0.024,0.529,6.0,0.539,-12.6,-2.73,-5.8,-1.0,,,,0.0
+2026-11-23,Devin Booker,ast,5.5,over,PASS,no edge,PHX,NOP,DraftKings,-154.0,14:54,33.9,5.65,0.497,0.473,0.024,0.554,7.0,0.606,-18.0,-4.36,-5.7,-5.2,,,,0.0
+2026-11-23,Devin Booker,ast,5.5,under,WATCH,edge below the Rules §3 bar,PHX,NOP,DraftKings,116.0,14:54,33.9,5.65,0.503,0.527,0.024,0.446,7.0,0.463,8.6,1.59,5.7,-1.7,0.468,0.54,,0.0
+2026-11-23,Devin Booker,fg3m,1.5,over,PASS,no edge,PHX,NOP,DraftKings,-190.0,14:54,33.9,2.0,0.596,0.573,0.024,0.616,4.0,0.655,-9.0,-2.35,-1.9,-3.9,,,,0.0
+2026-11-23,Devin Booker,fg3m,1.5,under,PASS,no edge,PHX,NOP,DraftKings,143.0,14:54,33.9,2.0,0.404,0.427,0.024,0.384,4.0,0.412,-1.9,-0.32,1.9,-2.7,,,,0.0
+2026-11-23,Devin Booker,pra,35.5,over,PASS,no edge,PHX,NOP,DraftKings,-120.0,14:54,33.9,34.45,0.458,0.434,0.024,0.5,4.0,0.545,-16.0,-3.5,-4.2,-4.5,,,,0.0
+2026-11-23,Devin Booker,pra,35.5,under,PASS,no edge,PHX,NOP,DraftKings,-109.0,14:54,33.9,34.45,0.542,0.566,0.024,0.5,4.0,0.522,3.9,0.82,4.2,-2.2,,,,0.0
+2026-11-23,Devin Booker,pts,25.5,over,PASS,no edge,PHX,NOP,DraftKings,-122.0,14:54,33.9,25.18,0.478,0.454,0.024,0.522,4.0,0.55,-13.1,-2.87,-4.4,-2.7,,,,0.0
+2026-11-23,Devin Booker,pts,25.5,under,PASS,no edge,PHX,NOP,DraftKings,-105.0,14:54,33.9,25.18,0.522,0.546,0.024,0.478,4.0,0.512,2.0,0.4,4.4,-3.4,,,,0.0
+2026-11-23,Devin Booker,reb,3.5,over,PASS,no edge,PHX,NOP,DraftKings,113.0,14:54,33.9,3.62,0.483,0.459,0.024,0.446,7.0,0.469,2.9,0.54,3.7,-2.4,,,,0.0
+2026-11-23,Devin Booker,reb,3.5,under,PASS,no edge,PHX,NOP,DraftKings,-149.0,14:54,33.9,3.62,0.517,0.541,0.024,0.554,7.0,0.598,-13.6,-3.25,-3.7,-4.4,,,,0.0
+2026-11-23,Devin Vassell,ast,3.5,over,PASS,no edge,SAS,SAC,DraftKings,128.0,14:54,29.4,2.72,0.323,0.299,0.024,0.406,2.0,0.439,-26.4,-4.63,-8.3,-3.3,,,,0.0
+2026-11-23,Devin Vassell,ast,3.5,under,WATCH,edge below the Rules §3 bar,SAS,SAC,DraftKings,-169.0,14:54,29.4,2.72,0.677,0.701,0.024,0.594,2.0,0.628,7.8,1.96,8.3,-3.4,0.628,-0.01,,0.0
+2026-11-23,Devin Vassell,fg3m,1.5,over,PASS,no edge,SAS,SAC,DraftKings,-145.0,14:54,29.4,1.93,0.575,0.551,0.024,0.575,7.0,0.592,-2.8,-0.66,0.0,-1.7,,,,0.0
+2026-11-23,Devin Vassell,fg3m,1.5,under,PASS,no edge,SAS,SAC,DraftKings,110.0,14:54,29.4,1.93,0.425,0.449,0.024,0.425,7.0,0.476,-10.8,-2.06,-0.0,-5.1,,,,0.0
+2026-11-23,Devin Vassell,pra,21.5,over,PASS,no edge,SAS,SAC,DraftKings,-126.0,14:54,29.4,19.39,0.379,0.355,0.024,0.508,5.0,0.558,-32.1,-7.16,-13.0,-4.9,,,,0.0
+2026-11-23,Devin Vassell,pra,21.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-104.0,14:54,29.4,19.39,0.621,0.645,0.024,0.492,5.0,0.51,21.9,4.47,13.0,-1.8,0.526,1.62,,0.0
+2026-11-23,Devin Vassell,pts,14.5,over,PASS,no edge,SAS,SAC,DraftKings,-110.0,14:54,29.4,12.71,0.366,0.342,0.024,0.494,6.0,0.524,-30.2,-6.32,-12.9,-2.9,,,,0.0
+2026-11-23,Devin Vassell,pts,14.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-116.0,14:54,29.4,12.71,0.634,0.658,0.024,0.506,6.0,0.537,18.1,3.89,12.9,-3.1,0.543,0.63,,0.0
+2026-11-23,Devin Vassell,reb,4.5,over,PASS,no edge,SAS,SAC,DraftKings,120.0,14:54,29.4,3.96,0.386,0.362,0.024,0.416,5.0,0.455,-15.0,-2.73,-3.0,-3.9,,,,0.0
+2026-11-23,Devin Vassell,reb,4.5,under,PASS,no edge,SAS,SAC,DraftKings,-159.0,14:54,29.4,3.96,0.614,0.638,0.024,0.584,5.0,0.614,-0.0,-0.0,3.0,-3.0,,,,0.0
+2026-11-23,Dillon Brooks,ast,1.5,over,PASS,no edge,PHX,NOP,DraftKings,-165.0,14:54,29.0,2.16,0.604,0.58,0.024,0.583,4.0,0.623,-3.0,-0.75,2.1,-3.9,,,,0.0
+2026-11-23,Dillon Brooks,ast,1.5,under,PASS,no edge,PHX,NOP,DraftKings,125.0,14:54,29.0,2.16,0.396,0.42,0.024,0.417,4.0,0.444,-10.9,-1.94,-2.1,-2.8,,,,0.0
+2026-11-23,Dillon Brooks,fg3m,1.5,over,PASS,no edge,PHX,NOP,DraftKings,-153.0,14:54,29.0,2.08,0.615,0.591,0.024,0.575,7.0,0.605,1.6,0.39,3.9,-3.0,,,,0.0
+2026-11-23,Dillon Brooks,fg3m,1.5,under,PASS,no edge,PHX,NOP,DraftKings,116.0,14:54,29.0,2.08,0.385,0.409,0.024,0.425,7.0,0.463,-16.7,-3.1,-3.9,-3.8,,,,0.0
+2026-11-23,Dillon Brooks,pra,20.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHX,NOP,DraftKings,-117.0,14:54,29.0,23.29,0.625,0.601,0.024,0.51,1.0,0.539,15.9,3.44,11.5,-2.9,0.533,-0.57,,0.0
+2026-11-23,Dillon Brooks,pra,20.5,under,PASS,no edge,PHX,NOP,DraftKings,-112.0,14:54,29.0,23.29,0.375,0.399,0.024,0.49,1.0,0.528,-29.0,-6.14,-11.5,-3.9,,,,0.0
+2026-11-23,Dillon Brooks,pts,14.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHX,NOP,DraftKings,-127.0,14:54,29.0,17.37,0.647,0.623,0.024,0.528,1.0,0.559,15.6,3.5,11.9,-3.1,0.552,-0.7,,0.0
+2026-11-23,Dillon Brooks,pts,14.5,under,PASS,no edge,PHX,NOP,DraftKings,100.0,14:54,29.0,17.37,0.353,0.377,0.024,0.472,1.0,0.5,-29.4,-5.88,-11.9,-2.8,,,,0.0
+2026-11-23,Dillon Brooks,reb,3.5,over,PASS,no edge,PHX,NOP,DraftKings,-102.0,14:54,29.0,3.76,0.503,0.479,0.024,0.483,6.0,0.505,-0.4,-0.08,2.0,-2.2,,,,0.0
+2026-11-23,Dillon Brooks,reb,3.5,under,PASS,no edge,PHX,NOP,DraftKings,-128.0,14:54,29.0,3.76,0.497,0.521,0.024,0.517,6.0,0.561,-11.5,-2.58,-2.0,-4.4,,,,0.0
+2026-11-23,Domantas Sabonis,ast,4.5,over,PASS,no edge,SAC,SAS,DraftKings,-124.0,14:54,29.1,4.06,0.404,0.38,0.024,0.521,8.0,0.554,-27.0,-5.98,-11.7,-3.2,,,,0.0
+2026-11-23,Domantas Sabonis,ast,4.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAC,SAS,DraftKings,-106.0,14:54,29.1,4.06,0.596,0.62,0.024,0.479,8.0,0.515,15.8,3.25,11.7,-3.6,0.515,0.03,,0.0
+2026-11-23,Domantas Sabonis,pra,32.5,over,PASS,no edge,SAC,SAS,DraftKings,-108.0,14:54,29.1,27.41,0.296,0.272,0.024,0.493,2.0,0.519,-43.1,-8.94,-19.7,-2.6,,,,0.0
+2026-11-23,Domantas Sabonis,pra,32.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAC,SAS,DraftKings,-122.0,14:54,29.1,27.41,0.704,0.728,0.024,0.507,2.0,0.55,28.2,6.19,19.7,-4.2,0.566,1.67,,0.0
+2026-11-23,Domantas Sabonis,pts,14.5,over,PASS,no edge,SAC,SAS,DraftKings,-101.0,14:54,29.1,12.78,0.371,0.347,0.024,0.491,3.0,0.502,-26.1,-5.25,-12.0,-1.2,,,,0.0
+2026-11-23,Domantas Sabonis,pts,14.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAC,SAS,DraftKings,-127.0,14:54,29.1,12.78,0.629,0.653,0.024,0.509,3.0,0.559,12.4,2.78,12.0,-5.0,0.545,-1.46,,0.0
+2026-11-23,Domantas Sabonis,reb,12.5,over,PASS,no edge,SAC,SAS,DraftKings,-121.0,14:54,29.1,10.57,0.334,0.31,0.024,0.497,8.0,0.548,-38.9,-8.53,-16.3,-5.1,,,,0.0
+2026-11-23,Domantas Sabonis,reb,12.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAC,SAS,DraftKings,-109.0,14:54,29.1,10.57,0.666,0.69,0.024,0.503,8.0,0.522,27.6,5.76,16.3,-1.8,0.55,2.88,,0.0
+2026-11-23,Donovan Clingan,ast,2.5,over,PASS,no edge,POR,PHI,DraftKings,130.0,14:54,24.3,1.81,0.301,0.278,0.024,0.392,4.0,0.435,-30.7,-5.33,-9.0,-4.3,,,,0.0
+2026-11-23,Donovan Clingan,ast,2.5,under,WATCH,edge below the Rules §3 bar,POR,PHI,DraftKings,-172.0,14:54,24.3,1.81,0.699,0.722,0.024,0.608,4.0,0.632,10.5,2.65,9.0,-2.4,0.636,0.39,,0.0
+2026-11-23,Donovan Clingan,fg3m,0.5,over,PASS,no edge,POR,PHI,DraftKings,-187.0,14:54,24.3,0.94,0.613,0.589,0.024,0.611,5.0,0.652,-5.9,-1.54,0.2,-4.0,,,,0.0
+2026-11-23,Donovan Clingan,fg3m,0.5,under,PASS,no edge,POR,PHI,DraftKings,141.0,14:54,24.3,0.94,0.387,0.411,0.024,0.389,5.0,0.415,-6.8,-1.12,-0.2,-2.6,,,,0.0
+2026-11-23,Donovan Clingan,pra,24.5,over,PASS,no edge,POR,PHI,DraftKings,-110.0,14:54,24.3,21.58,0.358,0.334,0.024,0.495,4.0,0.524,-31.7,-6.65,-13.7,-2.9,,,,0.0
+2026-11-23,Donovan Clingan,pra,24.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",POR,PHI,DraftKings,-119.0,14:54,24.3,21.58,0.642,0.666,0.024,0.505,4.0,0.543,18.2,3.96,13.7,-3.8,0.538,-0.54,,0.0
+2026-11-23,Donovan Clingan,pts,10.5,over,PASS,no edge,POR,PHI,DraftKings,-124.0,14:54,24.3,9.98,0.432,0.408,0.024,0.524,2.0,0.554,-21.9,-4.85,-9.1,-3.0,,,,0.0
+2026-11-23,Donovan Clingan,pts,10.5,under,WATCH,edge below the Rules §3 bar,POR,PHI,DraftKings,-103.0,14:54,24.3,9.98,0.568,0.592,0.024,0.476,2.0,0.507,11.9,2.41,9.1,-3.1,0.51,0.31,,0.0
+2026-11-23,Donovan Clingan,reb,10.5,over,PASS,no edge,POR,PHI,DraftKings,-134.0,14:54,24.3,9.79,0.42,0.396,0.024,0.524,2.0,0.573,-26.6,-6.1,-10.4,-4.8,,,,0.0
+2026-11-23,Donovan Clingan,reb,10.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",POR,PHI,DraftKings,102.0,14:54,24.3,9.79,0.58,0.604,0.024,0.476,2.0,0.495,17.1,3.39,10.4,-1.9,0.493,-0.22,,0.0
+2026-11-23,Donovan Mitchell,ast,4.5,over,PASS,no edge,CLE,CHI,DraftKings,-160.0,14:54,30.6,4.86,0.527,0.503,0.024,0.572,4.0,0.615,-14.4,-3.55,-4.6,-4.3,,,,0.0
+2026-11-23,Donovan Mitchell,ast,4.5,under,PASS,no edge,CLE,CHI,DraftKings,121.0,14:54,30.6,4.86,0.473,0.497,0.024,0.428,4.0,0.452,4.6,0.84,4.6,-2.5,,,,0.0
+2026-11-23,Donovan Mitchell,fg3m,2.5,over,PASS,no edge,CLE,CHI,DraftKings,-147.0,14:54,30.6,2.45,0.456,0.432,0.024,0.551,7.0,0.595,-23.3,-5.55,-9.5,-4.4,,,,0.0
+2026-11-23,Donovan Mitchell,fg3m,2.5,under,WATCH,edge below the Rules §3 bar,CLE,CHI,DraftKings,111.0,14:54,30.6,2.45,0.544,0.568,0.024,0.449,7.0,0.474,14.7,2.79,9.5,-2.5,0.483,0.88,,0.0
+2026-11-23,Donovan Mitchell,pra,36.5,over,PASS,no edge,CLE,CHI,DraftKings,-125.0,14:54,30.6,31.37,0.31,0.286,0.024,0.512,4.0,0.556,-44.1,-9.81,-20.2,-4.3,,,,0.0
+2026-11-23,Donovan Mitchell,pra,36.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CLE,CHI,DraftKings,-105.0,14:54,30.6,31.37,0.69,0.714,0.024,0.488,4.0,0.512,34.7,7.1,20.2,-2.4,0.548,3.61,,0.0
+2026-11-23,Donovan Mitchell,pts,26.5,over,PASS,no edge,CLE,CHI,DraftKings,-121.0,14:54,30.6,22.07,0.301,0.277,0.024,0.514,7.0,0.548,-45.1,-9.87,-21.4,-3.3,,,,0.0
+2026-11-23,Donovan Mitchell,pts,26.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CLE,CHI,DraftKings,-105.0,14:54,30.6,22.07,0.699,0.723,0.024,0.486,7.0,0.512,36.5,7.49,21.4,-2.6,0.551,3.92,,0.0
+2026-11-23,Donovan Mitchell,reb,4.5,over,PASS,no edge,CLE,CHI,DraftKings,-128.0,14:54,30.6,4.44,0.458,0.434,0.024,0.518,8.0,0.561,-18.4,-4.14,-6.0,-4.3,,,,0.0
+2026-11-23,Donovan Mitchell,reb,4.5,under,PASS,no edge,CLE,CHI,DraftKings,-103.0,14:54,30.6,4.44,0.542,0.566,0.024,0.482,8.0,0.507,6.8,1.38,6.0,-2.5,,,,0.0
+2026-11-23,Egor Dëmin,ast,2.5,over,PASS,no edge,BKN,MIN,DraftKings,-142.0,14:54,22.9,2.64,0.48,0.456,0.024,0.559,5.0,0.587,-18.3,-4.29,-7.9,-2.8,,,,0.0
+2026-11-23,Egor Dëmin,ast,2.5,under,WATCH,edge below the Rules §3 bar,BKN,MIN,DraftKings,108.0,14:54,22.9,2.64,0.52,0.544,0.024,0.441,5.0,0.481,8.2,1.59,7.9,-4.0,0.477,-0.41,,0.0
+2026-11-23,Egor Dëmin,fg3m,1.5,over,PASS,no edge,BKN,MIN,DraftKings,-153.0,14:54,22.9,1.75,0.515,0.491,0.024,0.592,6.0,0.605,-14.9,-3.61,-7.7,-1.3,,,,0.0
+2026-11-23,Egor Dëmin,fg3m,1.5,under,PASS,no edge,BKN,MIN,DraftKings,116.0,14:54,22.9,1.75,0.485,0.509,0.024,0.408,6.0,0.463,4.9,0.9,7.7,-5.5,,,,0.0
+2026-11-23,Egor Dëmin,pra,15.5,over,PASS,no edge,BKN,MIN,DraftKings,-122.0,14:54,22.9,13.84,0.393,0.369,0.024,0.51,4.0,0.55,-28.6,-6.28,-11.8,-3.9,,,,0.0
+2026-11-23,Egor Dëmin,pra,15.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-108.0,14:54,22.9,13.84,0.607,0.631,0.024,0.49,4.0,0.519,17.0,3.53,11.8,-2.9,0.52,0.03,,0.0
+2026-11-23,Egor Dëmin,pts,9.5,over,PASS,no edge,BKN,MIN,DraftKings,-129.0,14:54,22.9,8.32,0.38,0.356,0.024,0.522,4.0,0.563,-32.6,-7.35,-14.3,-4.1,,,,0.0
+2026-11-23,Egor Dëmin,pts,9.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,101.0,14:54,22.9,8.32,0.62,0.644,0.024,0.478,4.0,0.498,24.7,4.91,14.3,-2.0,0.518,2.07,,0.0
+2026-11-23,Egor Dëmin,reb,2.5,over,PASS,no edge,BKN,MIN,DraftKings,-116.0,14:54,22.9,2.88,0.511,0.487,0.024,0.5,5.0,0.537,-4.9,-1.05,1.1,-3.7,,,,0.0
+2026-11-23,Egor Dëmin,reb,2.5,under,PASS,no edge,BKN,MIN,DraftKings,-113.0,14:54,22.9,2.88,0.489,0.513,0.024,0.5,5.0,0.531,-7.8,-1.65,-1.1,-3.1,,,,0.0
+2026-11-23,Fred VanVleet,ast,5.5,over,PASS,no edge,HOU,LAC,DraftKings,115.0,14:54,27.0,4.82,0.38,0.356,0.024,0.434,6.0,0.465,-18.3,-3.4,-5.4,-3.1,,,,0.0
+2026-11-23,Fred VanVleet,ast,5.5,under,PASS,no edge,HOU,LAC,DraftKings,-152.0,14:54,27.0,4.82,0.62,0.644,0.024,0.566,6.0,0.603,2.8,0.67,5.4,-3.8,,,,0.0
+2026-11-23,Fred VanVleet,fg3m,2.5,over,PASS,no edge,HOU,LAC,DraftKings,112.0,14:54,27.0,2.27,0.413,0.389,0.024,0.463,7.0,0.472,-12.5,-2.35,-5.0,-0.9,,,,0.0
+2026-11-23,Fred VanVleet,fg3m,2.5,under,PASS,no edge,HOU,LAC,DraftKings,-147.0,14:54,27.0,2.27,0.587,0.611,0.024,0.537,7.0,0.595,-1.3,-0.32,5.0,-5.8,,,,0.0
+2026-11-23,Fred VanVleet,pra,21.5,over,PASS,no edge,HOU,LAC,DraftKings,-118.0,14:54,27.0,21.62,0.494,0.47,0.024,0.5,5.0,0.541,-8.8,-1.9,-0.6,-4.1,,,,0.0
+2026-11-23,Fred VanVleet,pra,21.5,under,PASS,no edge,HOU,LAC,DraftKings,-111.0,14:54,27.0,21.62,0.506,0.53,0.024,0.5,5.0,0.526,-3.8,-0.8,0.6,-2.6,,,,0.0
+2026-11-23,Fred VanVleet,pts,13.5,over,PASS,no edge,HOU,LAC,DraftKings,-109.0,14:54,27.0,13.75,0.497,0.473,0.024,0.49,6.0,0.522,-4.8,-0.99,0.7,-3.2,,,,0.0
+2026-11-23,Fred VanVleet,pts,13.5,under,PASS,no edge,HOU,LAC,DraftKings,-117.0,14:54,27.0,13.75,0.503,0.527,0.024,0.51,6.0,0.539,-6.6,-1.43,-0.7,-2.9,,,,0.0
+2026-11-23,Fred VanVleet,reb,2.5,over,PASS,no edge,HOU,LAC,DraftKings,-156.0,14:54,27.0,3.05,0.559,0.535,0.024,0.56,5.0,0.609,-8.3,-2.02,-0.1,-4.9,,,,0.0
+2026-11-23,Fred VanVleet,reb,2.5,under,PASS,no edge,HOU,LAC,DraftKings,119.0,14:54,27.0,3.05,0.441,0.465,0.024,0.44,5.0,0.457,-3.4,-0.62,0.1,-1.7,,,,0.0
+2026-11-23,Herb Jones,fg3m,0.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Herb Jones,fg3m,1.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Herb Jones,pts,7.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Herb Jones,reb,2.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Immanuel Quickley,ast,6.5,over,PASS,no edge,TOR,MIL,DraftKings,108.0,14:54,32.0,6.44,0.472,0.449,0.024,0.458,7.0,0.481,-1.7,-0.34,1.4,-2.3,,,,0.0
+2026-11-23,Immanuel Quickley,ast,6.5,under,PASS,no edge,TOR,MIL,DraftKings,-142.0,14:54,32.0,6.44,0.528,0.551,0.024,0.542,7.0,0.587,-10.1,-2.37,-1.4,-4.5,,,,0.0
+2026-11-23,Immanuel Quickley,fg3m,2.5,over,PASS,no edge,TOR,MIL,DraftKings,-130.0,14:54,32.0,2.83,0.545,0.522,0.024,0.533,8.0,0.565,-3.5,-0.79,1.2,-3.2,,,,0.0
+2026-11-23,Immanuel Quickley,fg3m,2.5,under,PASS,no edge,TOR,MIL,DraftKings,-101.0,14:54,32.0,2.83,0.455,0.478,0.024,0.467,8.0,0.502,-9.5,-1.92,-1.2,-3.6,,,,0.0
+2026-11-23,Immanuel Quickley,pra,28.5,over,PASS,no edge,TOR,MIL,DraftKings,-122.0,14:54,32.0,29.86,0.549,0.525,0.024,0.524,2.0,0.55,-0.1,-0.03,2.4,-2.5,,,,0.0
+2026-11-23,Immanuel Quickley,pra,28.5,under,PASS,no edge,TOR,MIL,DraftKings,-108.0,14:54,32.0,29.86,0.451,0.475,0.024,0.476,2.0,0.519,-13.1,-2.72,-2.4,-4.3,,,,0.0
+2026-11-23,Immanuel Quickley,pts,18.5,over,PASS,no edge,TOR,MIL,DraftKings,-113.0,14:54,32.0,19.55,0.539,0.515,0.024,0.515,7.0,0.531,1.6,0.33,2.4,-1.5,,,,0.0
+2026-11-23,Immanuel Quickley,pts,18.5,under,PASS,no edge,TOR,MIL,DraftKings,-113.0,14:54,32.0,19.55,0.461,0.485,0.024,0.485,7.0,0.531,-13.1,-2.77,-2.4,-4.6,,,,0.0
+2026-11-23,Immanuel Quickley,reb,3.5,over,PASS,no edge,TOR,MIL,DraftKings,-133.0,14:54,32.0,3.87,0.521,0.497,0.024,0.528,7.0,0.571,-8.8,-2.0,-0.7,-4.3,,,,0.0
+2026-11-23,Immanuel Quickley,reb,3.5,under,PASS,no edge,TOR,MIL,DraftKings,101.0,14:54,32.0,3.87,0.479,0.503,0.024,0.472,7.0,0.498,-3.7,-0.73,0.7,-2.6,,,,0.0
+2026-11-23,Isaac Okoro,fg3m,1.5,over,PASS,no edge,CHI,CLE,DraftKings,118.0,14:54,29.9,1.49,0.445,0.421,0.024,0.443,7.0,0.459,-3.0,-0.54,0.3,-1.6,,,,0.0
+2026-11-23,Isaac Okoro,fg3m,1.5,under,PASS,no edge,CHI,CLE,DraftKings,-155.0,14:54,29.9,1.49,0.555,0.579,0.024,0.557,7.0,0.608,-8.7,-2.12,-0.3,-5.0,,,,0.0
+2026-11-23,Isaac Okoro,pts,10.5,over,PASS,no edge,CHI,CLE,DraftKings,-114.0,14:54,29.9,10.83,0.498,0.474,0.024,0.497,6.0,0.533,-6.6,-1.4,0.0,-3.5,,,,0.0
+2026-11-23,Isaac Okoro,pts,10.5,under,PASS,no edge,CHI,CLE,DraftKings,-112.0,14:54,29.9,10.83,0.502,0.526,0.024,0.503,6.0,0.528,-4.9,-1.04,-0.0,-2.6,,,,0.0
+2026-11-23,Isaac Okoro,reb,2.5,over,PASS,no edge,CHI,CLE,DraftKings,-166.0,14:54,29.9,3.38,0.605,0.581,0.024,0.571,4.0,0.624,-3.0,-0.75,3.4,-5.3,,,,0.0
+2026-11-23,Isaac Okoro,reb,2.5,under,PASS,no edge,CHI,CLE,DraftKings,125.0,14:54,29.9,3.38,0.395,0.419,0.024,0.429,4.0,0.444,-11.2,-1.99,-3.4,-1.5,,,,0.0
+2026-11-23,Isaiah Hartenstein,ast,4.5,over,PASS,no edge,OKC,IND,DraftKings,118.0,14:54,25.9,3.79,0.365,0.341,0.024,0.434,2.0,0.459,-20.4,-3.75,-6.9,-2.5,,,,0.0
+2026-11-23,Isaiah Hartenstein,ast,4.5,under,PASS,no edge,OKC,IND,DraftKings,-156.0,14:54,25.9,3.79,0.635,0.659,0.024,0.566,2.0,0.609,4.2,1.03,6.9,-4.4,,,,0.0
+2026-11-23,Isaiah Hartenstein,pra,25.5,over,PASS,no edge,OKC,IND,DraftKings,-115.0,14:54,25.9,22.57,0.36,0.336,0.024,0.492,3.0,0.535,-32.7,-6.99,-13.2,-4.3,,,,0.0
+2026-11-23,Isaiah Hartenstein,pra,25.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-114.0,14:54,25.9,22.57,0.64,0.664,0.024,0.508,3.0,0.533,20.1,4.28,13.2,-2.5,0.54,0.73,,0.0
+2026-11-23,Isaiah Hartenstein,pts,9.5,over,PASS,no edge,OKC,IND,DraftKings,-118.0,14:54,25.9,9.05,0.433,0.409,0.024,0.481,4.0,0.541,-20.1,-4.34,-4.8,-6.0,,,,0.0
+2026-11-23,Isaiah Hartenstein,pts,9.5,under,WATCH,edge below the Rules §3 bar,OKC,IND,DraftKings,-108.0,14:54,25.9,9.05,0.567,0.591,0.024,0.519,4.0,0.519,9.3,1.92,4.8,-0.0,0.539,2.01,,0.0
+2026-11-23,Isaiah Hartenstein,reb,11.5,over,PASS,no edge,OKC,IND,DraftKings,-113.0,14:54,25.9,9.72,0.338,0.314,0.024,0.486,7.0,0.531,-36.3,-7.7,-14.8,-4.5,,,,0.0
+2026-11-23,Isaiah Hartenstein,reb,11.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-117.0,14:54,25.9,9.72,0.662,0.686,0.024,0.514,7.0,0.539,22.8,4.92,14.8,-2.5,0.553,1.42,,0.0
+2026-11-23,Isaiah Stewart,pts,8.5,over,PASS,no edge,MEM,CHA,DraftKings,-119.0,14:54,19.8,8.02,0.424,0.4,0.024,0.503,6.0,0.543,-21.9,-4.77,-7.8,-4.1,,,,0.0
+2026-11-23,Isaiah Stewart,pts,8.5,under,WATCH,edge below the Rules §3 bar,MEM,CHA,DraftKings,-107.0,14:54,19.8,8.02,0.576,0.6,0.024,0.497,6.0,0.517,11.4,2.36,7.8,-1.9,0.518,0.16,,0.0
+2026-11-23,Isaiah Stewart,reb,3.5,over,PASS,no edge,MEM,CHA,DraftKings,-111.0,14:54,19.8,3.72,0.493,0.469,0.024,0.503,6.0,0.526,-6.3,-1.33,-1.0,-2.4,,,,0.0
+2026-11-23,Isaiah Stewart,reb,3.5,under,PASS,no edge,MEM,CHA,DraftKings,-118.0,14:54,19.8,3.72,0.507,0.531,0.024,0.497,6.0,0.541,-6.3,-1.37,1.0,-4.4,,,,0.0
+2026-11-23,Ivica Zubac,pra,22.5,over,PASS,no edge,IND,OKC,DraftKings,-110.0,14:54,27.1,22.11,0.472,0.448,0.024,0.488,3.0,0.524,-9.9,-2.08,-1.6,-3.6,,,,0.0
+2026-11-23,Ivica Zubac,pra,22.5,under,PASS,no edge,IND,OKC,DraftKings,-119.0,14:54,27.1,22.11,0.528,0.552,0.024,0.512,3.0,0.543,-2.8,-0.61,1.6,-3.1,,,,0.0
+2026-11-23,Ivica Zubac,pts,10.5,over,PASS,no edge,IND,OKC,DraftKings,-125.0,14:54,27.1,11.29,0.529,0.505,0.024,0.524,1.0,0.556,-4.7,-1.06,0.5,-3.2,,,,0.0
+2026-11-23,Ivica Zubac,pts,10.5,under,PASS,no edge,IND,OKC,DraftKings,-102.0,14:54,27.1,11.29,0.471,0.495,0.024,0.476,1.0,0.505,-6.8,-1.37,-0.5,-2.9,,,,0.0
+2026-11-23,Ivica Zubac,reb,8.5,over,PASS,no edge,IND,OKC,DraftKings,-142.0,14:54,27.1,8.89,0.511,0.487,0.024,0.553,1.0,0.587,-12.9,-3.03,-4.2,-3.4,,,,0.0
+2026-11-23,Ivica Zubac,reb,8.5,under,PASS,no edge,IND,OKC,DraftKings,108.0,14:54,27.1,8.89,0.489,0.513,0.024,0.447,1.0,0.481,1.7,0.33,4.2,-3.4,,,,0.0
+2026-11-23,Jabari Smith Jr.,fg3m,1.5,over,PASS,no edge,HOU,LAC,DraftKings,-162.0,14:54,30.0,2.02,0.603,0.579,0.024,0.583,7.0,0.618,-2.5,-0.62,2.0,-3.5,,,,0.0
+2026-11-23,Jabari Smith Jr.,fg3m,1.5,under,PASS,no edge,HOU,LAC,DraftKings,122.0,14:54,30.0,2.02,0.397,0.421,0.024,0.417,7.0,0.45,-11.8,-2.13,-2.0,-3.3,,,,0.0
+2026-11-23,Jabari Smith Jr.,pra,22.5,over,PASS,no edge,HOU,LAC,DraftKings,-115.0,14:54,30.0,21.67,0.446,0.423,0.024,0.495,2.0,0.535,-16.5,-3.54,-4.8,-4.0,,,,0.0
+2026-11-23,Jabari Smith Jr.,pra,22.5,under,PASS,no edge,HOU,LAC,DraftKings,-114.0,14:54,30.0,21.67,0.554,0.577,0.024,0.505,2.0,0.533,3.9,0.83,4.8,-2.8,,,,0.0
+2026-11-23,Jabari Smith Jr.,pts,14.5,over,PASS,no edge,HOU,LAC,DraftKings,-107.0,14:54,30.0,14.11,0.454,0.43,0.024,0.481,1.0,0.517,-12.1,-2.5,-2.6,-3.6,,,,0.0
+2026-11-23,Jabari Smith Jr.,pts,14.5,under,PASS,no edge,HOU,LAC,DraftKings,-119.0,14:54,30.0,14.11,0.546,0.57,0.024,0.519,1.0,0.543,0.4,0.09,2.6,-2.4,,,,0.0
+2026-11-23,Jabari Smith Jr.,reb,6.5,over,PASS,no edge,HOU,LAC,DraftKings,100.0,14:54,30.0,5.7,0.377,0.353,0.024,0.457,6.0,0.5,-24.6,-4.92,-8.0,-4.3,,,,0.0
+2026-11-23,Jabari Smith Jr.,reb,6.5,under,WATCH,edge below the Rules §3 bar,HOU,LAC,DraftKings,-132.0,14:54,30.0,5.7,0.623,0.647,0.024,0.543,6.0,0.569,9.5,2.17,8.0,-2.6,0.569,0.04,,0.0
+2026-11-23,Jaden McDaniels,ast,3.5,over,PASS,no edge,MIN,BKN,DraftKings,127.0,14:54,31.6,2.9,0.358,0.334,0.024,0.437,7.0,0.441,-18.8,-3.31,-8.0,-0.3,,,,0.0
+2026-11-23,Jaden McDaniels,ast,3.5,under,PASS,no edge,MIN,BKN,DraftKings,-167.0,14:54,31.6,2.9,0.642,0.666,0.024,0.563,7.0,0.625,2.7,0.67,8.0,-6.3,,,,0.0
+2026-11-23,Jaden McDaniels,fg3m,1.5,over,PASS,no edge,MIN,BKN,DraftKings,-120.0,14:54,31.6,1.31,0.394,0.37,0.024,0.51,7.0,0.545,-27.8,-6.06,-11.6,-3.5,,,,0.0
+2026-11-23,Jaden McDaniels,fg3m,1.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-110.0,14:54,31.6,1.31,0.606,0.63,0.024,0.49,7.0,0.524,15.7,3.29,11.6,-3.4,0.524,-0.02,,0.0
+2026-11-23,Jaden McDaniels,pra,26.5,over,PASS,no edge,MIN,BKN,DraftKings,-116.0,14:54,31.6,22.11,0.292,0.268,0.024,0.486,7.0,0.537,-45.7,-9.82,-19.4,-5.1,,,,0.0
+2026-11-23,Jaden McDaniels,pra,26.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-114.0,14:54,31.6,22.11,0.708,0.732,0.024,0.514,7.0,0.533,33.0,7.03,19.4,-1.9,0.561,2.83,,0.0
+2026-11-23,Jaden McDaniels,pts,17.5,over,PASS,no edge,MIN,BKN,DraftKings,-111.0,14:54,31.6,14.62,0.321,0.297,0.024,0.48,7.0,0.526,-39.0,-8.21,-15.9,-4.6,,,,0.0
+2026-11-23,Jaden McDaniels,pts,17.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-114.0,14:54,31.6,14.62,0.679,0.703,0.024,0.52,7.0,0.533,27.5,5.86,15.9,-1.2,0.579,4.62,,0.0
+2026-11-23,Jaden McDaniels,reb,5.5,over,PASS,no edge,MIN,BKN,DraftKings,-117.0,14:54,31.6,4.59,0.354,0.33,0.024,0.486,7.0,0.539,-34.4,-7.42,-13.2,-5.3,,,,0.0
+2026-11-23,Jaden McDaniels,reb,5.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-113.0,14:54,31.6,4.59,0.646,0.67,0.024,0.514,7.0,0.531,21.8,4.64,13.2,-1.6,0.549,1.85,,0.0
+2026-11-23,Jaime Jaquez Jr.,ast,2.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIL,TOR,DraftKings,-129.0,14:54,27.3,3.59,0.662,0.638,0.024,0.535,5.0,0.563,17.5,3.95,12.7,-2.9,0.56,-0.37,,0.0
+2026-11-23,Jaime Jaquez Jr.,ast,2.5,under,PASS,no edge,MIL,TOR,DraftKings,-102.0,14:54,27.3,3.59,0.338,0.362,0.024,0.465,5.0,0.505,-33.1,-6.68,-12.7,-4.0,,,,0.0
+2026-11-23,Jaime Jaquez Jr.,fg3m,1.5,over,PASS,no edge,MIL,TOR,DraftKings,150.0,14:54,27.3,1.13,0.334,0.31,0.024,0.387,6.0,0.4,-16.6,-2.65,-5.3,-1.3,,,,0.0
+2026-11-23,Jaime Jaquez Jr.,fg3m,1.5,under,PASS,no edge,MIL,TOR,DraftKings,-199.0,14:54,27.3,1.13,0.666,0.69,0.024,0.613,6.0,0.666,0.1,0.03,5.3,-5.3,,,,0.0
+2026-11-23,Jaime Jaquez Jr.,pra,18.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIL,TOR,DraftKings,-124.0,14:54,27.3,21.57,0.646,0.622,0.024,0.512,5.0,0.554,16.6,3.68,13.3,-4.1,0.54,-1.34,,0.0
+2026-11-23,Jaime Jaquez Jr.,pra,18.5,under,PASS,no edge,MIL,TOR,DraftKings,-106.0,14:54,27.3,21.57,0.354,0.378,0.024,0.488,5.0,0.515,-31.1,-6.41,-13.3,-2.7,,,,0.0
+2026-11-23,Jaime Jaquez Jr.,pts,11.5,over,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,-127.0,14:54,27.3,13.36,0.604,0.58,0.024,0.519,7.0,0.559,7.9,1.77,8.5,-4.0,0.531,-2.82,,0.0
+2026-11-23,Jaime Jaquez Jr.,pts,11.5,under,PASS,no edge,MIL,TOR,DraftKings,100.0,14:54,27.3,13.36,0.396,0.42,0.024,0.481,7.0,0.5,-20.7,-4.15,-8.5,-1.9,,,,0.0
+2026-11-23,Jaime Jaquez Jr.,reb,3.5,over,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,-142.0,14:54,27.3,4.63,0.633,0.609,0.024,0.555,6.0,0.587,7.9,1.85,7.8,-3.2,0.571,-1.55,,0.0
+2026-11-23,Jaime Jaquez Jr.,reb,3.5,under,PASS,no edge,MIL,TOR,DraftKings,108.0,14:54,27.3,4.63,0.367,0.391,0.024,0.445,6.0,0.481,-23.7,-4.55,-7.8,-3.6,,,,0.0
+2026-11-23,Jake LaRavia,pra,11.5,over,PASS,no edge,LAL,UTA,DraftKings,-105.0,14:54,24.3,12.39,0.543,0.519,0.024,0.494,3.0,0.512,6.0,1.22,4.9,-1.8,,,,0.0
+2026-11-23,Jake LaRavia,pra,11.5,under,PASS,no edge,LAL,UTA,DraftKings,-125.0,14:54,24.3,12.39,0.457,0.481,0.024,0.506,3.0,0.556,-17.7,-3.93,-4.9,-4.9,,,,0.0
+2026-11-23,Jake LaRavia,pts,5.5,over,WATCH,edge below the Rules §3 bar,LAL,UTA,DraftKings,-118.0,14:54,24.3,6.74,0.581,0.557,0.024,0.528,5.0,0.541,7.4,1.6,5.3,-1.3,0.532,-0.93,,0.0
+2026-11-23,Jake LaRavia,pts,5.5,under,PASS,no edge,LAL,UTA,DraftKings,-108.0,14:54,24.3,6.74,0.419,0.443,0.024,0.472,5.0,0.519,-19.3,-4.02,-5.3,-4.7,,,,0.0
+2026-11-23,Jake LaRavia,reb,3.5,over,PASS,no edge,LAL,UTA,DraftKings,-141.0,14:54,24.3,3.91,0.523,0.499,0.024,0.545,6.0,0.585,-10.6,-2.49,-2.2,-4.0,,,,0.0
+2026-11-23,Jake LaRavia,reb,3.5,under,PASS,no edge,LAL,UTA,DraftKings,107.0,14:54,24.3,3.91,0.477,0.501,0.024,0.455,6.0,0.483,-1.2,-0.24,2.2,-2.9,,,,0.0
+2026-11-23,Jakob Poeltl,ast,1.5,over,WATCH,edge below the Rules §3 bar,TOR,MIL,DraftKings,-167.0,14:54,28.3,2.47,0.664,0.64,0.024,0.583,3.0,0.625,6.1,1.53,8.0,-4.2,0.596,-2.95,,0.0
+2026-11-23,Jakob Poeltl,ast,1.5,under,PASS,no edge,TOR,MIL,DraftKings,127.0,14:54,28.3,2.47,0.336,0.36,0.024,0.417,3.0,0.441,-23.7,-4.17,-8.0,-2.4,,,,0.0
+2026-11-23,Jakob Poeltl,pra,20.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",TOR,MIL,DraftKings,-109.0,14:54,28.3,23.01,0.61,0.587,0.024,0.477,2.0,0.522,17.1,3.56,13.4,-4.5,0.511,-1.05,,0.0
+2026-11-23,Jakob Poeltl,pra,20.5,under,PASS,no edge,TOR,MIL,DraftKings,-120.0,14:54,28.3,23.01,0.39,0.413,0.024,0.523,2.0,0.545,-28.6,-6.24,-13.4,-2.2,,,,0.0
+2026-11-23,Jakob Poeltl,pts,10.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",TOR,MIL,DraftKings,103.0,14:54,28.3,13.09,0.658,0.634,0.024,0.475,5.0,0.493,33.5,6.6,18.2,-1.7,0.518,2.51,,0.0
+2026-11-23,Jakob Poeltl,pts,10.5,under,PASS,no edge,TOR,MIL,DraftKings,-132.0,14:54,28.3,13.09,0.342,0.366,0.024,0.525,5.0,0.569,-39.8,-9.07,-18.2,-4.4,,,,0.0
+2026-11-23,Jakob Poeltl,reb,7.5,over,PASS,no edge,TOR,MIL,DraftKings,-132.0,14:54,28.3,7.44,0.469,0.446,0.024,0.531,6.0,0.569,-17.5,-3.98,-6.1,-3.8,,,,0.0
+2026-11-23,Jakob Poeltl,reb,7.5,under,PASS,no edge,TOR,MIL,DraftKings,100.0,14:54,28.3,7.44,0.531,0.554,0.024,0.469,6.0,0.5,6.1,1.22,6.1,-3.1,,,,0.0
+2026-11-23,Ja'Kobe Walter,ast,2.5,over,PASS,no edge,TOR,MIL,DraftKings,139.0,14:54,28.1,2.14,0.382,0.358,0.024,0.402,4.0,0.418,-8.7,-1.46,-2.0,-1.7,,,,0.0
+2026-11-23,Ja'Kobe Walter,ast,2.5,under,PASS,no edge,TOR,MIL,DraftKings,-185.0,14:54,28.1,2.14,0.618,0.642,0.024,0.598,4.0,0.649,-4.8,-1.24,2.0,-5.1,,,,0.0
+2026-11-23,Ja'Kobe Walter,fg3m,2.5,over,PASS,no edge,TOR,MIL,DraftKings,-146.0,14:54,28.1,2.36,0.437,0.413,0.024,0.554,7.0,0.593,-26.3,-6.25,-11.7,-3.9,,,,0.0
+2026-11-23,Ja'Kobe Walter,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",TOR,MIL,DraftKings,110.0,14:54,28.1,2.36,0.563,0.587,0.024,0.446,7.0,0.476,18.2,3.46,11.7,-3.0,0.483,0.64,,0.0
+2026-11-23,Ja'Kobe Walter,pra,19.5,over,PASS,no edge,TOR,MIL,DraftKings,-126.0,14:54,28.1,18.07,0.407,0.383,0.024,0.518,4.0,0.558,-26.9,-6.01,-11.1,-3.9,,,,0.0
+2026-11-23,Ja'Kobe Walter,pra,19.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",TOR,MIL,DraftKings,-104.0,14:54,28.1,18.07,0.593,0.617,0.024,0.482,4.0,0.51,16.3,3.32,11.1,-2.8,0.513,0.36,,0.0
+2026-11-23,Ja'Kobe Walter,pts,13.5,over,PASS,no edge,TOR,MIL,DraftKings,-109.0,14:54,28.1,12.28,0.398,0.374,0.024,0.497,6.0,0.522,-23.8,-4.96,-9.9,-2.5,,,,0.0
+2026-11-23,Ja'Kobe Walter,pts,13.5,under,WATCH,edge below the Rules §3 bar,TOR,MIL,DraftKings,-117.0,14:54,28.1,12.28,0.602,0.626,0.024,0.503,6.0,0.539,11.7,2.53,9.9,-3.6,0.536,-0.33,,0.0
+2026-11-23,Ja'Kobe Walter,reb,3.5,over,PASS,no edge,TOR,MIL,DraftKings,-157.0,14:54,28.1,3.64,0.484,0.46,0.024,0.571,6.0,0.611,-20.8,-5.07,-8.7,-4.0,,,,0.0
+2026-11-23,Ja'Kobe Walter,reb,3.5,under,WATCH,edge below the Rules §3 bar,TOR,MIL,DraftKings,119.0,14:54,28.1,3.64,0.516,0.54,0.024,0.429,6.0,0.457,13.0,2.37,8.7,-2.7,0.459,0.19,,0.0
+2026-11-23,Jalen Green,ast,2.5,over,PASS,no edge,PHX,NOP,DraftKings,-176.0,14:54,26.4,2.99,0.552,0.528,0.024,0.598,1.0,0.638,-13.4,-3.43,-4.6,-4.0,,,,0.0
+2026-11-23,Jalen Green,ast,2.5,under,PASS,no edge,PHX,NOP,DraftKings,133.0,14:54,26.4,2.99,0.448,0.472,0.024,0.402,1.0,0.429,4.4,0.75,4.6,-2.7,,,,0.0
+2026-11-23,Jalen Green,fg3m,1.5,over,PASS,no edge,PHX,NOP,DraftKings,-106.0,14:54,26.4,1.8,0.541,0.517,0.024,0.507,7.0,0.515,5.1,1.06,3.4,-0.8,,,,0.0
+2026-11-23,Jalen Green,fg3m,1.5,under,PASS,no edge,PHX,NOP,DraftKings,-124.0,14:54,26.4,1.8,0.459,0.483,0.024,0.493,7.0,0.554,-17.1,-3.78,-3.4,-6.1,,,,0.0
+2026-11-23,Jalen Green,pra,21.5,over,PASS,no edge,PHX,NOP,DraftKings,-112.0,14:54,26.4,21.38,0.479,0.455,0.024,0.492,2.0,0.528,-9.4,-1.98,-1.3,-3.6,,,,0.0
+2026-11-23,Jalen Green,pra,21.5,under,PASS,no edge,PHX,NOP,DraftKings,-117.0,14:54,26.4,21.38,0.521,0.545,0.024,0.508,2.0,0.539,-3.3,-0.72,1.3,-3.1,,,,0.0
+2026-11-23,Jalen Green,pts,14.5,over,PASS,no edge,PHX,NOP,DraftKings,-106.0,14:54,26.4,14.57,0.477,0.453,0.024,0.48,7.0,0.515,-7.3,-1.49,-0.2,-3.5,,,,0.0
+2026-11-23,Jalen Green,pts,14.5,under,PASS,no edge,PHX,NOP,DraftKings,-121.0,14:54,26.4,14.57,0.523,0.547,0.024,0.52,7.0,0.548,-4.5,-0.99,0.2,-2.7,,,,0.0
+2026-11-23,Jalen Green,reb,3.5,over,PASS,no edge,PHX,NOP,DraftKings,-138.0,14:54,26.4,3.82,0.513,0.489,0.024,0.555,6.0,0.58,-11.6,-2.69,-4.2,-2.5,,,,0.0
+2026-11-23,Jalen Green,reb,3.5,under,PASS,no edge,PHX,NOP,DraftKings,105.0,14:54,26.4,3.82,0.487,0.511,0.024,0.445,6.0,0.488,-0.1,-0.01,4.2,-4.2,,,,0.0
+2026-11-23,Jalen Smith,fg3m,1.5,over,PASS,no edge,CHI,CLE,DraftKings,-149.0,14:54,27.4,2.11,0.612,0.588,0.024,0.581,6.0,0.598,2.2,0.53,3.1,-1.8,,,,0.0
+2026-11-23,Jalen Smith,fg3m,1.5,under,PASS,no edge,CHI,CLE,DraftKings,113.0,14:54,27.4,2.11,0.388,0.412,0.024,0.419,6.0,0.469,-17.3,-3.24,-3.1,-5.0,,,,0.0
+2026-11-23,Jalen Smith,pts,14.5,over,PASS,no edge,CHI,CLE,DraftKings,-123.0,14:54,27.4,14.7,0.489,0.466,0.024,0.503,7.0,0.552,-11.3,-2.49,-1.4,-4.8,,,,0.0
+2026-11-23,Jalen Smith,pts,14.5,under,PASS,no edge,CHI,CLE,DraftKings,-104.0,14:54,27.4,14.7,0.511,0.534,0.024,0.497,7.0,0.51,0.2,0.03,1.4,-1.3,,,,0.0
+2026-11-23,Jalen Smith,reb,7.5,over,WATCH,edge below the Rules §3 bar,CHI,CLE,DraftKings,-101.0,14:54,27.4,8.19,0.543,0.52,0.024,0.455,7.0,0.502,8.2,1.64,8.9,-4.8,0.474,-2.85,,0.0
+2026-11-23,Jalen Smith,reb,7.5,under,PASS,no edge,CHI,CLE,DraftKings,-130.0,14:54,27.4,8.19,0.457,0.48,0.024,0.545,7.0,0.565,-19.2,-4.35,-8.9,-2.0,,,,0.0
+2026-11-23,James Harden,ast,7.5,over,PASS,no edge,CLE,CHI,DraftKings,-103.0,14:54,32.1,6.3,0.341,0.317,0.024,0.48,7.0,0.507,-32.7,-6.64,-13.8,-2.8,,,,0.0
+2026-11-23,James Harden,ast,7.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CLE,CHI,DraftKings,-128.0,14:54,32.1,6.3,0.659,0.683,0.024,0.52,7.0,0.561,17.3,3.89,13.8,-4.1,0.563,0.16,,0.0
+2026-11-23,James Harden,fg3m,2.5,over,PASS,no edge,CLE,CHI,DraftKings,107.0,14:54,32.1,2.58,0.49,0.466,0.024,0.458,7.0,0.483,1.3,0.26,3.1,-2.5,,,,0.0
+2026-11-23,James Harden,fg3m,2.5,under,PASS,no edge,CLE,CHI,DraftKings,-140.0,14:54,32.1,2.58,0.51,0.534,0.024,0.542,7.0,0.583,-12.5,-2.91,-3.1,-4.1,,,,0.0
+2026-11-23,James Harden,pra,30.5,over,PASS,no edge,CLE,CHI,DraftKings,-121.0,14:54,32.1,30.45,0.491,0.467,0.024,0.493,6.0,0.548,-10.4,-2.27,-0.3,-5.4,,,,0.0
+2026-11-23,James Harden,pra,30.5,under,PASS,no edge,CLE,CHI,DraftKings,-109.0,14:54,32.1,30.45,0.509,0.533,0.024,0.507,6.0,0.522,-2.4,-0.49,0.3,-1.5,,,,0.0
+2026-11-23,James Harden,pts,18.5,over,PASS,no edge,CLE,CHI,DraftKings,-104.0,14:54,32.1,19.41,0.536,0.512,0.024,0.48,3.0,0.51,5.1,1.03,5.6,-3.0,,,,0.0
+2026-11-23,James Harden,pts,18.5,under,PASS,no edge,CLE,CHI,DraftKings,-122.0,14:54,32.1,19.41,0.464,0.488,0.024,0.52,3.0,0.55,-15.5,-3.41,-5.6,-2.9,,,,0.0
+2026-11-23,James Harden,reb,4.5,over,PASS,no edge,CLE,CHI,DraftKings,-126.0,14:54,32.1,4.73,0.501,0.477,0.024,0.521,7.0,0.558,-10.2,-2.28,-2.0,-3.7,,,,0.0
+2026-11-23,James Harden,reb,4.5,under,PASS,no edge,CLE,CHI,DraftKings,-104.0,14:54,32.1,4.73,0.499,0.523,0.024,0.479,7.0,0.51,-2.0,-0.42,2.0,-3.0,,,,0.0
+2026-11-23,Jared McCain,fg3m,2.5,over,PASS,no edge,OKC,IND,DraftKings,-125.0,14:54,25.9,2.03,0.355,0.331,0.024,0.5,7.0,0.556,-36.1,-8.03,-14.5,-5.6,,,,0.0
+2026-11-23,Jared McCain,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-105.0,14:54,25.9,2.03,0.645,0.669,0.024,0.5,7.0,0.512,26.0,5.32,14.5,-1.2,0.55,3.83,,0.0
+2026-11-23,Jared McCain,pra,20.5,over,PASS,no edge,OKC,IND,DraftKings,-125.0,14:54,25.9,17.96,0.356,0.332,0.024,0.52,1.0,0.556,-35.9,-7.99,-16.4,-3.5,,,,0.0
+2026-11-23,Jared McCain,pra,20.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-105.0,14:54,25.9,17.96,0.644,0.668,0.024,0.48,1.0,0.512,25.8,5.28,16.4,-3.2,0.529,1.72,,0.0
+2026-11-23,Jared McCain,pts,15.5,over,PASS,no edge,OKC,IND,DraftKings,-102.0,14:54,25.9,12.97,0.325,0.301,0.024,0.494,7.0,0.505,-35.6,-7.19,-16.9,-1.1,,,,0.0
+2026-11-23,Jared McCain,pts,15.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-125.0,14:54,25.9,12.97,0.675,0.699,0.024,0.506,7.0,0.556,21.5,4.77,16.9,-4.9,0.552,-0.36,,0.0
+2026-11-23,Jared McCain,reb,3.5,over,PASS,no edge,OKC,IND,DraftKings,111.0,14:54,25.9,3.17,0.402,0.378,0.024,0.456,7.0,0.474,-15.2,-2.89,-5.5,-1.7,,,,0.0
+2026-11-23,Jared McCain,reb,3.5,under,PASS,no edge,OKC,IND,DraftKings,-147.0,14:54,25.9,3.17,0.598,0.622,0.024,0.544,7.0,0.595,0.5,0.13,5.5,-5.2,,,,0.0
+2026-11-23,Jarrett Allen,pra,26.5,over,PASS,no edge,CLE,CHI,DraftKings,-121.0,14:54,22.8,19.94,0.246,0.222,0.024,0.506,3.0,0.548,-55.0,-12.06,-26.0,-4.1,,,,0.0
+2026-11-23,Jarrett Allen,pra,26.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CLE,CHI,DraftKings,-109.0,14:54,22.8,19.94,0.754,0.778,0.024,0.494,3.0,0.522,44.6,9.29,26.0,-2.8,0.557,3.6,,0.0
+2026-11-23,Jarrett Allen,pts,14.5,over,PASS,no edge,CLE,CHI,DraftKings,-125.0,14:54,22.8,11.45,0.31,0.286,0.024,0.525,5.0,0.556,-44.2,-9.82,-21.5,-3.1,,,,0.0
+2026-11-23,Jarrett Allen,pts,14.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CLE,CHI,DraftKings,-102.0,14:54,22.8,11.45,0.69,0.714,0.024,0.475,5.0,0.505,36.7,7.4,21.5,-3.0,0.526,2.14,,0.0
+2026-11-23,Jarrett Allen,reb,9.5,over,PASS,no edge,CLE,CHI,DraftKings,-127.0,14:54,22.8,7.01,0.266,0.242,0.024,0.514,7.0,0.559,-52.4,-11.72,-24.8,-4.5,,,,0.0
+2026-11-23,Jarrett Allen,reb,9.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CLE,CHI,DraftKings,-104.0,14:54,22.8,7.01,0.734,0.758,0.024,0.486,7.0,0.51,43.9,8.95,24.8,-2.4,0.551,4.13,,0.0
+2026-11-23,Jaylen Brown,ast,3.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,120.0,14:54,32.2,3.86,0.525,0.502,0.024,0.424,7.0,0.455,15.6,2.84,10.1,-3.0,0.442,-1.3,,0.0
+2026-11-23,Jaylen Brown,ast,3.5,under,PASS,no edge,PHI,POR,DraftKings,-158.0,14:54,32.2,3.86,0.475,0.498,0.024,0.576,7.0,0.612,-22.5,-5.51,-10.1,-3.7,,,,0.0
+2026-11-23,Jaylen Brown,fg3m,1.5,over,PASS,no edge,PHI,POR,DraftKings,-112.0,14:54,32.2,1.6,0.482,0.458,0.024,0.494,7.0,0.528,-8.7,-1.85,-1.2,-3.4,,,,0.0
+2026-11-23,Jaylen Brown,fg3m,1.5,under,PASS,no edge,PHI,POR,DraftKings,-117.0,14:54,32.2,1.6,0.518,0.542,0.024,0.506,7.0,0.539,-3.9,-0.85,1.2,-3.3,,,,0.0
+2026-11-23,Jaylen Brown,pra,30.5,over,PASS,no edge,PHI,POR,DraftKings,-111.0,14:54,32.2,31.19,0.521,0.497,0.024,0.499,2.0,0.526,-1.0,-0.21,2.2,-2.7,,,,0.0
+2026-11-23,Jaylen Brown,pra,30.5,under,PASS,no edge,PHI,POR,DraftKings,-118.0,14:54,32.2,31.19,0.479,0.503,0.024,0.501,2.0,0.541,-11.5,-2.48,-2.2,-4.0,,,,0.0
+2026-11-23,Jaylen Brown,pts,20.5,over,PASS,no edge,PHI,POR,DraftKings,-116.0,14:54,32.2,20.99,0.512,0.488,0.024,0.507,1.0,0.537,-4.7,-1.01,0.5,-3.0,,,,0.0
+2026-11-23,Jaylen Brown,pts,20.5,under,PASS,no edge,PHI,POR,DraftKings,-110.0,14:54,32.2,20.99,0.488,0.512,0.024,0.493,1.0,0.524,-6.8,-1.42,-0.5,-3.1,,,,0.0
+2026-11-23,Jaylen Brown,reb,5.5,over,PASS,no edge,PHI,POR,DraftKings,-148.0,14:54,32.2,6.34,0.578,0.554,0.024,0.552,6.0,0.597,-3.2,-0.76,2.6,-4.5,,,,0.0
+2026-11-23,Jaylen Brown,reb,5.5,under,PASS,no edge,PHI,POR,DraftKings,112.0,14:54,32.2,6.34,0.422,0.446,0.024,0.448,6.0,0.472,-10.5,-1.97,-2.6,-2.3,,,,0.0
+2026-11-23,Jaylen Wells,fg3m,1.5,over,PASS,no edge,MEM,CHA,DraftKings,-123.0,14:54,26.0,1.6,0.481,0.457,0.024,0.506,7.0,0.552,-12.7,-2.81,-2.5,-4.6,,,,0.0
+2026-11-23,Jaylen Wells,fg3m,1.5,under,PASS,no edge,MEM,CHA,DraftKings,-107.0,14:54,26.0,1.6,0.519,0.543,0.024,0.494,7.0,0.517,0.4,0.07,2.5,-2.3,,,,0.0
+2026-11-23,Jaylen Wells,pts,9.5,over,PASS,no edge,MEM,CHA,DraftKings,-123.0,14:54,26.0,10.26,0.526,0.502,0.024,0.498,6.0,0.552,-4.7,-1.04,2.8,-5.4,,,,0.0
+2026-11-23,Jaylen Wells,pts,9.5,under,PASS,no edge,MEM,CHA,DraftKings,-104.0,14:54,26.0,10.26,0.474,0.498,0.024,0.502,6.0,0.51,-6.9,-1.41,-2.8,-0.8,,,,0.0
+2026-11-23,Jaylen Wells,reb,2.5,over,PASS,no edge,MEM,CHA,DraftKings,-117.0,14:54,26.0,3.03,0.551,0.527,0.024,0.52,5.0,0.539,2.1,0.46,3.0,-1.9,,,,0.0
+2026-11-23,Jaylen Wells,reb,2.5,under,PASS,no edge,MEM,CHA,DraftKings,-112.0,14:54,26.0,3.03,0.449,0.473,0.024,0.48,5.0,0.528,-14.9,-3.16,-3.0,-4.9,,,,0.0
+2026-11-23,Jaylon Tyson,ast,1.5,over,PASS,no edge,CLE,CHI,DraftKings,-185.0,14:54,21.7,1.86,0.531,0.507,0.024,0.596,3.0,0.649,-18.2,-4.73,-6.5,-5.3,,,,0.0
+2026-11-23,Jaylon Tyson,ast,1.5,under,WATCH,edge below the Rules §3 bar,CLE,CHI,DraftKings,140.0,14:54,21.7,1.86,0.469,0.493,0.024,0.404,3.0,0.417,12.6,2.09,6.5,-1.2,0.426,0.9,,0.0
+2026-11-23,Jaylon Tyson,fg3m,1.5,over,PASS,no edge,CLE,CHI,DraftKings,-134.0,14:54,21.7,1.4,0.422,0.398,0.024,0.533,6.0,0.573,-26.4,-6.04,-11.1,-4.0,,,,0.0
+2026-11-23,Jaylon Tyson,fg3m,1.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CLE,CHI,DraftKings,102.0,14:54,21.7,1.4,0.578,0.602,0.024,0.467,6.0,0.495,16.8,3.33,11.1,-2.8,0.503,0.8,,0.0
+2026-11-23,Jaylon Tyson,pra,16.5,over,PASS,no edge,CLE,CHI,DraftKings,-108.0,14:54,21.7,15.4,0.424,0.4,0.024,0.488,5.0,0.519,-18.3,-3.81,-6.4,-3.1,,,,0.0
+2026-11-23,Jaylon Tyson,pra,16.5,under,PASS,no edge,CLE,CHI,DraftKings,-121.0,14:54,21.7,15.4,0.576,0.6,0.024,0.512,5.0,0.548,5.2,1.14,6.4,-3.6,,,,0.0
+2026-11-23,Jaylon Tyson,pts,9.5,over,PASS,no edge,CLE,CHI,DraftKings,-127.0,14:54,21.7,9.62,0.484,0.46,0.024,0.524,7.0,0.559,-13.5,-3.03,-4.0,-3.5,,,,0.0
+2026-11-23,Jaylon Tyson,pts,9.5,under,PASS,no edge,CLE,CHI,DraftKings,-101.0,14:54,21.7,9.62,0.516,0.54,0.024,0.476,7.0,0.502,2.7,0.55,4.0,-2.7,,,,0.0
+2026-11-23,Jaylon Tyson,reb,4.5,over,PASS,no edge,CLE,CHI,DraftKings,121.0,14:54,21.7,3.91,0.382,0.358,0.024,0.42,6.0,0.452,-15.6,-2.82,-3.8,-3.3,,,,0.0
+2026-11-23,Jaylon Tyson,reb,4.5,under,PASS,no edge,CLE,CHI,DraftKings,-160.0,14:54,21.7,3.91,0.618,0.642,0.024,0.58,6.0,0.615,0.4,0.11,3.8,-3.5,,,,0.0
+2026-11-23,Jeremiah Fears,ast,5.5,over,PASS,no edge,NOP,PHX,DraftKings,-120.0,14:54,29.2,4.11,0.283,0.259,0.024,0.518,8.0,0.545,-48.1,-10.5,-23.5,-2.8,,,,0.0
+2026-11-23,Jeremiah Fears,ast,5.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-109.0,14:54,29.2,4.11,0.717,0.741,0.024,0.482,8.0,0.522,37.5,7.82,23.5,-3.9,0.54,1.9,,0.0
+2026-11-23,Jeremiah Fears,fg3m,1.5,over,PASS,no edge,NOP,PHX,DraftKings,104.0,14:54,29.2,1.45,0.439,0.415,0.024,0.477,8.0,0.49,-10.5,-2.05,-3.8,-1.3,,,,0.0
+2026-11-23,Jeremiah Fears,fg3m,1.5,under,PASS,no edge,NOP,PHX,DraftKings,-137.0,14:54,29.2,1.45,0.561,0.585,0.024,0.523,8.0,0.578,-2.9,-0.68,3.8,-5.5,,,,0.0
+2026-11-23,Jeremiah Fears,pra,28.5,over,PASS,no edge,NOP,PHX,DraftKings,-110.0,14:54,29.2,23.88,0.297,0.273,0.024,0.48,5.0,0.524,-43.3,-9.08,-18.3,-4.4,,,,0.0
+2026-11-23,Jeremiah Fears,pra,28.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-120.0,14:54,29.2,23.88,0.703,0.727,0.024,0.52,5.0,0.545,28.9,6.31,18.3,-2.6,0.571,2.5,,0.0
+2026-11-23,Jeremiah Fears,pts,17.5,over,PASS,no edge,NOP,PHX,DraftKings,-111.0,14:54,29.2,15.37,0.359,0.335,0.024,0.49,7.0,0.526,-31.7,-6.68,-13.1,-3.6,,,,0.0
+2026-11-23,Jeremiah Fears,pts,17.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-115.0,14:54,29.2,15.37,0.641,0.665,0.024,0.51,7.0,0.535,19.8,4.24,13.1,-2.5,0.56,2.47,,0.0
+2026-11-23,Jeremiah Fears,reb,4.5,over,PASS,no edge,NOP,PHX,DraftKings,-132.0,14:54,29.2,4.4,0.454,0.43,0.024,0.522,7.0,0.569,-20.3,-4.61,-6.8,-4.7,,,,0.0
+2026-11-23,Jeremiah Fears,reb,4.5,under,WATCH,edge below the Rules §3 bar,NOP,PHX,DraftKings,100.0,14:54,29.2,4.4,0.546,0.57,0.024,0.478,7.0,0.5,9.3,1.85,6.8,-2.2,0.5,-0.04,,0.0
+2026-11-23,Joel Embiid,ast,3.5,over,PASS,no edge,PHI,POR,DraftKings,-119.0,14:54,29.9,3.45,0.455,0.431,0.024,0.51,7.0,0.543,-16.2,-3.53,-5.5,-3.3,,,,0.0
+2026-11-23,Joel Embiid,ast,3.5,under,PASS,no edge,PHI,POR,DraftKings,-111.0,14:54,29.9,3.45,0.545,0.569,0.024,0.49,7.0,0.526,3.6,0.75,5.5,-3.6,,,,0.0
+2026-11-23,Joel Embiid,fg3m,0.5,over,PASS,no edge,PHI,POR,DraftKings,-232.0,14:54,29.9,1.0,0.634,0.611,0.024,0.655,2.0,0.699,-9.2,-2.57,-2.1,-4.3,,,,0.0
+2026-11-23,Joel Embiid,fg3m,0.5,under,PASS,no edge,PHI,POR,DraftKings,173.0,14:54,29.9,1.0,0.366,0.389,0.024,0.345,2.0,0.366,-0.2,-0.03,2.1,-2.2,,,,0.0
+2026-11-23,Joel Embiid,pra,34.5,over,PASS,no edge,PHI,POR,DraftKings,-114.0,14:54,29.9,30.32,0.333,0.309,0.024,0.49,1.0,0.533,-37.4,-7.98,-15.7,-4.3,,,,0.0
+2026-11-23,Joel Embiid,pra,34.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,-115.0,14:54,29.9,30.32,0.667,0.691,0.024,0.51,1.0,0.535,24.6,5.27,15.7,-2.5,0.552,1.72,,0.0
+2026-11-23,Joel Embiid,pts,21.5,over,PASS,no edge,PHI,POR,DraftKings,-124.0,14:54,29.9,19.33,0.375,0.351,0.024,0.517,6.0,0.554,-32.3,-7.16,-14.3,-3.6,,,,0.0
+2026-11-23,Joel Embiid,pts,21.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,-102.0,14:54,29.9,19.33,0.625,0.649,0.024,0.483,6.0,0.505,23.9,4.82,14.3,-2.2,0.51,0.54,,0.0
+2026-11-23,Joel Embiid,reb,8.5,over,PASS,no edge,PHI,POR,DraftKings,-103.0,14:54,29.9,7.54,0.381,0.357,0.024,0.461,7.0,0.507,-25.0,-5.07,-8.1,-4.6,,,,0.0
+2026-11-23,Joel Embiid,reb,8.5,under,WATCH,edge below the Rules §3 bar,PHI,POR,DraftKings,-128.0,14:54,29.9,7.54,0.619,0.643,0.024,0.539,7.0,0.561,10.3,2.32,8.1,-2.3,0.56,-0.12,,0.0
+2026-11-23,Jonathan Kuminga,ast,2.5,over,PASS,no edge,MIN,BKN,DraftKings,109.0,14:54,26.8,2.24,0.4,0.376,0.024,0.441,5.0,0.478,-16.4,-3.13,-4.1,-3.7,,,,0.0
+2026-11-23,Jonathan Kuminga,ast,2.5,under,PASS,no edge,MIN,BKN,DraftKings,-143.0,14:54,26.8,2.24,0.6,0.624,0.024,0.559,5.0,0.588,1.9,0.46,4.1,-2.9,,,,0.0
+2026-11-23,Jonathan Kuminga,fg3m,1.5,over,PASS,no edge,MIN,BKN,DraftKings,116.0,14:54,26.8,1.22,0.363,0.34,0.024,0.445,7.0,0.463,-21.5,-3.98,-8.2,-1.8,,,,0.0
+2026-11-23,Jonathan Kuminga,fg3m,1.5,under,PASS,no edge,MIN,BKN,DraftKings,-152.0,14:54,26.8,1.22,0.637,0.66,0.024,0.555,7.0,0.603,5.5,1.33,8.2,-4.8,,,,0.0
+2026-11-23,Jonathan Kuminga,pra,22.5,over,PASS,no edge,MIN,BKN,DraftKings,-120.0,14:54,26.8,18.91,0.311,0.287,0.024,0.508,4.0,0.545,-42.9,-9.37,-19.6,-3.8,,,,0.0
+2026-11-23,Jonathan Kuminga,pra,22.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-110.0,14:54,26.8,18.91,0.689,0.713,0.024,0.492,4.0,0.524,31.5,6.6,19.6,-3.1,0.542,1.79,,0.0
+2026-11-23,Jonathan Kuminga,pts,14.5,over,PASS,no edge,MIN,BKN,DraftKings,-114.0,14:54,26.8,11.53,0.292,0.268,0.024,0.493,7.0,0.533,-45.1,-9.62,-20.1,-4.0,,,,0.0
+2026-11-23,Jonathan Kuminga,pts,14.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-112.0,14:54,26.8,11.53,0.708,0.732,0.024,0.507,7.0,0.528,34.0,7.17,20.1,-2.1,0.568,3.97,,0.0
+2026-11-23,Jonathan Kuminga,reb,5.5,over,PASS,no edge,MIN,BKN,DraftKings,-117.0,14:54,26.8,5.14,0.427,0.404,0.024,0.497,7.0,0.539,-20.7,-4.47,-7.0,-4.2,,,,0.0
+2026-11-23,Jonathan Kuminga,reb,5.5,under,WATCH,edge below the Rules §3 bar,MIN,BKN,DraftKings,-113.0,14:54,26.8,5.14,0.573,0.596,0.024,0.503,7.0,0.531,7.9,1.68,7.0,-2.8,0.524,-0.68,,0.0
+2026-11-23,Jordan Goodwin,ast,2.5,over,PASS,no edge,PHX,NOP,DraftKings,-119.0,14:54,22.0,2.29,0.408,0.384,0.024,0.483,4.0,0.543,-24.9,-5.42,-7.5,-6.0,,,,0.0
+2026-11-23,Jordan Goodwin,ast,2.5,under,WATCH,edge below the Rules §3 bar,PHX,NOP,DraftKings,-110.0,14:54,22.0,2.29,0.592,0.616,0.024,0.517,4.0,0.524,13.0,2.73,7.5,-0.7,0.537,1.33,,0.0
+2026-11-23,Jordan Goodwin,fg3m,1.5,over,PASS,no edge,PHX,NOP,DraftKings,-101.0,14:54,22.0,1.56,0.469,0.446,0.024,0.472,5.0,0.502,-6.6,-1.32,-0.2,-3.1,,,,0.0
+2026-11-23,Jordan Goodwin,fg3m,1.5,under,PASS,no edge,PHX,NOP,DraftKings,-130.0,14:54,22.0,1.56,0.531,0.554,0.024,0.528,5.0,0.565,-6.1,-1.38,0.2,-3.7,,,,0.0
+2026-11-23,Jordan Goodwin,pra,16.5,over,PASS,no edge,PHX,NOP,DraftKings,-111.0,14:54,22.0,15.68,0.437,0.414,0.024,0.495,4.0,0.526,-16.8,-3.54,-5.7,-3.1,,,,0.0
+2026-11-23,Jordan Goodwin,pra,16.5,under,PASS,no edge,PHX,NOP,DraftKings,-118.0,14:54,22.0,15.68,0.563,0.586,0.024,0.505,4.0,0.541,3.9,0.85,5.7,-3.6,,,,0.0
+2026-11-23,Jordan Goodwin,pts,8.5,over,PASS,no edge,PHX,NOP,DraftKings,-113.0,14:54,22.0,8.62,0.474,0.45,0.024,0.51,6.0,0.531,-10.6,-2.26,-3.5,-2.1,,,,0.0
+2026-11-23,Jordan Goodwin,pts,8.5,under,PASS,no edge,PHX,NOP,DraftKings,-113.0,14:54,22.0,8.62,0.526,0.55,0.024,0.49,6.0,0.531,-0.9,-0.19,3.5,-4.0,,,,0.0
+2026-11-23,Jordan Goodwin,reb,4.5,over,PASS,no edge,PHX,NOP,DraftKings,-137.0,14:54,22.0,4.76,0.5,0.476,0.024,0.52,6.0,0.578,-13.5,-3.13,-2.0,-5.8,,,,0.0
+2026-11-23,Jordan Goodwin,reb,4.5,under,PASS,no edge,PHX,NOP,DraftKings,104.0,14:54,22.0,4.76,0.5,0.524,0.024,0.48,6.0,0.49,2.0,0.4,2.0,-1.0,,,,0.0
+2026-11-23,Josh Giddey,ast,9.5,over,PASS,no edge,CHI,CLE,DraftKings,109.0,14:54,30.4,9.21,0.456,0.432,0.024,0.485,5.0,0.478,-4.8,-0.91,-3.0,0.7,,,,0.0
+2026-11-23,Josh Giddey,ast,9.5,under,PASS,no edge,CHI,CLE,DraftKings,-143.0,14:54,30.4,9.21,0.544,0.568,0.024,0.515,5.0,0.588,-7.5,-1.77,3.0,-7.4,,,,0.0
+2026-11-23,Josh Giddey,fg3m,1.5,over,PASS,no edge,CHI,CLE,DraftKings,-109.0,14:54,30.4,1.74,0.528,0.504,0.024,0.481,7.0,0.522,1.1,0.24,4.7,-4.1,,,,0.0
+2026-11-23,Josh Giddey,fg3m,1.5,under,PASS,no edge,CHI,CLE,DraftKings,-121.0,14:54,30.4,1.74,0.472,0.496,0.024,0.519,7.0,0.548,-13.7,-3.0,-4.7,-2.8,,,,0.0
+2026-11-23,Josh Giddey,pra,31.5,over,PASS,no edge,CHI,CLE,DraftKings,-106.0,14:54,30.4,31.69,0.504,0.48,0.024,0.474,1.0,0.515,-2.0,-0.41,3.0,-4.0,,,,0.0
+2026-11-23,Josh Giddey,pra,31.5,under,PASS,no edge,CHI,CLE,DraftKings,-124.0,14:54,30.4,31.69,0.496,0.52,0.024,0.526,1.0,0.554,-10.5,-2.32,-3.0,-2.8,,,,0.0
+2026-11-23,Josh Giddey,pts,14.5,over,PASS,no edge,CHI,CLE,DraftKings,-107.0,14:54,30.4,15.06,0.515,0.491,0.024,0.488,1.0,0.517,-0.4,-0.07,2.8,-2.9,,,,0.0
+2026-11-23,Josh Giddey,pts,14.5,under,PASS,no edge,CHI,CLE,DraftKings,-119.0,14:54,30.4,15.06,0.485,0.509,0.024,0.512,1.0,0.543,-10.8,-2.34,-2.8,-3.1,,,,0.0
+2026-11-23,Josh Giddey,reb,7.5,over,PASS,no edge,CHI,CLE,DraftKings,113.0,14:54,30.4,7.41,0.472,0.448,0.024,0.433,5.0,0.469,0.5,0.1,3.9,-3.7,,,,0.0
+2026-11-23,Josh Giddey,reb,7.5,under,PASS,no edge,CHI,CLE,DraftKings,-149.0,14:54,30.4,7.41,0.528,0.552,0.024,0.567,5.0,0.598,-11.8,-2.81,-3.9,-3.1,,,,0.0
+2026-11-23,Jrue Holiday,ast,4.5,over,WATCH,edge below the Rules §3 bar,POR,PHI,DraftKings,120.0,14:54,27.7,4.67,0.496,0.473,0.024,0.427,7.0,0.455,9.2,1.68,6.9,-2.7,0.436,-1.82,,0.0
+2026-11-23,Jrue Holiday,ast,4.5,under,PASS,no edge,POR,PHI,DraftKings,-158.0,14:54,27.7,4.67,0.504,0.527,0.024,0.573,7.0,0.612,-17.8,-4.35,-6.9,-4.0,,,,0.0
+2026-11-23,Jrue Holiday,fg3m,1.5,over,PASS,no edge,POR,PHI,DraftKings,-171.0,14:54,27.7,2.12,0.62,0.597,0.024,0.613,4.0,0.631,-1.7,-0.42,0.8,-1.8,,,,0.0
+2026-11-23,Jrue Holiday,fg3m,1.5,under,PASS,no edge,POR,PHI,DraftKings,130.0,14:54,27.7,2.12,0.38,0.403,0.024,0.387,4.0,0.435,-12.7,-2.21,-0.8,-4.8,,,,0.0
+2026-11-23,Jrue Holiday,pra,21.5,over,PASS,no edge,POR,PHI,DraftKings,-117.0,14:54,27.7,22.68,0.547,0.523,0.024,0.5,5.0,0.539,1.5,0.32,4.7,-3.9,,,,0.0
+2026-11-23,Jrue Holiday,pra,21.5,under,PASS,no edge,POR,PHI,DraftKings,-112.0,14:54,27.7,22.68,0.453,0.477,0.024,0.5,5.0,0.528,-14.3,-3.02,-4.7,-2.8,,,,0.0
+2026-11-23,Jrue Holiday,pts,12.5,over,PASS,no edge,POR,PHI,DraftKings,-124.0,14:54,27.7,13.75,0.564,0.541,0.024,0.512,7.0,0.554,2.0,0.44,5.2,-4.1,,,,0.0
+2026-11-23,Jrue Holiday,pts,12.5,under,PASS,no edge,POR,PHI,DraftKings,-102.0,14:54,27.7,13.75,0.436,0.459,0.024,0.488,7.0,0.505,-13.7,-2.78,-5.2,-1.7,,,,0.0
+2026-11-23,Jrue Holiday,reb,4.5,over,PASS,no edge,POR,PHI,DraftKings,108.0,14:54,27.7,4.27,0.433,0.409,0.024,0.437,7.0,0.481,-10.0,-1.93,-0.4,-4.4,,,,0.0
+2026-11-23,Jrue Holiday,reb,4.5,under,PASS,no edge,POR,PHI,DraftKings,-143.0,14:54,27.7,4.27,0.567,0.591,0.024,0.563,7.0,0.588,-3.6,-0.84,0.4,-2.5,,,,0.0
+2026-11-23,Julian Champagnie,fg3m,2.5,over,PASS,no edge,SAS,SAC,DraftKings,-174.0,14:54,28.4,2.46,0.459,0.435,0.024,0.583,5.0,0.635,-27.7,-7.04,-12.4,-5.2,,,,0.0
+2026-11-23,Julian Champagnie,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,131.0,14:54,28.4,2.46,0.541,0.565,0.024,0.417,5.0,0.433,25.0,4.32,12.4,-1.6,0.435,0.25,,0.0
+2026-11-23,Julian Champagnie,pts,13.5,over,PASS,no edge,SAS,SAC,DraftKings,-106.0,14:54,28.4,11.34,0.335,0.311,0.024,0.479,2.0,0.515,-34.8,-7.17,-14.4,-3.5,,,,0.0
+2026-11-23,Julian Champagnie,pts,13.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-121.0,14:54,28.4,11.34,0.665,0.689,0.024,0.521,2.0,0.548,21.4,4.69,14.4,-2.7,0.564,1.61,,0.0
+2026-11-23,Julius Randle,ast,4.5,over,PASS,no edge,BKN,MIN,DraftKings,-111.0,14:54,31.3,4.13,0.416,0.392,0.024,0.5,7.0,0.526,-20.9,-4.39,-8.4,-2.6,,,,0.0
+2026-11-23,Julius Randle,ast,4.5,under,WATCH,edge below the Rules §3 bar,BKN,MIN,DraftKings,-118.0,14:54,31.3,4.13,0.584,0.608,0.024,0.5,7.0,0.541,7.8,1.7,8.4,-4.1,0.538,-0.32,,0.0
+2026-11-23,Julius Randle,fg3m,1.5,over,PASS,no edge,BKN,MIN,DraftKings,111.0,14:54,31.3,1.31,0.396,0.372,0.024,0.446,8.0,0.474,-16.5,-3.13,-5.0,-2.8,,,,0.0
+2026-11-23,Julius Randle,fg3m,1.5,under,PASS,no edge,BKN,MIN,DraftKings,-146.0,14:54,31.3,1.31,0.604,0.628,0.024,0.554,8.0,0.593,1.8,0.44,5.0,-3.9,,,,0.0
+2026-11-23,Julius Randle,pra,31.5,over,PASS,no edge,BKN,MIN,DraftKings,-110.0,14:54,31.3,27.69,0.34,0.316,0.024,0.497,6.0,0.524,-35.0,-7.34,-15.7,-2.6,,,,0.0
+2026-11-23,Julius Randle,pra,31.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-120.0,14:54,31.3,27.69,0.66,0.684,0.024,0.503,6.0,0.545,20.9,4.57,15.7,-4.3,0.551,0.52,,0.0
+2026-11-23,Julius Randle,pts,20.5,over,PASS,no edge,BKN,MIN,DraftKings,-107.0,14:54,31.3,17.63,0.339,0.315,0.024,0.49,6.0,0.517,-34.4,-7.12,-15.1,-2.7,,,,0.0
+2026-11-23,Julius Randle,pts,20.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-119.0,14:54,31.3,17.63,0.661,0.685,0.024,0.51,6.0,0.543,21.7,4.71,15.1,-3.3,0.552,0.84,,0.0
+2026-11-23,Julius Randle,reb,6.5,over,PASS,no edge,BKN,MIN,DraftKings,111.0,14:54,31.3,5.93,0.406,0.382,0.024,0.438,6.0,0.474,-14.4,-2.74,-3.3,-3.6,,,,0.0
+2026-11-23,Julius Randle,reb,6.5,under,PASS,no edge,BKN,MIN,DraftKings,-147.0,14:54,31.3,5.93,0.594,0.618,0.024,0.562,6.0,0.595,-0.1,-0.03,3.3,-3.3,,,,0.0
+2026-11-23,Keaton Wagler,fg3m,0.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAC,HOU,DraftKings,-205.0,14:54,22.4,1.58,0.791,0.768,0.024,0.625,2.0,0.672,17.7,4.77,16.6,-4.7,0.669,-0.35,,0.0
+2026-11-23,Keaton Wagler,fg3m,0.5,under,PASS,no edge,LAC,HOU,DraftKings,154.0,14:54,22.4,1.58,0.209,0.232,0.024,0.375,2.0,0.394,-47.0,-7.41,-16.6,-1.9,,,,0.0
+2026-11-23,Keaton Wagler,pra,13.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAC,HOU,DraftKings,-105.0,14:54,22.4,17.87,0.726,0.702,0.024,0.484,4.0,0.512,41.7,8.54,24.2,-2.9,0.542,3.02,,0.0
+2026-11-23,Keaton Wagler,pra,13.5,under,PASS,no edge,LAC,HOU,DraftKings,-125.0,14:54,22.4,17.87,0.274,0.298,0.024,0.516,4.0,0.556,-50.6,-11.25,-24.2,-3.9,,,,0.0
+2026-11-23,Keaton Wagler,pts,8.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAC,HOU,DraftKings,-107.0,14:54,22.4,11.29,0.678,0.654,0.024,0.49,7.0,0.517,31.1,6.43,18.8,-2.7,0.538,2.1,,0.0
+2026-11-23,Keaton Wagler,pts,8.5,under,PASS,no edge,LAC,HOU,DraftKings,-119.0,14:54,22.4,11.29,0.322,0.346,0.024,0.51,7.0,0.543,-40.7,-8.84,-18.8,-3.3,,,,0.0
+2026-11-23,Keaton Wagler,reb,2.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAC,HOU,DraftKings,102.0,14:54,22.4,3.75,0.663,0.639,0.024,0.471,5.0,0.495,34.0,6.73,19.2,-2.4,0.521,2.65,,0.0
+2026-11-23,Keaton Wagler,reb,2.5,under,PASS,no edge,LAC,HOU,DraftKings,-134.0,14:54,22.4,3.75,0.337,0.361,0.024,0.529,5.0,0.573,-41.2,-9.43,-19.2,-4.4,,,,0.0
+2026-11-23,Keegan Murray,ast,1.5,over,PASS,no edge,SAC,SAS,DraftKings,-112.0,14:54,30.4,1.75,0.507,0.483,0.024,0.487,4.0,0.528,-4.1,-0.87,2.0,-4.2,,,,0.0
+2026-11-23,Keegan Murray,ast,1.5,under,PASS,no edge,SAC,SAS,DraftKings,-117.0,14:54,30.4,1.75,0.493,0.517,0.024,0.513,4.0,0.539,-8.5,-1.83,-2.0,-2.6,,,,0.0
+2026-11-23,Keegan Murray,fg3m,1.5,over,PASS,no edge,SAC,SAS,DraftKings,102.0,14:54,30.4,1.3,0.391,0.367,0.024,0.468,7.0,0.495,-21.0,-4.16,-7.7,-2.7,,,,0.0
+2026-11-23,Keegan Murray,fg3m,1.5,under,PASS,no edge,SAC,SAS,DraftKings,-134.0,14:54,30.4,1.3,0.609,0.633,0.024,0.532,7.0,0.573,6.3,1.45,7.7,-4.0,,,,0.0
+2026-11-23,Keegan Murray,pra,19.5,over,PASS,no edge,SAC,SAS,DraftKings,-125.0,14:54,30.4,18.12,0.415,0.391,0.024,0.503,5.0,0.556,-25.3,-5.62,-8.8,-5.2,,,,0.0
+2026-11-23,Keegan Murray,pra,19.5,under,WATCH,edge below the Rules §3 bar,SAC,SAS,DraftKings,-105.0,14:54,30.4,18.12,0.585,0.609,0.024,0.497,5.0,0.512,14.2,2.91,8.8,-1.5,0.522,0.97,,0.0
+2026-11-23,Keegan Murray,pts,12.5,over,PASS,no edge,SAC,SAS,DraftKings,-122.0,14:54,30.4,11.51,0.411,0.387,0.024,0.514,7.0,0.55,-25.3,-5.55,-10.3,-3.5,,,,0.0
+2026-11-23,Keegan Murray,pts,12.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAC,SAS,DraftKings,-105.0,14:54,30.4,11.51,0.589,0.613,0.024,0.486,7.0,0.512,15.0,3.08,10.3,-2.6,0.52,0.81,,0.0
+2026-11-23,Keegan Murray,reb,5.5,over,PASS,no edge,SAC,SAS,DraftKings,103.0,14:54,30.4,4.86,0.387,0.363,0.024,0.446,6.0,0.493,-21.5,-4.24,-5.9,-4.7,,,,0.0
+2026-11-23,Keegan Murray,reb,5.5,under,PASS,no edge,SAC,SAS,DraftKings,-136.0,14:54,30.4,4.86,0.613,0.637,0.024,0.554,6.0,0.576,6.4,1.48,5.9,-2.2,,,,0.0
+2026-11-23,Kelly Oubre Jr.,fg3m,1.5,over,PASS,no edge,IND,OKC,DraftKings,-116.0,14:54,27.4,1.36,0.409,0.385,0.024,0.469,7.0,0.537,-23.9,-5.14,-6.1,-6.8,,,,0.0
+2026-11-23,Kelly Oubre Jr.,fg3m,1.5,under,WATCH,edge below the Rules §3 bar,IND,OKC,DraftKings,-114.0,14:54,27.4,1.36,0.591,0.615,0.024,0.531,7.0,0.533,11.0,2.35,6.1,-0.2,0.552,1.94,,0.0
+2026-11-23,Kelly Oubre Jr.,pts,13.5,over,PASS,no edge,IND,OKC,DraftKings,-109.0,14:54,27.4,12.1,0.386,0.362,0.024,0.505,6.0,0.522,-26.0,-5.43,-11.9,-1.7,,,,0.0
+2026-11-23,Kelly Oubre Jr.,pts,13.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",IND,OKC,DraftKings,-117.0,14:54,27.4,12.1,0.614,0.638,0.024,0.495,6.0,0.539,13.9,3.0,11.9,-4.4,0.521,-1.83,,0.0
+2026-11-23,Kelly Oubre Jr.,reb,3.5,over,PASS,no edge,IND,OKC,DraftKings,-134.0,14:54,27.4,4.31,0.588,0.565,0.024,0.57,3.0,0.573,2.8,0.63,1.8,-0.3,,,,0.0
+2026-11-23,Kelly Oubre Jr.,reb,3.5,under,PASS,no edge,IND,OKC,DraftKings,102.0,14:54,27.4,4.31,0.412,0.435,0.024,0.43,3.0,0.495,-16.9,-3.34,-1.8,-6.5,,,,0.0
+2026-11-23,Kevin Durant,ast,3.5,over,PASS,no edge,HOU,LAC,DraftKings,-136.0,14:54,31.0,4.0,0.553,0.529,0.024,0.553,7.0,0.576,-4.1,-0.95,-0.0,-2.3,,,,0.0
+2026-11-23,Kevin Durant,ast,3.5,under,PASS,no edge,HOU,LAC,DraftKings,103.0,14:54,31.0,4.0,0.447,0.471,0.024,0.447,7.0,0.493,-9.2,-1.81,0.0,-4.6,,,,0.0
+2026-11-23,Kevin Durant,fg3m,1.5,over,PASS,no edge,HOU,LAC,DraftKings,-122.0,14:54,31.0,1.74,0.526,0.502,0.024,0.494,7.0,0.55,-4.3,-0.94,3.2,-5.6,,,,0.0
+2026-11-23,Kevin Durant,fg3m,1.5,under,PASS,no edge,HOU,LAC,DraftKings,-107.0,14:54,31.0,1.74,0.474,0.498,0.024,0.506,7.0,0.517,-8.3,-1.72,-3.2,-1.1,,,,0.0
+2026-11-23,Kevin Durant,pra,30.5,over,PASS,no edge,HOU,LAC,DraftKings,-110.0,14:54,31.0,29.62,0.457,0.433,0.024,0.498,6.0,0.524,-12.7,-2.67,-4.1,-2.6,,,,0.0
+2026-11-23,Kevin Durant,pra,30.5,under,PASS,no edge,HOU,LAC,DraftKings,-119.0,14:54,31.0,29.62,0.543,0.567,0.024,0.502,6.0,0.543,-0.1,-0.02,4.1,-4.1,,,,0.0
+2026-11-23,Kevin Durant,pts,21.5,over,PASS,no edge,HOU,LAC,DraftKings,-102.0,14:54,31.0,20.87,0.455,0.431,0.024,0.494,5.0,0.505,-9.9,-2.01,-3.9,-1.1,,,,0.0
+2026-11-23,Kevin Durant,pts,21.5,under,PASS,no edge,HOU,LAC,DraftKings,-125.0,14:54,31.0,20.87,0.545,0.569,0.024,0.506,5.0,0.556,-1.9,-0.41,3.9,-4.9,,,,0.0
+2026-11-23,Kevin Durant,reb,5.5,over,PASS,no edge,HOU,LAC,DraftKings,112.0,14:54,31.0,4.75,0.375,0.351,0.024,0.423,5.0,0.472,-20.5,-3.87,-4.8,-4.8,,,,0.0
+2026-11-23,Kevin Durant,reb,5.5,under,PASS,no edge,HOU,LAC,DraftKings,-148.0,14:54,31.0,4.75,0.625,0.649,0.024,0.577,5.0,0.597,4.7,1.13,4.8,-2.0,,,,0.0
+2026-11-23,Keyonte George,ast,6.5,over,PASS,no edge,UTA,LAL,DraftKings,-152.0,14:54,31.7,5.74,0.385,0.361,0.024,0.589,3.0,0.603,-36.1,-8.71,-20.3,-1.4,,,,0.0
+2026-11-23,Keyonte George,ast,6.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,115.0,14:54,31.7,5.74,0.615,0.639,0.024,0.411,3.0,0.465,32.1,5.98,20.3,-5.4,0.465,0.03,,0.0
+2026-11-23,Keyonte George,fg3m,2.5,over,PASS,no edge,UTA,LAL,DraftKings,118.0,14:54,31.7,2.06,0.36,0.337,0.024,0.449,7.0,0.459,-21.4,-3.93,-8.8,-1.0,,,,0.0
+2026-11-23,Keyonte George,fg3m,2.5,under,PASS,no edge,UTA,LAL,DraftKings,-155.0,14:54,31.7,2.06,0.64,0.663,0.024,0.551,7.0,0.608,5.2,1.27,8.8,-5.7,,,,0.0
+2026-11-23,Keyonte George,pra,33.5,over,PASS,no edge,UTA,LAL,DraftKings,-118.0,14:54,31.7,29.32,0.332,0.308,0.024,0.484,4.0,0.541,-38.7,-8.38,-15.3,-5.7,,,,0.0
+2026-11-23,Keyonte George,pra,33.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-111.0,14:54,31.7,29.32,0.668,0.692,0.024,0.516,4.0,0.526,27.0,5.69,15.3,-1.0,0.557,3.12,,0.0
+2026-11-23,Keyonte George,pts,22.5,over,PASS,no edge,UTA,LAL,DraftKings,-109.0,14:54,31.7,19.82,0.353,0.329,0.024,0.487,3.0,0.522,-32.3,-6.75,-13.4,-3.5,,,,0.0
+2026-11-23,Keyonte George,pts,22.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",UTA,LAL,DraftKings,-116.0,14:54,31.7,19.82,0.647,0.671,0.024,0.513,3.0,0.537,20.5,4.41,13.4,-2.4,0.55,1.27,,0.0
+2026-11-23,Keyonte George,reb,3.5,over,PASS,no edge,UTA,LAL,DraftKings,-141.0,14:54,31.7,3.77,0.507,0.483,0.024,0.51,7.0,0.585,-13.3,-3.11,-0.3,-7.5,,,,0.0
+2026-11-23,Keyonte George,reb,3.5,under,PASS,no edge,UTA,LAL,DraftKings,107.0,14:54,31.7,3.77,0.493,0.517,0.024,0.49,7.0,0.483,2.0,0.39,0.3,0.7,,,,0.0
+2026-11-23,Kyle Kuzma,ast,2.5,over,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,142.0,14:54,27.4,2.51,0.457,0.433,0.024,0.391,3.0,0.413,10.6,1.74,6.6,-2.2,0.413,-0.01,,0.0
+2026-11-23,Kyle Kuzma,ast,2.5,under,PASS,no edge,MIL,TOR,DraftKings,-189.0,14:54,27.4,2.51,0.543,0.567,0.024,0.609,3.0,0.654,-16.9,-4.43,-6.6,-4.5,,,,0.0
+2026-11-23,Kyle Kuzma,fg3m,1.5,over,PASS,no edge,MIL,TOR,DraftKings,113.0,14:54,27.4,1.43,0.431,0.407,0.024,0.479,6.0,0.469,-8.2,-1.53,-4.8,1.0,,,,0.0
+2026-11-23,Kyle Kuzma,fg3m,1.5,under,PASS,no edge,MIL,TOR,DraftKings,-149.0,14:54,27.4,1.43,0.569,0.593,0.024,0.521,6.0,0.598,-4.9,-1.18,4.8,-7.8,,,,0.0
+2026-11-23,Kyle Kuzma,pra,18.5,over,PASS,no edge,MIL,TOR,DraftKings,-105.0,14:54,27.4,19.2,0.526,0.502,0.024,0.48,3.0,0.512,2.8,0.57,4.7,-3.2,,,,0.0
+2026-11-23,Kyle Kuzma,pra,18.5,under,PASS,no edge,MIL,TOR,DraftKings,-125.0,14:54,27.4,19.2,0.474,0.498,0.024,0.52,3.0,0.556,-14.7,-3.28,-4.7,-3.5,,,,0.0
+2026-11-23,Kyle Kuzma,pts,11.5,over,PASS,no edge,MIL,TOR,DraftKings,-107.0,14:54,27.4,11.89,0.505,0.481,0.024,0.493,8.0,0.517,-2.3,-0.47,1.2,-2.4,,,,0.0
+2026-11-23,Kyle Kuzma,pts,11.5,under,PASS,no edge,MIL,TOR,DraftKings,-119.0,14:54,27.4,11.89,0.495,0.519,0.024,0.507,8.0,0.543,-9.0,-1.95,-1.2,-3.6,,,,0.0
+2026-11-23,Kyle Kuzma,reb,4.5,over,PASS,no edge,MIL,TOR,DraftKings,-105.0,14:54,27.4,4.8,0.51,0.486,0.024,0.482,7.0,0.512,-0.4,-0.08,2.8,-3.0,,,,0.0
+2026-11-23,Kyle Kuzma,reb,4.5,under,PASS,no edge,MIL,TOR,DraftKings,-126.0,14:54,27.4,4.8,0.49,0.514,0.024,0.518,7.0,0.558,-12.1,-2.71,-2.8,-4.0,,,,0.0
+2026-11-23,LaMelo Ball,ast,5.5,over,PASS,no edge,MIN,BKN,DraftKings,-142.0,14:54,26.8,5.52,0.482,0.458,0.024,0.55,1.0,0.587,-17.9,-4.19,-6.8,-3.7,,,,0.0
+2026-11-23,LaMelo Ball,ast,5.5,under,PASS,no edge,MIN,BKN,DraftKings,108.0,14:54,26.8,5.52,0.518,0.542,0.024,0.45,1.0,0.481,7.7,1.49,6.8,-3.0,,,,0.0
+2026-11-23,LaMelo Ball,fg3m,3.5,over,PASS,no edge,MIN,BKN,DraftKings,-106.0,14:54,26.8,3.01,0.376,0.352,0.024,0.494,7.0,0.515,-27.0,-5.56,-11.8,-2.1,,,,0.0
+2026-11-23,LaMelo Ball,fg3m,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-125.0,14:54,26.8,3.01,0.624,0.648,0.024,0.506,7.0,0.556,12.4,2.75,11.8,-4.9,0.544,-1.13,,0.0
+2026-11-23,LaMelo Ball,pra,30.5,over,PASS,no edge,MIN,BKN,DraftKings,-110.0,14:54,26.8,26.38,0.327,0.303,0.024,0.5,6.0,0.524,-37.7,-7.89,-17.3,-2.4,,,,0.0
+2026-11-23,LaMelo Ball,pra,30.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-119.0,14:54,26.8,26.38,0.673,0.697,0.024,0.5,6.0,0.543,23.9,5.2,17.3,-4.3,0.541,-0.19,,0.0
+2026-11-23,LaMelo Ball,pts,18.5,over,PASS,no edge,MIN,BKN,DraftKings,-122.0,14:54,26.8,16.46,0.371,0.347,0.024,0.5,7.0,0.55,-32.4,-7.13,-12.9,-5.0,,,,0.0
+2026-11-23,LaMelo Ball,pts,18.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-105.0,14:54,26.8,16.46,0.629,0.653,0.024,0.5,7.0,0.512,22.7,4.66,12.9,-1.2,0.53,1.79,,0.0
+2026-11-23,LaMelo Ball,reb,5.5,over,PASS,no edge,MIN,BKN,DraftKings,115.0,14:54,26.8,4.4,0.327,0.303,0.024,0.417,4.0,0.465,-29.7,-5.52,-9.0,-4.8,,,,0.0
+2026-11-23,LaMelo Ball,reb,5.5,under,WATCH,edge below the Rules §3 bar,MIN,BKN,DraftKings,-151.0,14:54,26.8,4.4,0.673,0.697,0.024,0.583,4.0,0.602,11.8,2.85,9.0,-1.9,0.611,0.89,,0.0
+2026-11-23,LeBron James,ast,6.5,over,PASS,no edge,PHI,POR,DraftKings,-120.0,14:54,30.9,5.76,0.387,0.363,0.024,0.495,7.0,0.545,-29.1,-6.35,-10.8,-5.1,,,,0.0
+2026-11-23,LeBron James,ast,6.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,-109.0,14:54,30.9,5.76,0.613,0.637,0.024,0.505,7.0,0.522,17.6,3.67,10.8,-1.6,0.538,1.66,,0.0
+2026-11-23,LeBron James,fg3m,1.5,over,PASS,no edge,PHI,POR,DraftKings,137.0,14:54,30.9,1.03,0.298,0.274,0.024,0.408,7.0,0.422,-29.3,-4.94,-11.0,-1.3,,,,0.0
+2026-11-23,LeBron James,fg3m,1.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,-182.0,14:54,30.9,1.03,0.702,0.726,0.024,0.592,7.0,0.645,8.7,2.25,11.0,-5.4,0.621,-2.48,,0.0
+2026-11-23,LeBron James,pra,29.5,over,PASS,no edge,PHI,POR,DraftKings,-118.0,14:54,30.9,27.29,0.399,0.375,0.024,0.494,6.0,0.541,-26.3,-5.69,-9.5,-4.7,,,,0.0
+2026-11-23,LeBron James,pra,29.5,under,WATCH,edge below the Rules §3 bar,PHI,POR,DraftKings,-112.0,14:54,30.9,27.29,0.601,0.625,0.024,0.506,6.0,0.528,13.8,2.91,9.5,-2.3,0.531,0.31,,0.0
+2026-11-23,LeBron James,pts,15.5,over,PASS,no edge,PHI,POR,DraftKings,-126.0,14:54,30.9,15.54,0.478,0.454,0.024,0.528,3.0,0.558,-14.2,-3.17,-4.9,-3.0,,,,0.0
+2026-11-23,LeBron James,pts,15.5,under,PASS,no edge,PHI,POR,DraftKings,-101.0,14:54,30.9,15.54,0.522,0.546,0.024,0.472,3.0,0.502,3.8,0.77,4.9,-3.0,,,,0.0
+2026-11-23,LeBron James,reb,6.5,over,PASS,no edge,PHI,POR,DraftKings,-114.0,14:54,30.9,5.99,0.413,0.389,0.024,0.48,7.0,0.533,-22.4,-4.78,-6.6,-5.3,,,,0.0
+2026-11-23,LeBron James,reb,6.5,under,WATCH,edge below the Rules §3 bar,PHI,POR,DraftKings,-116.0,14:54,30.9,5.99,0.587,0.611,0.024,0.52,7.0,0.537,9.3,1.99,6.6,-1.7,0.536,-0.09,,0.0
+2026-11-23,Luka Dončić,ast,7.5,over,PASS,no edge,LAL,UTA,DraftKings,-142.0,14:54,33.3,6.72,0.393,0.369,0.024,0.545,7.0,0.587,-33.0,-7.74,-15.1,-4.2,,,,0.0
+2026-11-23,Luka Dončić,ast,7.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,108.0,14:54,33.3,6.72,0.607,0.631,0.024,0.455,7.0,0.481,26.2,5.03,15.1,-2.5,0.499,1.79,,0.0
+2026-11-23,Luka Dončić,fg3m,4.5,over,PASS,no edge,LAL,UTA,DraftKings,-110.0,14:54,33.3,3.63,0.331,0.307,0.024,0.507,7.0,0.524,-36.8,-7.71,-17.6,-1.7,,,,0.0
+2026-11-23,Luka Dončić,fg3m,4.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-119.0,14:54,33.3,3.63,0.669,0.693,0.024,0.493,7.0,0.543,23.1,5.02,17.6,-5.0,0.536,-0.71,,0.0
+2026-11-23,Luka Dončić,pra,51.5,over,PASS,no edge,LAL,UTA,DraftKings,-115.0,14:54,33.3,42.49,0.243,0.219,0.024,0.494,4.0,0.535,-54.7,-11.69,-25.1,-4.1,,,,0.0
+2026-11-23,Luka Dončić,pra,51.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-114.0,14:54,33.3,42.49,0.757,0.781,0.024,0.506,4.0,0.533,42.2,8.99,25.1,-2.7,0.58,4.77,,0.0
+2026-11-23,Luka Dončić,pts,36.5,over,PASS,no edge,LAL,UTA,DraftKings,-106.0,14:54,33.3,29.22,0.24,0.216,0.024,0.475,4.0,0.515,-53.4,-10.99,-23.5,-4.0,,,,0.0
+2026-11-23,Luka Dončić,pts,36.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-120.0,14:54,33.3,29.22,0.76,0.784,0.024,0.525,4.0,0.545,39.3,8.58,23.5,-2.0,0.597,5.2,,0.0
+2026-11-23,Luka Dončić,reb,6.5,over,PASS,no edge,LAL,UTA,DraftKings,-145.0,14:54,33.3,6.54,0.478,0.454,0.024,0.517,6.0,0.592,-19.2,-4.55,-3.9,-7.5,,,,0.0
+2026-11-23,Luka Dončić,reb,6.5,under,WATCH,edge below the Rules §3 bar,LAL,UTA,DraftKings,110.0,14:54,33.3,6.54,0.522,0.546,0.024,0.483,6.0,0.476,9.6,1.83,3.9,0.7,0.496,1.98,,0.0
+2026-11-23,Marcus Smart,ast,1.5,over,PASS,no edge,HOU,LAC,DraftKings,-190.0,14:54,21.1,2.22,0.608,0.584,0.024,0.597,3.0,0.655,-7.2,-1.9,1.1,-5.9,,,,0.0
+2026-11-23,Marcus Smart,ast,1.5,under,PASS,no edge,HOU,LAC,DraftKings,143.0,14:54,21.1,2.22,0.392,0.416,0.024,0.403,3.0,0.412,-4.7,-0.77,-1.1,-0.8,,,,0.0
+2026-11-23,Marcus Smart,fg3m,0.5,over,PASS,no edge,HOU,LAC,DraftKings,-225.0,14:54,21.1,1.29,0.721,0.697,0.024,0.649,2.0,0.692,4.1,1.14,7.2,-4.4,,,,0.0
+2026-11-23,Marcus Smart,fg3m,0.5,under,PASS,no edge,HOU,LAC,DraftKings,169.0,14:54,21.1,1.29,0.279,0.303,0.024,0.351,2.0,0.372,-24.9,-3.7,-7.2,-2.0,,,,0.0
+2026-11-23,Marcus Smart,pra,10.5,over,PASS,no edge,HOU,LAC,DraftKings,-115.0,14:54,21.1,11.62,0.557,0.533,0.024,0.514,4.0,0.535,4.1,0.87,4.2,-2.1,,,,0.0
+2026-11-23,Marcus Smart,pra,10.5,under,PASS,no edge,HOU,LAC,DraftKings,-114.0,14:54,21.1,11.62,0.443,0.467,0.024,0.486,4.0,0.533,-16.8,-3.58,-4.2,-4.7,,,,0.0
+2026-11-23,Marcus Smart,pts,5.5,over,WATCH,edge below the Rules §3 bar,HOU,LAC,DraftKings,-135.0,14:54,21.1,7.16,0.623,0.6,0.024,0.542,1.0,0.574,8.5,1.96,8.1,-3.2,0.557,-1.78,,0.0
+2026-11-23,Marcus Smart,pts,5.5,under,PASS,no edge,HOU,LAC,DraftKings,106.0,14:54,21.1,7.16,0.377,0.4,0.024,0.458,1.0,0.485,-22.4,-4.35,-8.1,-2.7,,,,0.0
+2026-11-23,Matas Buzelis,fg3m,2.5,over,PASS,no edge,CHI,CLE,DraftKings,107.0,14:54,29.2,2.47,0.462,0.439,0.024,0.449,7.0,0.483,-4.3,-0.83,1.4,-3.4,,,,0.0
+2026-11-23,Matas Buzelis,fg3m,2.5,under,PASS,no edge,CHI,CLE,DraftKings,-140.0,14:54,29.2,2.47,0.538,0.561,0.024,0.551,7.0,0.583,-7.8,-1.83,-1.4,-3.2,,,,0.0
+2026-11-23,Matas Buzelis,pra,25.5,over,PASS,no edge,CHI,CLE,DraftKings,-110.0,14:54,29.2,25.39,0.488,0.464,0.024,0.488,1.0,0.524,-6.9,-1.44,0.0,-3.6,,,,0.0
+2026-11-23,Matas Buzelis,pra,25.5,under,PASS,no edge,CHI,CLE,DraftKings,-120.0,14:54,29.2,25.39,0.512,0.536,0.024,0.512,1.0,0.545,-6.1,-1.33,-0.0,-3.3,,,,0.0
+2026-11-23,Matas Buzelis,pts,17.5,over,PASS,no edge,CHI,CLE,DraftKings,-115.0,14:54,29.2,17.32,0.472,0.448,0.024,0.49,5.0,0.535,-11.8,-2.53,-1.8,-4.5,,,,0.0
+2026-11-23,Matas Buzelis,pts,17.5,under,PASS,no edge,CHI,CLE,DraftKings,-110.0,14:54,29.2,17.32,0.528,0.552,0.024,0.51,5.0,0.524,0.9,0.18,1.8,-1.4,,,,0.0
+2026-11-23,Matas Buzelis,reb,5.5,over,PASS,no edge,CHI,CLE,DraftKings,-103.0,14:54,29.2,5.7,0.495,0.471,0.024,0.454,7.0,0.507,-2.4,-0.49,4.1,-5.4,,,,0.0
+2026-11-23,Matas Buzelis,reb,5.5,under,PASS,no edge,CHI,CLE,DraftKings,-128.0,14:54,29.2,5.7,0.505,0.529,0.024,0.546,7.0,0.561,-10.1,-2.26,-4.1,-1.5,,,,0.0
+2026-11-23,Matisse Thybulle,fg3m,1.5,over,PASS,no edge,LAL,UTA,DraftKings,117.0,14:54,20.7,1.3,0.387,0.363,0.024,0.445,6.0,0.461,-16.0,-2.95,-5.8,-1.6,,,,0.0
+2026-11-23,Matisse Thybulle,fg3m,1.5,under,PASS,no edge,LAL,UTA,DraftKings,-154.0,14:54,20.7,1.3,0.613,0.637,0.024,0.555,6.0,0.606,1.1,0.26,5.8,-5.1,,,,0.0
+2026-11-23,Matisse Thybulle,pts,6.5,over,PASS,no edge,LAL,UTA,DraftKings,-118.0,14:54,20.7,6.6,0.47,0.446,0.024,0.514,7.0,0.541,-13.2,-2.86,-4.4,-2.7,,,,0.0
+2026-11-23,Matisse Thybulle,pts,6.5,under,PASS,no edge,LAL,UTA,DraftKings,-108.0,14:54,20.7,6.6,0.53,0.554,0.024,0.486,7.0,0.519,2.1,0.44,4.4,-3.3,,,,0.0
+2026-11-23,Matisse Thybulle,reb,2.5,over,PASS,no edge,LAL,UTA,DraftKings,107.0,14:54,20.7,2.39,0.424,0.4,0.024,0.447,5.0,0.483,-12.2,-2.36,-2.3,-3.6,,,,0.0
+2026-11-23,Matisse Thybulle,reb,2.5,under,PASS,no edge,LAL,UTA,DraftKings,-140.0,14:54,20.7,2.39,0.576,0.6,0.024,0.553,5.0,0.583,-1.3,-0.3,2.3,-3.1,,,,0.0
+2026-11-23,Meleek Thomas,fg3m,1.5,over,PASS,no edge,CLE,CHI,DraftKings,-127.0,14:54,19.5,1.54,0.461,0.437,0.024,0.52,7.0,0.559,-17.7,-3.95,-6.0,-3.9,,,,0.0
+2026-11-23,Meleek Thomas,fg3m,1.5,under,PASS,no edge,CLE,CHI,DraftKings,-103.0,14:54,19.5,1.54,0.539,0.563,0.024,0.48,7.0,0.507,6.3,1.28,6.0,-2.8,,,,0.0
+2026-11-23,Meleek Thomas,pra,14.5,over,PASS,no edge,CLE,CHI,DraftKings,-103.0,14:54,19.5,13.72,0.436,0.413,0.024,0.467,2.0,0.507,-14.0,-2.84,-3.1,-4.0,,,,0.0
+2026-11-23,Meleek Thomas,pra,14.5,under,PASS,no edge,CLE,CHI,DraftKings,-128.0,14:54,19.5,13.72,0.564,0.587,0.024,0.533,2.0,0.561,0.4,0.08,3.1,-2.9,,,,0.0
+2026-11-23,Meleek Thomas,pts,9.5,over,PASS,no edge,CLE,CHI,DraftKings,-108.0,14:54,19.5,9.67,0.482,0.458,0.024,0.474,5.0,0.519,-7.1,-1.48,0.8,-4.5,,,,0.0
+2026-11-23,Meleek Thomas,pts,9.5,under,PASS,no edge,CLE,CHI,DraftKings,-118.0,14:54,19.5,9.67,0.518,0.542,0.024,0.526,5.0,0.541,-4.3,-0.94,-0.8,-1.6,,,,0.0
+2026-11-23,Michael Porter Jr.,ast,1.5,over,PASS,no edge,BKN,MIN,DraftKings,-173.0,14:54,31.2,2.29,0.634,0.61,0.024,0.597,3.0,0.634,0.0,0.01,3.7,-3.7,,,,0.0
+2026-11-23,Michael Porter Jr.,ast,1.5,under,PASS,no edge,BKN,MIN,DraftKings,131.0,14:54,31.2,2.29,0.366,0.39,0.024,0.403,3.0,0.433,-15.4,-2.67,-3.7,-2.9,,,,0.0
+2026-11-23,Michael Porter Jr.,fg3m,2.5,over,PASS,no edge,BKN,MIN,DraftKings,-142.0,14:54,31.2,2.74,0.523,0.499,0.024,0.562,7.0,0.587,-10.9,-2.57,-4.0,-2.4,,,,0.0
+2026-11-23,Michael Porter Jr.,fg3m,2.5,under,PASS,no edge,BKN,MIN,DraftKings,107.0,14:54,31.2,2.74,0.477,0.501,0.024,0.438,7.0,0.483,-1.2,-0.23,4.0,-4.5,,,,0.0
+2026-11-23,Michael Porter Jr.,pra,28.5,over,PASS,no edge,BKN,MIN,DraftKings,-107.0,14:54,31.2,27.62,0.454,0.43,0.024,0.5,5.0,0.517,-12.3,-2.54,-4.6,-1.7,,,,0.0
+2026-11-23,Michael Porter Jr.,pra,28.5,under,PASS,no edge,BKN,MIN,DraftKings,-123.0,14:54,31.2,27.62,0.546,0.57,0.024,0.5,5.0,0.552,-0.9,-0.2,4.6,-5.2,,,,0.0
+2026-11-23,Michael Porter Jr.,pts,19.5,over,PASS,no edge,BKN,MIN,DraftKings,-111.0,14:54,31.2,18.9,0.457,0.433,0.024,0.52,3.0,0.526,-13.2,-2.77,-6.4,-0.6,,,,0.0
+2026-11-23,Michael Porter Jr.,pts,19.5,under,PASS,no edge,BKN,MIN,DraftKings,-115.0,14:54,31.2,18.9,0.543,0.567,0.024,0.48,3.0,0.535,1.6,0.34,6.4,-5.5,,,,0.0
+2026-11-23,Michael Porter Jr.,reb,6.5,over,PASS,no edge,BKN,MIN,DraftKings,-107.0,14:54,31.2,6.44,0.468,0.444,0.024,0.486,7.0,0.517,-9.5,-1.97,-1.8,-3.1,,,,0.0
+2026-11-23,Michael Porter Jr.,reb,6.5,under,PASS,no edge,BKN,MIN,DraftKings,-123.0,14:54,31.2,6.44,0.532,0.556,0.024,0.514,7.0,0.552,-3.5,-0.77,1.8,-3.7,,,,0.0
+2026-11-23,Mikel Brown Jr.,ast,3.5,over,PASS,no edge,BKN,MIN,DraftKings,-149.0,14:54,22.8,2.8,0.338,0.314,0.024,0.567,6.0,0.598,-43.5,-10.42,-22.9,-3.2,,,,0.0
+2026-11-23,Mikel Brown Jr.,ast,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,113.0,14:54,22.8,2.8,0.662,0.686,0.024,0.433,6.0,0.469,41.0,7.7,22.9,-3.6,0.496,2.66,,0.0
+2026-11-23,Mikel Brown Jr.,fg3m,1.5,over,PASS,no edge,BKN,MIN,DraftKings,-171.0,14:54,22.8,1.66,0.494,0.47,0.024,0.605,6.0,0.631,-21.7,-5.47,-11.0,-2.6,,,,0.0
+2026-11-23,Mikel Brown Jr.,fg3m,1.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,129.0,14:54,22.8,1.66,0.506,0.53,0.024,0.395,6.0,0.437,15.8,2.76,11.0,-4.1,0.419,-1.72,,0.0
+2026-11-23,Mikel Brown Jr.,pra,19.5,over,PASS,no edge,BKN,MIN,DraftKings,-117.0,14:54,22.8,15.18,0.262,0.239,0.024,0.5,5.0,0.539,-51.3,-11.07,-23.8,-3.9,,,,0.0
+2026-11-23,Mikel Brown Jr.,pra,19.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-112.0,14:54,22.8,15.18,0.738,0.761,0.024,0.5,5.0,0.528,39.6,8.37,23.8,-2.8,0.557,2.84,,0.0
+2026-11-23,Mikel Brown Jr.,pts,13.5,over,PASS,no edge,BKN,MIN,DraftKings,-107.0,14:54,22.8,10.03,0.256,0.232,0.024,0.488,5.0,0.517,-50.5,-10.45,-23.2,-2.9,,,,0.0
+2026-11-23,Mikel Brown Jr.,pts,13.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",BKN,MIN,DraftKings,-119.0,14:54,22.8,10.03,0.744,0.768,0.024,0.512,5.0,0.543,37.0,8.03,23.2,-3.1,0.567,2.37,,0.0
+2026-11-23,Mikel Brown Jr.,reb,2.5,over,PASS,no edge,BKN,MIN,DraftKings,140.0,14:54,22.8,2.35,0.419,0.395,0.024,0.394,4.0,0.417,0.5,0.08,2.4,-2.2,,,,0.0
+2026-11-23,Mikel Brown Jr.,reb,2.5,under,PASS,no edge,BKN,MIN,DraftKings,-186.0,14:54,22.8,2.35,0.581,0.605,0.024,0.606,4.0,0.65,-10.6,-2.76,-2.4,-4.5,,,,0.0
+2026-11-23,Miles Bridges,ast,2.5,over,PASS,no edge,PHX,NOP,DraftKings,-153.0,14:54,28.9,3.1,0.575,0.551,0.024,0.551,5.0,0.605,-4.9,-1.19,2.4,-5.4,,,,0.0
+2026-11-23,Miles Bridges,ast,2.5,under,PASS,no edge,PHX,NOP,DraftKings,116.0,14:54,28.9,3.1,0.425,0.449,0.024,0.449,5.0,0.463,-8.2,-1.52,-2.4,-1.4,,,,0.0
+2026-11-23,Miles Bridges,fg3m,1.5,over,PASS,no edge,PHX,NOP,DraftKings,-123.0,14:54,28.9,1.73,0.524,0.5,0.024,0.52,7.0,0.552,-5.0,-1.1,0.4,-3.1,,,,0.0
+2026-11-23,Miles Bridges,fg3m,1.5,under,PASS,no edge,PHX,NOP,DraftKings,-107.0,14:54,28.9,1.73,0.476,0.5,0.024,0.48,7.0,0.517,-7.9,-1.64,-0.4,-3.7,,,,0.0
+2026-11-23,Miles Bridges,pra,23.5,over,PASS,no edge,PHX,NOP,DraftKings,-113.0,14:54,28.9,24.41,0.53,0.506,0.024,0.49,5.0,0.531,-0.0,-0.01,4.0,-4.1,,,,0.0
+2026-11-23,Miles Bridges,pra,23.5,under,PASS,no edge,PHX,NOP,DraftKings,-117.0,14:54,28.9,24.41,0.47,0.494,0.024,0.51,5.0,0.539,-12.9,-2.78,-4.0,-2.9,,,,0.0
+2026-11-23,Miles Bridges,pts,14.5,over,PASS,no edge,PHX,NOP,DraftKings,-105.0,14:54,28.9,15.3,0.532,0.508,0.024,0.472,5.0,0.512,3.8,0.77,5.9,-4.0,,,,0.0
+2026-11-23,Miles Bridges,pts,14.5,under,PASS,no edge,PHX,NOP,DraftKings,-121.0,14:54,28.9,15.3,0.468,0.492,0.024,0.528,5.0,0.548,-14.4,-3.16,-5.9,-2.0,,,,0.0
+2026-11-23,Miles Bridges,reb,5.5,over,PASS,no edge,PHX,NOP,DraftKings,-146.0,14:54,28.9,6.01,0.536,0.512,0.024,0.556,1.0,0.593,-9.7,-2.31,-2.0,-3.7,,,,0.0
+2026-11-23,Miles Bridges,reb,5.5,under,PASS,no edge,PHX,NOP,DraftKings,111.0,14:54,28.9,6.01,0.464,0.488,0.024,0.444,1.0,0.474,-2.0,-0.38,2.0,-3.0,,,,0.0
+2026-11-23,Moritz Wagner,fg3m,0.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Moritz Wagner,pts,8.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Moritz Wagner,reb,3.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Moussa Diabaté,ast,1.5,over,PASS,no edge,CHA,MEM,DraftKings,-174.0,14:54,28.0,2.14,0.594,0.57,0.024,0.592,2.0,0.635,-6.4,-1.63,0.2,-4.3,,,,0.0
+2026-11-23,Moussa Diabaté,ast,1.5,under,PASS,no edge,CHA,MEM,DraftKings,131.0,14:54,28.0,2.14,0.406,0.43,0.024,0.408,2.0,0.433,-6.3,-1.09,-0.2,-2.5,,,,0.0
+2026-11-23,Moussa Diabaté,pra,21.5,over,PASS,no edge,CHA,MEM,DraftKings,-106.0,14:54,28.0,19.71,0.399,0.375,0.024,0.476,2.0,0.515,-22.5,-4.64,-7.7,-3.9,,,,0.0
+2026-11-23,Moussa Diabaté,pra,21.5,under,WATCH,edge below the Rules §3 bar,CHA,MEM,DraftKings,-125.0,14:54,28.0,19.71,0.601,0.625,0.024,0.524,2.0,0.556,8.3,1.83,7.7,-3.1,0.548,-0.76,,0.0
+2026-11-23,Moussa Diabaté,pts,8.5,over,PASS,no edge,CHA,MEM,DraftKings,-120.0,14:54,28.0,8.75,0.491,0.467,0.024,0.52,6.0,0.545,-10.0,-2.19,-3.0,-2.5,,,,0.0
+2026-11-23,Moussa Diabaté,pts,8.5,under,PASS,no edge,CHA,MEM,DraftKings,-106.0,14:54,28.0,8.75,0.509,0.533,0.024,0.48,6.0,0.515,-1.0,-0.21,3.0,-3.5,,,,0.0
+2026-11-23,Moussa Diabaté,reb,9.5,over,PASS,no edge,CHA,MEM,DraftKings,-142.0,14:54,28.0,8.81,0.421,0.397,0.024,0.538,6.0,0.587,-28.3,-6.65,-11.8,-4.8,,,,0.0
+2026-11-23,Moussa Diabaté,reb,9.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,108.0,14:54,28.0,8.81,0.579,0.603,0.024,0.462,6.0,0.481,20.5,3.95,11.8,-1.9,0.501,2.06,,0.0
+2026-11-23,Myles Turner,fg3m,1.5,over,PASS,no edge,MIL,TOR,DraftKings,106.0,14:54,26.8,1.64,0.493,0.469,0.024,0.456,7.0,0.485,1.5,0.29,3.7,-2.9,,,,0.0
+2026-11-23,Myles Turner,fg3m,1.5,under,PASS,no edge,MIL,TOR,DraftKings,-139.0,14:54,26.8,1.64,0.507,0.531,0.024,0.544,7.0,0.582,-12.8,-2.97,-3.7,-3.8,,,,0.0
+2026-11-23,Myles Turner,pts,7.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIL,TOR,DraftKings,-122.0,14:54,26.8,9.49,0.632,0.608,0.024,0.5,7.0,0.55,15.0,3.31,13.2,-5.0,0.531,-1.87,,0.0
+2026-11-23,Myles Turner,pts,7.5,under,PASS,no edge,MIL,TOR,DraftKings,-104.0,14:54,26.8,9.49,0.368,0.392,0.024,0.5,7.0,0.51,-27.8,-5.68,-13.2,-1.0,,,,0.0
+2026-11-23,Myles Turner,reb,5.5,over,PASS,no edge,MIL,TOR,DraftKings,105.0,14:54,26.8,5.35,0.454,0.43,0.024,0.447,7.0,0.488,-6.9,-1.35,0.7,-4.1,,,,0.0
+2026-11-23,Myles Turner,reb,5.5,under,PASS,no edge,MIL,TOR,DraftKings,-138.0,14:54,26.8,5.35,0.546,0.57,0.024,0.553,7.0,0.58,-5.8,-1.35,-0.7,-2.7,,,,0.0
+2026-11-23,Naz Reid,ast,2.5,over,PASS,no edge,CHA,MEM,DraftKings,-120.0,14:54,29.6,2.38,0.431,0.407,0.024,0.526,5.0,0.545,-21.0,-4.59,-9.5,-2.0,,,,0.0
+2026-11-23,Naz Reid,ast,2.5,under,WATCH,edge below the Rules §3 bar,CHA,MEM,DraftKings,-110.0,14:54,29.6,2.38,0.569,0.593,0.024,0.474,5.0,0.524,8.7,1.82,9.5,-4.9,0.506,-1.78,,0.0
+2026-11-23,Naz Reid,fg3m,2.5,over,PASS,no edge,CHA,MEM,DraftKings,-101.0,14:54,29.6,2.28,0.417,0.393,0.024,0.476,7.0,0.502,-17.0,-3.42,-5.9,-2.7,,,,0.0
+2026-11-23,Naz Reid,fg3m,2.5,under,PASS,no edge,CHA,MEM,DraftKings,-131.0,14:54,29.6,2.28,0.583,0.607,0.024,0.524,7.0,0.567,2.8,0.63,5.9,-4.3,,,,0.0
+2026-11-23,Naz Reid,pra,30.5,over,PASS,no edge,CHA,MEM,DraftKings,-113.0,14:54,29.6,24.53,0.254,0.23,0.024,0.49,3.0,0.531,-52.2,-11.07,-23.6,-4.1,,,,0.0
+2026-11-23,Naz Reid,pra,30.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-116.0,14:54,29.6,24.53,0.746,0.77,0.024,0.51,3.0,0.537,38.9,8.37,23.6,-2.7,0.577,3.96,,0.0
+2026-11-23,Naz Reid,pts,18.5,over,PASS,no edge,CHA,MEM,DraftKings,-124.0,14:54,29.6,15.25,0.306,0.282,0.024,0.52,5.0,0.554,-44.7,-9.9,-21.4,-3.3,,,,0.0
+2026-11-23,Naz Reid,pts,18.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-103.0,14:54,29.6,15.25,0.694,0.718,0.024,0.48,5.0,0.507,36.8,7.46,21.4,-2.8,0.534,2.66,,0.0
+2026-11-23,Naz Reid,reb,8.5,over,PASS,no edge,CHA,MEM,DraftKings,-111.0,14:54,29.6,6.89,0.317,0.293,0.024,0.457,4.0,0.526,-39.7,-8.35,-14.0,-6.9,,,,0.0
+2026-11-23,Naz Reid,reb,8.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-119.0,14:54,29.6,6.89,0.683,0.707,0.024,0.543,4.0,0.543,25.6,5.57,14.0,-0.1,0.577,3.37,,0.0
+2026-11-23,Oso Ighodaro,ast,2.5,over,PASS,no edge,PHX,NOP,DraftKings,-158.0,14:54,23.4,2.69,0.497,0.473,0.024,0.583,3.0,0.612,-18.9,-4.62,-8.7,-2.9,,,,0.0
+2026-11-23,Oso Ighodaro,ast,2.5,under,WATCH,edge below the Rules §3 bar,PHX,NOP,DraftKings,119.0,14:54,23.4,2.69,0.503,0.527,0.024,0.417,3.0,0.457,10.2,1.86,8.7,-4.0,0.452,-0.42,,0.0
+2026-11-23,Oso Ighodaro,pra,16.5,over,PASS,no edge,PHX,NOP,DraftKings,-107.0,14:54,23.4,15.12,0.399,0.375,0.024,0.51,5.0,0.517,-22.8,-4.71,-11.1,-0.7,,,,0.0
+2026-11-23,Oso Ighodaro,pra,16.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHX,NOP,DraftKings,-123.0,14:54,23.4,15.12,0.601,0.625,0.024,0.49,5.0,0.552,8.9,1.97,11.1,-6.2,0.524,-2.79,,0.0
+2026-11-23,Oso Ighodaro,pts,7.5,over,PASS,no edge,PHX,NOP,DraftKings,-104.0,14:54,23.4,6.99,0.415,0.391,0.024,0.49,7.0,0.51,-18.6,-3.8,-7.5,-2.0,,,,0.0
+2026-11-23,Oso Ighodaro,pts,7.5,under,PASS,no edge,PHX,NOP,DraftKings,-123.0,14:54,23.4,6.99,0.585,0.609,0.024,0.51,7.0,0.552,6.1,1.35,7.5,-4.1,,,,0.0
+2026-11-23,Oso Ighodaro,reb,5.5,over,PASS,no edge,PHX,NOP,DraftKings,-138.0,14:54,23.4,5.44,0.459,0.435,0.024,0.554,5.0,0.58,-20.8,-4.83,-9.5,-2.6,,,,0.0
+2026-11-23,Oso Ighodaro,reb,5.5,under,WATCH,edge below the Rules §3 bar,PHX,NOP,DraftKings,105.0,14:54,23.4,5.44,0.541,0.565,0.024,0.446,5.0,0.488,10.9,2.12,9.5,-4.2,0.47,-1.78,,0.0
+2026-11-23,Pascal Siakam,ast,3.5,over,PASS,no edge,IND,OKC,DraftKings,102.0,14:54,32.5,3.51,0.466,0.442,0.024,0.444,7.0,0.495,-5.8,-1.15,2.3,-5.2,,,,0.0
+2026-11-23,Pascal Siakam,ast,3.5,under,PASS,no edge,IND,OKC,DraftKings,-134.0,14:54,32.5,3.51,0.534,0.558,0.024,0.556,7.0,0.573,-6.8,-1.56,-2.3,-1.6,,,,0.0
+2026-11-23,Pascal Siakam,fg3m,1.5,over,PASS,no edge,IND,OKC,DraftKings,-121.0,14:54,32.5,1.59,0.481,0.457,0.024,0.485,7.0,0.548,-12.2,-2.68,-0.5,-6.2,,,,0.0
+2026-11-23,Pascal Siakam,fg3m,1.5,under,PASS,no edge,IND,OKC,DraftKings,-109.0,14:54,32.5,1.59,0.519,0.543,0.024,0.515,7.0,0.522,-0.4,-0.08,0.5,-0.7,,,,0.0
+2026-11-23,Pascal Siakam,pra,30.5,over,PASS,no edge,IND,OKC,DraftKings,-124.0,14:54,32.5,31.12,0.517,0.493,0.024,0.518,1.0,0.554,-6.6,-1.46,-0.1,-3.5,,,,0.0
+2026-11-23,Pascal Siakam,pra,30.5,under,PASS,no edge,IND,OKC,DraftKings,-106.0,14:54,32.5,31.12,0.483,0.507,0.024,0.482,1.0,0.515,-6.1,-1.27,0.1,-3.3,,,,0.0
+2026-11-23,Pascal Siakam,pts,21.5,over,PASS,no edge,IND,OKC,DraftKings,-108.0,14:54,32.5,21.46,0.486,0.462,0.024,0.511,7.0,0.519,-6.4,-1.33,-2.5,-0.8,,,,0.0
+2026-11-23,Pascal Siakam,pts,21.5,under,PASS,no edge,IND,OKC,DraftKings,-118.0,14:54,32.5,21.46,0.514,0.538,0.024,0.489,7.0,0.541,-5.0,-1.09,2.5,-5.2,,,,0.0
+2026-11-23,Pascal Siakam,reb,5.5,over,PASS,no edge,IND,OKC,DraftKings,-134.0,14:54,32.5,6.15,0.557,0.533,0.024,0.554,7.0,0.573,-2.8,-0.63,0.3,-1.9,,,,0.0
+2026-11-23,Pascal Siakam,reb,5.5,under,PASS,no edge,IND,OKC,DraftKings,102.0,14:54,32.5,6.15,0.443,0.467,0.024,0.446,7.0,0.495,-10.5,-2.07,-0.3,-4.9,,,,0.0
+2026-11-23,Peyton Watson,ast,2.5,over,PASS,no edge,CLE,CHI,DraftKings,139.0,14:54,27.6,2.28,0.406,0.382,0.024,0.389,4.0,0.418,-2.9,-0.49,1.7,-2.9,,,,0.0
+2026-11-23,Peyton Watson,ast,2.5,under,PASS,no edge,CLE,CHI,DraftKings,-184.0,14:54,27.6,2.28,0.594,0.618,0.024,0.611,4.0,0.648,-8.3,-2.16,-1.7,-3.7,,,,0.0
+2026-11-23,Peyton Watson,fg3m,1.5,over,PASS,no edge,CLE,CHI,DraftKings,-102.0,14:54,27.6,1.3,0.387,0.363,0.024,0.469,7.0,0.505,-23.4,-4.72,-8.2,-3.6,,,,0.0
+2026-11-23,Peyton Watson,fg3m,1.5,under,WATCH,edge below the Rules §3 bar,CLE,CHI,DraftKings,-128.0,14:54,27.6,1.3,0.613,0.637,0.024,0.531,7.0,0.561,9.2,2.06,8.2,-3.1,0.561,-0.07,,0.0
+2026-11-23,Peyton Watson,pra,19.5,over,PASS,no edge,CLE,CHI,DraftKings,-113.0,14:54,27.6,19.67,0.498,0.474,0.024,0.492,4.0,0.531,-6.1,-1.29,0.6,-3.9,,,,0.0
+2026-11-23,Peyton Watson,pra,19.5,under,PASS,no edge,CLE,CHI,DraftKings,-116.0,14:54,27.6,19.67,0.502,0.526,0.024,0.508,4.0,0.537,-6.6,-1.41,-0.6,-2.9,,,,0.0
+2026-11-23,Peyton Watson,pts,12.5,over,PASS,no edge,CLE,CHI,DraftKings,-113.0,14:54,27.6,12.8,0.502,0.478,0.024,0.484,7.0,0.531,-5.4,-1.16,1.8,-4.7,,,,0.0
+2026-11-23,Peyton Watson,pts,12.5,under,PASS,no edge,CLE,CHI,DraftKings,-113.0,14:54,27.6,12.8,0.498,0.522,0.024,0.516,7.0,0.531,-6.1,-1.29,-1.8,-1.4,,,,0.0
+2026-11-23,Peyton Watson,reb,4.5,over,PASS,no edge,CLE,CHI,DraftKings,-114.0,14:54,27.6,4.58,0.48,0.456,0.024,0.5,7.0,0.533,-9.9,-2.11,-2.0,-3.3,,,,0.0
+2026-11-23,Peyton Watson,reb,4.5,under,PASS,no edge,CLE,CHI,DraftKings,-116.0,14:54,27.6,4.58,0.52,0.544,0.024,0.5,7.0,0.537,-3.2,-0.68,2.0,-3.7,,,,0.0
+2026-11-23,Quentin Grimes,ast,3.5,over,PASS,no edge,LAL,UTA,DraftKings,122.0,14:54,27.6,2.76,0.331,0.307,0.024,0.456,8.0,0.45,-26.6,-4.79,-12.5,0.5,,,,0.0
+2026-11-23,Quentin Grimes,ast,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-161.0,14:54,27.6,2.76,0.669,0.693,0.024,0.544,8.0,0.617,8.5,2.1,12.5,-7.3,0.59,-2.65,,0.0
+2026-11-23,Quentin Grimes,fg3m,2.5,over,PASS,no edge,LAL,UTA,DraftKings,146.0,14:54,27.6,1.54,0.236,0.212,0.024,0.389,7.0,0.407,-42.0,-6.83,-15.3,-1.8,,,,0.0
+2026-11-23,Quentin Grimes,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-194.0,14:54,27.6,1.54,0.764,0.788,0.024,0.611,7.0,0.66,15.8,4.18,15.3,-4.9,0.658,-0.21,,0.0
+2026-11-23,Quentin Grimes,pra,24.5,over,PASS,no edge,LAL,UTA,DraftKings,-120.0,14:54,27.6,18.36,0.221,0.197,0.024,0.495,5.0,0.545,-59.5,-12.97,-27.4,-5.1,,,,0.0
+2026-11-23,Quentin Grimes,pra,24.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-110.0,14:54,27.6,18.36,0.779,0.803,0.024,0.505,5.0,0.524,48.7,10.2,27.4,-1.9,0.59,6.57,,0.0
+2026-11-23,Quentin Grimes,pts,17.5,over,PASS,no edge,LAL,UTA,DraftKings,-102.0,14:54,27.6,12.14,0.202,0.178,0.024,0.476,1.0,0.505,-59.9,-12.11,-27.4,-2.9,,,,0.0
+2026-11-23,Quentin Grimes,pts,17.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-125.0,14:54,27.6,12.14,0.798,0.822,0.024,0.524,1.0,0.556,43.6,9.69,27.4,-3.2,0.594,3.86,,0.0
+2026-11-23,Quentin Grimes,reb,4.5,over,PASS,no edge,LAL,UTA,DraftKings,119.0,14:54,27.6,3.46,0.314,0.29,0.024,0.425,8.0,0.457,-31.3,-5.72,-11.1,-3.2,,,,0.0
+2026-11-23,Quentin Grimes,reb,4.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-157.0,14:54,27.6,3.46,0.686,0.71,0.024,0.575,8.0,0.611,12.4,3.02,11.1,-3.6,0.602,-0.93,,0.0
+2026-11-23,Reed Sheppard,fg3m,1.5,over,PASS,no edge,HOU,LAC,DraftKings,-145.0,14:54,19.8,2.0,0.585,0.562,0.024,0.574,6.0,0.592,-1.1,-0.25,1.2,-1.8,,,,0.0
+2026-11-23,Reed Sheppard,fg3m,1.5,under,PASS,no edge,HOU,LAC,DraftKings,110.0,14:54,19.8,2.0,0.415,0.438,0.024,0.426,6.0,0.476,-12.9,-2.47,-1.2,-5.0,,,,0.0
+2026-11-23,Reed Sheppard,pra,11.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",HOU,LAC,DraftKings,-125.0,14:54,19.8,14.36,0.652,0.628,0.024,0.516,3.0,0.556,17.3,3.85,13.5,-3.9,0.543,-1.28,,0.0
+2026-11-23,Reed Sheppard,pra,11.5,under,PASS,no edge,HOU,LAC,DraftKings,-106.0,14:54,19.8,14.36,0.348,0.372,0.024,0.484,3.0,0.515,-32.3,-6.66,-13.5,-3.1,,,,0.0
+2026-11-23,Reed Sheppard,pts,7.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",HOU,LAC,DraftKings,-129.0,14:54,19.8,9.7,0.636,0.612,0.024,0.531,5.0,0.563,12.9,2.9,10.5,-3.3,0.546,-1.74,,0.0
+2026-11-23,Reed Sheppard,pts,7.5,under,PASS,no edge,HOU,LAC,DraftKings,101.0,14:54,19.8,9.7,0.364,0.388,0.024,0.469,5.0,0.498,-26.8,-5.33,-10.5,-2.8,,,,0.0
+2026-11-23,Royce O'Neale,ast,1.5,over,PASS,no edge,CHA,MEM,DraftKings,107.0,14:54,22.1,1.68,0.485,0.461,0.024,0.472,3.0,0.483,0.3,0.06,1.2,-1.1,,,,0.0
+2026-11-23,Royce O'Neale,ast,1.5,under,PASS,no edge,CHA,MEM,DraftKings,-141.0,14:54,22.1,1.68,0.515,0.539,0.024,0.528,3.0,0.585,-11.9,-2.79,-1.2,-5.7,,,,0.0
+2026-11-23,Royce O'Neale,fg3m,1.5,over,PASS,no edge,CHA,MEM,DraftKings,-154.0,14:54,22.1,1.84,0.55,0.526,0.024,0.588,7.0,0.606,-9.3,-2.25,-3.8,-1.8,,,,0.0
+2026-11-23,Royce O'Neale,fg3m,1.5,under,PASS,no edge,CHA,MEM,DraftKings,116.0,14:54,22.1,1.84,0.45,0.474,0.024,0.412,7.0,0.463,-2.8,-0.52,3.8,-5.1,,,,0.0
+2026-11-23,Royce O'Neale,pts,7.5,over,PASS,no edge,CHA,MEM,DraftKings,-108.0,14:54,22.1,7.47,0.464,0.44,0.024,0.491,6.0,0.519,-10.7,-2.21,-2.7,-2.8,,,,0.0
+2026-11-23,Royce O'Neale,pts,7.5,under,PASS,no edge,CHA,MEM,DraftKings,-118.0,14:54,22.1,7.47,0.536,0.56,0.024,0.509,6.0,0.541,-1.0,-0.21,2.7,-3.2,,,,0.0
+2026-11-23,Royce O'Neale,reb,3.5,over,PASS,no edge,CHA,MEM,DraftKings,-122.0,14:54,22.1,3.51,0.458,0.434,0.024,0.495,5.0,0.55,-16.7,-3.68,-3.7,-5.5,,,,0.0
+2026-11-23,Royce O'Neale,reb,3.5,under,PASS,no edge,CHA,MEM,DraftKings,-108.0,14:54,22.1,3.51,0.542,0.566,0.024,0.505,5.0,0.519,4.5,0.93,3.7,-1.4,,,,0.0
+2026-11-23,Rudy Gobert,ast,1.5,over,PASS,no edge,MIN,BKN,DraftKings,100.0,14:54,27.9,1.59,0.461,0.437,0.024,0.465,3.0,0.5,-7.9,-1.57,-0.5,-3.5,,,,0.0
+2026-11-23,Rudy Gobert,ast,1.5,under,PASS,no edge,MIN,BKN,DraftKings,-132.0,14:54,27.9,1.59,0.539,0.563,0.024,0.535,3.0,0.569,-5.2,-1.19,0.5,-3.4,,,,0.0
+2026-11-23,Rudy Gobert,pra,21.5,over,PASS,no edge,MIN,BKN,DraftKings,-103.0,14:54,27.9,20.14,0.421,0.397,0.024,0.481,2.0,0.507,-17.0,-3.45,-6.0,-2.6,,,,0.0
+2026-11-23,Rudy Gobert,pra,21.5,under,PASS,no edge,MIN,BKN,DraftKings,-128.0,14:54,27.9,20.14,0.579,0.603,0.024,0.519,2.0,0.561,3.1,0.69,6.0,-4.3,,,,0.0
+2026-11-23,Rudy Gobert,pts,9.5,over,PASS,no edge,MIN,BKN,DraftKings,-104.0,14:54,27.9,8.77,0.413,0.389,0.024,0.472,6.0,0.51,-19.1,-3.89,-6.0,-3.7,,,,0.0
+2026-11-23,Rudy Gobert,pts,9.5,under,PASS,no edge,MIN,BKN,DraftKings,-123.0,14:54,27.9,8.77,0.587,0.611,0.024,0.528,6.0,0.552,6.5,1.43,6.0,-2.4,,,,0.0
+2026-11-23,Rudy Gobert,reb,9.5,over,PASS,no edge,MIN,BKN,DraftKings,-142.0,14:54,27.9,9.78,0.507,0.484,0.024,0.536,4.0,0.587,-13.5,-3.17,-2.9,-5.0,,,,0.0
+2026-11-23,Rudy Gobert,reb,9.5,under,PASS,no edge,MIN,BKN,DraftKings,108.0,14:54,27.9,9.78,0.493,0.516,0.024,0.464,4.0,0.481,2.5,0.47,2.9,-1.7,,,,0.0
+2026-11-23,Rui Hachimura,fg3m,1.5,over,PASS,no edge,LAC,HOU,DraftKings,-150.0,14:54,27.1,1.64,0.494,0.47,0.024,0.566,7.0,0.6,-17.7,-4.25,-7.2,-3.4,,,,0.0
+2026-11-23,Rui Hachimura,fg3m,1.5,under,WATCH,edge below the Rules §3 bar,LAC,HOU,DraftKings,114.0,14:54,27.1,1.64,0.506,0.53,0.024,0.434,7.0,0.467,8.4,1.56,7.2,-3.3,0.453,-1.48,,0.0
+2026-11-23,Rui Hachimura,pra,18.5,over,PASS,no edge,LAC,HOU,DraftKings,-117.0,14:54,27.1,17.88,0.45,0.426,0.024,0.495,3.0,0.539,-16.5,-3.57,-4.5,-4.4,,,,0.0
+2026-11-23,Rui Hachimura,pra,18.5,under,PASS,no edge,LAC,HOU,DraftKings,-112.0,14:54,27.1,17.88,0.55,0.574,0.024,0.505,3.0,0.528,4.1,0.87,4.5,-2.3,,,,0.0
+2026-11-23,Rui Hachimura,pts,12.5,over,PASS,no edge,LAC,HOU,DraftKings,-116.0,14:54,27.1,12.46,0.475,0.451,0.024,0.49,7.0,0.537,-11.6,-2.5,-1.5,-4.7,,,,0.0
+2026-11-23,Rui Hachimura,pts,12.5,under,PASS,no edge,LAC,HOU,DraftKings,-110.0,14:54,27.1,12.46,0.525,0.549,0.024,0.51,7.0,0.524,0.3,0.06,1.5,-1.4,,,,0.0
+2026-11-23,Rui Hachimura,reb,4.5,over,PASS,no edge,LAC,HOU,DraftKings,-122.0,14:54,27.1,4.14,0.412,0.388,0.024,0.506,7.0,0.55,-25.1,-5.51,-9.4,-4.3,,,,0.0
+2026-11-23,Rui Hachimura,reb,4.5,under,WATCH,edge below the Rules §3 bar,LAC,HOU,DraftKings,-108.0,14:54,27.1,4.14,0.588,0.612,0.024,0.494,7.0,0.519,13.3,2.76,9.4,-2.5,0.514,-0.54,,0.0
+2026-11-23,Ryan Kalkbrenner,pts,4.5,over,PASS,no edge,CHA,MEM,DraftKings,-127.0,14:54,17.8,5.79,0.59,0.566,0.024,0.516,4.0,0.559,5.4,1.21,7.3,-4.3,,,,0.0
+2026-11-23,Ryan Kalkbrenner,pts,4.5,under,PASS,no edge,CHA,MEM,DraftKings,100.0,14:54,17.8,5.79,0.41,0.434,0.024,0.484,4.0,0.5,-18.0,-3.59,-7.3,-1.6,,,,0.0
+2026-11-23,Ryan Kalkbrenner,reb,4.5,over,PASS,no edge,CHA,MEM,DraftKings,104.0,14:54,17.8,4.4,0.452,0.428,0.024,0.456,6.0,0.49,-7.8,-1.54,-0.5,-3.4,,,,0.0
+2026-11-23,Ryan Kalkbrenner,reb,4.5,under,PASS,no edge,CHA,MEM,DraftKings,-138.0,14:54,17.8,4.4,0.548,0.572,0.024,0.544,6.0,0.58,-5.4,-1.26,0.5,-3.6,,,,0.0
+2026-11-23,Ryan Rollins,ast,3.5,over,PASS,no edge,MIL,TOR,DraftKings,-150.0,14:54,27.4,4.31,0.598,0.574,0.024,0.565,6.0,0.6,-0.4,-0.08,3.3,-3.5,,,,0.0
+2026-11-23,Ryan Rollins,ast,3.5,under,PASS,no edge,MIL,TOR,DraftKings,114.0,14:54,27.4,4.31,0.402,0.426,0.024,0.435,6.0,0.467,-13.9,-2.61,-3.3,-3.2,,,,0.0
+2026-11-23,Ryan Rollins,fg3m,1.5,over,PASS,no edge,MIL,TOR,DraftKings,-117.0,14:54,27.4,1.76,0.531,0.508,0.024,0.5,7.0,0.539,-1.4,-0.31,3.1,-3.9,,,,0.0
+2026-11-23,Ryan Rollins,fg3m,1.5,under,PASS,no edge,MIL,TOR,DraftKings,-112.0,14:54,27.4,1.76,0.469,0.492,0.024,0.5,7.0,0.528,-11.3,-2.39,-3.1,-2.8,,,,0.0
+2026-11-23,Ryan Rollins,pra,19.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIL,TOR,DraftKings,-119.0,14:54,27.4,21.91,0.612,0.588,0.024,0.501,4.0,0.543,12.6,2.73,11.0,-4.2,0.523,-2.08,,0.0
+2026-11-23,Ryan Rollins,pra,19.5,under,PASS,no edge,MIL,TOR,DraftKings,-111.0,14:54,27.4,21.91,0.388,0.412,0.024,0.499,4.0,0.526,-26.2,-5.51,-11.0,-2.8,,,,0.0
+2026-11-23,Ryan Rollins,pts,11.5,over,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,-117.0,14:54,27.4,13.13,0.585,0.561,0.024,0.523,7.0,0.539,8.5,1.82,6.2,-1.7,0.528,-1.13,,0.0
+2026-11-23,Ryan Rollins,pts,11.5,under,PASS,no edge,MIL,TOR,DraftKings,-109.0,14:54,27.4,13.13,0.415,0.439,0.024,0.477,7.0,0.522,-20.4,-4.25,-6.2,-4.4,,,,0.0
+2026-11-23,Ryan Rollins,reb,3.5,over,PASS,no edge,MIL,TOR,DraftKings,-137.0,14:54,27.4,4.46,0.607,0.583,0.024,0.538,6.0,0.578,4.9,1.14,6.8,-4.0,,,,0.0
+2026-11-23,Ryan Rollins,reb,3.5,under,PASS,no edge,MIL,TOR,DraftKings,104.0,14:54,27.4,4.46,0.393,0.417,0.024,0.462,6.0,0.49,-19.7,-3.87,-6.8,-2.8,,,,0.0
+2026-11-23,Saddiq Bey,ast,2.5,over,PASS,no edge,NOP,PHX,DraftKings,114.0,14:54,31.2,2.6,0.474,0.45,0.024,0.436,4.0,0.467,1.4,0.26,3.8,-3.1,,,,0.0
+2026-11-23,Saddiq Bey,ast,2.5,under,PASS,no edge,NOP,PHX,DraftKings,-151.0,14:54,31.2,2.6,0.526,0.55,0.024,0.564,4.0,0.602,-12.5,-3.01,-3.8,-3.8,,,,0.0
+2026-11-23,Saddiq Bey,fg3m,2.5,over,PASS,no edge,NOP,PHX,DraftKings,128.0,14:54,31.2,2.05,0.362,0.338,0.024,0.413,6.0,0.439,-17.5,-3.06,-5.1,-2.5,,,,0.0
+2026-11-23,Saddiq Bey,fg3m,2.5,under,PASS,no edge,NOP,PHX,DraftKings,-170.0,14:54,31.2,2.05,0.638,0.662,0.024,0.587,6.0,0.63,1.3,0.33,5.1,-4.3,,,,0.0
+2026-11-23,Saddiq Bey,pra,23.5,over,PASS,no edge,NOP,PHX,DraftKings,-105.0,14:54,31.2,24.43,0.533,0.509,0.024,0.477,2.0,0.512,4.0,0.82,5.5,-3.5,,,,0.0
+2026-11-23,Saddiq Bey,pra,23.5,under,PASS,no edge,NOP,PHX,DraftKings,-125.0,14:54,31.2,24.43,0.467,0.491,0.024,0.523,2.0,0.556,-15.9,-3.53,-5.5,-3.3,,,,0.0
+2026-11-23,Saddiq Bey,pts,15.5,over,PASS,no edge,NOP,PHX,DraftKings,-115.0,14:54,31.2,16.69,0.548,0.524,0.024,0.497,6.0,0.535,2.5,0.53,5.1,-3.8,,,,0.0
+2026-11-23,Saddiq Bey,pts,15.5,under,PASS,no edge,NOP,PHX,DraftKings,-111.0,14:54,31.2,16.69,0.452,0.476,0.024,0.503,6.0,0.526,-14.1,-2.97,-5.1,-2.3,,,,0.0
+2026-11-23,Saddiq Bey,reb,4.5,over,PASS,no edge,NOP,PHX,DraftKings,-147.0,14:54,31.2,5.15,0.558,0.534,0.024,0.558,6.0,0.595,-6.3,-1.49,0.0,-3.8,,,,0.0
+2026-11-23,Saddiq Bey,reb,4.5,under,PASS,no edge,NOP,PHX,DraftKings,111.0,14:54,31.2,5.15,0.442,0.466,0.024,0.442,6.0,0.474,-6.7,-1.27,-0.0,-3.1,,,,0.0
+2026-11-23,Sandro Mamukelashvili,fg3m,1.5,over,PASS,no edge,LAL,UTA,DraftKings,158.0,14:54,21.2,1.22,0.363,0.339,0.024,0.386,7.0,0.388,-6.4,-0.99,-2.3,-0.2,,,,0.0
+2026-11-23,Sandro Mamukelashvili,fg3m,1.5,under,PASS,no edge,LAL,UTA,DraftKings,-210.0,14:54,21.2,1.22,0.637,0.661,0.024,0.614,7.0,0.677,-5.9,-1.61,2.3,-6.3,,,,0.0
+2026-11-23,Sandro Mamukelashvili,pts,9.5,over,PASS,no edge,LAL,UTA,DraftKings,101.0,14:54,21.2,9.36,0.454,0.43,0.024,0.48,3.0,0.498,-8.8,-1.75,-2.6,-1.8,,,,0.0
+2026-11-23,Sandro Mamukelashvili,pts,9.5,under,PASS,no edge,LAL,UTA,DraftKings,-128.0,14:54,21.2,9.36,0.546,0.57,0.024,0.52,3.0,0.561,-2.7,-0.61,2.6,-4.1,,,,0.0
+2026-11-23,Sandro Mamukelashvili,reb,4.5,over,PASS,no edge,LAL,UTA,DraftKings,-117.0,14:54,21.2,4.35,0.449,0.425,0.024,0.49,7.0,0.539,-16.8,-3.62,-4.1,-4.9,,,,0.0
+2026-11-23,Sandro Mamukelashvili,reb,4.5,under,PASS,no edge,LAL,UTA,DraftKings,-112.0,14:54,21.2,4.35,0.551,0.575,0.024,0.51,7.0,0.528,4.4,0.92,4.1,-1.8,,,,0.0
+2026-11-23,Scoot Henderson,ast,1.5,over,PASS,no edge,POR,PHI,DraftKings,-141.0,14:54,21.7,2.05,0.574,0.55,0.024,0.547,4.0,0.585,-1.9,-0.44,2.7,-3.8,,,,0.0
+2026-11-23,Scoot Henderson,ast,1.5,under,PASS,no edge,POR,PHI,DraftKings,107.0,14:54,21.7,2.05,0.426,0.45,0.024,0.453,4.0,0.483,-11.8,-2.29,-2.7,-3.0,,,,0.0
+2026-11-23,Scoot Henderson,fg3m,1.5,over,PASS,no edge,POR,PHI,DraftKings,156.0,14:54,21.7,1.32,0.394,0.37,0.024,0.372,5.0,0.391,0.8,0.12,2.2,-1.8,,,,0.0
+2026-11-23,Scoot Henderson,fg3m,1.5,under,PASS,no edge,POR,PHI,DraftKings,-208.0,14:54,21.7,1.32,0.606,0.63,0.024,0.628,5.0,0.675,-10.2,-2.76,-2.2,-4.7,,,,0.0
+2026-11-23,Scoot Henderson,pra,13.5,over,PASS,no edge,POR,PHI,DraftKings,-118.0,14:54,21.7,13.9,0.503,0.48,0.024,0.512,3.0,0.541,-7.0,-1.51,-0.9,-2.9,,,,0.0
+2026-11-23,Scoot Henderson,pra,13.5,under,PASS,no edge,POR,PHI,DraftKings,-111.0,14:54,21.7,13.9,0.497,0.52,0.024,0.488,3.0,0.526,-5.6,-1.18,0.9,-3.8,,,,0.0
+2026-11-23,Scoot Henderson,pts,9.5,over,PASS,no edge,POR,PHI,DraftKings,-109.0,14:54,21.7,9.54,0.478,0.454,0.024,0.513,7.0,0.522,-8.4,-1.75,-3.5,-0.8,,,,0.0
+2026-11-23,Scoot Henderson,pts,9.5,under,PASS,no edge,POR,PHI,DraftKings,-117.0,14:54,21.7,9.54,0.522,0.546,0.024,0.487,7.0,0.539,-3.1,-0.68,3.5,-5.2,,,,0.0
+2026-11-23,Scoot Henderson,reb,2.5,over,PASS,no edge,POR,PHI,DraftKings,128.0,14:54,21.7,2.3,0.407,0.383,0.024,0.399,2.0,0.439,-7.3,-1.27,0.8,-4.0,,,,0.0
+2026-11-23,Scoot Henderson,reb,2.5,under,PASS,no edge,POR,PHI,DraftKings,-169.0,14:54,21.7,2.3,0.593,0.617,0.024,0.601,2.0,0.628,-5.6,-1.4,-0.8,-2.7,,,,0.0
+2026-11-23,Scottie Barnes,ast,5.5,over,PASS,no edge,TOR,MIL,DraftKings,-129.0,14:54,33.8,6.4,0.597,0.573,0.024,0.51,8.0,0.563,5.9,1.33,8.6,-5.3,,,,0.0
+2026-11-23,Scottie Barnes,ast,5.5,under,PASS,no edge,TOR,MIL,DraftKings,-102.0,14:54,33.8,6.4,0.403,0.427,0.024,0.49,8.0,0.505,-20.1,-4.06,-8.6,-1.5,,,,0.0
+2026-11-23,Scottie Barnes,fg3m,0.5,over,PASS,no edge,TOR,MIL,DraftKings,-226.0,14:54,33.8,1.15,0.685,0.661,0.024,0.645,4.0,0.693,-1.2,-0.33,4.0,-4.8,,,,0.0
+2026-11-23,Scottie Barnes,fg3m,0.5,under,PASS,no edge,TOR,MIL,DraftKings,169.0,14:54,33.8,1.15,0.315,0.339,0.024,0.355,4.0,0.372,-15.3,-2.27,-4.0,-1.7,,,,0.0
+2026-11-23,Scottie Barnes,pra,37.5,over,PASS,no edge,TOR,MIL,DraftKings,-114.0,14:54,33.8,35.97,0.441,0.417,0.024,0.48,3.0,0.533,-17.3,-3.69,-3.9,-5.3,,,,0.0
+2026-11-23,Scottie Barnes,pra,37.5,under,PASS,no edge,TOR,MIL,DraftKings,-115.0,14:54,33.8,35.97,0.559,0.583,0.024,0.52,3.0,0.535,4.6,0.98,3.9,-1.5,,,,0.0
+2026-11-23,Scottie Barnes,pts,24.5,over,PASS,no edge,TOR,MIL,DraftKings,-104.0,14:54,33.8,22.54,0.4,0.376,0.024,0.481,1.0,0.51,-21.5,-4.38,-8.1,-2.9,,,,0.0
+2026-11-23,Scottie Barnes,pts,24.5,under,WATCH,edge below the Rules §3 bar,TOR,MIL,DraftKings,-122.0,14:54,33.8,22.54,0.6,0.624,0.024,0.519,1.0,0.55,9.1,2.01,8.1,-3.1,0.55,0.03,,0.0
+2026-11-23,Scottie Barnes,reb,7.5,over,PASS,no edge,TOR,MIL,DraftKings,103.0,14:54,33.8,7.02,0.424,0.4,0.024,0.437,7.0,0.493,-13.9,-2.74,-1.3,-5.5,,,,0.0
+2026-11-23,Scottie Barnes,reb,7.5,under,PASS,no edge,TOR,MIL,DraftKings,-136.0,14:54,33.8,7.02,0.576,0.6,0.024,0.563,7.0,0.576,-0.1,-0.01,1.3,-1.3,,,,0.0
+2026-11-23,Shai Gilgeous-Alexander,ast,5.5,over,WATCH,edge below the Rules §3 bar,OKC,IND,DraftKings,110.0,14:54,33.7,5.78,0.515,0.491,0.024,0.444,7.0,0.476,8.1,1.55,7.1,-3.3,0.455,-2.12,,0.0
+2026-11-23,Shai Gilgeous-Alexander,ast,5.5,under,PASS,no edge,OKC,IND,DraftKings,-145.0,14:54,33.7,5.78,0.485,0.509,0.024,0.556,7.0,0.592,-18.0,-4.27,-7.1,-3.5,,,,0.0
+2026-11-23,Shai Gilgeous-Alexander,fg3m,1.5,over,PASS,no edge,OKC,IND,DraftKings,-175.0,14:54,33.7,1.93,0.59,0.566,0.024,0.592,8.0,0.636,-7.3,-1.87,-0.2,-4.5,,,,0.0
+2026-11-23,Shai Gilgeous-Alexander,fg3m,1.5,under,PASS,no edge,OKC,IND,DraftKings,132.0,14:54,33.7,1.93,0.41,0.434,0.024,0.408,8.0,0.431,-4.8,-0.83,0.2,-2.3,,,,0.0
+2026-11-23,Shai Gilgeous-Alexander,pra,42.5,over,PASS,no edge,OKC,IND,DraftKings,-124.0,14:54,33.7,40.33,0.422,0.398,0.024,0.5,1.0,0.554,-23.8,-5.26,-7.8,-5.4,,,,0.0
+2026-11-23,Shai Gilgeous-Alexander,pra,42.5,under,WATCH,edge below the Rules §3 bar,OKC,IND,DraftKings,-106.0,14:54,33.7,40.33,0.578,0.602,0.024,0.5,1.0,0.515,12.3,2.53,7.8,-1.5,0.522,0.71,,0.0
+2026-11-23,Shai Gilgeous-Alexander,pts,33.5,over,PASS,no edge,OKC,IND,DraftKings,-111.0,14:54,33.7,30.28,0.367,0.343,0.024,0.496,1.0,0.526,-30.3,-6.37,-12.9,-3.0,,,,0.0
+2026-11-23,Shai Gilgeous-Alexander,pts,33.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",OKC,IND,DraftKings,-115.0,14:54,33.7,30.28,0.633,0.657,0.024,0.504,1.0,0.535,18.4,3.93,12.9,-3.1,0.546,1.09,,0.0
+2026-11-23,Shai Gilgeous-Alexander,reb,3.5,over,PASS,no edge,OKC,IND,DraftKings,-150.0,14:54,33.7,4.27,0.586,0.562,0.024,0.565,6.0,0.6,-2.4,-0.58,2.1,-3.5,,,,0.0
+2026-11-23,Shai Gilgeous-Alexander,reb,3.5,under,PASS,no edge,OKC,IND,DraftKings,113.0,14:54,33.7,4.27,0.414,0.438,0.024,0.435,6.0,0.469,-11.7,-2.2,-2.1,-3.4,,,,0.0
+2026-11-23,Sidy Cissoko,ast,1.5,over,PASS,no edge,POR,PHI,DraftKings,-127.0,14:54,21.1,1.62,0.463,0.44,0.024,0.523,4.0,0.559,-17.2,-3.84,-5.9,-3.7,,,,0.0
+2026-11-23,Sidy Cissoko,ast,1.5,under,PASS,no edge,POR,PHI,DraftKings,-103.0,14:54,21.1,1.62,0.537,0.56,0.024,0.477,4.0,0.507,5.7,1.17,5.9,-3.0,,,,0.0
+2026-11-23,Sidy Cissoko,fg3m,1.5,over,PASS,no edge,POR,PHI,DraftKings,174.0,14:54,21.1,1.0,0.289,0.265,0.024,0.333,5.0,0.365,-20.8,-3.04,-4.4,-3.2,,,,0.0
+2026-11-23,Sidy Cissoko,fg3m,1.5,under,PASS,no edge,POR,PHI,DraftKings,-232.0,14:54,21.1,1.0,0.711,0.735,0.024,0.667,5.0,0.699,1.7,0.49,4.4,-3.2,,,,0.0
+2026-11-23,Sidy Cissoko,pra,11.5,over,PASS,no edge,POR,PHI,DraftKings,-119.0,14:54,21.1,10.48,0.402,0.378,0.024,0.49,5.0,0.543,-26.0,-5.64,-8.8,-5.4,,,,0.0
+2026-11-23,Sidy Cissoko,pra,11.5,under,WATCH,edge below the Rules §3 bar,POR,PHI,DraftKings,-111.0,14:54,21.1,10.48,0.598,0.622,0.024,0.51,5.0,0.526,13.6,2.86,8.8,-1.6,0.541,1.49,,0.0
+2026-11-23,Sidy Cissoko,pts,6.5,over,PASS,no edge,POR,PHI,DraftKings,-107.0,14:54,21.1,5.96,0.404,0.38,0.024,0.472,5.0,0.517,-21.9,-4.53,-6.8,-4.5,,,,0.0
+2026-11-23,Sidy Cissoko,pts,6.5,under,WATCH,edge below the Rules §3 bar,POR,PHI,DraftKings,-119.0,14:54,21.1,5.96,0.596,0.62,0.024,0.528,5.0,0.543,9.7,2.12,6.8,-1.5,0.54,-0.31,,0.0
+2026-11-23,Sidy Cissoko,reb,3.5,over,PASS,no edge,POR,PHI,DraftKings,117.0,14:54,21.1,2.91,0.36,0.336,0.024,0.434,5.0,0.461,-22.0,-4.05,-7.4,-2.7,,,,0.0
+2026-11-23,Sidy Cissoko,reb,3.5,under,PASS,no edge,POR,PHI,DraftKings,-155.0,14:54,21.1,2.91,0.64,0.664,0.024,0.566,5.0,0.608,5.3,1.3,7.4,-4.2,,,,0.0
+2026-11-23,Sion James,ast,2.5,over,PASS,no edge,CHA,MEM,DraftKings,-164.0,14:54,24.2,2.43,0.443,0.419,0.024,0.59,4.0,0.621,-28.7,-7.14,-14.7,-3.2,,,,0.0
+2026-11-23,Sion James,ast,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,124.0,14:54,24.2,2.43,0.557,0.581,0.024,0.41,4.0,0.446,24.9,4.44,14.7,-3.6,0.452,0.58,,0.0
+2026-11-23,Sion James,fg3m,1.5,over,PASS,no edge,CHA,MEM,DraftKings,116.0,14:54,24.2,1.19,0.355,0.331,0.024,0.423,6.0,0.463,-23.3,-4.32,-6.8,-4.0,,,,0.0
+2026-11-23,Sion James,fg3m,1.5,under,WATCH,edge below the Rules §3 bar,CHA,MEM,DraftKings,-153.0,14:54,24.2,1.19,0.645,0.669,0.024,0.577,6.0,0.605,6.7,1.62,6.8,-2.8,0.605,-0.01,,0.0
+2026-11-23,Sion James,pra,14.5,over,PASS,no edge,CHA,MEM,DraftKings,-111.0,14:54,24.2,12.15,0.327,0.303,0.024,0.51,5.0,0.526,-37.9,-7.98,-18.3,-1.6,,,,0.0
+2026-11-23,Sion James,pra,14.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,-118.0,14:54,24.2,12.15,0.673,0.697,0.024,0.49,5.0,0.541,24.4,5.28,18.3,-5.1,0.542,0.1,,0.0
+2026-11-23,Sion James,pts,6.5,over,PASS,no edge,CHA,MEM,DraftKings,-130.0,14:54,24.2,6.07,0.419,0.395,0.024,0.533,1.0,0.565,-25.9,-5.87,-11.5,-3.2,,,,0.0
+2026-11-23,Sion James,pts,6.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",CHA,MEM,DraftKings,102.0,14:54,24.2,6.07,0.581,0.605,0.024,0.467,1.0,0.495,17.4,3.45,11.5,-2.8,0.508,1.27,,0.0
+2026-11-23,Sion James,reb,4.5,over,PASS,no edge,CHA,MEM,DraftKings,115.0,14:54,24.2,3.66,0.341,0.317,0.024,0.408,6.0,0.465,-26.7,-4.96,-6.7,-5.7,,,,0.0
+2026-11-23,Sion James,reb,4.5,under,WATCH,edge below the Rules §3 bar,CHA,MEM,DraftKings,-151.0,14:54,24.2,3.66,0.659,0.683,0.024,0.592,6.0,0.602,9.5,2.29,6.7,-0.9,0.615,1.3,,0.0
+2026-11-23,Stephon Castle,ast,7.5,over,PASS,no edge,SAS,SAC,DraftKings,102.0,14:54,29.2,6.51,0.367,0.343,0.024,0.48,6.0,0.495,-25.9,-5.13,-11.3,-1.5,,,,0.0
+2026-11-23,Stephon Castle,ast,7.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-135.0,14:54,29.2,6.51,0.633,0.657,0.024,0.52,6.0,0.574,10.2,2.35,11.3,-5.5,0.55,-2.42,,0.0
+2026-11-23,Stephon Castle,fg3m,2.5,over,PASS,no edge,SAS,SAC,DraftKings,144.0,14:54,29.2,1.57,0.242,0.218,0.024,0.387,2.0,0.41,-40.9,-6.7,-14.5,-2.3,,,,0.0
+2026-11-23,Stephon Castle,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-192.0,14:54,29.2,1.57,0.758,0.782,0.024,0.613,2.0,0.658,15.2,4.01,14.5,-4.5,0.663,0.53,,0.0
+2026-11-23,Stephon Castle,pra,33.5,over,PASS,no edge,SAS,SAC,DraftKings,-106.0,14:54,29.2,27.62,0.277,0.253,0.024,0.501,6.0,0.515,-46.2,-9.51,-22.4,-1.4,,,,0.0
+2026-11-23,Stephon Castle,pra,33.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-124.0,14:54,29.2,27.62,0.723,0.747,0.024,0.499,6.0,0.554,30.6,6.78,22.4,-5.5,0.563,0.91,,0.0
+2026-11-23,Stephon Castle,pts,19.5,over,PASS,no edge,SAS,SAC,DraftKings,-122.0,14:54,29.2,15.94,0.301,0.278,0.024,0.51,1.0,0.55,-45.1,-9.92,-20.9,-3.9,,,,0.0
+2026-11-23,Stephon Castle,pts,19.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-105.0,14:54,29.2,15.94,0.699,0.722,0.024,0.49,1.0,0.512,36.4,7.45,20.9,-2.2,0.554,4.14,,0.0
+2026-11-23,Stephon Castle,reb,5.5,over,PASS,no edge,SAS,SAC,DraftKings,-102.0,14:54,29.2,5.17,0.429,0.405,0.024,0.469,7.0,0.505,-15.0,-3.03,-4.0,-3.6,,,,0.0
+2026-11-23,Stephon Castle,reb,5.5,under,PASS,no edge,SAS,SAC,DraftKings,-129.0,14:54,29.2,5.17,0.571,0.595,0.024,0.531,7.0,0.563,1.3,0.3,4.0,-3.3,,,,0.0
+2026-11-23,Taylor Hendricks,fg3m,0.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Taylor Hendricks,pts,8.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Taylor Hendricks,pts,9.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Taylor Hendricks,reb,4.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Terrence Shannon Jr,ast,2.5,over,PASS,no edge,MIN,BKN,DraftKings,-107.0,14:54,19.3,1.8,0.303,0.279,0.024,0.483,5.0,0.517,-41.4,-8.56,-18.0,-3.4,,,,0.0
+2026-11-23,Terrence Shannon Jr,ast,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-123.0,14:54,19.3,1.8,0.697,0.721,0.024,0.517,5.0,0.552,26.4,5.82,18.0,-3.5,0.557,0.57,,0.0
+2026-11-23,Terrence Shannon Jr,fg3m,1.5,over,PASS,no edge,MIN,BKN,DraftKings,152.0,14:54,19.3,1.05,0.309,0.285,0.024,0.389,7.0,0.397,-22.1,-3.51,-8.0,-0.8,,,,0.0
+2026-11-23,Terrence Shannon Jr,fg3m,1.5,under,PASS,no edge,MIN,BKN,DraftKings,-203.0,14:54,19.3,1.05,0.691,0.715,0.024,0.611,7.0,0.67,3.1,0.84,8.0,-5.9,,,,0.0
+2026-11-23,Terrence Shannon Jr,pra,19.5,over,PASS,no edge,MIN,BKN,DraftKings,-109.0,14:54,19.3,13.49,0.193,0.169,0.024,0.488,5.0,0.522,-63.0,-13.13,-29.5,-3.4,,,,0.0
+2026-11-23,Terrence Shannon Jr,pra,19.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-121.0,14:54,19.3,13.49,0.807,0.831,0.024,0.512,5.0,0.548,47.4,10.37,29.5,-3.5,0.584,3.65,,0.0
+2026-11-23,Terrence Shannon Jr,pts,13.5,over,PASS,no edge,MIN,BKN,DraftKings,-106.0,14:54,19.3,9.07,0.208,0.184,0.024,0.484,7.0,0.515,-59.7,-12.28,-27.6,-3.1,,,,0.0
+2026-11-23,Terrence Shannon Jr,pts,13.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-120.0,14:54,19.3,9.07,0.792,0.816,0.024,0.516,7.0,0.545,45.3,9.88,27.6,-2.9,0.584,3.87,,0.0
+2026-11-23,Terrence Shannon Jr,reb,3.5,over,PASS,no edge,MIN,BKN,DraftKings,124.0,14:54,19.3,2.61,0.306,0.282,0.024,0.417,7.0,0.446,-31.4,-5.61,-11.0,-3.0,,,,0.0
+2026-11-23,Terrence Shannon Jr,reb,3.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIN,BKN,DraftKings,-164.0,14:54,19.3,2.61,0.694,0.718,0.024,0.583,7.0,0.621,11.7,2.9,11.0,-3.8,0.611,-0.97,,0.0
+2026-11-23,Toumani Camara,ast,1.5,over,WATCH,edge below the Rules §3 bar,POR,PHI,DraftKings,106.0,14:54,31.3,1.97,0.56,0.536,0.024,0.462,4.0,0.485,15.3,2.98,9.8,-2.3,0.486,0.09,,0.0
+2026-11-23,Toumani Camara,ast,1.5,under,PASS,no edge,POR,PHI,DraftKings,-140.0,14:54,31.3,1.97,0.44,0.464,0.024,0.538,4.0,0.583,-24.6,-5.73,-9.8,-4.6,,,,0.0
+2026-11-23,Toumani Camara,fg3m,2.5,over,PASS,no edge,POR,PHI,DraftKings,125.0,14:54,31.3,2.31,0.425,0.401,0.024,0.431,6.0,0.444,-4.5,-0.79,-0.6,-1.4,,,,0.0
+2026-11-23,Toumani Camara,fg3m,2.5,under,PASS,no edge,POR,PHI,DraftKings,-165.0,14:54,31.3,2.31,0.575,0.599,0.024,0.569,6.0,0.623,-7.6,-1.89,0.6,-5.3,,,,0.0
+2026-11-23,Toumani Camara,pra,17.5,over,PASS,no edge,POR,PHI,DraftKings,-114.0,14:54,31.3,18.73,0.555,0.531,0.024,0.5,4.0,0.533,4.2,0.88,5.5,-3.3,,,,0.0
+2026-11-23,Toumani Camara,pra,17.5,under,PASS,no edge,POR,PHI,DraftKings,-116.0,14:54,31.3,18.73,0.445,0.469,0.024,0.5,4.0,0.537,-17.1,-3.67,-5.5,-3.7,,,,0.0
+2026-11-23,Toumani Camara,pts,10.5,over,PASS,no edge,POR,PHI,DraftKings,-130.0,14:54,31.3,12.24,0.6,0.576,0.024,0.533,1.0,0.565,6.1,1.38,6.7,-3.2,,,,0.0
+2026-11-23,Toumani Camara,pts,10.5,under,PASS,no edge,POR,PHI,DraftKings,102.0,14:54,31.3,12.24,0.4,0.424,0.024,0.467,1.0,0.495,-19.1,-3.79,-6.7,-2.8,,,,0.0
+2026-11-23,Toumani Camara,reb,4.5,over,PASS,no edge,POR,PHI,DraftKings,-120.0,14:54,31.3,4.52,0.469,0.445,0.024,0.492,7.0,0.545,-14.1,-3.07,-2.3,-5.4,,,,0.0
+2026-11-23,Toumani Camara,reb,4.5,under,PASS,no edge,POR,PHI,DraftKings,-110.0,14:54,31.3,4.52,0.531,0.555,0.024,0.508,7.0,0.524,1.4,0.3,2.3,-1.6,,,,0.0
+2026-11-23,Trey Murphy III,ast,2.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-137.0,14:54,32.7,3.45,0.635,0.612,0.024,0.531,6.0,0.578,9.9,2.3,10.4,-4.7,0.549,-2.91,,0.0
+2026-11-23,Trey Murphy III,ast,2.5,under,PASS,no edge,NOP,PHX,DraftKings,104.0,14:54,32.7,3.45,0.365,0.388,0.024,0.469,6.0,0.49,-25.6,-5.03,-10.4,-2.1,,,,0.0
+2026-11-23,Trey Murphy III,fg3m,2.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,134.0,14:54,32.7,2.63,0.5,0.477,0.024,0.399,7.0,0.427,17.1,2.92,10.1,-2.8,0.42,-0.76,,0.0
+2026-11-23,Trey Murphy III,fg3m,2.5,under,PASS,no edge,NOP,PHX,DraftKings,-177.0,14:54,32.7,2.63,0.5,0.523,0.024,0.601,7.0,0.639,-21.8,-5.58,-10.1,-3.8,,,,0.0
+2026-11-23,Trey Murphy III,pra,22.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-121.0,14:54,32.7,26.7,0.684,0.66,0.024,0.513,1.0,0.548,24.9,5.45,17.0,-3.4,0.547,-0.09,,0.0
+2026-11-23,Trey Murphy III,pra,22.5,under,PASS,no edge,NOP,PHX,DraftKings,-108.0,14:54,32.7,26.7,0.316,0.34,0.024,0.487,1.0,0.519,-39.1,-8.12,-17.0,-3.2,,,,0.0
+2026-11-23,Trey Murphy III,pts,15.5,over,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-105.0,14:54,32.7,18.09,0.635,0.611,0.024,0.51,8.0,0.512,23.9,4.91,12.5,-0.2,0.52,0.78,,0.0
+2026-11-23,Trey Murphy III,pts,15.5,under,PASS,no edge,NOP,PHX,DraftKings,-122.0,14:54,32.7,18.09,0.365,0.389,0.024,0.49,8.0,0.55,-33.6,-7.38,-12.5,-6.0,,,,0.0
+2026-11-23,Trey Murphy III,reb,4.5,over,WATCH,edge below the Rules §3 bar,NOP,PHX,DraftKings,-109.0,14:54,32.7,5.16,0.559,0.536,0.024,0.49,7.0,0.522,7.3,1.52,7.0,-3.2,0.5,-2.14,,0.0
+2026-11-23,Trey Murphy III,reb,4.5,under,PASS,no edge,NOP,PHX,DraftKings,-121.0,14:54,32.7,5.16,0.441,0.464,0.024,0.51,7.0,0.548,-19.5,-4.28,-7.0,-3.7,,,,0.0
+2026-11-23,Ty Jerome,ast,5.5,over,PASS,no edge,MEM,CHA,DraftKings,-103.0,14:54,27.1,4.41,0.325,0.301,0.024,0.472,7.0,0.507,-36.0,-7.31,-14.7,-3.6,,,,0.0
+2026-11-23,Ty Jerome,ast,5.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,-128.0,14:54,27.1,4.41,0.675,0.699,0.024,0.528,7.0,0.561,20.3,4.56,14.7,-3.3,0.568,0.65,,0.0
+2026-11-23,Ty Jerome,fg3m,2.5,over,PASS,no edge,MEM,CHA,DraftKings,-102.0,14:54,27.1,2.06,0.358,0.335,0.024,0.492,7.0,0.505,-29.0,-5.86,-13.4,-1.3,,,,0.0
+2026-11-23,Ty Jerome,fg3m,2.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,-129.0,14:54,27.1,2.06,0.642,0.665,0.024,0.508,7.0,0.563,13.9,3.13,13.4,-5.5,0.535,-2.79,,0.0
+2026-11-23,Ty Jerome,pra,31.5,over,PASS,no edge,MEM,CHA,DraftKings,-120.0,14:54,27.1,25.16,0.25,0.227,0.024,0.508,5.0,0.545,-54.1,-11.8,-25.8,-3.7,,,,0.0
+2026-11-23,Ty Jerome,pra,31.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,-110.0,14:54,27.1,25.16,0.75,0.773,0.024,0.492,5.0,0.524,43.1,9.03,25.8,-3.2,0.556,3.21,,0.0
+2026-11-23,Ty Jerome,pts,22.5,over,PASS,no edge,MEM,CHA,DraftKings,-120.0,14:54,27.1,17.47,0.254,0.23,0.024,0.513,6.0,0.545,-53.4,-11.66,-25.9,-3.2,,,,0.0
+2026-11-23,Ty Jerome,pts,22.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MEM,CHA,DraftKings,-106.0,14:54,27.1,17.47,0.746,0.77,0.024,0.487,6.0,0.515,45.0,9.26,25.9,-2.8,0.552,3.72,,0.0
+2026-11-23,Ty Jerome,reb,3.5,over,PASS,no edge,MEM,CHA,DraftKings,123.0,14:54,27.1,3.27,0.424,0.4,0.024,0.424,6.0,0.448,-5.5,-0.98,-0.0,-2.4,,,,0.0
+2026-11-23,Ty Jerome,reb,3.5,under,PASS,no edge,MEM,CHA,DraftKings,-162.0,14:54,27.1,3.27,0.576,0.6,0.024,0.576,6.0,0.618,-6.8,-1.69,0.0,-4.2,,,,0.0
+2026-11-23,Tyler Herro,ast,4.5,over,PASS,no edge,MIL,TOR,DraftKings,121.0,14:54,29.7,3.67,0.34,0.317,0.024,0.425,3.0,0.452,-24.8,-4.48,-8.5,-2.7,,,,0.0
+2026-11-23,Tyler Herro,ast,4.5,under,WATCH,edge below the Rules §3 bar,MIL,TOR,DraftKings,-160.0,14:54,29.7,3.67,0.66,0.683,0.024,0.575,3.0,0.615,7.2,1.77,8.5,-4.1,0.601,-1.46,,0.0
+2026-11-23,Tyler Herro,fg3m,2.5,over,PASS,no edge,MIL,TOR,DraftKings,117.0,14:54,29.7,2.31,0.423,0.399,0.024,0.466,7.0,0.461,-8.3,-1.53,-4.4,0.5,,,,0.0
+2026-11-23,Tyler Herro,fg3m,2.5,under,PASS,no edge,MIL,TOR,DraftKings,-155.0,14:54,29.7,2.31,0.577,0.601,0.024,0.534,7.0,0.608,-5.0,-1.22,4.4,-7.4,,,,0.0
+2026-11-23,Tyler Herro,pra,28.5,over,PASS,no edge,MIL,TOR,DraftKings,-115.0,14:54,29.7,26.15,0.388,0.364,0.024,0.496,7.0,0.535,-27.4,-5.87,-10.8,-3.9,,,,0.0
+2026-11-23,Tyler Herro,pra,28.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIL,TOR,DraftKings,-114.0,14:54,29.7,26.15,0.612,0.636,0.024,0.504,7.0,0.533,14.8,3.16,10.8,-2.9,0.537,0.45,,0.0
+2026-11-23,Tyler Herro,pts,20.5,over,PASS,no edge,MIL,TOR,DraftKings,-106.0,14:54,29.7,18.03,0.361,0.337,0.024,0.486,7.0,0.515,-29.8,-6.14,-12.5,-2.9,,,,0.0
+2026-11-23,Tyler Herro,pts,20.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",MIL,TOR,DraftKings,-120.0,14:54,29.7,18.03,0.639,0.663,0.024,0.514,7.0,0.545,17.1,3.74,12.5,-3.1,0.541,-0.41,,0.0
+2026-11-23,Tyler Herro,reb,3.5,over,PASS,no edge,MIL,TOR,DraftKings,-153.0,14:54,29.7,4.45,0.611,0.587,0.024,0.572,6.0,0.605,1.0,0.24,3.9,-3.3,,,,0.0
+2026-11-23,Tyler Herro,reb,3.5,under,PASS,no edge,MIL,TOR,DraftKings,116.0,14:54,29.7,4.45,0.389,0.413,0.024,0.428,6.0,0.463,-15.9,-2.95,-3.9,-3.5,,,,0.0
+2026-11-23,Tyrese Maxey,ast,5.5,over,PASS,no edge,PHI,POR,DraftKings,121.0,14:54,34.4,5.08,0.419,0.395,0.024,0.423,3.0,0.452,-7.4,-1.33,-0.4,-2.9,,,,0.0
+2026-11-23,Tyrese Maxey,ast,5.5,under,PASS,no edge,PHI,POR,DraftKings,-160.0,14:54,34.4,5.08,0.581,0.605,0.024,0.577,3.0,0.615,-5.6,-1.38,0.4,-3.9,,,,0.0
+2026-11-23,Tyrese Maxey,fg3m,2.5,over,PASS,no edge,PHI,POR,DraftKings,-118.0,14:54,34.4,2.25,0.408,0.384,0.024,0.493,8.0,0.541,-24.7,-5.35,-8.6,-4.8,,,,0.0
+2026-11-23,Tyrese Maxey,fg3m,2.5,under,WATCH,edge below the Rules §3 bar,PHI,POR,DraftKings,-111.0,14:54,34.4,2.25,0.592,0.616,0.024,0.507,8.0,0.526,12.6,2.65,8.6,-2.0,0.525,-0.07,,0.0
+2026-11-23,Tyrese Maxey,pra,34.5,over,PASS,no edge,PHI,POR,DraftKings,-110.0,14:54,34.4,30.05,0.322,0.298,0.024,0.49,1.0,0.524,-38.5,-8.07,-16.8,-3.4,,,,0.0
+2026-11-23,Tyrese Maxey,pra,34.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,-120.0,14:54,34.4,30.05,0.678,0.702,0.024,0.51,1.0,0.545,24.3,5.3,16.8,-3.5,0.559,1.35,,0.0
+2026-11-23,Tyrese Maxey,pts,25.5,over,PASS,no edge,PHI,POR,DraftKings,-111.0,14:54,34.4,21.29,0.298,0.274,0.024,0.482,4.0,0.526,-43.4,-9.14,-18.4,-4.4,,,,0.0
+2026-11-23,Tyrese Maxey,pts,25.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",PHI,POR,DraftKings,-115.0,14:54,34.4,21.29,0.702,0.726,0.024,0.518,4.0,0.535,31.3,6.7,18.4,-1.7,0.568,3.34,,0.0
+2026-11-23,Tyrese Maxey,reb,3.5,over,PASS,no edge,PHI,POR,DraftKings,-103.0,14:54,34.4,3.67,0.492,0.468,0.024,0.468,8.0,0.507,-3.1,-0.63,2.4,-4.0,,,,0.0
+2026-11-23,Tyrese Maxey,reb,3.5,under,PASS,no edge,PHI,POR,DraftKings,-128.0,14:54,34.4,3.67,0.508,0.532,0.024,0.532,8.0,0.561,-9.5,-2.12,-2.4,-2.9,,,,0.0
+2026-11-23,Tyrese Proctor,ast,2.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Tyrese Proctor,fg3m,1.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Tyrese Proctor,pra,14.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Tyrese Proctor,pra,15.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Tyrese Proctor,pts,8.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Tyrese Proctor,reb,2.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Tyrese Proctor,reb,3.5,,PASS,no projection (not in rotation / name mismatch),,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Victor Wembanyama,ast,2.5,over,PASS,no edge,SAS,SAC,DraftKings,-177.0,14:54,29.4,3.21,0.6,0.576,0.024,0.588,4.0,0.639,-6.2,-1.58,1.2,-5.1,,,,0.0
+2026-11-23,Victor Wembanyama,ast,2.5,under,PASS,no edge,SAS,SAC,DraftKings,133.0,14:54,29.4,3.21,0.4,0.424,0.024,0.412,4.0,0.429,-6.7,-1.15,-1.2,-1.7,,,,0.0
+2026-11-23,Victor Wembanyama,fg3m,2.5,over,PASS,no edge,SAS,SAC,DraftKings,137.0,14:54,29.4,2.0,0.35,0.326,0.024,0.391,7.0,0.422,-17.0,-2.87,-4.1,-3.1,,,,0.0
+2026-11-23,Victor Wembanyama,fg3m,2.5,under,PASS,no edge,SAS,SAC,DraftKings,-182.0,14:54,29.4,2.0,0.65,0.674,0.024,0.609,7.0,0.645,0.7,0.18,4.1,-3.6,,,,0.0
+2026-11-23,Victor Wembanyama,pra,44.5,over,PASS,no edge,SAS,SAC,DraftKings,-112.0,14:54,29.4,40.26,0.365,0.341,0.024,0.512,2.0,0.528,-30.9,-6.52,-14.7,-1.6,,,,0.0
+2026-11-23,Victor Wembanyama,pra,44.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-117.0,14:54,29.4,40.26,0.635,0.659,0.024,0.488,2.0,0.539,17.7,3.82,14.7,-5.1,0.532,-0.67,,0.0
+2026-11-23,Victor Wembanyama,pts,29.5,over,PASS,no edge,SAS,SAC,DraftKings,-105.0,14:54,29.4,25.93,0.347,0.323,0.024,0.513,6.0,0.512,-32.2,-6.6,-16.5,0.0,,,,0.0
+2026-11-23,Victor Wembanyama,pts,29.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",SAS,SAC,DraftKings,-121.0,14:54,29.4,25.93,0.653,0.677,0.024,0.487,6.0,0.548,19.2,4.21,16.5,-6.0,0.535,-1.23,,0.0
+2026-11-23,Victor Wembanyama,reb,11.5,over,PASS,no edge,SAS,SAC,DraftKings,-128.0,14:54,29.4,11.12,0.45,0.426,0.024,0.531,7.0,0.561,-19.9,-4.48,-8.1,-3.1,,,,0.0
+2026-11-23,Victor Wembanyama,reb,11.5,under,WATCH,edge below the Rules §3 bar,SAS,SAC,DraftKings,-103.0,14:54,29.4,11.12,0.55,0.574,0.024,0.469,7.0,0.507,8.5,1.72,8.1,-3.8,0.504,-0.36,,0.0
+2026-11-23,VJ Edgecombe,ast,3.5,over,PASS,no edge,PHI,POR,DraftKings,115.0,14:54,33.1,3.63,0.489,0.465,0.024,0.431,7.0,0.465,5.1,0.95,5.8,-3.4,,,,0.0
+2026-11-23,VJ Edgecombe,ast,3.5,under,PASS,no edge,PHI,POR,DraftKings,-152.0,14:54,33.1,3.63,0.511,0.535,0.024,0.569,7.0,0.603,-15.3,-3.69,-5.8,-3.4,,,,0.0
+2026-11-23,VJ Edgecombe,fg3m,1.5,over,PASS,no edge,PHI,POR,DraftKings,-116.0,14:54,33.1,1.56,0.476,0.452,0.024,0.527,7.0,0.537,-11.4,-2.46,-5.1,-1.0,,,,0.0
+2026-11-23,VJ Edgecombe,fg3m,1.5,under,PASS,no edge,PHI,POR,DraftKings,-113.0,14:54,33.1,1.56,0.524,0.548,0.024,0.473,7.0,0.531,-1.1,-0.24,5.1,-5.7,,,,0.0
+2026-11-23,VJ Edgecombe,pra,22.5,over,PASS,no edge,PHI,POR,DraftKings,-105.0,14:54,33.1,22.43,0.486,0.462,0.024,0.49,5.0,0.512,-5.1,-1.05,-0.4,-2.2,,,,0.0
+2026-11-23,VJ Edgecombe,pra,22.5,under,PASS,no edge,PHI,POR,DraftKings,-125.0,14:54,33.1,22.43,0.514,0.538,0.024,0.51,5.0,0.556,-7.5,-1.66,0.4,-4.5,,,,0.0
+2026-11-23,VJ Edgecombe,pts,12.5,over,PASS,no edge,PHI,POR,DraftKings,-113.0,14:54,33.1,13.13,0.52,0.496,0.024,0.514,4.0,0.531,-2.0,-0.42,0.6,-1.6,,,,0.0
+2026-11-23,VJ Edgecombe,pts,12.5,under,PASS,no edge,PHI,POR,DraftKings,-112.0,14:54,33.1,13.13,0.48,0.504,0.024,0.486,4.0,0.528,-9.1,-1.93,-0.6,-4.2,,,,0.0
+2026-11-23,VJ Edgecombe,reb,5.5,over,PASS,no edge,PHI,POR,DraftKings,-147.0,14:54,33.1,5.67,0.498,0.474,0.024,0.535,6.0,0.595,-16.4,-3.9,-3.8,-6.0,,,,0.0
+2026-11-23,VJ Edgecombe,reb,5.5,under,PASS,no edge,PHI,POR,DraftKings,111.0,14:54,33.1,5.67,0.502,0.526,0.024,0.465,6.0,0.474,6.0,1.14,3.8,-0.9,,,,0.0
+2026-11-23,Walker Kessler,pra,26.5,over,PASS,no edge,LAL,UTA,DraftKings,-111.0,14:54,27.9,23.47,0.358,0.334,0.024,0.505,4.0,0.526,-32.0,-6.74,-14.7,-2.1,,,,0.0
+2026-11-23,Walker Kessler,pra,26.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-118.0,14:54,27.9,23.47,0.642,0.666,0.024,0.495,4.0,0.541,18.7,4.04,14.7,-4.6,0.529,-1.2,,0.0
+2026-11-23,Walker Kessler,pts,13.5,over,PASS,no edge,LAL,UTA,DraftKings,-107.0,14:54,27.9,12.59,0.418,0.395,0.024,0.519,7.0,0.517,-19.0,-3.94,-10.1,0.2,,,,0.0
+2026-11-23,Walker Kessler,pts,13.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,-119.0,14:54,27.9,12.59,0.582,0.605,0.024,0.481,7.0,0.543,7.0,1.53,10.1,-6.3,0.503,-4.0,,0.0
+2026-11-23,Walker Kessler,reb,10.5,over,PASS,no edge,LAL,UTA,DraftKings,-135.0,14:54,27.9,8.83,0.335,0.311,0.024,0.543,4.0,0.574,-41.7,-9.58,-20.8,-3.1,,,,0.0
+2026-11-23,Walker Kessler,reb,10.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",LAL,UTA,DraftKings,103.0,14:54,27.9,8.83,0.665,0.689,0.024,0.457,4.0,0.493,35.0,6.9,20.8,-3.6,0.514,2.15,,0.0
+2026-11-23,Yves Missi,pts,6.5,over,PASS,no edge,NOP,PHX,DraftKings,-103.0,14:54,19.6,5.8,0.395,0.371,0.024,0.538,5.0,0.507,-22.1,-4.49,-14.3,3.1,,,,0.0
+2026-11-23,Yves Missi,pts,6.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-124.0,14:54,19.6,5.8,0.605,0.629,0.024,0.462,5.0,0.554,9.3,2.05,14.3,-9.1,0.494,-5.93,,0.0
+2026-11-23,Yves Missi,reb,8.5,over,PASS,no edge,NOP,PHX,DraftKings,108.0,14:54,19.6,5.74,0.242,0.218,0.024,0.454,7.0,0.481,-49.6,-9.55,-21.2,-2.7,,,,0.0
+2026-11-23,Yves Missi,reb,8.5,under,WATCH,"model-market gap >10 pts: likely missing info, investigate",NOP,PHX,DraftKings,-143.0,14:54,19.6,5.74,0.758,0.782,0.024,0.546,7.0,0.588,28.8,6.78,21.2,-4.3,0.602,1.35,,0.0
+2026-11-23,Zach Edey,pts,8.5,over,WATCH,edge below the Rules §3 bar,MEM,CHA,DraftKings,107.0,14:54,22.6,9.05,0.513,0.489,0.024,0.503,6.0,0.483,6.2,1.21,1.0,2.0,0.499,1.63,,0.0
+2026-11-23,Zach Edey,pts,8.5,under,PASS,no edge,MEM,CHA,DraftKings,-137.0,14:54,22.6,9.05,0.487,0.511,0.024,0.497,6.0,0.578,-15.8,-3.65,-1.0,-8.1,,,,0.0
+2026-11-23,Zach Edey,reb,7.5,over,PASS,no edge,MEM,CHA,DraftKings,107.0,14:54,22.6,7.13,0.437,0.413,0.024,0.447,6.0,0.483,-9.5,-1.84,-1.0,-3.6,,,,0.0
+2026-11-23,Zach Edey,reb,7.5,under,PASS,no edge,MEM,CHA,DraftKings,-141.0,14:54,22.6,7.13,0.563,0.587,0.024,0.553,6.0,0.585,-3.8,-0.89,1.0,-3.2,,,,0.0
+2026-11-23,Zach LaVine,ast,2.5,over,PASS,no edge,SAC,SAS,DraftKings,115.0,14:54,30.0,2.31,0.413,0.389,0.024,0.446,6.0,0.465,-11.1,-2.07,-3.2,-2.0,,,,0.0
+2026-11-23,Zach LaVine,ast,2.5,under,PASS,no edge,SAC,SAS,DraftKings,-151.0,14:54,30.0,2.31,0.587,0.611,0.024,0.554,6.0,0.602,-2.5,-0.59,3.2,-4.7,,,,0.0
+2026-11-23,Zach LaVine,fg3m,2.5,over,PASS,no edge,SAC,SAS,DraftKings,102.0,14:54,30.0,2.05,0.362,0.338,0.024,0.441,7.0,0.495,-26.9,-5.33,-8.0,-5.4,,,,0.0
+2026-11-23,Zach LaVine,fg3m,2.5,under,WATCH,edge below the Rules §3 bar,SAC,SAS,DraftKings,-134.0,14:54,30.0,2.05,0.638,0.662,0.024,0.559,7.0,0.573,11.5,2.62,8.0,-1.4,0.583,1.06,,0.0
+2026-11-23,Zach LaVine,pra,22.5,over,PASS,no edge,SAC,SAS,DraftKings,-111.0,14:54,30.0,21.98,0.466,0.442,0.024,0.498,4.0,0.526,-11.5,-2.41,-3.3,-2.8,,,,0.0
+2026-11-23,Zach LaVine,pra,22.5,under,PASS,no edge,SAC,SAS,DraftKings,-118.0,14:54,30.0,21.98,0.534,0.558,0.024,0.502,4.0,0.541,-1.3,-0.28,3.3,-4.0,,,,0.0
+2026-11-23,Zach LaVine,pts,16.5,over,PASS,no edge,SAC,SAS,DraftKings,-111.0,14:54,30.0,16.55,0.492,0.468,0.024,0.515,5.0,0.526,-6.6,-1.38,-2.3,-1.1,,,,0.0
+2026-11-23,Zach LaVine,pts,16.5,under,PASS,no edge,SAC,SAS,DraftKings,-114.0,14:54,30.0,16.55,0.508,0.532,0.024,0.485,5.0,0.533,-4.5,-0.97,2.3,-4.8,,,,0.0
+2026-11-23,Zach LaVine,reb,3.5,over,PASS,no edge,SAC,SAS,DraftKings,104.0,14:54,30.0,3.12,0.393,0.369,0.024,0.43,6.0,0.49,-19.9,-3.9,-3.8,-6.0,,,,0.0
+2026-11-23,Zach LaVine,reb,3.5,under,PASS,no edge,SAC,SAS,DraftKings,-137.0,14:54,30.0,3.12,0.607,0.631,0.024,0.57,6.0,0.578,5.1,1.17,3.8,-0.8,,,,0.0
+2026-11-23,Ziaire Williams,fg3m,1.5,over,PASS,no edge,LAL,UTA,DraftKings,170.0,14:54,21.7,1.29,0.384,0.36,0.024,0.355,6.0,0.37,3.7,0.55,2.9,-1.5,,,,0.0
+2026-11-23,Ziaire Williams,fg3m,1.5,under,PASS,no edge,LAL,UTA,DraftKings,-227.0,14:54,21.7,1.29,0.616,0.64,0.024,0.645,6.0,0.694,-11.3,-3.13,-2.9,-4.9,,,,0.0
+2026-11-23,Ziaire Williams,pts,7.5,over,PASS,no edge,LAL,UTA,DraftKings,-119.0,14:54,21.7,8.72,0.567,0.543,0.024,0.503,6.0,0.543,4.3,0.93,6.4,-4.1,,,,0.0
+2026-11-23,Ziaire Williams,pts,7.5,under,PASS,no edge,LAL,UTA,DraftKings,-107.0,14:54,21.7,8.72,0.433,0.457,0.024,0.497,6.0,0.517,-16.1,-3.34,-6.4,-1.9,,,,0.0
+2026-11-23,Zion Williamson,ast,2.5,over,PASS,no edge,NOP,PHX,DraftKings,-120.0,14:54,31.2,3.04,0.568,0.544,0.024,0.538,6.0,0.545,4.0,0.88,3.0,-0.8,,,,0.0
+2026-11-23,Zion Williamson,ast,2.5,under,PASS,no edge,NOP,PHX,DraftKings,-109.0,14:54,31.2,3.04,0.432,0.456,0.024,0.462,6.0,0.522,-17.1,-3.56,-3.0,-5.9,,,,0.0
+2026-11-23,Zion Williamson,pra,29.5,over,PASS,no edge,NOP,PHX,DraftKings,-114.0,14:54,31.2,28.74,0.459,0.435,0.024,0.499,1.0,0.533,-13.8,-2.94,-4.0,-3.4,,,,0.0
+2026-11-23,Zion Williamson,pra,29.5,under,PASS,no edge,NOP,PHX,DraftKings,-115.0,14:54,31.2,28.74,0.541,0.565,0.024,0.501,1.0,0.535,1.1,0.24,4.0,-3.4,,,,0.0
+2026-11-23,Zion Williamson,pts,20.5,over,PASS,no edge,NOP,PHX,DraftKings,-125.0,14:54,31.2,20.09,0.465,0.441,0.024,0.524,1.0,0.556,-16.4,-3.64,-5.9,-3.2,,,,0.0
+2026-11-23,Zion Williamson,pts,20.5,under,PASS,no edge,NOP,PHX,DraftKings,-102.0,14:54,31.2,20.09,0.535,0.559,0.024,0.476,1.0,0.505,6.0,1.21,5.9,-2.9,,,,0.0
+2026-11-23,Zion Williamson,reb,5.5,over,PASS,no edge,NOP,PHX,DraftKings,-113.0,14:54,31.2,5.6,0.487,0.464,0.024,0.5,7.0,0.531,-8.1,-1.72,-1.3,-3.1,,,,0.0
+2026-11-23,Zion Williamson,reb,5.5,under,PASS,no edge,NOP,PHX,DraftKings,-116.0,14:54,31.2,5.6,0.513,0.536,0.024,0.5,7.0,0.537,-4.6,-0.98,1.3,-3.7,,,,0.0
+2026-11-23,Ace Bailey,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Andrew Nembhard,reb,2.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Anfernee Simons,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Anfernee Simons,reb,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Collin Sexton,reb,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Danny Wolf,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Isaac Okoro,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Isaac Okoro,pra,15.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Ivica Zubac,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Jabari Smith Jr.,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Jake LaRavia,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Jake LaRavia,fg3m,0.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Jalen Smith,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Jalen Smith,pra,24.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Jared McCain,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Jarrett Allen,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Julian Champagnie,pra,20.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Julian Champagnie,reb,5.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Keaton Wagler,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Marcus Smart,reb,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Matas Buzelis,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Meleek Thomas,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Meleek Thomas,reb,2.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Mo Bamba,pts,9.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Mo Bamba,reb,9.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Myles Turner,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Myles Turner,pra,14.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Reed Sheppard,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Reed Sheppard,reb,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Royce O'Neale,pra,12.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Rui Hachimura,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Sandro Mamukelashvili,pra,15.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Walker Kessler,ast,1.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
+2026-11-23,Ziaire Williams,reb,2.5,over,PASS,no executable (DraftKings) price at this line,,,,,,,,,,,,,,,,,,,,,0.0
