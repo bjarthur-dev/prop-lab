@@ -16,7 +16,7 @@ def scan(date, sport):
         b = os.path.basename(f)
         if b.startswith("games") or "alt" in b: continue
         o = pd.read_csv(f)
-        if o.empty or "snap_et" not in o: continue
+        if o.empty or not {"snap_et", "over", "under"} <= set(o.columns): continue   # long-format snapshots (side/price columns: nflx_, live_) are a different schema -> skip, not crash
         o = o[o.market.isin(MK[sport]) & o.over.notna() & o.under.notna()].copy()
         o["t"] = o.snap_et.astype(str).str[11:16]; rows.append(o)
     if not rows: return pd.DataFrame()
