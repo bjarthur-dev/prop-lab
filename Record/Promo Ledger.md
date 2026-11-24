@@ -3,10 +3,10 @@ Every settled real-money bet, split into promo/boosted vs plain. Expected = stak
 
 | kind | bets | staked | expected profit | actual profit | predicted hit | actual hit |
 |---|---|---|---|---|---|---|
-| plain | 70 | $663.47 | $+2.64 | $-32.43 | 37.0% | 31.4% |
-| promo / boost | 84 | $375.73 | $+57.23 | $+209.53 | 30.1% | 32.1% |
+| plain | 72 | $669.47 | $+2.77 | $-38.43 | 36.8% | 30.6% |
+| promo / boost | 90 | $391.19 | $+59.53 | $+197.07 | 29.1% | 30.0% |
 
-Promo profit without the single biggest win ($105.67): $+103.86.
+Promo profit without the single biggest win ($105.67): $+91.40.
 From 2026-11-09 (calibrated pricer) on:
-- plain: 42 bets, expected $-5.32, actual $+21.35, predicted hit 33.5% vs actual 31.0%
-- promo / boost: 52 bets, expected $+44.21, actual $+90.31, predicted hit 27.6% vs actual 32.7%
+- plain: 44 bets, expected $-5.19, actual $+15.35, predicted hit 33.4% vs actual 29.5%
+- promo / boost: 58 bets, expected $+46.51, actual $+77.85, predicted hit 26.5% vs actual 29.3%
