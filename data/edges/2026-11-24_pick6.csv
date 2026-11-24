@@ -1,111 +1,121 @@
 sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books,how,pick6_price,pick_mult
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Anthony Davis,player_points,22.5,LESS,0.555,21.5,0.492,2,fit from 21.5 (sd 8.4),-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Kyrie Irving,player_assists,4.5,MORE,0.544,4.5,0.544,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_assists,9.5,MORE,0.538,9.5,0.538,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Christian Braun,player_points,13.5,LESS,0.533,12.5,0.53,2,fit from 12.5 (sd 6.3),-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_points,22.5,MORE,0.532,22.5,0.532,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_points,19.5,LESS,0.526,18.5,0.524,2,fit from 18.5 (sd 8.1),-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Anthony Black,player_points,14.5,LESS,0.524,14.5,0.476,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_points,19.5,MORE,0.63,22.5,0.511,2,fit from 22.5 (sd 9.9),-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Kyrie Irving,player_assists,4.5,MORE,0.573,4.5,0.573,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Neemias Queta,player_points,11.5,LESS,0.555,10.5,0.523,2,fit from 10.5 (sd 5.1),-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_points,17.5,LESS,0.537,17.5,0.463,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_points,9.5,LESS,0.528,9.5,0.472,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Christian Braun,player_points,12.5,MORE,0.528,12.5,0.528,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_assists,9.5,MORE,0.525,9.5,0.525,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Jayson Tatum,player_points,25.5,MORE,0.524,25.5,0.524,1,same line,-137.0,1.0
 nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,DeMar DeRozan,player_points,10.5,LESS,0.521,10.5,0.479,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Daniel Gafford,player_points,9.5,LESS,0.519,9.5,0.481,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Jayson Tatum,player_points,26.5,LESS,0.519,26.5,0.481,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,John Collins,player_points,10.5,LESS,0.515,10.5,0.485,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Cade Cunningham,player_points,25.5,LESS,0.512,24.5,0.534,2,fit from 24.5 (sd 8.7),-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_points,13.5,LESS,0.512,13.5,0.488,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Payton Pritchard,player_points,13.5,LESS,0.51,12.5,0.534,2,fit from 12.5 (sd 9.0),-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Kevin Huerter,player_points,11.5,MORE,0.509,11.5,0.509,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cameron Johnson,player_points,12.5,MORE,0.509,12.5,0.509,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Daniss Jenkins,player_assists,4.5,LESS,0.514,4.5,0.486,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_points,18.5,MORE,0.513,18.5,0.513,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_threes,2.5,LESS,0.513,2.5,0.487,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_assists,3.5,LESS,0.512,3.5,0.488,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Aaron Gordon,player_points,13.5,MORE,0.51,13.5,0.51,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cameron Johnson,player_points,12.5,MORE,0.51,12.5,0.51,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Cade Cunningham,player_points,24.5,LESS,0.51,24.5,0.49,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Kevin Huerter,player_points,11.5,LESS,0.51,11.5,0.49,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Tristan da Silva,player_points,10.5,LESS,0.509,10.5,0.491,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_rebounds,6.5,MORE,0.508,6.5,0.508,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Payton Pritchard,player_points,13.5,LESS,0.508,12.5,0.536,2,fit from 12.5 (sd 9.0),-137.0,1.0
 nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Wendell Carter Jr,player_points,10.5,MORE,0.508,10.5,0.508,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_points,17.5,LESS,0.506,17.5,0.494,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Tristan da Silva,player_points,10.5,LESS,0.506,10.5,0.494,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Daniss Jenkins,player_assists,4.5,MORE,0.506,4.5,0.506,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_assists,4.5,LESS,0.505,4.5,0.495,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_points,10.5,LESS,0.504,10.5,0.496,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_assists,6.5,MORE,0.504,6.5,0.504,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_points,9.5,MORE,0.504,9.5,0.504,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_assists,3.5,LESS,0.503,3.5,0.497,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_points,10.5,MORE,0.507,10.5,0.507,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_assists,3.5,LESS,0.506,3.5,0.494,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_points,23.5,MORE,0.505,22.5,0.561,1,fit from 22.5 (sd 7.1),-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,AJ Dybantsa,player_points,15.5,LESS,0.504,15.5,0.496,1,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Anthony Davis,player_points,20.5,MORE,0.504,20.5,0.504,1,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_assists,4.5,MORE,0.503,4.5,0.503,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_assists,6.5,MORE,0.502,6.5,0.502,2,same line,-137.0,1.0
 nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_points,25.5,LESS,0.5,25.5,0.5,2,same line,-137.0,1.0
 nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_points,25.5,MORE,0.5,25.5,0.5,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_assists,3.5,MORE,0.497,3.5,0.497,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_points,9.5,LESS,0.496,9.5,0.504,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_points,10.5,MORE,0.496,10.5,0.496,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_assists,6.5,LESS,0.496,6.5,0.504,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_assists,4.5,MORE,0.495,4.5,0.495,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Tristan da Silva,player_points,10.5,MORE,0.494,10.5,0.494,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_points,17.5,MORE,0.494,17.5,0.494,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Daniss Jenkins,player_assists,4.5,LESS,0.494,4.5,0.506,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Neemias Queta,player_rebounds,8.5,MORE,0.494,8.5,0.494,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_assists,6.5,LESS,0.498,6.5,0.502,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_assists,4.5,LESS,0.497,4.5,0.503,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Anthony Davis,player_points,20.5,LESS,0.496,20.5,0.504,1,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,AJ Dybantsa,player_points,15.5,MORE,0.496,15.5,0.496,1,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_points,23.5,LESS,0.495,22.5,0.561,1,fit from 22.5 (sd 7.1),-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_assists,3.5,MORE,0.494,3.5,0.494,2,same line,-137.0,1.0
 nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_points_rebounds_assists,19.5,MORE,0.493,19.5,0.493,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_assists,1.5,MORE,0.493,1.5,0.493,3,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_points,10.5,LESS,0.493,10.5,0.507,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Payton Pritchard,player_points,13.5,MORE,0.492,12.5,0.536,2,fit from 12.5 (sd 9.0),-137.0,1.0
 nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Wendell Carter Jr,player_points,10.5,LESS,0.492,10.5,0.508,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Kevin Huerter,player_points,11.5,LESS,0.491,11.5,0.509,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cameron Johnson,player_points,12.5,LESS,0.491,12.5,0.509,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Payton Pritchard,player_points,13.5,MORE,0.49,12.5,0.534,2,fit from 12.5 (sd 9.0),-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_points,13.5,MORE,0.488,13.5,0.488,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Cade Cunningham,player_points,25.5,MORE,0.488,24.5,0.534,2,fit from 24.5 (sd 8.7),-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_threes,2.5,MORE,0.486,2.5,0.486,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,AJ Dybantsa,player_rebounds,6.5,MORE,0.485,6.5,0.485,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,John Collins,player_points,10.5,MORE,0.485,10.5,0.485,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Daniel Gafford,player_points,9.5,MORE,0.481,9.5,0.481,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Jayson Tatum,player_points,26.5,MORE,0.481,26.5,0.481,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Tristan da Silva,player_points,10.5,MORE,0.491,10.5,0.491,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Aaron Gordon,player_points,13.5,LESS,0.49,13.5,0.51,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cameron Johnson,player_points,12.5,LESS,0.49,12.5,0.51,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Cade Cunningham,player_points,24.5,MORE,0.49,24.5,0.49,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Kevin Huerter,player_points,11.5,MORE,0.49,11.5,0.49,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_assists,3.5,MORE,0.488,3.5,0.488,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_threes,2.5,MORE,0.487,2.5,0.487,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Bilal Coulibaly,player_points,6.5,MORE,0.487,6.5,0.487,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_points,18.5,LESS,0.487,18.5,0.513,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Daniss Jenkins,player_assists,4.5,MORE,0.486,4.5,0.486,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_points,13.5,MORE,0.486,13.5,0.486,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Bilal Coulibaly,player_rebounds,3.5,MORE,0.482,3.5,0.482,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Daniel Gafford,player_points,9.5,MORE,0.479,9.5,0.479,2,same line,-137.0,1.0
 nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,DeMar DeRozan,player_points,10.5,MORE,0.479,10.5,0.479,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Daniss Jenkins,player_points,15.5,MORE,0.478,15.5,0.478,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Aaron Gordon,player_points,13.5,LESS,0.477,13.5,0.523,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Anthony Black,player_points,14.5,MORE,0.478,14.5,0.478,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_assists,1.5,MORE,0.478,1.5,0.478,3,same line,-137.0,1.0
 nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_points_rebounds_assists,24.5,MORE,0.477,24.5,0.477,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Anthony Black,player_threes,1.5,MORE,0.476,1.5,0.476,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Anthony Black,player_points,14.5,MORE,0.476,14.5,0.476,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_points,19.5,MORE,0.474,18.5,0.524,2,fit from 18.5 (sd 8.1),-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Aaron Gordon,player_points,14.5,MORE,0.474,13.5,0.523,2,fit from 13.5 (sd 8.1),-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Zaccharie Risacher,player_points,8.5,MORE,0.473,8.5,0.473,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Anthony Black,player_threes,1.5,MORE,0.477,1.5,0.477,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Jayson Tatum,player_points,25.5,LESS,0.476,25.5,0.524,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cooper Flagg,player_assists,6.5,MORE,0.476,6.5,0.476,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_assists,9.5,LESS,0.475,9.5,0.525,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Naji Marshall,player_points,10.5,MORE,0.472,9.5,0.524,1,fit from 9.5 (sd 7.6),-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_points,9.5,MORE,0.472,9.5,0.472,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,P.J. Washington,player_rebounds,5.5,MORE,0.472,5.5,0.472,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Isaiah Joe,player_points,11.5,MORE,0.472,10.5,0.536,2,fit from 10.5 (sd 6.2),-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_rebounds,4.5,MORE,0.472,4.5,0.472,2,same line,-137.0,1.0
 nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Christian Braun,player_points_rebounds_assists,20.5,MORE,0.472,20.5,0.472,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Caleb Martin,player_rebounds,3.5,MORE,0.472,3.5,0.472,1,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_rebounds,6.5,MORE,0.471,6.5,0.471,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_points,11.5,MORE,0.468,11.5,0.468,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_assists,4.5,MORE,0.472,4.5,0.472,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Christian Braun,player_points,12.5,LESS,0.472,12.5,0.528,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_points,23.5,MORE,0.471,22.5,0.511,2,fit from 22.5 (sd 9.9),-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Daniss Jenkins,player_points,15.5,MORE,0.471,15.5,0.471,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Trae Young,player_points,14.5,MORE,0.471,14.5,0.471,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cooper Flagg,player_rebounds,6.5,MORE,0.47,6.5,0.47,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,John Collins,player_points,10.5,MORE,0.47,10.5,0.47,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_points,11.5,MORE,0.469,11.5,0.469,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Aaron Gordon,player_rebounds,5.5,MORE,0.469,5.5,0.469,2,same line,-137.0,1.0
 nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Wendell Carter Jr,player_assists,1.5,MORE,0.468,1.5,0.468,1,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Franz Wagner,player_points,22.5,LESS,0.468,22.5,0.532,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Kevin Huerter,player_rebounds,3.5,MORE,0.468,3.5,0.468,1,same line,-137.0,1.0
 nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,John Collins,player_points_rebounds_assists,17.5,MORE,0.468,17.5,0.468,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Naji Marshall,player_points,10.5,MORE,0.467,10.5,0.467,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Christian Braun,player_points,13.5,MORE,0.467,12.5,0.53,2,fit from 12.5 (sd 6.3),-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_threes,1.5,LESS,0.465,1.5,0.535,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cooper Flagg,player_assists,6.5,MORE,0.464,6.5,0.464,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_rebounds,4.5,MORE,0.463,4.5,0.463,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_assists,9.5,LESS,0.462,9.5,0.538,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Aaron Gordon,player_rebounds,5.5,MORE,0.46,5.5,0.46,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_assists,6.5,MORE,0.46,6.5,0.46,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Kyrie Irving,player_assists,4.5,LESS,0.456,4.5,0.544,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Trae Young,player_points,15.5,MORE,0.455,15.5,0.455,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_assists,2.5,LESS,0.454,2.5,0.546,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_assists,4.5,MORE,0.454,4.5,0.454,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,P.J. Washington,player_rebounds,5.5,MORE,0.452,5.5,0.452,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Wendell Carter Jr,player_rebounds,8.5,MORE,0.452,8.5,0.452,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Neemias Queta,player_points,11.5,MORE,0.45,10.5,0.528,2,fit from 10.5 (sd 5.1),-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_assists,3.5,LESS,0.449,3.5,0.551,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Isaiah Joe,player_points,11.5,MORE,0.446,9.5,0.575,1,fit from 9.5 (sd 6.2),-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Trae Young,player_rebounds,2.5,MORE,0.446,2.5,0.446,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Anthony Davis,player_points,22.5,MORE,0.445,21.5,0.492,2,fit from 21.5 (sd 8.4),-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Anthony Davis,player_threes,0.5,LESS,0.467,0.5,0.533,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_assists,6.5,MORE,0.467,6.5,0.467,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Caleb Martin,player_rebounds,3.5,MORE,0.463,3.5,0.463,1,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_points,17.5,MORE,0.463,17.5,0.463,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Javonte Green,player_points,6.5,MORE,0.456,6.5,0.456,1,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Trae Young,player_rebounds,2.5,MORE,0.454,2.5,0.454,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Daniel Gafford,player_points,8.5,LESS,0.452,9.5,0.479,2,fit from 9.5 (sd 5.8),-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_assists,2.5,LESS,0.452,2.5,0.548,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,AJ Dybantsa,player_rebounds,6.5,MORE,0.451,6.5,0.451,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_rebounds,5.5,MORE,0.45,5.5,0.45,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_rebounds,3.5,MORE,0.447,3.5,0.447,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Neemias Queta,player_points,11.5,MORE,0.445,10.5,0.523,2,fit from 10.5 (sd 5.1),-137.0,1.0
 nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Caleb Martin,player_threes,0.5,LESS,0.445,0.5,0.555,1,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Javonte Green,player_points,6.5,MORE,0.444,6.5,0.444,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Christian Braun,player_threes,1.5,MORE,0.442,1.5,0.442,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Jamal Murray,player_points,24.5,MORE,0.44,22.5,0.52,2,fit from 22.5 (sd 9.9),-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_threes,3.5,MORE,0.437,3.5,0.437,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Derrick White,player_rebounds,3.5,MORE,0.435,3.5,0.435,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Naji Marshall,player_threes,0.5,LESS,0.434,0.5,0.566,4,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,DeMar DeRozan,player_assists,2.5,MORE,0.434,2.5,0.434,3,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_rebounds,6.5,MORE,0.434,6.5,0.434,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Caleb Martin,player_assists,2.5,MORE,0.433,2.5,0.433,3,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_rebounds,12.5,MORE,0.432,11.5,0.53,2,fit from 11.5 (sd 4.1),-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Goga Bitadze,player_points,5.5,MORE,0.431,5.5,0.431,1,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Cade Cunningham,player_rebounds,5.5,MORE,0.431,5.5,0.431,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Paul George,player_rebounds,5.5,MORE,0.429,5.5,0.429,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Kyshawn George,player_assists,3.5,LESS,0.428,3.5,0.572,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Anthony Davis,player_rebounds,10.5,MORE,0.427,9.5,0.542,1,fit from 9.5 (sd 3.5),-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Jayson Tatum,player_threes,2.5,LESS,0.426,2.5,0.574,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_rebounds,4.5,MORE,0.423,4.5,0.423,2,same line,-137.0,1.0
-nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_rebounds,8.5,MORE,0.418,7.5,0.555,2,fit from 7.5 (sd 2.9),-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Daniel Gafford,player_rebounds,7.5,MORE,0.418,7.5,0.418,2,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Kyshawn George,player_rebounds,4.5,MORE,0.407,4.5,0.407,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cameron Johnson,player_assists,2.5,MORE,0.405,2.5,0.405,3,same line,-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,AJ Dybantsa,player_points,17.5,MORE,0.403,16.5,0.478,2,fit from 16.5 (sd 5.3),-137.0,1.0
-nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Trae Young,player_assists,8.5,MORE,0.401,7.5,0.519,1,fit from 7.5 (sd 3.4),-137.0,1.0
-nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Kyrie Irving,player_points,24.5,MORE,0.395,22.5,0.488,2,fit from 22.5 (sd 8.4),-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Christian Braun,player_threes,1.5,MORE,0.444,1.5,0.444,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Jayson Tatum,player_threes,2.5,LESS,0.441,2.5,0.559,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Kevin Huerter,player_rebounds,3.5,MORE,0.441,3.5,0.441,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Caleb Martin,player_assists,2.5,MORE,0.438,2.5,0.438,3,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,John Collins,player_rebounds,5.5,MORE,0.436,5.5,0.436,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Bilal Coulibaly,player_threes,0.5,LESS,0.436,0.5,0.564,4,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_threes,1.5,LESS,0.435,1.5,0.565,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Desmond Bane,player_threes,3.5,MORE,0.435,3.5,0.435,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,AJ Dybantsa,player_assists,2.5,LESS,0.434,2.5,0.566,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Nikola Jokic,player_rebounds,12.5,MORE,0.434,11.5,0.532,1,fit from 11.5 (sd 4.1),-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Alex Sarr,player_rebounds,6.5,MORE,0.433,6.5,0.433,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Naji Marshall,player_threes,0.5,LESS,0.43,0.5,0.57,4,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Kyrie Irving,player_assists,4.5,LESS,0.427,4.5,0.573,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Cade Cunningham,player_rebounds,5.5,MORE,0.426,5.5,0.426,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Kyshawn George,player_assists,3.5,LESS,0.423,3.5,0.577,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Jalen Suggs,player_rebounds,4.5,MORE,0.421,4.5,0.421,2,same line,-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Anthony Davis,player_rebounds,10.5,MORE,0.421,9.5,0.535,2,fit from 9.5 (sd 3.5),-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,DeMar DeRozan,player_assists,2.5,MORE,0.42,2.5,0.42,3,same line,-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Zaccharie Risacher,player_points,8.5,MORE,0.42,7.5,0.496,1,fit from 7.5 (sd 5.3),-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Neemias Queta,player_rebounds,9.5,MORE,0.418,8.5,0.522,2,fit from 8.5 (sd 3.8),-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Kyshawn George,player_rebounds,4.5,MORE,0.413,4.5,0.413,2,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Cade Cunningham,player_assists,8.5,MORE,0.411,7.5,0.551,1,fit from 7.5 (sd 2.8),-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Cameron Johnson,player_assists,2.5,MORE,0.41,2.5,0.41,3,same line,-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Ausar Thompson,player_rebounds,8.5,MORE,0.408,7.5,0.544,2,fit from 7.5 (sd 2.9),-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Wendell Carter Jr,player_rebounds,8.5,MORE,0.401,7.5,0.554,1,fit from 7.5 (sd 2.6),-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Kyrie Irving,player_points,24.5,MORE,0.4,22.5,0.493,2,fit from 22.5 (sd 8.4),-137.0,1.0
+nba,Dallas Mavericks@Denver Nuggets,2026-11-24T22:10-05:00,Daniel Gafford,player_rebounds,7.5,MORE,0.373,6.5,0.51,1,fit from 6.5 (sd 2.9),-137.0,1.0
+nba,Boston Celtics@Washington Wizards,2026-11-24T20:10-05:00,Trae Young,player_assists,8.5,MORE,0.372,7.5,0.489,2,fit from 7.5 (sd 3.4),-137.0,1.0
+nba,Detroit Pistons@Orlando Magic,2026-11-24T19:11-05:00,Goga Bitadze,player_points,5.5,MORE,0.346,4.5,0.469,1,fit from 4.5 (sd 3.1),-137.0,1.0
