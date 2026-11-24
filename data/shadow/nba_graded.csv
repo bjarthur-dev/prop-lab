@@ -8366,3 +8366,402 @@ date,model_version,player,team,opp,market,line,side,book,price,ts,min_proj,mu,p_
 2026-11-22,,Yaxel Lendeborg,GSW,BOS,reb,6.5,over,draftkings,-138.0,2026-11-22T14:53:59-05:00,31.6,6.71,0.5,0.531,7.0,0.58,-13.8,-3.2,-3.1,-4.9,PASS,no edge,,,,0.0,yaxel lendeborg,8.0,1.0,graded,0.476,0.024
 2026-11-22,,Zaccharie Risacher,DAL,UTA,pts,8.5,over,draftkings,-123.0,2026-11-22T14:53:59-05:00,22.2,8.7,0.483,0.522,6.0,0.552,-12.4,-2.73,-3.8,-3.0,PASS,no edge,,,,0.0,zaccharie risacher,15.0,1.0,graded,0.46,0.024
 2026-11-22,,Zaccharie Risacher,DAL,UTA,reb,4.5,over,draftkings,116.0,2026-11-22T14:53:59-05:00,22.2,4.23,0.423,0.449,3.0,0.463,-8.5,-1.58,-2.5,-1.4,PASS,no edge,,,,0.0,zaccharie risacher,8.0,1.0,graded,0.4,0.024
+2026-11-23,,Ace Bailey,UTA,LAL,fg3m,2.5,over,DraftKings,140.0,14:54,27.4,1.7,0.273,0.378,5.0,0.417,-34.4,-5.73,-10.4,-3.9,PASS,no edge,,,,0.0,ace bailey,1.0,0.0,graded,0.25,0.024
+2026-11-23,,Ace Bailey,UTA,LAL,pts,14.5,over,DraftKings,-125.0,14:54,27.4,12.63,0.36,0.511,6.0,0.556,-35.2,-7.82,-15.1,-4.4,PASS,no edge,,,,0.0,ace bailey,18.0,1.0,graded,0.336,0.024
+2026-11-23,,Ace Bailey,UTA,LAL,reb,5.5,over,DraftKings,-110.0,14:54,27.4,4.77,0.374,0.474,7.0,0.524,-28.5,-5.98,-10.0,-4.9,PASS,no edge,,,,0.0,ace bailey,5.0,0.0,graded,0.35,0.024
+2026-11-23,,Ajay Mitchell,OKC,IND,ast,3.5,over,DraftKings,-121.0,14:54,28.0,3.7,0.5,0.54,7.0,0.548,-8.7,-1.9,-4.0,-0.8,PASS,no edge,,,,0.0,ajay mitchell,3.0,0.0,graded,0.476,0.024
+2026-11-23,,Ajay Mitchell,OKC,IND,fg3m,0.5,over,DraftKings,-233.0,14:54,28.0,1.17,0.702,0.654,2.0,0.7,0.3,0.08,4.7,-4.5,PASS,no edge,,,,0.0,ajay mitchell,2.0,1.0,graded,0.678,0.024
+2026-11-23,,Ajay Mitchell,OKC,IND,pts,17.5,over,DraftKings,-102.0,14:54,28.0,15.01,0.341,0.472,3.0,0.505,-32.5,-6.57,-13.1,-3.3,PASS,no edge,,,,0.0,ajay mitchell,12.0,0.0,graded,0.317,0.024
+2026-11-23,,Ajay Mitchell,OKC,IND,reb,3.5,over,DraftKings,-110.0,14:54,28.0,3.68,0.487,0.503,7.0,0.524,-7.1,-1.48,-1.6,-2.1,PASS,no edge,,,,0.0,ajay mitchell,4.0,1.0,graded,0.463,0.024
+2026-11-23,,Allen Graves,TOR,MIL,pts,8.5,over,DraftKings,-114.0,14:54,21.3,8.88,0.499,0.511,6.0,0.533,-6.4,-1.36,-1.2,-2.2,PASS,no edge,,,,0.0,allen graves,7.0,0.0,graded,0.475,0.024
+2026-11-23,,Allen Graves,TOR,MIL,reb,4.5,over,DraftKings,-128.0,14:54,21.3,4.19,0.419,0.521,6.0,0.561,-25.4,-5.7,-10.2,-4.1,PASS,no edge,,,,0.0,allen graves,2.0,0.0,graded,0.395,0.024
+2026-11-23,,Alperen Sengun,HOU,LAC,ast,6.5,over,DraftKings,-140.0,14:54,29.2,5.56,0.364,0.531,7.0,0.583,-37.7,-8.79,-16.7,-5.3,PASS,no edge,,,,0.0,alperen sengun,7.0,1.0,graded,0.34,0.024
+2026-11-23,,Alperen Sengun,HOU,LAC,fg3m,0.5,over,DraftKings,-123.0,14:54,29.2,0.68,0.502,0.492,5.0,0.552,-9.0,-1.98,1.0,-6.0,PASS,no edge,,,,0.0,alperen sengun,1.0,1.0,graded,0.478,0.024
+2026-11-23,,Alperen Sengun,HOU,LAC,pts,21.5,over,DraftKings,-107.0,14:54,29.2,18.26,0.338,0.481,5.0,0.517,-34.6,-7.15,-14.3,-3.6,PASS,no edge,,,,0.0,alperen sengun,20.0,0.0,graded,0.314,0.024
+2026-11-23,,Alperen Sengun,HOU,LAC,reb,9.5,over,DraftKings,100.0,14:54,29.2,7.63,0.308,0.463,6.0,0.5,-38.5,-7.69,-15.5,-3.7,PASS,no edge,,,,0.0,alperen sengun,8.0,0.0,graded,0.284,0.024
+2026-11-23,,Amen Thompson,HOU,LAC,ast,2.5,over,DraftKings,-161.0,14:54,30.7,3.87,0.706,0.588,6.0,0.617,14.4,3.55,11.8,-2.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.614,-0.31,,0.0,amen thompson,5.0,1.0,graded,0.682,0.024
+2026-11-23,,Amen Thompson,HOU,LAC,pts,15.5,over,DraftKings,-106.0,14:54,30.7,15.32,0.469,0.481,7.0,0.515,-8.8,-1.82,-1.2,-3.3,PASS,no edge,,,,0.0,amen thompson,20.0,1.0,graded,0.445,0.024
+2026-11-23,,Amen Thompson,HOU,LAC,reb,6.5,over,DraftKings,-107.0,14:54,30.7,6.31,0.454,0.49,7.0,0.517,-12.2,-2.53,-3.6,-2.7,PASS,no edge,,,,0.0,amen thompson,4.0,0.0,graded,0.43,0.024
+2026-11-23,,Andrew Nembhard,IND,OKC,ast,7.5,over,DraftKings,112.0,14:54,31.9,7.12,0.436,0.445,6.0,0.472,-7.5,-1.42,-0.8,-2.7,PASS,no edge,,,,0.0,andrew nembhard,6.0,0.0,graded,0.412,0.024
+2026-11-23,,Andrew Nembhard,IND,OKC,fg3m,1.5,over,DraftKings,-129.0,14:54,31.9,1.84,0.556,0.52,7.0,0.563,-1.4,-0.31,3.5,-4.3,PASS,no edge,,,,0.0,andrew nembhard,2.0,1.0,graded,0.532,0.024
+2026-11-23,,Andrew Nembhard,IND,OKC,pts,14.5,over,DraftKings,-109.0,14:54,31.9,15.58,0.553,0.493,6.0,0.522,6.0,1.24,6.0,-2.9,PASS,no edge,,,,0.0,andrew nembhard,15.0,1.0,graded,0.529,0.024
+2026-11-23,,Anfernee Simons,PHI,POR,fg3m,1.5,over,DraftKings,-157.0,14:54,18.5,1.59,0.473,0.569,5.0,0.611,-22.5,-5.5,-9.6,-4.2,PASS,no edge,,,,0.0,anfernee simons,0.0,0.0,graded,0.45,0.024
+2026-11-23,,Anfernee Simons,PHI,POR,pts,9.5,over,DraftKings,-107.0,14:54,18.5,8.54,0.401,0.482,4.0,0.517,-22.4,-4.63,-8.0,-3.5,PASS,no edge,,,,0.0,anfernee simons,3.0,0.0,graded,0.377,0.024
+2026-11-23,,Ayo Dosunmu,MIN,BKN,ast,3.5,over,DraftKings,-142.0,14:54,28.7,3.37,0.438,0.577,2.0,0.587,-25.4,-5.96,-13.9,-1.0,PASS,no edge,,,,0.0,ayo dosunmu,5.0,1.0,graded,0.414,0.024
+2026-11-23,,Ayo Dosunmu,MIN,BKN,fg3m,1.5,over,DraftKings,-164.0,14:54,28.7,1.56,0.472,0.588,6.0,0.621,-24.0,-5.96,-11.6,-3.3,PASS,no edge,,,,0.0,ayo dosunmu,4.0,1.0,graded,0.448,0.024
+2026-11-23,,Ayo Dosunmu,MIN,BKN,pts,17.5,over,DraftKings,-111.0,14:54,28.7,14.66,0.322,0.497,7.0,0.526,-38.7,-8.15,-17.5,-2.9,PASS,no edge,,,,0.0,ayo dosunmu,23.0,1.0,graded,0.298,0.024
+2026-11-23,,Ayo Dosunmu,MIN,BKN,reb,4.5,over,DraftKings,114.0,14:54,28.7,3.99,0.389,0.438,2.0,0.467,-16.7,-3.12,-4.8,-3.0,PASS,no edge,,,,0.0,ayo dosunmu,3.0,0.0,graded,0.365,0.024
+2026-11-23,,Brandon Miller,CHA,MEM,ast,3.5,over,DraftKings,130.0,14:54,29.3,3.0,0.375,0.393,5.0,0.435,-13.7,-2.38,-1.8,-4.1,PASS,no edge,,,,0.0,brandon miller,5.0,1.0,graded,0.351,0.024
+2026-11-23,,Brandon Miller,CHA,MEM,fg3m,3.5,over,DraftKings,131.0,14:54,29.3,2.78,0.333,0.431,7.0,0.433,-23.0,-3.99,-9.7,-0.2,PASS,no edge,,,,0.0,brandon miller,4.0,1.0,graded,0.309,0.024
+2026-11-23,,Brandon Miller,CHA,MEM,pts,21.5,over,DraftKings,-109.0,14:54,29.3,18.85,0.364,0.503,6.0,0.522,-30.2,-6.3,-13.8,-1.9,PASS,no edge,,,,0.0,brandon miller,20.0,0.0,graded,0.34,0.024
+2026-11-23,,Brandon Miller,CHA,MEM,reb,4.5,over,DraftKings,-135.0,14:54,29.3,4.6,0.479,0.5,7.0,0.574,-16.6,-3.83,-2.1,-7.4,PASS,no edge,,,,0.0,brandon miller,3.0,0.0,graded,0.455,0.024
+2026-11-23,,Brayden Burries,MIL,TOR,ast,2.5,over,DraftKings,-114.0,14:54,24.0,2.25,0.402,0.495,4.0,0.533,-24.6,-5.24,-9.3,-3.8,PASS,no edge,,,,0.0,brayden burries,4.0,1.0,graded,0.378,0.024
+2026-11-23,,Brayden Burries,MIL,TOR,fg3m,1.5,over,DraftKings,126.0,14:54,24.0,1.32,0.391,0.411,5.0,0.442,-11.5,-2.04,-2.0,-3.1,PASS,no edge,,,,0.0,brayden burries,1.0,0.0,graded,0.368,0.024
+2026-11-23,,Brayden Burries,MIL,TOR,pts,11.5,over,DraftKings,-113.0,14:54,24.0,10.44,0.4,0.478,6.0,0.531,-24.5,-5.21,-7.8,-5.3,PASS,no edge,,,,0.0,brayden burries,14.0,1.0,graded,0.376,0.024
+2026-11-23,,Brayden Burries,MIL,TOR,reb,5.5,over,DraftKings,106.0,14:54,24.0,5.22,0.434,0.436,6.0,0.485,-10.6,-2.07,-0.3,-4.9,PASS,no edge,,,,0.0,brayden burries,10.0,1.0,graded,0.41,0.024
+2026-11-23,,Brook Lopez,LAC,HOU,fg3m,1.5,over,DraftKings,110.0,14:54,25.6,1.71,0.511,0.455,7.0,0.476,7.3,1.39,5.6,-2.1,PASS,no edge,,,,0.0,brook lopez,1.0,0.0,graded,0.487,0.024
+2026-11-23,,Brook Lopez,LAC,HOU,pts,11.5,over,DraftKings,-121.0,14:54,25.6,12.48,0.544,0.528,4.0,0.548,-0.6,-0.12,1.7,-2.0,PASS,no edge,,,,0.0,brook lopez,3.0,0.0,graded,0.521,0.024
+2026-11-23,,Brook Lopez,LAC,HOU,reb,4.5,over,DraftKings,-125.0,14:54,25.6,4.73,0.498,0.488,7.0,0.556,-10.3,-2.29,1.1,-6.8,PASS,no edge,,,,0.0,brook lopez,4.0,0.0,graded,0.474,0.024
+2026-11-23,,Cam Spencer,MEM,CHA,ast,5.5,over,DraftKings,-135.0,14:54,24.6,5.01,0.407,0.519,7.0,0.574,-29.2,-6.72,-11.3,-5.5,PASS,no edge,,,,0.0,cam spencer,5.0,0.0,graded,0.383,0.024
+2026-11-23,,Cam Spencer,MEM,CHA,fg3m,1.5,over,DraftKings,-129.0,14:54,24.6,1.5,0.457,0.508,7.0,0.563,-18.9,-4.25,-5.1,-5.5,PASS,no edge,,,,0.0,cam spencer,3.0,1.0,graded,0.433,0.024
+2026-11-23,,Cam Spencer,MEM,CHA,pts,9.5,over,DraftKings,-129.0,14:54,24.6,9.82,0.494,0.519,2.0,0.563,-12.4,-2.78,-2.6,-4.4,PASS,no edge,,,,0.0,cam spencer,24.0,1.0,graded,0.47,0.024
+2026-11-23,,Cam Spencer,MEM,CHA,reb,3.5,over,DraftKings,128.0,14:54,24.6,2.9,0.355,0.417,3.0,0.439,-19.1,-3.34,-6.1,-2.2,PASS,no edge,,,,0.0,cam spencer,1.0,0.0,graded,0.331,0.024
+2026-11-23,,Cedric Coward,MEM,CHA,ast,2.5,over,DraftKings,-180.0,14:54,27.6,2.73,0.504,0.603,1.0,0.643,-21.5,-5.54,-9.8,-4.0,PASS,no edge,,,,0.0,cedric coward,3.0,1.0,graded,0.481,0.024
+2026-11-23,,Cedric Coward,MEM,CHA,fg3m,1.5,over,DraftKings,-180.0,14:54,27.6,1.68,0.509,0.614,5.0,0.643,-20.8,-5.35,-10.5,-2.9,PASS,no edge,,,,0.0,cedric coward,0.0,0.0,graded,0.485,0.024
+2026-11-23,,Cedric Coward,MEM,CHA,pts,15.5,over,DraftKings,-119.0,14:54,27.6,12.44,0.294,0.517,6.0,0.543,-45.9,-9.98,-22.3,-2.6,PASS,no edge,,,,0.0,cedric coward,16.0,1.0,graded,0.27,0.024
+2026-11-23,,Cedric Coward,MEM,CHA,reb,7.5,over,DraftKings,111.0,14:54,27.6,6.33,0.349,0.438,4.0,0.474,-26.4,-5.0,-9.0,-3.6,PASS,no edge,,,,0.0,cedric coward,9.0,1.0,graded,0.325,0.024
+2026-11-23,,Coby White,CHA,MEM,ast,3.5,over,DraftKings,-147.0,14:54,19.3,3.06,0.388,0.575,5.0,0.595,-34.8,-8.29,-18.7,-2.1,PASS,no edge,,,,0.0,coby white,2.0,0.0,graded,0.364,0.024
+2026-11-23,,Coby White,CHA,MEM,fg3m,1.5,over,DraftKings,-174.0,14:54,19.3,1.48,0.445,0.604,7.0,0.635,-30.0,-7.62,-15.9,-3.1,PASS,no edge,,,,0.0,coby white,5.0,1.0,graded,0.421,0.024
+2026-11-23,,Coby White,CHA,MEM,pts,17.5,over,DraftKings,-109.0,14:54,19.3,10.25,0.131,0.51,6.0,0.522,-74.9,-15.62,-37.9,-1.2,PASS,no edge,,,,0.0,coby white,21.0,1.0,graded,0.107,0.024
+2026-11-23,,Coby White,CHA,MEM,reb,2.5,over,DraftKings,-140.0,14:54,19.3,2.55,0.457,0.528,6.0,0.583,-21.6,-5.05,-7.1,-5.5,PASS,no edge,,,,0.0,coby white,3.0,1.0,graded,0.433,0.024
+2026-11-23,,Collin Gillespie,PHX,NOP,ast,3.5,over,DraftKings,-132.0,14:54,26.0,3.91,0.533,0.558,5.0,0.569,-6.4,-1.45,-2.5,-1.1,PASS,no edge,,,,0.0,collin gillespie,3.0,0.0,graded,0.509,0.024
+2026-11-23,,Collin Gillespie,PHX,NOP,fg3m,2.5,over,DraftKings,113.0,14:54,26.0,2.36,0.433,0.476,5.0,0.469,-7.8,-1.46,-4.3,0.6,PASS,no edge,,,,0.0,collin gillespie,3.0,1.0,graded,0.409,0.024
+2026-11-23,,Collin Gillespie,PHX,NOP,pts,10.5,over,DraftKings,-102.0,14:54,26.0,10.91,0.499,0.501,6.0,0.505,-1.2,-0.25,-0.2,-0.4,PASS,no edge,,,,0.0,collin gillespie,18.0,1.0,graded,0.475,0.024
+2026-11-23,,Collin Gillespie,PHX,NOP,reb,2.5,over,DraftKings,-156.0,14:54,26.0,3.52,0.635,0.583,3.0,0.609,4.2,1.03,5.2,-2.6,PASS,no edge,,,,0.0,collin gillespie,3.0,1.0,graded,0.611,0.024
+2026-11-23,,Collin Murray-Boyles,TOR,MIL,ast,2.5,over,DraftKings,112.0,14:54,26.7,2.47,0.446,0.425,3.0,0.472,-5.5,-1.04,2.1,-4.7,PASS,no edge,,,,0.0,collin murray-boyles,1.0,0.0,graded,0.422,0.024
+2026-11-23,,Collin Murray-Boyles,TOR,MIL,fg3m,0.5,over,DraftKings,109.0,14:54,26.7,0.69,0.493,0.448,2.0,0.478,3.0,0.58,4.5,-3.0,PASS,no edge,,,,0.0,collin murray-boyles,0.0,0.0,graded,0.469,0.024
+2026-11-23,,Collin Murray-Boyles,TOR,MIL,pts,12.5,over,DraftKings,-105.0,14:54,26.7,12.16,0.456,0.47,4.0,0.512,-10.9,-2.23,-1.4,-4.2,PASS,no edge,,,,0.0,collin murray-boyles,6.0,0.0,graded,0.432,0.024
+2026-11-23,,Collin Murray-Boyles,TOR,MIL,reb,5.5,over,DraftKings,-151.0,14:54,26.7,5.54,0.473,0.564,1.0,0.602,-21.4,-5.14,-9.1,-3.8,PASS,no edge,,,,0.0,collin murray-boyles,10.0,1.0,graded,0.449,0.024
+2026-11-23,,Collin Sexton,LAL,UTA,ast,2.5,over,DraftKings,-104.0,14:54,19.7,2.39,0.433,0.494,4.0,0.51,-15.1,-3.07,-6.1,-1.5,PASS,no edge,,,,0.0,collin sexton,4.0,1.0,graded,0.409,0.024
+2026-11-23,,Collin Sexton,LAL,UTA,fg3m,1.5,over,DraftKings,170.0,14:54,19.7,1.17,0.347,0.368,7.0,0.37,-6.2,-0.93,-2.0,-0.3,PASS,no edge,,,,0.0,collin sexton,2.0,1.0,graded,0.323,0.024
+2026-11-23,,Collin Sexton,LAL,UTA,pts,11.5,over,DraftKings,-112.0,14:54,19.7,11.2,0.454,0.51,7.0,0.528,-14.1,-2.98,-5.6,-1.8,PASS,no edge,,,,0.0,collin sexton,12.0,1.0,graded,0.43,0.024
+2026-11-23,,Damian Lillard,POR,PHI,ast,4.5,over,DraftKings,116.0,14:54,29.5,3.65,0.339,0.433,5.0,0.463,-26.9,-4.97,-9.4,-3.0,PASS,no edge,,,,0.0,damian lillard,5.0,1.0,graded,0.315,0.024
+2026-11-23,,Damian Lillard,POR,PHI,fg3m,3.5,over,DraftKings,107.0,14:54,29.5,2.68,0.311,0.437,7.0,0.483,-35.7,-6.9,-12.7,-4.6,PASS,no edge,,,,0.0,damian lillard,1.0,0.0,graded,0.287,0.024
+2026-11-23,,Damian Lillard,POR,PHI,pts,21.5,over,DraftKings,-114.0,14:54,29.5,18.1,0.322,0.49,7.0,0.533,-39.5,-8.43,-16.8,-4.3,PASS,no edge,,,,0.0,damian lillard,18.0,0.0,graded,0.298,0.024
+2026-11-23,,Damian Lillard,POR,PHI,reb,3.5,over,DraftKings,-110.0,14:54,29.5,3.57,0.472,0.476,7.0,0.524,-9.8,-2.06,-0.4,-4.8,PASS,no edge,,,,0.0,damian lillard,3.0,0.0,graded,0.448,0.024
+2026-11-23,,Danny Wolf,BKN,MIN,fg3m,1.5,over,DraftKings,144.0,14:54,22.3,1.33,0.392,0.389,6.0,0.41,-4.3,-0.71,0.3,-2.1,PASS,no edge,,,,0.0,danny wolf,3.0,1.0,graded,0.368,0.024
+2026-11-23,,Danny Wolf,BKN,MIN,pts,8.5,over,DraftKings,-115.0,14:54,22.3,8.66,0.481,0.517,4.0,0.535,-10.1,-2.16,-3.6,-1.8,PASS,no edge,,,,0.0,danny wolf,11.0,1.0,graded,0.457,0.024
+2026-11-23,,Danny Wolf,BKN,MIN,reb,5.5,over,DraftKings,105.0,14:54,22.3,5.08,0.415,0.466,7.0,0.488,-14.9,-2.92,-5.1,-2.2,PASS,no edge,,,,0.0,danny wolf,5.0,0.0,graded,0.391,0.024
+2026-11-23,,Darius Acuff Jr.,SAC,SAS,ast,6.5,over,DraftKings,-102.0,14:54,34.2,6.11,0.43,0.492,7.0,0.505,-14.8,-2.99,-6.2,-1.3,PASS,no edge,,,,0.0,darius acuff,4.0,0.0,graded,0.406,0.024
+2026-11-23,,Darius Acuff Jr.,SAC,SAS,fg3m,2.5,over,DraftKings,-148.0,14:54,34.2,2.64,0.506,0.554,7.0,0.597,-15.2,-3.64,-4.8,-4.3,PASS,no edge,,,,0.0,darius acuff,0.0,0.0,graded,0.482,0.024
+2026-11-23,,Darius Acuff Jr.,SAC,SAS,pts,23.5,over,DraftKings,-107.0,14:54,34.2,21.02,0.369,0.484,5.0,0.517,-28.6,-5.9,-11.4,-3.3,PASS,no edge,,,,0.0,darius acuff,12.0,0.0,graded,0.345,0.024
+2026-11-23,,Darius Acuff Jr.,SAC,SAS,reb,3.5,over,DraftKings,128.0,14:54,34.2,3.68,0.491,0.402,5.0,0.439,11.8,2.08,8.9,-3.7,WATCH,edge below the Rules §3 bar,0.422,-1.67,,0.0,darius acuff,1.0,0.0,graded,0.467,0.024
+2026-11-23,,Darius Garland,LAC,HOU,ast,6.5,over,DraftKings,105.0,14:54,30.5,6.22,0.445,0.455,7.0,0.488,-8.9,-1.73,-1.1,-3.2,PASS,no edge,,,,0.0,darius garland,8.0,1.0,graded,0.421,0.024
+2026-11-23,,Darius Garland,LAC,HOU,fg3m,2.5,over,DraftKings,-101.0,14:54,30.5,2.44,0.455,0.476,7.0,0.502,-9.5,-1.91,-2.1,-2.7,PASS,no edge,,,,0.0,darius garland,4.0,1.0,graded,0.431,0.024
+2026-11-23,,Darius Garland,LAC,HOU,pts,18.5,over,DraftKings,-106.0,14:54,30.5,19.4,0.532,0.48,8.0,0.515,3.3,0.69,5.2,-3.5,PASS,no edge,,,,0.0,darius garland,26.0,1.0,graded,0.508,0.024
+2026-11-23,,Darius Garland,LAC,HOU,reb,2.5,over,DraftKings,118.0,14:54,30.5,2.49,0.452,0.433,6.0,0.459,-1.5,-0.28,1.9,-2.5,PASS,no edge,,,,0.0,darius garland,1.0,0.0,graded,0.428,0.024
+2026-11-23,,Darryn Peterson,UTA,LAL,ast,4.5,over,DraftKings,-126.0,14:54,28.1,3.58,0.328,0.518,6.0,0.558,-41.2,-9.18,-19.0,-3.9,PASS,no edge,,,,0.0,darryn peterson,5.0,1.0,graded,0.304,0.024
+2026-11-23,,Darryn Peterson,UTA,LAL,fg3m,2.5,over,DraftKings,124.0,14:54,28.1,1.79,0.297,0.433,7.0,0.446,-33.6,-6.0,-13.6,-1.3,PASS,no edge,,,,0.0,darryn peterson,0.0,0.0,graded,0.273,0.024
+2026-11-23,,Darryn Peterson,UTA,LAL,pts,18.5,over,DraftKings,-111.0,14:54,28.1,14.38,0.265,0.488,7.0,0.526,-49.6,-10.43,-22.3,-3.8,PASS,no edge,,,,0.0,darryn peterson,13.0,0.0,graded,0.241,0.024
+2026-11-23,,Darryn Peterson,UTA,LAL,reb,4.5,over,DraftKings,-108.0,14:54,28.1,4.18,0.424,0.481,7.0,0.519,-18.4,-3.83,-5.7,-3.8,PASS,no edge,,,,0.0,darryn peterson,6.0,1.0,graded,0.4,0.024
+2026-11-23,,Day'Ron Sharpe,BKN,MIN,ast,3.5,over,DraftKings,-102.0,14:54,22.0,2.77,0.335,0.506,6.0,0.505,-33.7,-6.8,-17.1,0.1,PASS,no edge,,,,0.0,dayron sharpe,7.0,1.0,graded,0.311,0.024
+2026-11-23,,Day'Ron Sharpe,BKN,MIN,pts,8.5,over,DraftKings,-121.0,14:54,22.0,8.61,0.473,0.529,6.0,0.548,-13.6,-2.98,-5.6,-1.9,PASS,no edge,,,,0.0,dayron sharpe,6.0,0.0,graded,0.449,0.024
+2026-11-23,,Day'Ron Sharpe,BKN,MIN,reb,7.5,over,DraftKings,-125.0,14:54,22.0,6.88,0.412,0.52,7.0,0.556,-25.8,-5.72,-10.8,-3.5,PASS,no edge,,,,0.0,dayron sharpe,5.0,0.0,graded,0.389,0.024
+2026-11-23,,De'Aaron Fox,SAS,SAC,ast,6.5,over,DraftKings,107.0,14:54,28.7,5.6,0.367,0.461,7.0,0.483,-23.9,-4.63,-9.3,-2.2,PASS,no edge,,,,0.0,deaaron fox,,,DNP/void,0.344,0.024
+2026-11-23,,De'Aaron Fox,SAS,SAC,fg3m,1.5,over,DraftKings,139.0,14:54,28.7,1.43,0.431,0.402,7.0,0.418,3.1,0.51,2.9,-1.6,PASS,no edge,,,,0.0,deaaron fox,,,DNP/void,0.407,0.024
+2026-11-23,,De'Aaron Fox,SAS,SAC,pts,15.5,over,DraftKings,-122.0,14:54,28.7,15.12,0.457,0.505,6.0,0.55,-16.8,-3.7,-4.9,-4.4,PASS,no edge,,,,0.0,deaaron fox,,,DNP/void,0.433,0.024
+2026-11-23,,De'Aaron Fox,SAS,SAC,reb,3.5,over,DraftKings,-113.0,14:54,28.7,3.71,0.493,0.5,7.0,0.531,-7.1,-1.51,-0.7,-3.1,PASS,no edge,,,,0.0,deaaron fox,,,DNP/void,0.469,0.024
+2026-11-23,,De'Andre Hunter,SAC,SAS,ast,1.5,over,DraftKings,-110.0,14:54,29.7,1.92,0.546,0.503,4.0,0.524,4.3,0.9,4.3,-2.0,PASS,no edge,,,,0.0,deandre hunter,8.0,1.0,graded,0.522,0.024
+2026-11-23,,De'Andre Hunter,SAC,SAS,fg3m,1.5,over,DraftKings,-170.0,14:54,29.7,1.77,0.535,0.583,7.0,0.63,-15.0,-3.79,-4.8,-4.7,PASS,no edge,,,,0.0,deandre hunter,1.0,0.0,graded,0.511,0.024
+2026-11-23,,De'Andre Hunter,SAC,SAS,pts,13.5,over,DraftKings,-126.0,14:54,29.7,13.53,0.482,0.526,1.0,0.558,-13.5,-3.0,-4.3,-3.2,PASS,no edge,,,,0.0,deandre hunter,15.0,1.0,graded,0.459,0.024
+2026-11-23,,De'Andre Hunter,SAC,SAS,reb,4.5,over,DraftKings,110.0,14:54,29.7,4.32,0.444,0.437,7.0,0.476,-6.7,-1.28,0.7,-4.0,PASS,no edge,,,,0.0,deandre hunter,7.0,1.0,graded,0.42,0.024
+2026-11-23,,Deni Avdija,POR,PHI,ast,6.5,over,DraftKings,117.0,14:54,32.4,5.82,0.395,0.455,1.0,0.461,-14.4,-2.65,-6.1,-0.5,PASS,no edge,,,,0.0,deni avdija,7.0,1.0,graded,0.371,0.024
+2026-11-23,,Deni Avdija,POR,PHI,fg3m,1.5,over,DraftKings,-139.0,14:54,32.4,1.77,0.535,0.558,7.0,0.582,-8.0,-1.87,-2.3,-2.4,PASS,no edge,,,,0.0,deni avdija,5.0,1.0,graded,0.511,0.024
+2026-11-23,,Deni Avdija,POR,PHI,pts,23.5,over,DraftKings,-113.0,14:54,32.4,21.12,0.372,0.495,6.0,0.531,-30.0,-6.36,-12.4,-3.5,PASS,no edge,,,,0.0,deni avdija,31.0,1.0,graded,0.348,0.024
+2026-11-23,,Deni Avdija,POR,PHI,reb,6.5,over,DraftKings,-132.0,14:54,32.4,6.49,0.478,0.519,7.0,0.569,-15.9,-3.62,-4.0,-5.0,PASS,no edge,,,,0.0,deni avdija,3.0,0.0,graded,0.455,0.024
+2026-11-23,,Derik Queen,NOP,PHX,ast,1.5,over,DraftKings,-190.0,14:54,21.1,2.48,0.655,0.61,2.0,0.655,0.0,0.0,4.5,-4.5,PASS,no edge,,,,0.0,derik queen,2.0,1.0,graded,0.631,0.024
+2026-11-23,,Derik Queen,NOP,PHX,pts,10.5,over,DraftKings,-102.0,14:54,21.1,9.73,0.415,0.478,6.0,0.505,-17.8,-3.59,-6.3,-2.7,PASS,no edge,,,,0.0,derik queen,11.0,1.0,graded,0.391,0.024
+2026-11-23,,Derik Queen,NOP,PHX,reb,5.5,over,DraftKings,-145.0,14:54,21.1,5.91,0.514,0.562,2.0,0.592,-13.2,-3.12,-4.8,-3.0,PASS,no edge,,,,0.0,derik queen,9.0,1.0,graded,0.49,0.024
+2026-11-23,,Derrick Jones Jr.,LAC,HOU,fg3m,0.5,over,DraftKings,-191.0,14:54,26.9,1.25,0.711,0.618,4.0,0.656,8.3,2.18,9.3,-3.9,WATCH,edge below the Rules §3 bar,0.637,-1.91,,0.0,derrick jones,1.0,1.0,graded,0.687,0.024
+2026-11-23,,Derrick Jones Jr.,LAC,HOU,pts,8.5,over,DraftKings,-102.0,14:54,26.9,10.0,0.593,0.475,6.0,0.505,17.5,3.54,11.8,-2.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.482,-2.25,,0.0,derrick jones,7.0,0.0,graded,0.57,0.024
+2026-11-23,,Derrick Jones Jr.,LAC,HOU,reb,3.5,over,DraftKings,-113.0,14:54,26.9,3.93,0.529,0.471,6.0,0.531,-0.3,-0.06,5.8,-6.0,PASS,no edge,,,,0.0,derrick jones,4.0,1.0,graded,0.505,0.024
+2026-11-23,,Devin Booker,PHX,NOP,ast,5.5,over,DraftKings,-154.0,14:54,33.9,5.65,0.497,0.554,7.0,0.606,-18.0,-4.36,-5.7,-5.2,PASS,no edge,,,,0.0,devin booker,8.0,1.0,graded,0.473,0.024
+2026-11-23,,Devin Booker,PHX,NOP,fg3m,1.5,over,DraftKings,-190.0,14:54,33.9,2.0,0.596,0.616,4.0,0.655,-9.0,-2.35,-1.9,-3.9,PASS,no edge,,,,0.0,devin booker,2.0,1.0,graded,0.573,0.024
+2026-11-23,,Devin Booker,PHX,NOP,pts,25.5,over,DraftKings,-122.0,14:54,33.9,25.18,0.478,0.522,4.0,0.55,-13.1,-2.87,-4.4,-2.7,PASS,no edge,,,,0.0,devin booker,22.0,0.0,graded,0.454,0.024
+2026-11-23,,Devin Booker,PHX,NOP,reb,3.5,over,DraftKings,113.0,14:54,33.9,3.62,0.483,0.446,7.0,0.469,2.9,0.54,3.7,-2.4,PASS,no edge,,,,0.0,devin booker,5.0,1.0,graded,0.459,0.024
+2026-11-23,,Devin Vassell,SAS,SAC,ast,3.5,over,DraftKings,128.0,14:54,29.4,2.72,0.323,0.406,2.0,0.439,-26.4,-4.63,-8.3,-3.3,PASS,no edge,,,,0.0,devin vassell,2.0,0.0,graded,0.299,0.024
+2026-11-23,,Devin Vassell,SAS,SAC,fg3m,1.5,over,DraftKings,-145.0,14:54,29.4,1.93,0.575,0.575,7.0,0.592,-2.8,-0.66,0.0,-1.7,PASS,no edge,,,,0.0,devin vassell,4.0,1.0,graded,0.551,0.024
+2026-11-23,,Devin Vassell,SAS,SAC,pts,14.5,over,DraftKings,-110.0,14:54,29.4,12.71,0.366,0.494,6.0,0.524,-30.2,-6.32,-12.9,-2.9,PASS,no edge,,,,0.0,devin vassell,16.0,1.0,graded,0.342,0.024
+2026-11-23,,Devin Vassell,SAS,SAC,reb,4.5,over,DraftKings,120.0,14:54,29.4,3.96,0.386,0.416,5.0,0.455,-15.0,-2.73,-3.0,-3.9,PASS,no edge,,,,0.0,devin vassell,6.0,1.0,graded,0.362,0.024
+2026-11-23,,Dillon Brooks,PHX,NOP,ast,1.5,over,DraftKings,-165.0,14:54,29.0,2.16,0.604,0.583,4.0,0.623,-3.0,-0.75,2.1,-3.9,PASS,no edge,,,,0.0,dillon brooks,7.0,1.0,graded,0.58,0.024
+2026-11-23,,Dillon Brooks,PHX,NOP,fg3m,1.5,over,DraftKings,-153.0,14:54,29.0,2.08,0.615,0.575,7.0,0.605,1.6,0.39,3.9,-3.0,PASS,no edge,,,,0.0,dillon brooks,2.0,1.0,graded,0.591,0.024
+2026-11-23,,Dillon Brooks,PHX,NOP,pts,14.5,over,DraftKings,-127.0,14:54,29.0,17.37,0.647,0.528,1.0,0.559,15.6,3.5,11.9,-3.1,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.552,-0.7,,0.0,dillon brooks,16.0,1.0,graded,0.623,0.024
+2026-11-23,,Dillon Brooks,PHX,NOP,reb,3.5,over,DraftKings,-102.0,14:54,29.0,3.76,0.503,0.483,6.0,0.505,-0.4,-0.08,2.0,-2.2,PASS,no edge,,,,0.0,dillon brooks,5.0,1.0,graded,0.479,0.024
+2026-11-23,,Domantas Sabonis,SAC,SAS,ast,4.5,over,DraftKings,-124.0,14:54,29.1,4.06,0.404,0.521,8.0,0.554,-27.0,-5.98,-11.7,-3.2,PASS,no edge,,,,0.0,domantas sabonis,8.0,1.0,graded,0.38,0.024
+2026-11-23,,Domantas Sabonis,SAC,SAS,pts,14.5,over,DraftKings,-101.0,14:54,29.1,12.78,0.371,0.491,3.0,0.502,-26.1,-5.25,-12.0,-1.2,PASS,no edge,,,,0.0,domantas sabonis,20.0,1.0,graded,0.347,0.024
+2026-11-23,,Domantas Sabonis,SAC,SAS,reb,12.5,over,DraftKings,-121.0,14:54,29.1,10.57,0.334,0.497,8.0,0.548,-38.9,-8.53,-16.3,-5.1,PASS,no edge,,,,0.0,domantas sabonis,12.0,0.0,graded,0.31,0.024
+2026-11-23,,Donovan Clingan,POR,PHI,ast,2.5,over,DraftKings,130.0,14:54,24.3,1.81,0.301,0.392,4.0,0.435,-30.7,-5.33,-9.0,-4.3,PASS,no edge,,,,0.0,donovan clingan,5.0,1.0,graded,0.278,0.024
+2026-11-23,,Donovan Clingan,POR,PHI,fg3m,0.5,over,DraftKings,-187.0,14:54,24.3,0.94,0.613,0.611,5.0,0.652,-5.9,-1.54,0.2,-4.0,PASS,no edge,,,,0.0,donovan clingan,1.0,1.0,graded,0.589,0.024
+2026-11-23,,Donovan Clingan,POR,PHI,pts,10.5,over,DraftKings,-124.0,14:54,24.3,9.98,0.432,0.524,2.0,0.554,-21.9,-4.85,-9.1,-3.0,PASS,no edge,,,,0.0,donovan clingan,15.0,1.0,graded,0.408,0.024
+2026-11-23,,Donovan Clingan,POR,PHI,reb,10.5,over,DraftKings,-134.0,14:54,24.3,9.79,0.42,0.524,2.0,0.573,-26.6,-6.1,-10.4,-4.8,PASS,no edge,,,,0.0,donovan clingan,18.0,1.0,graded,0.396,0.024
+2026-11-23,,Donovan Mitchell,CLE,CHI,ast,4.5,over,DraftKings,-160.0,14:54,30.6,4.86,0.527,0.572,4.0,0.615,-14.4,-3.55,-4.6,-4.3,PASS,no edge,,,,0.0,donovan mitchell,5.0,1.0,graded,0.503,0.024
+2026-11-23,,Donovan Mitchell,CLE,CHI,fg3m,2.5,over,DraftKings,-147.0,14:54,30.6,2.45,0.456,0.551,7.0,0.595,-23.3,-5.55,-9.5,-4.4,PASS,no edge,,,,0.0,donovan mitchell,1.0,0.0,graded,0.432,0.024
+2026-11-23,,Donovan Mitchell,CLE,CHI,pts,26.5,over,DraftKings,-121.0,14:54,30.6,22.07,0.301,0.514,7.0,0.548,-45.1,-9.87,-21.4,-3.3,PASS,no edge,,,,0.0,donovan mitchell,28.0,1.0,graded,0.277,0.024
+2026-11-23,,Donovan Mitchell,CLE,CHI,reb,4.5,over,DraftKings,-128.0,14:54,30.6,4.44,0.458,0.518,8.0,0.561,-18.4,-4.14,-6.0,-4.3,PASS,no edge,,,,0.0,donovan mitchell,3.0,0.0,graded,0.434,0.024
+2026-11-23,,Egor Dëmin,BKN,MIN,ast,2.5,over,DraftKings,-142.0,14:54,22.9,2.64,0.48,0.559,5.0,0.587,-18.3,-4.29,-7.9,-2.8,PASS,no edge,,,,0.0,egor demin,,,DNP/void,0.456,0.024
+2026-11-23,,Egor Dëmin,BKN,MIN,fg3m,1.5,over,DraftKings,-153.0,14:54,22.9,1.75,0.515,0.592,6.0,0.605,-14.9,-3.61,-7.7,-1.3,PASS,no edge,,,,0.0,egor demin,,,DNP/void,0.491,0.024
+2026-11-23,,Egor Dëmin,BKN,MIN,pts,9.5,over,DraftKings,-129.0,14:54,22.9,8.32,0.38,0.522,4.0,0.563,-32.6,-7.35,-14.3,-4.1,PASS,no edge,,,,0.0,egor demin,,,DNP/void,0.356,0.024
+2026-11-23,,Egor Dëmin,BKN,MIN,reb,2.5,over,DraftKings,-116.0,14:54,22.9,2.88,0.511,0.5,5.0,0.537,-4.9,-1.05,1.1,-3.7,PASS,no edge,,,,0.0,egor demin,,,DNP/void,0.487,0.024
+2026-11-23,,Fred VanVleet,HOU,LAC,ast,5.5,over,DraftKings,115.0,14:54,27.0,4.82,0.38,0.434,6.0,0.465,-18.3,-3.4,-5.4,-3.1,PASS,no edge,,,,0.0,fred vanvleet,4.0,0.0,graded,0.356,0.024
+2026-11-23,,Fred VanVleet,HOU,LAC,fg3m,2.5,over,DraftKings,112.0,14:54,27.0,2.27,0.413,0.463,7.0,0.472,-12.5,-2.35,-5.0,-0.9,PASS,no edge,,,,0.0,fred vanvleet,2.0,0.0,graded,0.389,0.024
+2026-11-23,,Fred VanVleet,HOU,LAC,pts,13.5,over,DraftKings,-109.0,14:54,27.0,13.75,0.497,0.49,6.0,0.522,-4.8,-0.99,0.7,-3.2,PASS,no edge,,,,0.0,fred vanvleet,6.0,0.0,graded,0.473,0.024
+2026-11-23,,Fred VanVleet,HOU,LAC,reb,2.5,over,DraftKings,-156.0,14:54,27.0,3.05,0.559,0.56,5.0,0.609,-8.3,-2.02,-0.1,-4.9,PASS,no edge,,,,0.0,fred vanvleet,2.0,0.0,graded,0.535,0.024
+2026-11-23,,Immanuel Quickley,TOR,MIL,ast,6.5,over,DraftKings,108.0,14:54,32.0,6.44,0.472,0.458,7.0,0.481,-1.7,-0.34,1.4,-2.3,PASS,no edge,,,,0.0,immanuel quickley,6.0,0.0,graded,0.449,0.024
+2026-11-23,,Immanuel Quickley,TOR,MIL,fg3m,2.5,over,DraftKings,-130.0,14:54,32.0,2.83,0.545,0.533,8.0,0.565,-3.5,-0.79,1.2,-3.2,PASS,no edge,,,,0.0,immanuel quickley,2.0,0.0,graded,0.522,0.024
+2026-11-23,,Immanuel Quickley,TOR,MIL,pts,18.5,over,DraftKings,-113.0,14:54,32.0,19.55,0.539,0.515,7.0,0.531,1.6,0.33,2.4,-1.5,PASS,no edge,,,,0.0,immanuel quickley,13.0,0.0,graded,0.515,0.024
+2026-11-23,,Immanuel Quickley,TOR,MIL,reb,3.5,over,DraftKings,-133.0,14:54,32.0,3.87,0.521,0.528,7.0,0.571,-8.8,-2.0,-0.7,-4.3,PASS,no edge,,,,0.0,immanuel quickley,3.0,0.0,graded,0.497,0.024
+2026-11-23,,Isaac Okoro,CHI,CLE,fg3m,1.5,over,DraftKings,118.0,14:54,29.9,1.49,0.445,0.443,7.0,0.459,-3.0,-0.54,0.3,-1.6,PASS,no edge,,,,0.0,isaac okoro,3.0,1.0,graded,0.421,0.024
+2026-11-23,,Isaac Okoro,CHI,CLE,pts,10.5,over,DraftKings,-114.0,14:54,29.9,10.83,0.498,0.497,6.0,0.533,-6.6,-1.4,0.0,-3.5,PASS,no edge,,,,0.0,isaac okoro,12.0,1.0,graded,0.474,0.024
+2026-11-23,,Isaac Okoro,CHI,CLE,reb,2.5,over,DraftKings,-166.0,14:54,29.9,3.38,0.605,0.571,4.0,0.624,-3.0,-0.75,3.4,-5.3,PASS,no edge,,,,0.0,isaac okoro,4.0,1.0,graded,0.581,0.024
+2026-11-23,,Isaiah Hartenstein,OKC,IND,ast,4.5,over,DraftKings,118.0,14:54,25.9,3.79,0.365,0.434,2.0,0.459,-20.4,-3.75,-6.9,-2.5,PASS,no edge,,,,0.0,isaiah hartenstein,3.0,0.0,graded,0.341,0.024
+2026-11-23,,Isaiah Hartenstein,OKC,IND,pts,9.5,over,DraftKings,-118.0,14:54,25.9,9.05,0.433,0.481,4.0,0.541,-20.1,-4.34,-4.8,-6.0,PASS,no edge,,,,0.0,isaiah hartenstein,18.0,1.0,graded,0.409,0.024
+2026-11-23,,Isaiah Hartenstein,OKC,IND,reb,11.5,over,DraftKings,-113.0,14:54,25.9,9.72,0.338,0.486,7.0,0.531,-36.3,-7.7,-14.8,-4.5,PASS,no edge,,,,0.0,isaiah hartenstein,9.0,0.0,graded,0.314,0.024
+2026-11-23,,Isaiah Stewart,MEM,CHA,pts,8.5,over,DraftKings,-119.0,14:54,19.8,8.02,0.424,0.503,6.0,0.543,-21.9,-4.77,-7.8,-4.1,PASS,no edge,,,,0.0,isaiah stewart,11.0,1.0,graded,0.4,0.024
+2026-11-23,,Isaiah Stewart,MEM,CHA,reb,3.5,over,DraftKings,-111.0,14:54,19.8,3.72,0.493,0.503,6.0,0.526,-6.3,-1.33,-1.0,-2.4,PASS,no edge,,,,0.0,isaiah stewart,4.0,1.0,graded,0.469,0.024
+2026-11-23,,Ivica Zubac,IND,OKC,pts,10.5,over,DraftKings,-125.0,14:54,27.1,11.29,0.529,0.524,1.0,0.556,-4.7,-1.06,0.5,-3.2,PASS,no edge,,,,0.0,ivica zubac,14.0,1.0,graded,0.505,0.024
+2026-11-23,,Ivica Zubac,IND,OKC,reb,8.5,over,DraftKings,-142.0,14:54,27.1,8.89,0.511,0.553,1.0,0.587,-12.9,-3.03,-4.2,-3.4,PASS,no edge,,,,0.0,ivica zubac,15.0,1.0,graded,0.487,0.024
+2026-11-23,,Jabari Smith Jr.,HOU,LAC,fg3m,1.5,over,DraftKings,-162.0,14:54,30.0,2.02,0.603,0.583,7.0,0.618,-2.5,-0.62,2.0,-3.5,PASS,no edge,,,,0.0,jabari smith,1.0,0.0,graded,0.579,0.024
+2026-11-23,,Jabari Smith Jr.,HOU,LAC,pts,14.5,over,DraftKings,-107.0,14:54,30.0,14.11,0.454,0.481,1.0,0.517,-12.1,-2.5,-2.6,-3.6,PASS,no edge,,,,0.0,jabari smith,13.0,0.0,graded,0.43,0.024
+2026-11-23,,Jabari Smith Jr.,HOU,LAC,reb,6.5,over,DraftKings,100.0,14:54,30.0,5.7,0.377,0.457,6.0,0.5,-24.6,-4.92,-8.0,-4.3,PASS,no edge,,,,0.0,jabari smith,6.0,0.0,graded,0.353,0.024
+2026-11-23,,Jaden McDaniels,MIN,BKN,ast,3.5,over,DraftKings,127.0,14:54,31.6,2.9,0.358,0.437,7.0,0.441,-18.8,-3.31,-8.0,-0.3,PASS,no edge,,,,0.0,jaden mcdaniels,6.0,1.0,graded,0.334,0.024
+2026-11-23,,Jaden McDaniels,MIN,BKN,fg3m,1.5,over,DraftKings,-120.0,14:54,31.6,1.31,0.394,0.51,7.0,0.545,-27.8,-6.06,-11.6,-3.5,PASS,no edge,,,,0.0,jaden mcdaniels,4.0,1.0,graded,0.37,0.024
+2026-11-23,,Jaden McDaniels,MIN,BKN,pts,17.5,over,DraftKings,-111.0,14:54,31.6,14.62,0.321,0.48,7.0,0.526,-39.0,-8.21,-15.9,-4.6,PASS,no edge,,,,0.0,jaden mcdaniels,34.0,1.0,graded,0.297,0.024
+2026-11-23,,Jaden McDaniels,MIN,BKN,reb,5.5,over,DraftKings,-117.0,14:54,31.6,4.59,0.354,0.486,7.0,0.539,-34.4,-7.42,-13.2,-5.3,PASS,no edge,,,,0.0,jaden mcdaniels,10.0,1.0,graded,0.33,0.024
+2026-11-23,,Jaime Jaquez Jr.,MIL,TOR,ast,2.5,over,DraftKings,-129.0,14:54,27.3,3.59,0.662,0.535,5.0,0.563,17.5,3.95,12.7,-2.9,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.56,-0.37,,0.0,jaime jaquez,2.0,0.0,graded,0.638,0.024
+2026-11-23,,Jaime Jaquez Jr.,MIL,TOR,fg3m,1.5,over,DraftKings,150.0,14:54,27.3,1.13,0.334,0.387,6.0,0.4,-16.6,-2.65,-5.3,-1.3,PASS,no edge,,,,0.0,jaime jaquez,1.0,0.0,graded,0.31,0.024
+2026-11-23,,Jaime Jaquez Jr.,MIL,TOR,pts,11.5,over,DraftKings,-127.0,14:54,27.3,13.36,0.604,0.519,7.0,0.559,7.9,1.77,8.5,-4.0,WATCH,edge below the Rules §3 bar,0.531,-2.82,,0.0,jaime jaquez,3.0,0.0,graded,0.58,0.024
+2026-11-23,,Jaime Jaquez Jr.,MIL,TOR,reb,3.5,over,DraftKings,-142.0,14:54,27.3,4.63,0.633,0.555,6.0,0.587,7.9,1.85,7.8,-3.2,WATCH,edge below the Rules §3 bar,0.571,-1.55,,0.0,jaime jaquez,4.0,1.0,graded,0.609,0.024
+2026-11-23,,Jake LaRavia,LAL,UTA,pts,5.5,over,DraftKings,-118.0,14:54,24.3,6.74,0.581,0.528,5.0,0.541,7.4,1.6,5.3,-1.3,WATCH,edge below the Rules §3 bar,0.532,-0.93,,0.0,jake laravia,15.0,1.0,graded,0.557,0.024
+2026-11-23,,Jake LaRavia,LAL,UTA,reb,3.5,over,DraftKings,-141.0,14:54,24.3,3.91,0.523,0.545,6.0,0.585,-10.6,-2.49,-2.2,-4.0,PASS,no edge,,,,0.0,jake laravia,10.0,1.0,graded,0.499,0.024
+2026-11-23,,Jakob Poeltl,TOR,MIL,ast,1.5,over,DraftKings,-167.0,14:54,28.3,2.47,0.664,0.583,3.0,0.625,6.1,1.53,8.0,-4.2,WATCH,edge below the Rules §3 bar,0.596,-2.95,,0.0,jakob poeltl,3.0,1.0,graded,0.64,0.024
+2026-11-23,,Jakob Poeltl,TOR,MIL,pts,10.5,over,DraftKings,103.0,14:54,28.3,13.09,0.658,0.475,5.0,0.493,33.5,6.6,18.2,-1.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.518,2.51,,0.0,jakob poeltl,15.0,1.0,graded,0.634,0.024
+2026-11-23,,Jakob Poeltl,TOR,MIL,reb,7.5,over,DraftKings,-132.0,14:54,28.3,7.44,0.469,0.531,6.0,0.569,-17.5,-3.98,-6.1,-3.8,PASS,no edge,,,,0.0,jakob poeltl,10.0,1.0,graded,0.446,0.024
+2026-11-23,,Ja'Kobe Walter,TOR,MIL,ast,2.5,over,DraftKings,139.0,14:54,28.1,2.14,0.382,0.402,4.0,0.418,-8.7,-1.46,-2.0,-1.7,PASS,no edge,,,,0.0,jakobe walter,2.0,0.0,graded,0.358,0.024
+2026-11-23,,Ja'Kobe Walter,TOR,MIL,fg3m,2.5,over,DraftKings,-146.0,14:54,28.1,2.36,0.437,0.554,7.0,0.593,-26.3,-6.25,-11.7,-3.9,PASS,no edge,,,,0.0,jakobe walter,2.0,0.0,graded,0.413,0.024
+2026-11-23,,Ja'Kobe Walter,TOR,MIL,pts,13.5,over,DraftKings,-109.0,14:54,28.1,12.28,0.398,0.497,6.0,0.522,-23.8,-4.96,-9.9,-2.5,PASS,no edge,,,,0.0,jakobe walter,15.0,1.0,graded,0.374,0.024
+2026-11-23,,Ja'Kobe Walter,TOR,MIL,reb,3.5,over,DraftKings,-157.0,14:54,28.1,3.64,0.484,0.571,6.0,0.611,-20.8,-5.07,-8.7,-4.0,PASS,no edge,,,,0.0,jakobe walter,6.0,1.0,graded,0.46,0.024
+2026-11-23,,Jalen Green,PHX,NOP,ast,2.5,over,DraftKings,-176.0,14:54,26.4,2.99,0.552,0.598,1.0,0.638,-13.4,-3.43,-4.6,-4.0,PASS,no edge,,,,0.0,jalen green,0.0,0.0,graded,0.528,0.024
+2026-11-23,,Jalen Green,PHX,NOP,fg3m,1.5,over,DraftKings,-106.0,14:54,26.4,1.8,0.541,0.507,7.0,0.515,5.1,1.06,3.4,-0.8,PASS,no edge,,,,0.0,jalen green,3.0,1.0,graded,0.517,0.024
+2026-11-23,,Jalen Green,PHX,NOP,pts,14.5,over,DraftKings,-106.0,14:54,26.4,14.57,0.477,0.48,7.0,0.515,-7.3,-1.49,-0.2,-3.5,PASS,no edge,,,,0.0,jalen green,25.0,1.0,graded,0.453,0.024
+2026-11-23,,Jalen Green,PHX,NOP,reb,3.5,over,DraftKings,-138.0,14:54,26.4,3.82,0.513,0.555,6.0,0.58,-11.6,-2.69,-4.2,-2.5,PASS,no edge,,,,0.0,jalen green,3.0,0.0,graded,0.489,0.024
+2026-11-23,,Jalen Smith,CHI,CLE,fg3m,1.5,over,DraftKings,-149.0,14:54,27.4,2.11,0.612,0.581,6.0,0.598,2.2,0.53,3.1,-1.8,PASS,no edge,,,,0.0,jalen smith,1.0,0.0,graded,0.588,0.024
+2026-11-23,,Jalen Smith,CHI,CLE,pts,14.5,over,DraftKings,-123.0,14:54,27.4,14.7,0.489,0.503,7.0,0.552,-11.3,-2.49,-1.4,-4.8,PASS,no edge,,,,0.0,jalen smith,11.0,0.0,graded,0.466,0.024
+2026-11-23,,Jalen Smith,CHI,CLE,reb,7.5,over,DraftKings,-101.0,14:54,27.4,8.19,0.543,0.455,7.0,0.502,8.2,1.64,8.9,-4.8,WATCH,edge below the Rules §3 bar,0.474,-2.85,,0.0,jalen smith,6.0,0.0,graded,0.52,0.024
+2026-11-23,,James Harden,CLE,CHI,ast,7.5,over,DraftKings,-103.0,14:54,32.1,6.3,0.341,0.48,7.0,0.507,-32.7,-6.64,-13.8,-2.8,PASS,no edge,,,,0.0,james harden,5.0,0.0,graded,0.317,0.024
+2026-11-23,,James Harden,CLE,CHI,fg3m,2.5,over,DraftKings,107.0,14:54,32.1,2.58,0.49,0.458,7.0,0.483,1.3,0.26,3.1,-2.5,PASS,no edge,,,,0.0,james harden,3.0,1.0,graded,0.466,0.024
+2026-11-23,,James Harden,CLE,CHI,pts,18.5,over,DraftKings,-104.0,14:54,32.1,19.41,0.536,0.48,3.0,0.51,5.1,1.03,5.6,-3.0,PASS,no edge,,,,0.0,james harden,21.0,1.0,graded,0.512,0.024
+2026-11-23,,James Harden,CLE,CHI,reb,4.5,over,DraftKings,-126.0,14:54,32.1,4.73,0.501,0.521,7.0,0.558,-10.2,-2.28,-2.0,-3.7,PASS,no edge,,,,0.0,james harden,6.0,1.0,graded,0.477,0.024
+2026-11-23,,Jared McCain,OKC,IND,fg3m,2.5,over,DraftKings,-125.0,14:54,25.9,2.03,0.355,0.5,7.0,0.556,-36.1,-8.03,-14.5,-5.6,PASS,no edge,,,,0.0,jared mccain,1.0,0.0,graded,0.331,0.024
+2026-11-23,,Jared McCain,OKC,IND,pts,15.5,over,DraftKings,-102.0,14:54,25.9,12.97,0.325,0.494,7.0,0.505,-35.6,-7.19,-16.9,-1.1,PASS,no edge,,,,0.0,jared mccain,13.0,0.0,graded,0.301,0.024
+2026-11-23,,Jared McCain,OKC,IND,reb,3.5,over,DraftKings,111.0,14:54,25.9,3.17,0.402,0.456,7.0,0.474,-15.2,-2.89,-5.5,-1.7,PASS,no edge,,,,0.0,jared mccain,5.0,1.0,graded,0.378,0.024
+2026-11-23,,Jarrett Allen,CLE,CHI,pts,14.5,over,DraftKings,-125.0,14:54,22.8,11.45,0.31,0.525,5.0,0.556,-44.2,-9.82,-21.5,-3.1,PASS,no edge,,,,0.0,jarrett allen,16.0,1.0,graded,0.286,0.024
+2026-11-23,,Jarrett Allen,CLE,CHI,reb,9.5,over,DraftKings,-127.0,14:54,22.8,7.01,0.266,0.514,7.0,0.559,-52.4,-11.72,-24.8,-4.5,PASS,no edge,,,,0.0,jarrett allen,4.0,0.0,graded,0.242,0.024
+2026-11-23,,Jaylen Brown,PHI,POR,ast,3.5,over,DraftKings,120.0,14:54,32.2,3.86,0.525,0.424,7.0,0.455,15.6,2.84,10.1,-3.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.442,-1.3,,0.0,jaylen brown,4.0,1.0,graded,0.502,0.024
+2026-11-23,,Jaylen Brown,PHI,POR,fg3m,1.5,over,DraftKings,-112.0,14:54,32.2,1.6,0.482,0.494,7.0,0.528,-8.7,-1.85,-1.2,-3.4,PASS,no edge,,,,0.0,jaylen brown,1.0,0.0,graded,0.458,0.024
+2026-11-23,,Jaylen Brown,PHI,POR,pts,20.5,over,DraftKings,-116.0,14:54,32.2,20.99,0.512,0.507,1.0,0.537,-4.7,-1.01,0.5,-3.0,PASS,no edge,,,,0.0,jaylen brown,20.0,0.0,graded,0.488,0.024
+2026-11-23,,Jaylen Brown,PHI,POR,reb,5.5,over,DraftKings,-148.0,14:54,32.2,6.34,0.578,0.552,6.0,0.597,-3.2,-0.76,2.6,-4.5,PASS,no edge,,,,0.0,jaylen brown,2.0,0.0,graded,0.554,0.024
+2026-11-23,,Jaylen Wells,MEM,CHA,fg3m,1.5,over,DraftKings,-123.0,14:54,26.0,1.6,0.481,0.506,7.0,0.552,-12.7,-2.81,-2.5,-4.6,PASS,no edge,,,,0.0,jaylen wells,2.0,1.0,graded,0.457,0.024
+2026-11-23,,Jaylen Wells,MEM,CHA,pts,9.5,over,DraftKings,-123.0,14:54,26.0,10.26,0.526,0.498,6.0,0.552,-4.7,-1.04,2.8,-5.4,PASS,no edge,,,,0.0,jaylen wells,8.0,0.0,graded,0.502,0.024
+2026-11-23,,Jaylen Wells,MEM,CHA,reb,2.5,over,DraftKings,-117.0,14:54,26.0,3.03,0.551,0.52,5.0,0.539,2.1,0.46,3.0,-1.9,PASS,no edge,,,,0.0,jaylen wells,2.0,0.0,graded,0.527,0.024
+2026-11-23,,Jaylon Tyson,CLE,CHI,ast,1.5,over,DraftKings,-185.0,14:54,21.7,1.86,0.531,0.596,3.0,0.649,-18.2,-4.73,-6.5,-5.3,PASS,no edge,,,,0.0,jaylon tyson,0.0,0.0,graded,0.507,0.024
+2026-11-23,,Jaylon Tyson,CLE,CHI,fg3m,1.5,over,DraftKings,-134.0,14:54,21.7,1.4,0.422,0.533,6.0,0.573,-26.4,-6.04,-11.1,-4.0,PASS,no edge,,,,0.0,jaylon tyson,0.0,0.0,graded,0.398,0.024
+2026-11-23,,Jaylon Tyson,CLE,CHI,pts,9.5,over,DraftKings,-127.0,14:54,21.7,9.62,0.484,0.524,7.0,0.559,-13.5,-3.03,-4.0,-3.5,PASS,no edge,,,,0.0,jaylon tyson,0.0,0.0,graded,0.46,0.024
+2026-11-23,,Jaylon Tyson,CLE,CHI,reb,4.5,over,DraftKings,121.0,14:54,21.7,3.91,0.382,0.42,6.0,0.452,-15.6,-2.82,-3.8,-3.3,PASS,no edge,,,,0.0,jaylon tyson,2.0,0.0,graded,0.358,0.024
+2026-11-23,,Jeremiah Fears,NOP,PHX,ast,5.5,over,DraftKings,-120.0,14:54,29.2,4.11,0.283,0.518,8.0,0.545,-48.1,-10.5,-23.5,-2.8,PASS,no edge,,,,0.0,jeremiah fears,11.0,1.0,graded,0.259,0.024
+2026-11-23,,Jeremiah Fears,NOP,PHX,fg3m,1.5,over,DraftKings,104.0,14:54,29.2,1.45,0.439,0.477,8.0,0.49,-10.5,-2.05,-3.8,-1.3,PASS,no edge,,,,0.0,jeremiah fears,0.0,0.0,graded,0.415,0.024
+2026-11-23,,Jeremiah Fears,NOP,PHX,pts,17.5,over,DraftKings,-111.0,14:54,29.2,15.37,0.359,0.49,7.0,0.526,-31.7,-6.68,-13.1,-3.6,PASS,no edge,,,,0.0,jeremiah fears,7.0,0.0,graded,0.335,0.024
+2026-11-23,,Jeremiah Fears,NOP,PHX,reb,4.5,over,DraftKings,-132.0,14:54,29.2,4.4,0.454,0.522,7.0,0.569,-20.3,-4.61,-6.8,-4.7,PASS,no edge,,,,0.0,jeremiah fears,7.0,1.0,graded,0.43,0.024
+2026-11-23,,Joel Embiid,PHI,POR,ast,3.5,over,DraftKings,-119.0,14:54,29.9,3.45,0.455,0.51,7.0,0.543,-16.2,-3.53,-5.5,-3.3,PASS,no edge,,,,0.0,joel embiid,,,DNP/void,0.431,0.024
+2026-11-23,,Joel Embiid,PHI,POR,fg3m,0.5,over,DraftKings,-232.0,14:54,29.9,1.0,0.634,0.655,2.0,0.699,-9.2,-2.57,-2.1,-4.3,PASS,no edge,,,,0.0,joel embiid,,,DNP/void,0.611,0.024
+2026-11-23,,Joel Embiid,PHI,POR,pts,21.5,over,DraftKings,-124.0,14:54,29.9,19.33,0.375,0.517,6.0,0.554,-32.3,-7.16,-14.3,-3.6,PASS,no edge,,,,0.0,joel embiid,,,DNP/void,0.351,0.024
+2026-11-23,,Joel Embiid,PHI,POR,reb,8.5,over,DraftKings,-103.0,14:54,29.9,7.54,0.381,0.461,7.0,0.507,-25.0,-5.07,-8.1,-4.6,PASS,no edge,,,,0.0,joel embiid,,,DNP/void,0.357,0.024
+2026-11-23,,Jonathan Kuminga,MIN,BKN,ast,2.5,over,DraftKings,109.0,14:54,26.8,2.24,0.4,0.441,5.0,0.478,-16.4,-3.13,-4.1,-3.7,PASS,no edge,,,,0.0,jonathan kuminga,4.0,1.0,graded,0.376,0.024
+2026-11-23,,Jonathan Kuminga,MIN,BKN,fg3m,1.5,over,DraftKings,116.0,14:54,26.8,1.22,0.363,0.445,7.0,0.463,-21.5,-3.98,-8.2,-1.8,PASS,no edge,,,,0.0,jonathan kuminga,1.0,0.0,graded,0.34,0.024
+2026-11-23,,Jonathan Kuminga,MIN,BKN,pts,14.5,over,DraftKings,-114.0,14:54,26.8,11.53,0.292,0.493,7.0,0.533,-45.1,-9.62,-20.1,-4.0,PASS,no edge,,,,0.0,jonathan kuminga,15.0,1.0,graded,0.268,0.024
+2026-11-23,,Jonathan Kuminga,MIN,BKN,reb,5.5,over,DraftKings,-117.0,14:54,26.8,5.14,0.427,0.497,7.0,0.539,-20.7,-4.47,-7.0,-4.2,PASS,no edge,,,,0.0,jonathan kuminga,5.0,0.0,graded,0.404,0.024
+2026-11-23,,Jordan Goodwin,PHX,NOP,ast,2.5,over,DraftKings,-119.0,14:54,22.0,2.29,0.408,0.483,4.0,0.543,-24.9,-5.42,-7.5,-6.0,PASS,no edge,,,,0.0,jordan goodwin,2.0,0.0,graded,0.384,0.024
+2026-11-23,,Jordan Goodwin,PHX,NOP,fg3m,1.5,over,DraftKings,-101.0,14:54,22.0,1.56,0.469,0.472,5.0,0.502,-6.6,-1.32,-0.2,-3.1,PASS,no edge,,,,0.0,jordan goodwin,2.0,1.0,graded,0.446,0.024
+2026-11-23,,Jordan Goodwin,PHX,NOP,pts,8.5,over,DraftKings,-113.0,14:54,22.0,8.62,0.474,0.51,6.0,0.531,-10.6,-2.26,-3.5,-2.1,PASS,no edge,,,,0.0,jordan goodwin,6.0,0.0,graded,0.45,0.024
+2026-11-23,,Jordan Goodwin,PHX,NOP,reb,4.5,over,DraftKings,-137.0,14:54,22.0,4.76,0.5,0.52,6.0,0.578,-13.5,-3.13,-2.0,-5.8,PASS,no edge,,,,0.0,jordan goodwin,2.0,0.0,graded,0.476,0.024
+2026-11-23,,Josh Giddey,CHI,CLE,ast,9.5,over,DraftKings,109.0,14:54,30.4,9.21,0.456,0.485,5.0,0.478,-4.8,-0.91,-3.0,0.7,PASS,no edge,,,,0.0,josh giddey,11.0,1.0,graded,0.432,0.024
+2026-11-23,,Josh Giddey,CHI,CLE,fg3m,1.5,over,DraftKings,-109.0,14:54,30.4,1.74,0.528,0.481,7.0,0.522,1.1,0.24,4.7,-4.1,PASS,no edge,,,,0.0,josh giddey,0.0,0.0,graded,0.504,0.024
+2026-11-23,,Josh Giddey,CHI,CLE,pts,14.5,over,DraftKings,-107.0,14:54,30.4,15.06,0.515,0.488,1.0,0.517,-0.4,-0.07,2.8,-2.9,PASS,no edge,,,,0.0,josh giddey,4.0,0.0,graded,0.491,0.024
+2026-11-23,,Josh Giddey,CHI,CLE,reb,7.5,over,DraftKings,113.0,14:54,30.4,7.41,0.472,0.433,5.0,0.469,0.5,0.1,3.9,-3.7,PASS,no edge,,,,0.0,josh giddey,2.0,0.0,graded,0.448,0.024
+2026-11-23,,Jrue Holiday,POR,PHI,ast,4.5,over,DraftKings,120.0,14:54,27.7,4.67,0.496,0.427,7.0,0.455,9.2,1.68,6.9,-2.7,WATCH,edge below the Rules §3 bar,0.436,-1.82,,0.0,jrue holiday,5.0,1.0,graded,0.473,0.024
+2026-11-23,,Jrue Holiday,POR,PHI,fg3m,1.5,over,DraftKings,-171.0,14:54,27.7,2.12,0.62,0.613,4.0,0.631,-1.7,-0.42,0.8,-1.8,PASS,no edge,,,,0.0,jrue holiday,4.0,1.0,graded,0.597,0.024
+2026-11-23,,Jrue Holiday,POR,PHI,pts,12.5,over,DraftKings,-124.0,14:54,27.7,13.75,0.564,0.512,7.0,0.554,2.0,0.44,5.2,-4.1,PASS,no edge,,,,0.0,jrue holiday,18.0,1.0,graded,0.541,0.024
+2026-11-23,,Jrue Holiday,POR,PHI,reb,4.5,over,DraftKings,108.0,14:54,27.7,4.27,0.433,0.437,7.0,0.481,-10.0,-1.93,-0.4,-4.4,PASS,no edge,,,,0.0,jrue holiday,2.0,0.0,graded,0.409,0.024
+2026-11-23,,Julian Champagnie,SAS,SAC,fg3m,2.5,over,DraftKings,-174.0,14:54,28.4,2.46,0.459,0.583,5.0,0.635,-27.7,-7.04,-12.4,-5.2,PASS,no edge,,,,0.0,julian champagnie,6.0,1.0,graded,0.435,0.024
+2026-11-23,,Julian Champagnie,SAS,SAC,pts,13.5,over,DraftKings,-106.0,14:54,28.4,11.34,0.335,0.479,2.0,0.515,-34.8,-7.17,-14.4,-3.5,PASS,no edge,,,,0.0,julian champagnie,22.0,1.0,graded,0.311,0.024
+2026-11-23,,Julius Randle,BKN,MIN,ast,4.5,over,DraftKings,-111.0,14:54,31.3,4.13,0.416,0.5,7.0,0.526,-20.9,-4.39,-8.4,-2.6,PASS,no edge,,,,0.0,julius randle,4.0,0.0,graded,0.392,0.024
+2026-11-23,,Julius Randle,BKN,MIN,fg3m,1.5,over,DraftKings,111.0,14:54,31.3,1.31,0.396,0.446,8.0,0.474,-16.5,-3.13,-5.0,-2.8,PASS,no edge,,,,0.0,julius randle,2.0,1.0,graded,0.372,0.024
+2026-11-23,,Julius Randle,BKN,MIN,pts,20.5,over,DraftKings,-107.0,14:54,31.3,17.63,0.339,0.49,6.0,0.517,-34.4,-7.12,-15.1,-2.7,PASS,no edge,,,,0.0,julius randle,29.0,1.0,graded,0.315,0.024
+2026-11-23,,Julius Randle,BKN,MIN,reb,6.5,over,DraftKings,111.0,14:54,31.3,5.93,0.406,0.438,6.0,0.474,-14.4,-2.74,-3.3,-3.6,PASS,no edge,,,,0.0,julius randle,4.0,0.0,graded,0.382,0.024
+2026-11-23,,Keaton Wagler,LAC,HOU,fg3m,0.5,over,DraftKings,-205.0,14:54,22.4,1.58,0.791,0.625,2.0,0.672,17.7,4.77,16.6,-4.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.669,-0.35,,0.0,keaton wagler,0.0,0.0,graded,0.768,0.024
+2026-11-23,,Keaton Wagler,LAC,HOU,pts,8.5,over,DraftKings,-107.0,14:54,22.4,11.29,0.678,0.49,7.0,0.517,31.1,6.43,18.8,-2.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.538,2.1,,0.0,keaton wagler,2.0,0.0,graded,0.654,0.024
+2026-11-23,,Keaton Wagler,LAC,HOU,reb,2.5,over,DraftKings,102.0,14:54,22.4,3.75,0.663,0.471,5.0,0.495,34.0,6.73,19.2,-2.4,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.521,2.65,,0.0,keaton wagler,1.0,0.0,graded,0.639,0.024
+2026-11-23,,Keegan Murray,SAC,SAS,ast,1.5,over,DraftKings,-112.0,14:54,30.4,1.75,0.507,0.487,4.0,0.528,-4.1,-0.87,2.0,-4.2,PASS,no edge,,,,0.0,keegan murray,1.0,0.0,graded,0.483,0.024
+2026-11-23,,Keegan Murray,SAC,SAS,fg3m,1.5,over,DraftKings,102.0,14:54,30.4,1.3,0.391,0.468,7.0,0.495,-21.0,-4.16,-7.7,-2.7,PASS,no edge,,,,0.0,keegan murray,2.0,1.0,graded,0.367,0.024
+2026-11-23,,Keegan Murray,SAC,SAS,pts,12.5,over,DraftKings,-122.0,14:54,30.4,11.51,0.411,0.514,7.0,0.55,-25.3,-5.55,-10.3,-3.5,PASS,no edge,,,,0.0,keegan murray,14.0,1.0,graded,0.387,0.024
+2026-11-23,,Keegan Murray,SAC,SAS,reb,5.5,over,DraftKings,103.0,14:54,30.4,4.86,0.387,0.446,6.0,0.493,-21.5,-4.24,-5.9,-4.7,PASS,no edge,,,,0.0,keegan murray,2.0,0.0,graded,0.363,0.024
+2026-11-23,,Kelly Oubre Jr.,IND,OKC,fg3m,1.5,over,DraftKings,-116.0,14:54,27.4,1.36,0.409,0.469,7.0,0.537,-23.9,-5.14,-6.1,-6.8,PASS,no edge,,,,0.0,kelly oubre,4.0,1.0,graded,0.385,0.024
+2026-11-23,,Kelly Oubre Jr.,IND,OKC,pts,13.5,over,DraftKings,-109.0,14:54,27.4,12.1,0.386,0.505,6.0,0.522,-26.0,-5.43,-11.9,-1.7,PASS,no edge,,,,0.0,kelly oubre,20.0,1.0,graded,0.362,0.024
+2026-11-23,,Kelly Oubre Jr.,IND,OKC,reb,3.5,over,DraftKings,-134.0,14:54,27.4,4.31,0.588,0.57,3.0,0.573,2.8,0.63,1.8,-0.3,PASS,no edge,,,,0.0,kelly oubre,4.0,1.0,graded,0.565,0.024
+2026-11-23,,Kevin Durant,HOU,LAC,ast,3.5,over,DraftKings,-136.0,14:54,31.0,4.0,0.553,0.553,7.0,0.576,-4.1,-0.95,-0.0,-2.3,PASS,no edge,,,,0.0,kevin durant,4.0,1.0,graded,0.529,0.024
+2026-11-23,,Kevin Durant,HOU,LAC,fg3m,1.5,over,DraftKings,-122.0,14:54,31.0,1.74,0.526,0.494,7.0,0.55,-4.3,-0.94,3.2,-5.6,PASS,no edge,,,,0.0,kevin durant,4.0,1.0,graded,0.502,0.024
+2026-11-23,,Kevin Durant,HOU,LAC,pts,21.5,over,DraftKings,-102.0,14:54,31.0,20.87,0.455,0.494,5.0,0.505,-9.9,-2.01,-3.9,-1.1,PASS,no edge,,,,0.0,kevin durant,32.0,1.0,graded,0.431,0.024
+2026-11-23,,Kevin Durant,HOU,LAC,reb,5.5,over,DraftKings,112.0,14:54,31.0,4.75,0.375,0.423,5.0,0.472,-20.5,-3.87,-4.8,-4.8,PASS,no edge,,,,0.0,kevin durant,9.0,1.0,graded,0.351,0.024
+2026-11-23,,Keyonte George,UTA,LAL,ast,6.5,over,DraftKings,-152.0,14:54,31.7,5.74,0.385,0.589,3.0,0.603,-36.1,-8.71,-20.3,-1.4,PASS,no edge,,,,0.0,keyonte george,2.0,0.0,graded,0.361,0.024
+2026-11-23,,Keyonte George,UTA,LAL,fg3m,2.5,over,DraftKings,118.0,14:54,31.7,2.06,0.36,0.449,7.0,0.459,-21.4,-3.93,-8.8,-1.0,PASS,no edge,,,,0.0,keyonte george,2.0,0.0,graded,0.337,0.024
+2026-11-23,,Keyonte George,UTA,LAL,pts,22.5,over,DraftKings,-109.0,14:54,31.7,19.82,0.353,0.487,3.0,0.522,-32.3,-6.75,-13.4,-3.5,PASS,no edge,,,,0.0,keyonte george,14.0,0.0,graded,0.329,0.024
+2026-11-23,,Keyonte George,UTA,LAL,reb,3.5,over,DraftKings,-141.0,14:54,31.7,3.77,0.507,0.51,7.0,0.585,-13.3,-3.11,-0.3,-7.5,PASS,no edge,,,,0.0,keyonte george,4.0,1.0,graded,0.483,0.024
+2026-11-23,,Kyle Kuzma,MIL,TOR,ast,2.5,over,DraftKings,142.0,14:54,27.4,2.51,0.457,0.391,3.0,0.413,10.6,1.74,6.6,-2.2,WATCH,edge below the Rules §3 bar,0.413,-0.01,,0.0,kyle kuzma,3.0,1.0,graded,0.433,0.024
+2026-11-23,,Kyle Kuzma,MIL,TOR,fg3m,1.5,over,DraftKings,113.0,14:54,27.4,1.43,0.431,0.479,6.0,0.469,-8.2,-1.53,-4.8,1.0,PASS,no edge,,,,0.0,kyle kuzma,2.0,1.0,graded,0.407,0.024
+2026-11-23,,Kyle Kuzma,MIL,TOR,pts,11.5,over,DraftKings,-107.0,14:54,27.4,11.89,0.505,0.493,8.0,0.517,-2.3,-0.47,1.2,-2.4,PASS,no edge,,,,0.0,kyle kuzma,18.0,1.0,graded,0.481,0.024
+2026-11-23,,Kyle Kuzma,MIL,TOR,reb,4.5,over,DraftKings,-105.0,14:54,27.4,4.8,0.51,0.482,7.0,0.512,-0.4,-0.08,2.8,-3.0,PASS,no edge,,,,0.0,kyle kuzma,5.0,1.0,graded,0.486,0.024
+2026-11-23,,LaMelo Ball,MIN,BKN,ast,5.5,over,DraftKings,-142.0,14:54,26.8,5.52,0.482,0.55,1.0,0.587,-17.9,-4.19,-6.8,-3.7,PASS,no edge,,,,0.0,lamelo ball,3.0,0.0,graded,0.458,0.024
+2026-11-23,,LaMelo Ball,MIN,BKN,fg3m,3.5,over,DraftKings,-106.0,14:54,26.8,3.01,0.376,0.494,7.0,0.515,-27.0,-5.56,-11.8,-2.1,PASS,no edge,,,,0.0,lamelo ball,2.0,0.0,graded,0.352,0.024
+2026-11-23,,LaMelo Ball,MIN,BKN,pts,18.5,over,DraftKings,-122.0,14:54,26.8,16.46,0.371,0.5,7.0,0.55,-32.4,-7.13,-12.9,-5.0,PASS,no edge,,,,0.0,lamelo ball,17.0,0.0,graded,0.347,0.024
+2026-11-23,,LaMelo Ball,MIN,BKN,reb,5.5,over,DraftKings,115.0,14:54,26.8,4.4,0.327,0.417,4.0,0.465,-29.7,-5.52,-9.0,-4.8,PASS,no edge,,,,0.0,lamelo ball,2.0,0.0,graded,0.303,0.024
+2026-11-23,,LeBron James,PHI,POR,ast,6.5,over,DraftKings,-120.0,14:54,30.9,5.76,0.387,0.495,7.0,0.545,-29.1,-6.35,-10.8,-5.1,PASS,no edge,,,,0.0,lebron james,3.0,0.0,graded,0.363,0.024
+2026-11-23,,LeBron James,PHI,POR,fg3m,1.5,over,DraftKings,137.0,14:54,30.9,1.03,0.298,0.408,7.0,0.422,-29.3,-4.94,-11.0,-1.3,PASS,no edge,,,,0.0,lebron james,4.0,1.0,graded,0.274,0.024
+2026-11-23,,LeBron James,PHI,POR,pts,15.5,over,DraftKings,-126.0,14:54,30.9,15.54,0.478,0.528,3.0,0.558,-14.2,-3.17,-4.9,-3.0,PASS,no edge,,,,0.0,lebron james,23.0,1.0,graded,0.454,0.024
+2026-11-23,,LeBron James,PHI,POR,reb,6.5,over,DraftKings,-114.0,14:54,30.9,5.99,0.413,0.48,7.0,0.533,-22.4,-4.78,-6.6,-5.3,PASS,no edge,,,,0.0,lebron james,6.0,0.0,graded,0.389,0.024
+2026-11-23,,Luka Dončić,LAL,UTA,ast,7.5,over,DraftKings,-142.0,14:54,33.3,6.72,0.393,0.545,7.0,0.587,-33.0,-7.74,-15.1,-4.2,PASS,no edge,,,,0.0,luka doncic,8.0,1.0,graded,0.369,0.024
+2026-11-23,,Luka Dončić,LAL,UTA,fg3m,4.5,over,DraftKings,-110.0,14:54,33.3,3.63,0.331,0.507,7.0,0.524,-36.8,-7.71,-17.6,-1.7,PASS,no edge,,,,0.0,luka doncic,3.0,0.0,graded,0.307,0.024
+2026-11-23,,Luka Dončić,LAL,UTA,pts,36.5,over,DraftKings,-106.0,14:54,33.3,29.22,0.24,0.475,4.0,0.515,-53.4,-10.99,-23.5,-4.0,PASS,no edge,,,,0.0,luka doncic,28.0,0.0,graded,0.216,0.024
+2026-11-23,,Luka Dončić,LAL,UTA,reb,6.5,over,DraftKings,-145.0,14:54,33.3,6.54,0.478,0.517,6.0,0.592,-19.2,-4.55,-3.9,-7.5,PASS,no edge,,,,0.0,luka doncic,4.0,0.0,graded,0.454,0.024
+2026-11-23,,Marcus Smart,HOU,LAC,ast,1.5,over,DraftKings,-190.0,14:54,21.1,2.22,0.608,0.597,3.0,0.655,-7.2,-1.9,1.1,-5.9,PASS,no edge,,,,0.0,marcus smart,3.0,1.0,graded,0.584,0.024
+2026-11-23,,Marcus Smart,HOU,LAC,fg3m,0.5,over,DraftKings,-225.0,14:54,21.1,1.29,0.721,0.649,2.0,0.692,4.1,1.14,7.2,-4.4,PASS,no edge,,,,0.0,marcus smart,0.0,0.0,graded,0.697,0.024
+2026-11-23,,Marcus Smart,HOU,LAC,pts,5.5,over,DraftKings,-135.0,14:54,21.1,7.16,0.623,0.542,1.0,0.574,8.5,1.96,8.1,-3.2,WATCH,edge below the Rules §3 bar,0.557,-1.78,,0.0,marcus smart,4.0,0.0,graded,0.6,0.024
+2026-11-23,,Matas Buzelis,CHI,CLE,fg3m,2.5,over,DraftKings,107.0,14:54,29.2,2.47,0.462,0.449,7.0,0.483,-4.3,-0.83,1.4,-3.4,PASS,no edge,,,,0.0,matas buzelis,4.0,1.0,graded,0.439,0.024
+2026-11-23,,Matas Buzelis,CHI,CLE,pts,17.5,over,DraftKings,-115.0,14:54,29.2,17.32,0.472,0.49,5.0,0.535,-11.8,-2.53,-1.8,-4.5,PASS,no edge,,,,0.0,matas buzelis,15.0,0.0,graded,0.448,0.024
+2026-11-23,,Matas Buzelis,CHI,CLE,reb,5.5,over,DraftKings,-103.0,14:54,29.2,5.7,0.495,0.454,7.0,0.507,-2.4,-0.49,4.1,-5.4,PASS,no edge,,,,0.0,matas buzelis,6.0,1.0,graded,0.471,0.024
+2026-11-23,,Matisse Thybulle,LAL,UTA,fg3m,1.5,over,DraftKings,117.0,14:54,20.7,1.3,0.387,0.445,6.0,0.461,-16.0,-2.95,-5.8,-1.6,PASS,no edge,,,,0.0,matisse thybulle,2.0,1.0,graded,0.363,0.024
+2026-11-23,,Matisse Thybulle,LAL,UTA,pts,6.5,over,DraftKings,-118.0,14:54,20.7,6.6,0.47,0.514,7.0,0.541,-13.2,-2.86,-4.4,-2.7,PASS,no edge,,,,0.0,matisse thybulle,14.0,1.0,graded,0.446,0.024
+2026-11-23,,Matisse Thybulle,LAL,UTA,reb,2.5,over,DraftKings,107.0,14:54,20.7,2.39,0.424,0.447,5.0,0.483,-12.2,-2.36,-2.3,-3.6,PASS,no edge,,,,0.0,matisse thybulle,4.0,1.0,graded,0.4,0.024
+2026-11-23,,Meleek Thomas,CLE,CHI,fg3m,1.5,over,DraftKings,-127.0,14:54,19.5,1.54,0.461,0.52,7.0,0.559,-17.7,-3.95,-6.0,-3.9,PASS,no edge,,,,0.0,meleek thomas,1.0,0.0,graded,0.437,0.024
+2026-11-23,,Meleek Thomas,CLE,CHI,pts,9.5,over,DraftKings,-108.0,14:54,19.5,9.67,0.482,0.474,5.0,0.519,-7.1,-1.48,0.8,-4.5,PASS,no edge,,,,0.0,meleek thomas,13.0,1.0,graded,0.458,0.024
+2026-11-23,,Michael Porter Jr.,BKN,MIN,ast,1.5,over,DraftKings,-173.0,14:54,31.2,2.29,0.634,0.597,3.0,0.634,0.0,0.01,3.7,-3.7,PASS,no edge,,,,0.0,michael porter,2.0,1.0,graded,0.61,0.024
+2026-11-23,,Michael Porter Jr.,BKN,MIN,fg3m,2.5,over,DraftKings,-142.0,14:54,31.2,2.74,0.523,0.562,7.0,0.587,-10.9,-2.57,-4.0,-2.4,PASS,no edge,,,,0.0,michael porter,0.0,0.0,graded,0.499,0.024
+2026-11-23,,Michael Porter Jr.,BKN,MIN,pts,19.5,over,DraftKings,-111.0,14:54,31.2,18.9,0.457,0.52,3.0,0.526,-13.2,-2.77,-6.4,-0.6,PASS,no edge,,,,0.0,michael porter,11.0,0.0,graded,0.433,0.024
+2026-11-23,,Michael Porter Jr.,BKN,MIN,reb,6.5,over,DraftKings,-107.0,14:54,31.2,6.44,0.468,0.486,7.0,0.517,-9.5,-1.97,-1.8,-3.1,PASS,no edge,,,,0.0,michael porter,6.0,0.0,graded,0.444,0.024
+2026-11-23,,Mikel Brown Jr.,BKN,MIN,ast,3.5,over,DraftKings,-149.0,14:54,22.8,2.8,0.338,0.567,6.0,0.598,-43.5,-10.42,-22.9,-3.2,PASS,no edge,,,,0.0,mikel brown,7.0,1.0,graded,0.314,0.024
+2026-11-23,,Mikel Brown Jr.,BKN,MIN,fg3m,1.5,over,DraftKings,-171.0,14:54,22.8,1.66,0.494,0.605,6.0,0.631,-21.7,-5.47,-11.0,-2.6,PASS,no edge,,,,0.0,mikel brown,4.0,1.0,graded,0.47,0.024
+2026-11-23,,Mikel Brown Jr.,BKN,MIN,pts,13.5,over,DraftKings,-107.0,14:54,22.8,10.03,0.256,0.488,5.0,0.517,-50.5,-10.45,-23.2,-2.9,PASS,no edge,,,,0.0,mikel brown,17.0,1.0,graded,0.232,0.024
+2026-11-23,,Mikel Brown Jr.,BKN,MIN,reb,2.5,over,DraftKings,140.0,14:54,22.8,2.35,0.419,0.394,4.0,0.417,0.5,0.08,2.4,-2.2,PASS,no edge,,,,0.0,mikel brown,5.0,1.0,graded,0.395,0.024
+2026-11-23,,Miles Bridges,PHX,NOP,ast,2.5,over,DraftKings,-153.0,14:54,28.9,3.1,0.575,0.551,5.0,0.605,-4.9,-1.19,2.4,-5.4,PASS,no edge,,,,0.0,miles bridges,5.0,1.0,graded,0.551,0.024
+2026-11-23,,Miles Bridges,PHX,NOP,fg3m,1.5,over,DraftKings,-123.0,14:54,28.9,1.73,0.524,0.52,7.0,0.552,-5.0,-1.1,0.4,-3.1,PASS,no edge,,,,0.0,miles bridges,2.0,1.0,graded,0.5,0.024
+2026-11-23,,Miles Bridges,PHX,NOP,pts,14.5,over,DraftKings,-105.0,14:54,28.9,15.3,0.532,0.472,5.0,0.512,3.8,0.77,5.9,-4.0,PASS,no edge,,,,0.0,miles bridges,14.0,0.0,graded,0.508,0.024
+2026-11-23,,Miles Bridges,PHX,NOP,reb,5.5,over,DraftKings,-146.0,14:54,28.9,6.01,0.536,0.556,1.0,0.593,-9.7,-2.31,-2.0,-3.7,PASS,no edge,,,,0.0,miles bridges,11.0,1.0,graded,0.512,0.024
+2026-11-23,,Moussa Diabaté,CHA,MEM,ast,1.5,over,DraftKings,-174.0,14:54,28.0,2.14,0.594,0.592,2.0,0.635,-6.4,-1.63,0.2,-4.3,PASS,no edge,,,,0.0,moussa diabate,3.0,1.0,graded,0.57,0.024
+2026-11-23,,Moussa Diabaté,CHA,MEM,pts,8.5,over,DraftKings,-120.0,14:54,28.0,8.75,0.491,0.52,6.0,0.545,-10.0,-2.19,-3.0,-2.5,PASS,no edge,,,,0.0,moussa diabate,10.0,1.0,graded,0.467,0.024
+2026-11-23,,Moussa Diabaté,CHA,MEM,reb,9.5,over,DraftKings,-142.0,14:54,28.0,8.81,0.421,0.538,6.0,0.587,-28.3,-6.65,-11.8,-4.8,PASS,no edge,,,,0.0,moussa diabate,10.0,1.0,graded,0.397,0.024
+2026-11-23,,Myles Turner,MIL,TOR,fg3m,1.5,over,DraftKings,106.0,14:54,26.8,1.64,0.493,0.456,7.0,0.485,1.5,0.29,3.7,-2.9,PASS,no edge,,,,0.0,myles turner,5.0,1.0,graded,0.469,0.024
+2026-11-23,,Myles Turner,MIL,TOR,pts,7.5,over,DraftKings,-122.0,14:54,26.8,9.49,0.632,0.5,7.0,0.55,15.0,3.31,13.2,-5.0,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.531,-1.87,,0.0,myles turner,27.0,1.0,graded,0.608,0.024
+2026-11-23,,Myles Turner,MIL,TOR,reb,5.5,over,DraftKings,105.0,14:54,26.8,5.35,0.454,0.447,7.0,0.488,-6.9,-1.35,0.7,-4.1,PASS,no edge,,,,0.0,myles turner,11.0,1.0,graded,0.43,0.024
+2026-11-23,,Naz Reid,CHA,MEM,ast,2.5,over,DraftKings,-120.0,14:54,29.6,2.38,0.431,0.526,5.0,0.545,-21.0,-4.59,-9.5,-2.0,PASS,no edge,,,,0.0,naz reid,3.0,1.0,graded,0.407,0.024
+2026-11-23,,Naz Reid,CHA,MEM,fg3m,2.5,over,DraftKings,-101.0,14:54,29.6,2.28,0.417,0.476,7.0,0.502,-17.0,-3.42,-5.9,-2.7,PASS,no edge,,,,0.0,naz reid,3.0,1.0,graded,0.393,0.024
+2026-11-23,,Naz Reid,CHA,MEM,pts,18.5,over,DraftKings,-124.0,14:54,29.6,15.25,0.306,0.52,5.0,0.554,-44.7,-9.9,-21.4,-3.3,PASS,no edge,,,,0.0,naz reid,24.0,1.0,graded,0.282,0.024
+2026-11-23,,Naz Reid,CHA,MEM,reb,8.5,over,DraftKings,-111.0,14:54,29.6,6.89,0.317,0.457,4.0,0.526,-39.7,-8.35,-14.0,-6.9,PASS,no edge,,,,0.0,naz reid,6.0,0.0,graded,0.293,0.024
+2026-11-23,,Oso Ighodaro,PHX,NOP,ast,2.5,over,DraftKings,-158.0,14:54,23.4,2.69,0.497,0.583,3.0,0.612,-18.9,-4.62,-8.7,-2.9,PASS,no edge,,,,0.0,oso ighodaro,1.0,0.0,graded,0.473,0.024
+2026-11-23,,Oso Ighodaro,PHX,NOP,pts,7.5,over,DraftKings,-104.0,14:54,23.4,6.99,0.415,0.49,7.0,0.51,-18.6,-3.8,-7.5,-2.0,PASS,no edge,,,,0.0,oso ighodaro,7.0,0.0,graded,0.391,0.024
+2026-11-23,,Oso Ighodaro,PHX,NOP,reb,5.5,over,DraftKings,-138.0,14:54,23.4,5.44,0.459,0.554,5.0,0.58,-20.8,-4.83,-9.5,-2.6,PASS,no edge,,,,0.0,oso ighodaro,4.0,0.0,graded,0.435,0.024
+2026-11-23,,Pascal Siakam,IND,OKC,ast,3.5,over,DraftKings,102.0,14:54,32.5,3.51,0.466,0.444,7.0,0.495,-5.8,-1.15,2.3,-5.2,PASS,no edge,,,,0.0,pascal siakam,5.0,1.0,graded,0.442,0.024
+2026-11-23,,Pascal Siakam,IND,OKC,fg3m,1.5,over,DraftKings,-121.0,14:54,32.5,1.59,0.481,0.485,7.0,0.548,-12.2,-2.68,-0.5,-6.2,PASS,no edge,,,,0.0,pascal siakam,2.0,1.0,graded,0.457,0.024
+2026-11-23,,Pascal Siakam,IND,OKC,pts,21.5,over,DraftKings,-108.0,14:54,32.5,21.46,0.486,0.511,7.0,0.519,-6.4,-1.33,-2.5,-0.8,PASS,no edge,,,,0.0,pascal siakam,20.0,0.0,graded,0.462,0.024
+2026-11-23,,Pascal Siakam,IND,OKC,reb,5.5,over,DraftKings,-134.0,14:54,32.5,6.15,0.557,0.554,7.0,0.573,-2.8,-0.63,0.3,-1.9,PASS,no edge,,,,0.0,pascal siakam,8.0,1.0,graded,0.533,0.024
+2026-11-23,,Peyton Watson,CLE,CHI,ast,2.5,over,DraftKings,139.0,14:54,27.6,2.28,0.406,0.389,4.0,0.418,-2.9,-0.49,1.7,-2.9,PASS,no edge,,,,0.0,peyton watson,3.0,1.0,graded,0.382,0.024
+2026-11-23,,Peyton Watson,CLE,CHI,fg3m,1.5,over,DraftKings,-102.0,14:54,27.6,1.3,0.387,0.469,7.0,0.505,-23.4,-4.72,-8.2,-3.6,PASS,no edge,,,,0.0,peyton watson,1.0,0.0,graded,0.363,0.024
+2026-11-23,,Peyton Watson,CLE,CHI,pts,12.5,over,DraftKings,-113.0,14:54,27.6,12.8,0.502,0.484,7.0,0.531,-5.4,-1.16,1.8,-4.7,PASS,no edge,,,,0.0,peyton watson,8.0,0.0,graded,0.478,0.024
+2026-11-23,,Peyton Watson,CLE,CHI,reb,4.5,over,DraftKings,-114.0,14:54,27.6,4.58,0.48,0.5,7.0,0.533,-9.9,-2.11,-2.0,-3.3,PASS,no edge,,,,0.0,peyton watson,10.0,1.0,graded,0.456,0.024
+2026-11-23,,Quentin Grimes,LAL,UTA,ast,3.5,over,DraftKings,122.0,14:54,27.6,2.76,0.331,0.456,8.0,0.45,-26.6,-4.79,-12.5,0.5,PASS,no edge,,,,0.0,quentin grimes,8.0,1.0,graded,0.307,0.024
+2026-11-23,,Quentin Grimes,LAL,UTA,fg3m,2.5,over,DraftKings,146.0,14:54,27.6,1.54,0.236,0.389,7.0,0.407,-42.0,-6.83,-15.3,-1.8,PASS,no edge,,,,0.0,quentin grimes,1.0,0.0,graded,0.212,0.024
+2026-11-23,,Quentin Grimes,LAL,UTA,pts,17.5,over,DraftKings,-102.0,14:54,27.6,12.14,0.202,0.476,1.0,0.505,-59.9,-12.11,-27.4,-2.9,PASS,no edge,,,,0.0,quentin grimes,9.0,0.0,graded,0.178,0.024
+2026-11-23,,Quentin Grimes,LAL,UTA,reb,4.5,over,DraftKings,119.0,14:54,27.6,3.46,0.314,0.425,8.0,0.457,-31.3,-5.72,-11.1,-3.2,PASS,no edge,,,,0.0,quentin grimes,3.0,0.0,graded,0.29,0.024
+2026-11-23,,Reed Sheppard,HOU,LAC,fg3m,1.5,over,DraftKings,-145.0,14:54,19.8,2.0,0.585,0.574,6.0,0.592,-1.1,-0.25,1.2,-1.8,PASS,no edge,,,,0.0,reed sheppard,1.0,0.0,graded,0.562,0.024
+2026-11-23,,Reed Sheppard,HOU,LAC,pts,7.5,over,DraftKings,-129.0,14:54,19.8,9.7,0.636,0.531,5.0,0.563,12.9,2.9,10.5,-3.3,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.546,-1.74,,0.0,reed sheppard,5.0,0.0,graded,0.612,0.024
+2026-11-23,,Royce O'Neale,CHA,MEM,ast,1.5,over,DraftKings,107.0,14:54,22.1,1.68,0.485,0.472,3.0,0.483,0.3,0.06,1.2,-1.1,PASS,no edge,,,,0.0,royce oneale,1.0,0.0,graded,0.461,0.024
+2026-11-23,,Royce O'Neale,CHA,MEM,fg3m,1.5,over,DraftKings,-154.0,14:54,22.1,1.84,0.55,0.588,7.0,0.606,-9.3,-2.25,-3.8,-1.8,PASS,no edge,,,,0.0,royce oneale,0.0,0.0,graded,0.526,0.024
+2026-11-23,,Royce O'Neale,CHA,MEM,pts,7.5,over,DraftKings,-108.0,14:54,22.1,7.47,0.464,0.491,6.0,0.519,-10.7,-2.21,-2.7,-2.8,PASS,no edge,,,,0.0,royce oneale,0.0,0.0,graded,0.44,0.024
+2026-11-23,,Royce O'Neale,CHA,MEM,reb,3.5,over,DraftKings,-122.0,14:54,22.1,3.51,0.458,0.495,5.0,0.55,-16.7,-3.68,-3.7,-5.5,PASS,no edge,,,,0.0,royce oneale,1.0,0.0,graded,0.434,0.024
+2026-11-23,,Rudy Gobert,MIN,BKN,ast,1.5,over,DraftKings,100.0,14:54,27.9,1.59,0.461,0.465,3.0,0.5,-7.9,-1.57,-0.5,-3.5,PASS,no edge,,,,0.0,rudy gobert,3.0,1.0,graded,0.437,0.024
+2026-11-23,,Rudy Gobert,MIN,BKN,pts,9.5,over,DraftKings,-104.0,14:54,27.9,8.77,0.413,0.472,6.0,0.51,-19.1,-3.89,-6.0,-3.7,PASS,no edge,,,,0.0,rudy gobert,7.0,0.0,graded,0.389,0.024
+2026-11-23,,Rudy Gobert,MIN,BKN,reb,9.5,over,DraftKings,-142.0,14:54,27.9,9.78,0.507,0.536,4.0,0.587,-13.5,-3.17,-2.9,-5.0,PASS,no edge,,,,0.0,rudy gobert,6.0,0.0,graded,0.484,0.024
+2026-11-23,,Rui Hachimura,LAC,HOU,fg3m,1.5,over,DraftKings,-150.0,14:54,27.1,1.64,0.494,0.566,7.0,0.6,-17.7,-4.25,-7.2,-3.4,PASS,no edge,,,,0.0,rui hachimura,2.0,1.0,graded,0.47,0.024
+2026-11-23,,Rui Hachimura,LAC,HOU,pts,12.5,over,DraftKings,-116.0,14:54,27.1,12.46,0.475,0.49,7.0,0.537,-11.6,-2.5,-1.5,-4.7,PASS,no edge,,,,0.0,rui hachimura,19.0,1.0,graded,0.451,0.024
+2026-11-23,,Rui Hachimura,LAC,HOU,reb,4.5,over,DraftKings,-122.0,14:54,27.1,4.14,0.412,0.506,7.0,0.55,-25.1,-5.51,-9.4,-4.3,PASS,no edge,,,,0.0,rui hachimura,3.0,0.0,graded,0.388,0.024
+2026-11-23,,Ryan Kalkbrenner,CHA,MEM,pts,4.5,over,DraftKings,-127.0,14:54,17.8,5.79,0.59,0.516,4.0,0.559,5.4,1.21,7.3,-4.3,PASS,no edge,,,,0.0,ryan kalkbrenner,0.0,0.0,graded,0.566,0.024
+2026-11-23,,Ryan Kalkbrenner,CHA,MEM,reb,4.5,over,DraftKings,104.0,14:54,17.8,4.4,0.452,0.456,6.0,0.49,-7.8,-1.54,-0.5,-3.4,PASS,no edge,,,,0.0,ryan kalkbrenner,2.0,0.0,graded,0.428,0.024
+2026-11-23,,Ryan Rollins,MIL,TOR,ast,3.5,over,DraftKings,-150.0,14:54,27.4,4.31,0.598,0.565,6.0,0.6,-0.4,-0.08,3.3,-3.5,PASS,no edge,,,,0.0,ryan rollins,3.0,0.0,graded,0.574,0.024
+2026-11-23,,Ryan Rollins,MIL,TOR,fg3m,1.5,over,DraftKings,-117.0,14:54,27.4,1.76,0.531,0.5,7.0,0.539,-1.4,-0.31,3.1,-3.9,PASS,no edge,,,,0.0,ryan rollins,0.0,0.0,graded,0.508,0.024
+2026-11-23,,Ryan Rollins,MIL,TOR,pts,11.5,over,DraftKings,-117.0,14:54,27.4,13.13,0.585,0.523,7.0,0.539,8.5,1.82,6.2,-1.7,WATCH,edge below the Rules §3 bar,0.528,-1.13,,0.0,ryan rollins,6.0,0.0,graded,0.561,0.024
+2026-11-23,,Ryan Rollins,MIL,TOR,reb,3.5,over,DraftKings,-137.0,14:54,27.4,4.46,0.607,0.538,6.0,0.578,4.9,1.14,6.8,-4.0,PASS,no edge,,,,0.0,ryan rollins,1.0,0.0,graded,0.583,0.024
+2026-11-23,,Saddiq Bey,NOP,PHX,ast,2.5,over,DraftKings,114.0,14:54,31.2,2.6,0.474,0.436,4.0,0.467,1.4,0.26,3.8,-3.1,PASS,no edge,,,,0.0,saddiq bey,3.0,1.0,graded,0.45,0.024
+2026-11-23,,Saddiq Bey,NOP,PHX,fg3m,2.5,over,DraftKings,128.0,14:54,31.2,2.05,0.362,0.413,6.0,0.439,-17.5,-3.06,-5.1,-2.5,PASS,no edge,,,,0.0,saddiq bey,2.0,0.0,graded,0.338,0.024
+2026-11-23,,Saddiq Bey,NOP,PHX,pts,15.5,over,DraftKings,-115.0,14:54,31.2,16.69,0.548,0.497,6.0,0.535,2.5,0.53,5.1,-3.8,PASS,no edge,,,,0.0,saddiq bey,21.0,1.0,graded,0.524,0.024
+2026-11-23,,Saddiq Bey,NOP,PHX,reb,4.5,over,DraftKings,-147.0,14:54,31.2,5.15,0.558,0.558,6.0,0.595,-6.3,-1.49,0.0,-3.8,PASS,no edge,,,,0.0,saddiq bey,4.0,0.0,graded,0.534,0.024
+2026-11-23,,Sandro Mamukelashvili,LAL,UTA,fg3m,1.5,over,DraftKings,158.0,14:54,21.2,1.22,0.363,0.386,7.0,0.388,-6.4,-0.99,-2.3,-0.2,PASS,no edge,,,,0.0,sandro mamukelashvili,0.0,0.0,graded,0.339,0.024
+2026-11-23,,Sandro Mamukelashvili,LAL,UTA,pts,9.5,over,DraftKings,101.0,14:54,21.2,9.36,0.454,0.48,3.0,0.498,-8.8,-1.75,-2.6,-1.8,PASS,no edge,,,,0.0,sandro mamukelashvili,2.0,0.0,graded,0.43,0.024
+2026-11-23,,Sandro Mamukelashvili,LAL,UTA,reb,4.5,over,DraftKings,-117.0,14:54,21.2,4.35,0.449,0.49,7.0,0.539,-16.8,-3.62,-4.1,-4.9,PASS,no edge,,,,0.0,sandro mamukelashvili,4.0,0.0,graded,0.425,0.024
+2026-11-23,,Scoot Henderson,POR,PHI,ast,1.5,over,DraftKings,-141.0,14:54,21.7,2.05,0.574,0.547,4.0,0.585,-1.9,-0.44,2.7,-3.8,PASS,no edge,,,,0.0,scoot henderson,3.0,1.0,graded,0.55,0.024
+2026-11-23,,Scoot Henderson,POR,PHI,fg3m,1.5,over,DraftKings,156.0,14:54,21.7,1.32,0.394,0.372,5.0,0.391,0.8,0.12,2.2,-1.8,PASS,no edge,,,,0.0,scoot henderson,3.0,1.0,graded,0.37,0.024
+2026-11-23,,Scoot Henderson,POR,PHI,pts,9.5,over,DraftKings,-109.0,14:54,21.7,9.54,0.478,0.513,7.0,0.522,-8.4,-1.75,-3.5,-0.8,PASS,no edge,,,,0.0,scoot henderson,17.0,1.0,graded,0.454,0.024
+2026-11-23,,Scoot Henderson,POR,PHI,reb,2.5,over,DraftKings,128.0,14:54,21.7,2.3,0.407,0.399,2.0,0.439,-7.3,-1.27,0.8,-4.0,PASS,no edge,,,,0.0,scoot henderson,3.0,1.0,graded,0.383,0.024
+2026-11-23,,Scottie Barnes,TOR,MIL,ast,5.5,over,DraftKings,-129.0,14:54,33.8,6.4,0.597,0.51,8.0,0.563,5.9,1.33,8.6,-5.3,PASS,no edge,,,,0.0,scottie barnes,8.0,1.0,graded,0.573,0.024
+2026-11-23,,Scottie Barnes,TOR,MIL,fg3m,0.5,over,DraftKings,-226.0,14:54,33.8,1.15,0.685,0.645,4.0,0.693,-1.2,-0.33,4.0,-4.8,PASS,no edge,,,,0.0,scottie barnes,2.0,1.0,graded,0.661,0.024
+2026-11-23,,Scottie Barnes,TOR,MIL,pts,24.5,over,DraftKings,-104.0,14:54,33.8,22.54,0.4,0.481,1.0,0.51,-21.5,-4.38,-8.1,-2.9,PASS,no edge,,,,0.0,scottie barnes,31.0,1.0,graded,0.376,0.024
+2026-11-23,,Scottie Barnes,TOR,MIL,reb,7.5,over,DraftKings,103.0,14:54,33.8,7.02,0.424,0.437,7.0,0.493,-13.9,-2.74,-1.3,-5.5,PASS,no edge,,,,0.0,scottie barnes,5.0,0.0,graded,0.4,0.024
+2026-11-23,,Shai Gilgeous-Alexander,OKC,IND,ast,5.5,over,DraftKings,110.0,14:54,33.7,5.78,0.515,0.444,7.0,0.476,8.1,1.55,7.1,-3.3,WATCH,edge below the Rules §3 bar,0.455,-2.12,,0.0,shai gilgeous-alexander,7.0,1.0,graded,0.491,0.024
+2026-11-23,,Shai Gilgeous-Alexander,OKC,IND,fg3m,1.5,over,DraftKings,-175.0,14:54,33.7,1.93,0.59,0.592,8.0,0.636,-7.3,-1.87,-0.2,-4.5,PASS,no edge,,,,0.0,shai gilgeous-alexander,4.0,1.0,graded,0.566,0.024
+2026-11-23,,Shai Gilgeous-Alexander,OKC,IND,pts,33.5,over,DraftKings,-111.0,14:54,33.7,30.28,0.367,0.496,1.0,0.526,-30.3,-6.37,-12.9,-3.0,PASS,no edge,,,,0.0,shai gilgeous-alexander,38.0,1.0,graded,0.343,0.024
+2026-11-23,,Shai Gilgeous-Alexander,OKC,IND,reb,3.5,over,DraftKings,-150.0,14:54,33.7,4.27,0.586,0.565,6.0,0.6,-2.4,-0.58,2.1,-3.5,PASS,no edge,,,,0.0,shai gilgeous-alexander,5.0,1.0,graded,0.562,0.024
+2026-11-23,,Sidy Cissoko,POR,PHI,ast,1.5,over,DraftKings,-127.0,14:54,21.1,1.62,0.463,0.523,4.0,0.559,-17.2,-3.84,-5.9,-3.7,PASS,no edge,,,,0.0,sidy cissoko,0.0,0.0,graded,0.44,0.024
+2026-11-23,,Sidy Cissoko,POR,PHI,fg3m,1.5,over,DraftKings,174.0,14:54,21.1,1.0,0.289,0.333,5.0,0.365,-20.8,-3.04,-4.4,-3.2,PASS,no edge,,,,0.0,sidy cissoko,1.0,0.0,graded,0.265,0.024
+2026-11-23,,Sidy Cissoko,POR,PHI,pts,6.5,over,DraftKings,-107.0,14:54,21.1,5.96,0.404,0.472,5.0,0.517,-21.9,-4.53,-6.8,-4.5,PASS,no edge,,,,0.0,sidy cissoko,5.0,0.0,graded,0.38,0.024
+2026-11-23,,Sidy Cissoko,POR,PHI,reb,3.5,over,DraftKings,117.0,14:54,21.1,2.91,0.36,0.434,5.0,0.461,-22.0,-4.05,-7.4,-2.7,PASS,no edge,,,,0.0,sidy cissoko,4.0,1.0,graded,0.336,0.024
+2026-11-23,,Sion James,CHA,MEM,ast,2.5,over,DraftKings,-164.0,14:54,24.2,2.43,0.443,0.59,4.0,0.621,-28.7,-7.14,-14.7,-3.2,PASS,no edge,,,,0.0,sion james,4.0,1.0,graded,0.419,0.024
+2026-11-23,,Sion James,CHA,MEM,fg3m,1.5,over,DraftKings,116.0,14:54,24.2,1.19,0.355,0.423,6.0,0.463,-23.3,-4.32,-6.8,-4.0,PASS,no edge,,,,0.0,sion james,1.0,0.0,graded,0.331,0.024
+2026-11-23,,Sion James,CHA,MEM,pts,6.5,over,DraftKings,-130.0,14:54,24.2,6.07,0.419,0.533,1.0,0.565,-25.9,-5.87,-11.5,-3.2,PASS,no edge,,,,0.0,sion james,5.0,0.0,graded,0.395,0.024
+2026-11-23,,Sion James,CHA,MEM,reb,4.5,over,DraftKings,115.0,14:54,24.2,3.66,0.341,0.408,6.0,0.465,-26.7,-4.96,-6.7,-5.7,PASS,no edge,,,,0.0,sion james,4.0,0.0,graded,0.317,0.024
+2026-11-23,,Stephon Castle,SAS,SAC,ast,7.5,over,DraftKings,102.0,14:54,29.2,6.51,0.367,0.48,6.0,0.495,-25.9,-5.13,-11.3,-1.5,PASS,no edge,,,,0.0,stephon castle,11.0,1.0,graded,0.343,0.024
+2026-11-23,,Stephon Castle,SAS,SAC,fg3m,2.5,over,DraftKings,144.0,14:54,29.2,1.57,0.242,0.387,2.0,0.41,-40.9,-6.7,-14.5,-2.3,PASS,no edge,,,,0.0,stephon castle,4.0,1.0,graded,0.218,0.024
+2026-11-23,,Stephon Castle,SAS,SAC,pts,19.5,over,DraftKings,-122.0,14:54,29.2,15.94,0.301,0.51,1.0,0.55,-45.1,-9.92,-20.9,-3.9,PASS,no edge,,,,0.0,stephon castle,28.0,1.0,graded,0.278,0.024
+2026-11-23,,Stephon Castle,SAS,SAC,reb,5.5,over,DraftKings,-102.0,14:54,29.2,5.17,0.429,0.469,7.0,0.505,-15.0,-3.03,-4.0,-3.6,PASS,no edge,,,,0.0,stephon castle,8.0,1.0,graded,0.405,0.024
+2026-11-23,,Terrence Shannon Jr,MIN,BKN,ast,2.5,over,DraftKings,-107.0,14:54,19.3,1.8,0.303,0.483,5.0,0.517,-41.4,-8.56,-18.0,-3.4,PASS,no edge,,,,0.0,terrence shannon,5.0,1.0,graded,0.279,0.024
+2026-11-23,,Terrence Shannon Jr,MIN,BKN,fg3m,1.5,over,DraftKings,152.0,14:54,19.3,1.05,0.309,0.389,7.0,0.397,-22.1,-3.51,-8.0,-0.8,PASS,no edge,,,,0.0,terrence shannon,2.0,1.0,graded,0.285,0.024
+2026-11-23,,Terrence Shannon Jr,MIN,BKN,pts,13.5,over,DraftKings,-106.0,14:54,19.3,9.07,0.208,0.484,7.0,0.515,-59.7,-12.28,-27.6,-3.1,PASS,no edge,,,,0.0,terrence shannon,17.0,1.0,graded,0.184,0.024
+2026-11-23,,Terrence Shannon Jr,MIN,BKN,reb,3.5,over,DraftKings,124.0,14:54,19.3,2.61,0.306,0.417,7.0,0.446,-31.4,-5.61,-11.0,-3.0,PASS,no edge,,,,0.0,terrence shannon,1.0,0.0,graded,0.282,0.024
+2026-11-23,,Toumani Camara,POR,PHI,ast,1.5,over,DraftKings,106.0,14:54,31.3,1.97,0.56,0.462,4.0,0.485,15.3,2.98,9.8,-2.3,WATCH,edge below the Rules §3 bar,0.486,0.09,,0.0,toumani camara,3.0,1.0,graded,0.536,0.024
+2026-11-23,,Toumani Camara,POR,PHI,fg3m,2.5,over,DraftKings,125.0,14:54,31.3,2.31,0.425,0.431,6.0,0.444,-4.5,-0.79,-0.6,-1.4,PASS,no edge,,,,0.0,toumani camara,1.0,0.0,graded,0.401,0.024
+2026-11-23,,Toumani Camara,POR,PHI,pts,10.5,over,DraftKings,-130.0,14:54,31.3,12.24,0.6,0.533,1.0,0.565,6.1,1.38,6.7,-3.2,PASS,no edge,,,,0.0,toumani camara,5.0,0.0,graded,0.576,0.024
+2026-11-23,,Toumani Camara,POR,PHI,reb,4.5,over,DraftKings,-120.0,14:54,31.3,4.52,0.469,0.492,7.0,0.545,-14.1,-3.07,-2.3,-5.4,PASS,no edge,,,,0.0,toumani camara,5.0,1.0,graded,0.445,0.024
+2026-11-23,,Trey Murphy III,NOP,PHX,ast,2.5,over,DraftKings,-137.0,14:54,32.7,3.45,0.635,0.531,6.0,0.578,9.9,2.3,10.4,-4.7,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.549,-2.91,,0.0,trey murphy,2.0,0.0,graded,0.612,0.024
+2026-11-23,,Trey Murphy III,NOP,PHX,fg3m,2.5,over,DraftKings,134.0,14:54,32.7,2.63,0.5,0.399,7.0,0.427,17.1,2.92,10.1,-2.8,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.42,-0.76,,0.0,trey murphy,1.0,0.0,graded,0.477,0.024
+2026-11-23,,Trey Murphy III,NOP,PHX,pts,15.5,over,DraftKings,-105.0,14:54,32.7,18.09,0.635,0.51,8.0,0.512,23.9,4.91,12.5,-0.2,WATCH,"model-market gap >10 pts: likely missing info, investigate",0.52,0.78,,0.0,trey murphy,9.0,0.0,graded,0.611,0.024
+2026-11-23,,Trey Murphy III,NOP,PHX,reb,4.5,over,DraftKings,-109.0,14:54,32.7,5.16,0.559,0.49,7.0,0.522,7.3,1.52,7.0,-3.2,WATCH,edge below the Rules §3 bar,0.5,-2.14,,0.0,trey murphy,9.0,1.0,graded,0.536,0.024
+2026-11-23,,Ty Jerome,MEM,CHA,ast,5.5,over,DraftKings,-103.0,14:54,27.1,4.41,0.325,0.472,7.0,0.507,-36.0,-7.31,-14.7,-3.6,PASS,no edge,,,,0.0,ty jerome,3.0,0.0,graded,0.301,0.024
+2026-11-23,,Ty Jerome,MEM,CHA,fg3m,2.5,over,DraftKings,-102.0,14:54,27.1,2.06,0.358,0.492,7.0,0.505,-29.0,-5.86,-13.4,-1.3,PASS,no edge,,,,0.0,ty jerome,7.0,1.0,graded,0.335,0.024
+2026-11-23,,Ty Jerome,MEM,CHA,pts,22.5,over,DraftKings,-120.0,14:54,27.1,17.47,0.254,0.513,6.0,0.545,-53.4,-11.66,-25.9,-3.2,PASS,no edge,,,,0.0,ty jerome,29.0,1.0,graded,0.23,0.024
+2026-11-23,,Ty Jerome,MEM,CHA,reb,3.5,over,DraftKings,123.0,14:54,27.1,3.27,0.424,0.424,6.0,0.448,-5.5,-0.98,-0.0,-2.4,PASS,no edge,,,,0.0,ty jerome,4.0,1.0,graded,0.4,0.024
+2026-11-23,,Tyler Herro,MIL,TOR,ast,4.5,over,DraftKings,121.0,14:54,29.7,3.67,0.34,0.425,3.0,0.452,-24.8,-4.48,-8.5,-2.7,PASS,no edge,,,,0.0,tyler herro,8.0,1.0,graded,0.317,0.024
+2026-11-23,,Tyler Herro,MIL,TOR,fg3m,2.5,over,DraftKings,117.0,14:54,29.7,2.31,0.423,0.466,7.0,0.461,-8.3,-1.53,-4.4,0.5,PASS,no edge,,,,0.0,tyler herro,4.0,1.0,graded,0.399,0.024
+2026-11-23,,Tyler Herro,MIL,TOR,pts,20.5,over,DraftKings,-106.0,14:54,29.7,18.03,0.361,0.486,7.0,0.515,-29.8,-6.14,-12.5,-2.9,PASS,no edge,,,,0.0,tyler herro,32.0,1.0,graded,0.337,0.024
+2026-11-23,,Tyler Herro,MIL,TOR,reb,3.5,over,DraftKings,-153.0,14:54,29.7,4.45,0.611,0.572,6.0,0.605,1.0,0.24,3.9,-3.3,PASS,no edge,,,,0.0,tyler herro,6.0,1.0,graded,0.587,0.024
+2026-11-23,,Tyrese Maxey,PHI,POR,ast,5.5,over,DraftKings,121.0,14:54,34.4,5.08,0.419,0.423,3.0,0.452,-7.4,-1.33,-0.4,-2.9,PASS,no edge,,,,0.0,tyrese maxey,5.0,0.0,graded,0.395,0.024
+2026-11-23,,Tyrese Maxey,PHI,POR,fg3m,2.5,over,DraftKings,-118.0,14:54,34.4,2.25,0.408,0.493,8.0,0.541,-24.7,-5.35,-8.6,-4.8,PASS,no edge,,,,0.0,tyrese maxey,2.0,0.0,graded,0.384,0.024
+2026-11-23,,Tyrese Maxey,PHI,POR,pts,25.5,over,DraftKings,-111.0,14:54,34.4,21.29,0.298,0.482,4.0,0.526,-43.4,-9.14,-18.4,-4.4,PASS,no edge,,,,0.0,tyrese maxey,22.0,0.0,graded,0.274,0.024
+2026-11-23,,Tyrese Maxey,PHI,POR,reb,3.5,over,DraftKings,-103.0,14:54,34.4,3.67,0.492,0.468,8.0,0.507,-3.1,-0.63,2.4,-4.0,PASS,no edge,,,,0.0,tyrese maxey,2.0,0.0,graded,0.468,0.024
+2026-11-23,,Victor Wembanyama,SAS,SAC,ast,2.5,over,DraftKings,-177.0,14:54,29.4,3.21,0.6,0.588,4.0,0.639,-6.2,-1.58,1.2,-5.1,PASS,no edge,,,,0.0,victor wembanyama,,,DNP/void,0.576,0.024
+2026-11-23,,Victor Wembanyama,SAS,SAC,fg3m,2.5,over,DraftKings,137.0,14:54,29.4,2.0,0.35,0.391,7.0,0.422,-17.0,-2.87,-4.1,-3.1,PASS,no edge,,,,0.0,victor wembanyama,,,DNP/void,0.326,0.024
+2026-11-23,,Victor Wembanyama,SAS,SAC,pts,29.5,over,DraftKings,-105.0,14:54,29.4,25.93,0.347,0.513,6.0,0.512,-32.2,-6.6,-16.5,0.0,PASS,no edge,,,,0.0,victor wembanyama,,,DNP/void,0.323,0.024
+2026-11-23,,Victor Wembanyama,SAS,SAC,reb,11.5,over,DraftKings,-128.0,14:54,29.4,11.12,0.45,0.531,7.0,0.561,-19.9,-4.48,-8.1,-3.1,PASS,no edge,,,,0.0,victor wembanyama,,,DNP/void,0.426,0.024
+2026-11-23,,VJ Edgecombe,PHI,POR,ast,3.5,over,DraftKings,115.0,14:54,33.1,3.63,0.489,0.431,7.0,0.465,5.1,0.95,5.8,-3.4,PASS,no edge,,,,0.0,vj edgecombe,7.0,1.0,graded,0.465,0.024
+2026-11-23,,VJ Edgecombe,PHI,POR,fg3m,1.5,over,DraftKings,-116.0,14:54,33.1,1.56,0.476,0.527,7.0,0.537,-11.4,-2.46,-5.1,-1.0,PASS,no edge,,,,0.0,vj edgecombe,1.0,0.0,graded,0.452,0.024
+2026-11-23,,VJ Edgecombe,PHI,POR,pts,12.5,over,DraftKings,-113.0,14:54,33.1,13.13,0.52,0.514,4.0,0.531,-2.0,-0.42,0.6,-1.6,PASS,no edge,,,,0.0,vj edgecombe,12.0,0.0,graded,0.496,0.024
+2026-11-23,,VJ Edgecombe,PHI,POR,reb,5.5,over,DraftKings,-147.0,14:54,33.1,5.67,0.498,0.535,6.0,0.595,-16.4,-3.9,-3.8,-6.0,PASS,no edge,,,,0.0,vj edgecombe,7.0,1.0,graded,0.474,0.024
+2026-11-23,,Walker Kessler,LAL,UTA,pts,13.5,over,DraftKings,-107.0,14:54,27.9,12.59,0.418,0.519,7.0,0.517,-19.0,-3.94,-10.1,0.2,PASS,no edge,,,,0.0,walker kessler,10.0,0.0,graded,0.395,0.024
+2026-11-23,,Walker Kessler,LAL,UTA,reb,10.5,over,DraftKings,-135.0,14:54,27.9,8.83,0.335,0.543,4.0,0.574,-41.7,-9.58,-20.8,-3.1,PASS,no edge,,,,0.0,walker kessler,12.0,1.0,graded,0.311,0.024
+2026-11-23,,Yves Missi,NOP,PHX,pts,6.5,over,DraftKings,-103.0,14:54,19.6,5.8,0.395,0.538,5.0,0.507,-22.1,-4.49,-14.3,3.1,PASS,no edge,,,,0.0,yves missi,4.0,0.0,graded,0.371,0.024
+2026-11-23,,Yves Missi,NOP,PHX,reb,8.5,over,DraftKings,108.0,14:54,19.6,5.74,0.242,0.454,7.0,0.481,-49.6,-9.55,-21.2,-2.7,PASS,no edge,,,,0.0,yves missi,8.0,0.0,graded,0.218,0.024
+2026-11-23,,Zach Edey,MEM,CHA,pts,8.5,over,DraftKings,107.0,14:54,22.6,9.05,0.513,0.503,6.0,0.483,6.2,1.21,1.0,2.0,WATCH,edge below the Rules §3 bar,0.499,1.63,,0.0,zach edey,8.0,0.0,graded,0.489,0.024
+2026-11-23,,Zach Edey,MEM,CHA,reb,7.5,over,DraftKings,107.0,14:54,22.6,7.13,0.437,0.447,6.0,0.483,-9.5,-1.84,-1.0,-3.6,PASS,no edge,,,,0.0,zach edey,11.0,1.0,graded,0.413,0.024
+2026-11-23,,Zach LaVine,SAC,SAS,ast,2.5,over,DraftKings,115.0,14:54,30.0,2.31,0.413,0.446,6.0,0.465,-11.1,-2.07,-3.2,-2.0,PASS,no edge,,,,0.0,zach lavine,2.0,0.0,graded,0.389,0.024
+2026-11-23,,Zach LaVine,SAC,SAS,fg3m,2.5,over,DraftKings,102.0,14:54,30.0,2.05,0.362,0.441,7.0,0.495,-26.9,-5.33,-8.0,-5.4,PASS,no edge,,,,0.0,zach lavine,2.0,0.0,graded,0.338,0.024
+2026-11-23,,Zach LaVine,SAC,SAS,pts,16.5,over,DraftKings,-111.0,14:54,30.0,16.55,0.492,0.515,5.0,0.526,-6.6,-1.38,-2.3,-1.1,PASS,no edge,,,,0.0,zach lavine,18.0,1.0,graded,0.468,0.024
+2026-11-23,,Zach LaVine,SAC,SAS,reb,3.5,over,DraftKings,104.0,14:54,30.0,3.12,0.393,0.43,6.0,0.49,-19.9,-3.9,-3.8,-6.0,PASS,no edge,,,,0.0,zach lavine,6.0,1.0,graded,0.369,0.024
+2026-11-23,,Ziaire Williams,LAL,UTA,fg3m,1.5,over,DraftKings,170.0,14:54,21.7,1.29,0.384,0.355,6.0,0.37,3.7,0.55,2.9,-1.5,PASS,no edge,,,,0.0,ziaire williams,2.0,1.0,graded,0.36,0.024
+2026-11-23,,Ziaire Williams,LAL,UTA,pts,7.5,over,DraftKings,-119.0,14:54,21.7,8.72,0.567,0.503,6.0,0.543,4.3,0.93,6.4,-4.1,PASS,no edge,,,,0.0,ziaire williams,9.0,1.0,graded,0.543,0.024
+2026-11-23,,Zion Williamson,NOP,PHX,ast,2.5,over,DraftKings,-120.0,14:54,31.2,3.04,0.568,0.538,6.0,0.545,4.0,0.88,3.0,-0.8,PASS,no edge,,,,0.0,zion williamson,0.0,0.0,graded,0.544,0.024
+2026-11-23,,Zion Williamson,NOP,PHX,pts,20.5,over,DraftKings,-125.0,14:54,31.2,20.09,0.465,0.524,1.0,0.556,-16.4,-3.64,-5.9,-3.2,PASS,no edge,,,,0.0,zion williamson,25.0,1.0,graded,0.441,0.024
+2026-11-23,,Zion Williamson,NOP,PHX,reb,5.5,over,DraftKings,-113.0,14:54,31.2,5.6,0.487,0.5,7.0,0.531,-8.1,-1.72,-1.3,-3.1,PASS,no edge,,,,0.0,zion williamson,4.0,0.0,graded,0.464,0.024
