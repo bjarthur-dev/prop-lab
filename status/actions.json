@@ -378,5 +378,12 @@
   "tier": "paid",
   "nflx": 614,
   "credits_remaining": "11638"
+ },
+ "odds_nbalive:h2h,spreads,totals,player_points,player_rebounds,player_assists,player_threes": {
+  "last_ok": "2026-11-23T23:14:42-05:00",
+  "tag": "nbalive:h2h,spreads,totals,player_points,player_rebounds,player_assists,player_threes",
+  "tier": "paid",
+  "nflx": 628,
+  "credits_remaining": "10732"
  }
 }
