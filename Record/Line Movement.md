@@ -2,30 +2,30 @@
 
 Opening = first saved snapshot, closing = last saved snapshot before start (no-vig consensus, Pinnacle 2x, FanDuel 1.5x).
 
-## Game moneylines (ncaab 745, ncaaf 125, nfl 17)
-681 games with 2+ snapshots. Brier (lower = more accurate): open 0.1580, close 0.1565 -> close more accurate.
+## Game moneylines (ncaab 745, ncaaf 86, nfl 18)
+659 games with 2+ snapshots. Brier (lower = more accurate): open 0.1575, close 0.1558 -> close more accurate.
 
 | moved toward a side by | n | open said | close said | that side won | won - open | noise ± |
 |---|---|---|---|---|---|---|
-| 1-2 pts | 131 | 48.4% | 49.9% | 53.4% | +5.0 | 3.5 |
-| 2-4 pts | 139 | 51.6% | 54.5% | 59.0% | +7.4 | 3.8 |
-| 4-8 pts | 74 | 50.2% | 55.7% | 50.0% | -0.2 | 5.4 |
-| 8-100 pts | 23 | 53.6% | 64.6% | 69.6% | +15.9 | 9.8 |
+| 1-2 pts | 130 | 48.1% | 49.6% | 53.8% | +5.7 | 3.6 |
+| 2-4 pts | 126 | 51.7% | 54.6% | 61.1% | +9.4 | 4.0 |
+| 4-8 pts | 68 | 49.6% | 55.2% | 50.0% | +0.4 | 5.7 |
+| 8-100 pts | 22 | 53.9% | 65.0% | 68.2% | +14.3 | 10.0 |
 
 ## NBA player props (over side, same line at open and close)
-190 props with 2+ snapshots. Brier (lower = more accurate): open 0.2444, close 0.2486 -> open more accurate.
+198 props with 2+ snapshots. Brier (lower = more accurate): open 0.2436, close 0.2472 -> open more accurate.
 
 | moved toward a side by | n | open said | close said | that side won | won - open | noise ± |
 |---|---|---|---|---|---|---|
-| 1-2 pts | 43 | 50.7% | 52.1% | 53.5% | +2.8 | 7.6 |
-| 2-4 pts | 45 | 50.0% | 52.8% | 46.7% | -3.4 | 7.4 |
-| 4-8 pts | 22 | 47.5% | 52.6% | 36.4% | -11.1 | 10.6 |
+| 1-2 pts | 46 | 50.8% | 52.2% | 54.3% | +3.5 | 7.3 |
+| 2-4 pts | 47 | 50.4% | 53.2% | 48.9% | -1.5 | 7.2 |
+| 4-8 pts | 23 | 47.6% | 52.8% | 39.1% | -8.5 | 10.4 |
 | 8-100 pts | 6 | 46.3% | 56.2% | 16.7% | -29.7 | 20.3 |
 
 Read: if 'that side won' beats 'open said' by more than ~2x noise, line moves carry information -> bet early with the move / avoid betting against it. If close is more accurate than open, our prices should always come from the latest snapshot.
 ## NBA props by implied mean (line changes included)
-9998 player-stat-days with an open and a close snapshot (median gap 5.2 h).
-Average miss: open mean 3.06, close mean 3.05 (close more accurate).
+10129 player-stat-days with an open and a close snapshot (median gap 5.2 h).
+Average miss: open mean 3.06, close mean 3.06 (close more accurate).
 
 ### Found on (Oct 24 - Nov 14)
 | stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |
@@ -44,19 +44,19 @@ Average miss: open mean 3.06, close mean 3.05 (close more accurate).
 | ALL | 0.75-1.5 | 251 | 1.02 | +1.36 ± 0.44 | 133% |
 | ALL | 1.5-99 | 111 | 2.32 | +1.47 ± 0.73 | 63% |
 
-### Forward test (from Nov 15, 3525 so far)
+### Forward test (from Nov 15, 3656 so far)
 | stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |
 |---|---|---|---|---|---|
 | 3pm | 0.25-0.75 | 15 | 0.31 | +0.37 ± 0.32 | 117% |
-| ast | 0.25-0.75 | 83 | 0.37 | +0.74 ± 0.21 | 197% |
-| pra | 0.25-0.75 | 132 | 0.46 | -0.05 ± 0.74 | -11% |
-| pra | 0.75-1.5 | 32 | 0.98 | +1.92 ± 1.22 | 195% |
-| pts | 0.25-0.75 | 203 | 0.46 | +0.20 ± 0.48 | 42% |
-| pts | 0.75-1.5 | 101 | 0.96 | +0.05 ± 0.60 | 5% |
+| ast | 0.25-0.75 | 84 | 0.38 | +0.68 ± 0.22 | 180% |
+| pra | 0.25-0.75 | 137 | 0.46 | -0.09 ± 0.72 | -19% |
+| pra | 0.75-1.5 | 33 | 0.98 | +1.75 ± 1.19 | 178% |
+| pts | 0.25-0.75 | 208 | 0.46 | +0.10 ± 0.47 | 21% |
+| pts | 0.75-1.5 | 109 | 0.96 | -0.18 ± 0.60 | -19% |
 | pts | 1.5-99 | 25 | 2.11 | +2.37 ± 0.97 | 112% |
-| reb | 0.25-0.75 | 115 | 0.39 | +0.41 ± 0.25 | 104% |
-| ALL | 0.25-0.75 | 548 | 0.43 | +0.27 ± 0.26 | 62% |
-| ALL | 0.75-1.5 | 151 | 0.96 | +0.52 ± 0.48 | 54% |
+| reb | 0.25-0.75 | 120 | 0.39 | +0.44 ± 0.25 | 113% |
+| ALL | 0.25-0.75 | 564 | 0.43 | +0.22 ± 0.25 | 51% |
+| ALL | 0.75-1.5 | 160 | 0.96 | +0.31 ± 0.48 | 32% |
 | ALL | 1.5-99 | 36 | 2.14 | +2.32 ± 0.88 | 108% |
 
 Share realised ~100% = the move was right and the close is fair; >100% = moves under-react (bet with moves early); <0% = moves are noise/overreaction.
