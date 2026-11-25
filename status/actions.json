@@ -392,5 +392,12 @@
   "tier": "paid",
   "ncaab": 80,
   "credits_remaining": "10456"
+ },
+ "odds_nflx:player_pass_yds_alternate,player_rush_yds_alternate,player_reception_yds_alternate,player_receptions_alternate,player_anytime_td": {
+  "last_ok": "2026-11-25T12:39:02-05:00",
+  "tag": "nflx:player_pass_yds_alternate,player_rush_yds_alternate,player_reception_yds_alternate,player_receptions_alternate,player_anytime_td",
+  "tier": "paid",
+  "nflx": 2253,
+  "credits_remaining": "10185"
  }
 }
