@@ -399,5 +399,12 @@
   "tier": "paid",
   "nflx": 2253,
   "credits_remaining": "10185"
+ },
+ "odds_nflweek:player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_pass_tds": {
+  "last_ok": "2026-11-25T12:39:33-05:00",
+  "tag": "nflweek:player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_pass_tds",
+  "tier": "paid",
+  "nflx": 2486,
+  "credits_remaining": "10160"
  }
 }
