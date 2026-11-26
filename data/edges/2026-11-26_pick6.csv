@@ -2,95 +2,102 @@ sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Jashaun Corbin,player_rush_yds,12.5,LESS,0.635,10.5,0.5,1,fit from 10.5 (sd 5.8),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Will Shipley,player_reception_yds,6.5,LESS,0.609,5.5,0.507,2,fit from 5.5 (sd 3.4),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Noah Gray,player_reception_yds,10.5,MORE,0.602,12.5,0.5,1,fit from 12.5 (sd 7.8),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dawson Knox,player_reception_yds,11.5,MORE,0.594,13.5,0.5,1,fit from 13.5 (sd 8.4),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Brevyn Spann-Ford,player_reception_yds,15.5,LESS,0.593,13.5,0.501,2,fit from 13.5 (sd 8.4),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_reception_yds,8.5,LESS,0.585,7.5,0.5,1,fit from 7.5 (sd 4.7),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Downs,player_reception_yds,38.5,LESS,0.579,35.5,0.475,1,fit from 35.5 (sd 22.0),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Saquon Barkley,player_reception_yds,6.5,MORE,0.571,7.5,0.486,2,fit from 7.5 (sd 4.7),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Patrick Mahomes,player_rush_yds,12.5,LESS,0.563,11.5,0.5,1,fit from 11.5 (sd 6.3),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Patrick Mahomes,player_rush_yds,13.5,LESS,0.563,12.5,0.495,2,fit from 12.5 (sd 6.9),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Cyrus Allen,player_reception_yds,12.5,LESS,0.551,11.5,0.505,2,fit from 11.5 (sd 7.1),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Rashee Rice,player_receptions,4.5,LESS,0.551,4.5,0.449,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Joe Milton,player_rush_yds,33.5,LESS,0.546,31.5,0.5,1,fit from 31.5 (sd 17.3),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Emmett Johnson,player_reception_yds,32.5,LESS,0.542,30.5,0.5,2,fit from 30.5 (sd 18.9),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Dallas Goedert,player_reception_yds,32.5,LESS,0.542,30.5,0.5,1,fit from 30.5 (sd 18.9),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dalton Kincaid,player_reception_yds,36.5,LESS,0.537,34.5,0.5,1,fit from 34.5 (sd 21.4),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Patrick Mahomes,player_pass_yds,229.5,LESS,0.54,226.5,0.482,1,fit from 226.5 (sd 54.4),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Xavier Worthy,player_reception_yds,21.5,LESS,0.538,20.5,0.494,1,fit from 20.5 (sd 12.7),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Allen,player_rush_yds,40.5,LESS,0.535,38.5,0.502,2,fit from 38.5 (sd 21.2),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ty Johnson,player_rush_yds,1.5,LESS,0.533,1.5,0.467,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Javonte Williams,player_rush_yds,76.5,LESS,0.53,73.5,0.5,2,fit from 73.5 (sd 40.4),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Travis Kelce,player_reception_yds,42.5,MORE,0.527,44.5,0.498,2,fit from 44.5 (sd 27.6),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Xavier Worthy,player_reception_yds,19.5,MORE,0.525,20.5,0.494,1,fit from 20.5 (sd 12.7),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Keon Coleman,player_reception_yds,22.5,LESS,0.53,21.5,0.5,1,fit from 21.5 (sd 13.3),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Allen,player_pass_yds,217.5,LESS,0.529,215.5,0.486,2,fit from 215.5 (sd 51.7),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Saquon Barkley,player_rush_yds,64.5,LESS,0.523,62.5,0.5,1,fit from 62.5 (sd 34.4),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,CeeDee Lamb,player_reception_yds,91.5,LESS,0.522,88.5,0.5,1,fit from 88.5 (sd 54.9),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_receptions,3.5,LESS,0.521,3.5,0.479,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ty Johnson,player_reception_yds,16.5,LESS,0.519,15.5,0.523,1,fit from 15.5 (sd 9.6),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_receptions,3.5,LESS,0.522,3.5,0.478,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Emmett Johnson,player_reception_yds,31.5,LESS,0.521,30.5,0.5,2,fit from 30.5 (sd 18.9),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,George Pickens,player_reception_yds,70.5,LESS,0.519,68.5,0.5,1,fit from 68.5 (sd 42.5),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dalton Kincaid,player_reception_yds,35.5,LESS,0.519,34.5,0.5,1,fit from 34.5 (sd 21.4),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Darius Cooper,player_receptions,2.5,LESS,0.519,2.5,0.481,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_reception_yds,37.5,LESS,0.518,36.5,0.5,2,fit from 36.5 (sd 22.6),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Emmett Johnson,player_rush_yds,81.5,LESS,0.518,79.5,0.5,1,fit from 79.5 (sd 43.7),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,DJ Moore,player_reception_yds,49.5,LESS,0.518,48.5,0.496,1,fit from 48.5 (sd 30.1),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Allen,player_rush_yds,39.5,LESS,0.517,38.5,0.502,2,fit from 38.5 (sd 21.2),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Travis Kelce,player_reception_yds,45.5,LESS,0.517,44.5,0.498,2,fit from 44.5 (sd 27.6),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,DeVonta Smith,player_reception_yds,68.5,LESS,0.516,66.5,0.503,2,fit from 66.5 (sd 41.2),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,DeVonta Smith,player_receptions,5.5,MORE,0.515,5.5,0.515,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Jaydn Ott,player_rush_yds,5.5,LESS,0.515,5.5,0.485,1,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Rashee Rice,player_reception_yds,45.5,LESS,0.514,44.5,0.5,1,fit from 44.5 (sd 27.6),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Zach Ertz,player_receptions,0.5,MORE,0.514,0.5,0.514,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Downs,player_reception_yds,34.5,LESS,0.514,35.5,0.468,1,fit from 35.5 (sd 22.0),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,KaVontae Turpin,player_reception_yds,4.5,LESS,0.513,4.5,0.487,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Javonte Williams,player_reception_yds,7.5,MORE,0.511,7.5,0.511,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Cyrus Allen,player_reception_yds,11.5,MORE,0.507,11.5,0.507,2,same line,-137.0,1.0
-nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Luke Schoonmaker,player_reception_yds,3.5,MORE,0.504,3.5,0.504,1,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ty Johnson,player_reception_yds,16.5,LESS,0.511,15.5,0.53,1,fit from 15.5 (sd 9.6),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_rush_yds,88.5,LESS,0.508,87.5,0.5,2,fit from 87.5 (sd 48.1),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Jaydn Ott,player_rush_yds,5.5,LESS,0.507,5.5,0.493,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Darius Cooper,player_reception_yds,30.5,LESS,0.504,30.5,0.496,2,same line,-137.0,1.0
+nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Luke Schoonmaker,player_reception_yds,3.5,MORE,0.504,3.5,0.504,1,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Will Shipley,player_rush_yds,12.5,LESS,0.502,12.5,0.498,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_rush_yds,87.5,MORE,0.502,86.5,0.511,1,fit from 86.5 (sd 47.6),-137.0,1.0
-nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Dak Prescott,player_rush_yds,9.5,MORE,0.501,9.5,0.501,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Makai Lemon,player_reception_yds,30.5,LESS,0.501,30.5,0.499,2,same line,-137.0,1.0
-nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Ryan Flournoy,player_reception_yds,30.5,MORE,0.5,30.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Keon Coleman,player_reception_yds,21.5,MORE,0.5,21.5,0.5,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Rashee Rice,player_reception_yds,44.5,MORE,0.5,44.5,0.5,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_reception_yds,36.5,MORE,0.5,36.5,0.5,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Keon Coleman,player_reception_yds,21.5,LESS,0.5,21.5,0.5,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_reception_yds,36.5,LESS,0.5,36.5,0.5,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_reception_yds,7.5,MORE,0.5,7.5,0.5,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_reception_yds,7.5,LESS,0.5,7.5,0.5,1,same line,-137.0,1.0
-nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Javonte Williams,player_rush_attempts,18.5,LESS,0.5,18.5,0.5,1,same line,-137.0,1.0
+nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Dak Prescott,player_rush_yds,9.5,MORE,0.501,9.5,0.501,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Ryan Flournoy,player_reception_yds,30.5,LESS,0.5,30.5,0.5,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Rashee Rice,player_reception_yds,44.5,LESS,0.5,44.5,0.5,1,same line,-137.0,1.0
-nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Dak Prescott,player_rush_yds,9.5,LESS,0.499,9.5,0.501,2,same line,-137.0,1.0
+nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Ryan Flournoy,player_reception_yds,30.5,MORE,0.5,30.5,0.5,2,same line,-137.0,1.0
+nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Javonte Williams,player_rush_attempts,18.5,LESS,0.5,18.5,0.5,1,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ray Davis,player_rush_yds,3.5,LESS,0.5,3.5,0.5,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ray Davis,player_rush_yds,3.5,MORE,0.5,3.5,0.5,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dawson Knox,player_reception_yds,12.5,MORE,0.5,12.5,0.5,1,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dawson Knox,player_reception_yds,12.5,LESS,0.5,12.5,0.5,1,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Makai Lemon,player_reception_yds,30.5,MORE,0.499,30.5,0.499,2,same line,-137.0,1.0
+nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Dak Prescott,player_rush_yds,9.5,LESS,0.499,9.5,0.501,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Will Shipley,player_rush_yds,12.5,MORE,0.498,12.5,0.498,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_rush_yds,87.5,LESS,0.498,86.5,0.511,1,fit from 86.5 (sd 47.6),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Darius Cooper,player_reception_yds,30.5,MORE,0.496,30.5,0.496,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Luke Schoonmaker,player_reception_yds,3.5,LESS,0.496,3.5,0.504,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Cyrus Allen,player_reception_yds,11.5,LESS,0.493,11.5,0.507,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Jaydn Ott,player_rush_yds,5.5,MORE,0.493,5.5,0.493,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_rush_yds,88.5,MORE,0.492,87.5,0.5,2,fit from 87.5 (sd 48.1),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ty Johnson,player_reception_yds,16.5,MORE,0.489,15.5,0.53,1,fit from 15.5 (sd 9.6),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Javonte Williams,player_reception_yds,7.5,LESS,0.489,7.5,0.511,1,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Joe Milton,player_rush_attempts,6.5,MORE,0.488,6.5,0.488,1,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,KaVontae Turpin,player_reception_yds,4.5,MORE,0.487,4.5,0.487,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Rashee Rice,player_reception_yds,45.5,MORE,0.486,44.5,0.5,1,fit from 44.5 (sd 27.6),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Zach Ertz,player_receptions,0.5,LESS,0.486,0.5,0.514,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Downs,player_reception_yds,34.5,MORE,0.486,35.5,0.468,1,fit from 35.5 (sd 22.0),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dawson Knox,player_receptions,1.5,MORE,0.486,1.5,0.486,1,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dawson Knox,player_receptions,1.5,MORE,0.485,1.5,0.485,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,DeVonta Smith,player_receptions,5.5,LESS,0.485,5.5,0.515,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Jaydn Ott,player_rush_yds,5.5,MORE,0.485,5.5,0.485,1,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,DeVonta Smith,player_reception_yds,68.5,MORE,0.484,66.5,0.503,2,fit from 66.5 (sd 41.2),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Allen,player_rush_yds,39.5,MORE,0.483,38.5,0.502,2,fit from 38.5 (sd 21.2),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Travis Kelce,player_reception_yds,45.5,MORE,0.483,44.5,0.498,2,fit from 44.5 (sd 27.6),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,DJ Moore,player_reception_yds,49.5,MORE,0.482,48.5,0.496,1,fit from 48.5 (sd 30.1),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Emmett Johnson,player_rush_yds,81.5,MORE,0.482,79.5,0.5,1,fit from 79.5 (sd 43.7),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_reception_yds,37.5,MORE,0.482,36.5,0.5,2,fit from 36.5 (sd 22.6),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,George Pickens,player_reception_yds,70.5,MORE,0.481,68.5,0.5,1,fit from 68.5 (sd 42.5),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Darius Cooper,player_receptions,2.5,MORE,0.481,2.5,0.481,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ty Johnson,player_reception_yds,16.5,MORE,0.481,15.5,0.523,1,fit from 15.5 (sd 9.6),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_receptions,3.5,MORE,0.479,3.5,0.479,2,same line,-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dalton Kincaid,player_reception_yds,35.5,MORE,0.481,34.5,0.5,1,fit from 34.5 (sd 21.4),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Emmett Johnson,player_reception_yds,31.5,MORE,0.479,30.5,0.5,2,fit from 30.5 (sd 18.9),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Khalil Shakir,player_receptions,3.5,MORE,0.478,3.5,0.478,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,CeeDee Lamb,player_reception_yds,91.5,MORE,0.478,88.5,0.5,1,fit from 88.5 (sd 54.9),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Saquon Barkley,player_rush_yds,64.5,MORE,0.477,62.5,0.5,1,fit from 62.5 (sd 34.4),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Xavier Worthy,player_reception_yds,19.5,LESS,0.475,20.5,0.494,1,fit from 20.5 (sd 12.7),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Saquon Barkley,player_rush_attempts,16.5,MORE,0.475,16.5,0.475,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_rush_attempts,19.5,LESS,0.475,19.5,0.525,1,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Travis Kelce,player_reception_yds,42.5,LESS,0.473,44.5,0.498,2,fit from 44.5 (sd 27.6),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Allen,player_pass_yds,217.5,MORE,0.471,215.5,0.486,2,fit from 215.5 (sd 51.7),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Keon Coleman,player_reception_yds,22.5,MORE,0.47,21.5,0.5,1,fit from 21.5 (sd 13.3),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Javonte Williams,player_rush_yds,76.5,MORE,0.47,73.5,0.5,2,fit from 73.5 (sd 40.4),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Ty Johnson,player_rush_yds,1.5,MORE,0.467,1.5,0.467,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dalton Kincaid,player_reception_yds,36.5,MORE,0.463,34.5,0.5,1,fit from 34.5 (sd 21.4),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_rush_attempts,20.5,MORE,0.466,19.5,0.534,1,fit from 19.5 (sd 5.8),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Allen,player_rush_yds,40.5,MORE,0.465,38.5,0.502,2,fit from 38.5 (sd 21.2),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Xavier Worthy,player_reception_yds,21.5,MORE,0.462,20.5,0.494,1,fit from 20.5 (sd 12.7),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Noah Gray,player_receptions,1.5,MORE,0.461,1.5,0.461,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Emmett Johnson,player_reception_yds,32.5,MORE,0.458,30.5,0.5,2,fit from 30.5 (sd 18.9),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Patrick Mahomes,player_pass_yds,229.5,MORE,0.46,226.5,0.482,1,fit from 226.5 (sd 54.4),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Dallas Goedert,player_reception_yds,32.5,MORE,0.458,30.5,0.5,1,fit from 30.5 (sd 18.9),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,DJ Moore,player_receptions,3.5,LESS,0.454,3.5,0.546,2,same line,-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Joe Milton,player_rush_yds,33.5,MORE,0.454,31.5,0.5,1,fit from 31.5 (sd 17.3),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Rashee Rice,player_receptions,4.5,MORE,0.449,4.5,0.449,2,same line,-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Patrick Mahomes,player_rush_yds,12.5,MORE,0.437,11.5,0.5,1,fit from 11.5 (sd 6.3),-137.0,1.0
-nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Saquon Barkley,player_reception_yds,6.5,LESS,0.429,7.5,0.486,2,fit from 7.5 (sd 4.7),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Cyrus Allen,player_reception_yds,12.5,MORE,0.449,11.5,0.505,2,fit from 11.5 (sd 7.1),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Patrick Mahomes,player_rush_yds,13.5,MORE,0.437,12.5,0.495,2,fit from 12.5 (sd 6.9),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Javonte Williams,player_rush_attempts,19.5,MORE,0.429,18.5,0.5,1,fit from 18.5 (sd 5.5),-137.0,1.0
+nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Saquon Barkley,player_reception_yds,6.5,LESS,0.429,7.5,0.486,2,fit from 7.5 (sd 4.7),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Josh Downs,player_reception_yds,38.5,MORE,0.421,35.5,0.475,1,fit from 35.5 (sd 22.0),-137.0,1.0
+nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,James Cook,player_reception_yds,8.5,MORE,0.415,7.5,0.5,1,fit from 7.5 (sd 4.7),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Brevyn Spann-Ford,player_reception_yds,15.5,MORE,0.407,13.5,0.501,2,fit from 13.5 (sd 8.4),-137.0,1.0
-nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Dawson Knox,player_reception_yds,11.5,LESS,0.406,13.5,0.5,1,fit from 13.5 (sd 8.4),-137.0,1.0
 nfl,Kansas City Chiefs@Buffalo Bills,2026-11-26T20:20-05:00,Noah Gray,player_reception_yds,10.5,LESS,0.398,12.5,0.5,1,fit from 12.5 (sd 7.8),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Will Shipley,player_reception_yds,6.5,MORE,0.391,5.5,0.507,2,fit from 5.5 (sd 3.4),-137.0,1.0
 nfl,Philadelphia Eagles@Dallas Cowboys,2026-11-26T16:30-05:00,Jashaun Corbin,player_rush_yds,12.5,MORE,0.365,10.5,0.5,1,fit from 10.5 (sd 5.8),-137.0,1.0
