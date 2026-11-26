@@ -39,7 +39,7 @@ Without the single biggest win (2026-11-01, $+105.67) profit would be $-53.75: o
 
 ## Next upgrade gate
 
-- Profit last 30 days $+51.92 vs tool costs this month $60.00.
+- Profit last 30 days $+56.92 vs tool costs this month $60.00.
 - Odds API paid tier (~$30/mo, confirm price): buy only when the price-edge report shows mean CLV > 0 over 50+ legs, 30-day profit excluding the biggest win >= $60, and bankroll >= $150 (cost <= 15%, bankroll stays >= $60).
 - Status: **not yet**
 
@@ -48,7 +48,7 @@ Without the single biggest win (2026-11-01, $+105.67) profit would be $-53.75: o
 | window | bets | profit | minus tools | target | status |
 |---|---:|---:|---:|---:|---|
 | last 7 days | 0 | $+0.00 | $-11.67 | $100 | behind |
-| last 14 days | 10 | $-10.93 | $-34.26 | $100 | behind |
+| last 14 days | 0 | $+0.00 | $-23.33 | $100 | behind |
 
 ## Tax tracker 2026 (not tax advice; confirm with a tax pro)
 
