@@ -182,7 +182,7 @@ def main():
         for e in get(f"sports/{key}/events") or []:
             if not any(t in (e["home_team"] + " " + e["away_team"]).lower() for t in teams): continue
             t = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00")).astimezone(ET)
-            if t.date().isoformat() != today: continue
+            if t.date().isoformat() not in (today, (dt.date.fromisoformat(today) + dt.timedelta(days=1)).isoformat()): continue   # today + tomorrow (lets boosts for next-day games be priced early)
             o = get(f"sports/{key}/events/{e['id']}/odds", bookmakers=BOOKS.replace(",pick6", ""), markets=mk, oddsFormat="american")
             for b in (o or {}).get("bookmakers", []):
                 for m in b.get("markets", []):
