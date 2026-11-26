@@ -1,0 +1,153 @@
+date,model_version,player,market,line,side,book,price,mean,median,p_model,p_market,p_blend,break_even,shrunk_edge_pts,model_vs_market_pts,decision,team,player_full,game,run_id,logged_at
+2026-11-26,nfl v1.2,B.Spann-Ford,rec_yds,15.5,over,draftkings,-107.0,13.3,7.9,0.332,0.503,0.46,0.517,-7.4,-17.1,PASS,DAL,Brevyn Spann-Ford,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,B.Spann-Ford,rec_yds,15.5,under,draftkings,-117.0,13.3,7.9,0.668,0.497,0.54,0.539,5.2,17.1,WATCH,DAL,Brevyn Spann-Ford,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,B.Spann-Ford,receptions,1.5,over,draftkings,-172.0,1.3,1.0,0.362,0.59,0.533,0.632,-10.8,-22.8,PASS,DAL,Brevyn Spann-Ford,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,B.Spann-Ford,receptions,1.5,under,draftkings,134.0,1.3,1.0,0.638,0.41,0.467,0.427,8.4,22.8,WATCH,DAL,Brevyn Spann-Ford,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Allen,rec_yds,11.5,over,draftkings,-111.0,16.8,11.6,0.502,0.508,0.506,0.526,-1.0,-0.6,PASS,KC,Cyrus Allen,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Allen,rec_yds,11.5,under,draftkings,-113.0,16.8,11.6,0.498,0.492,0.494,0.531,-1.3,0.6,PASS,KC,Cyrus Allen,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Allen,receptions,1.5,over,draftkings,167.0,1.6,1.0,0.461,0.356,0.382,0.375,3.4,10.4,WATCH,KC,Cyrus Allen,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Allen,receptions,1.5,under,draftkings,-216.0,1.6,1.0,0.539,0.644,0.618,0.684,-5.8,-10.4,PASS,KC,Cyrus Allen,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Lamb,rec_yds,91.5,over,draftkings,-110.0,80.2,74.3,0.356,0.5,0.464,0.524,-6.7,-14.4,PASS,DAL,CeeDee Lamb,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Lamb,rec_yds,91.5,under,draftkings,-114.0,80.2,74.3,0.644,0.5,0.536,0.533,4.5,14.4,WATCH,DAL,CeeDee Lamb,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Lamb,receptions,7.5,over,draftkings,111.0,6.2,6.0,0.289,0.443,0.405,0.474,-7.4,-15.4,PASS,DAL,CeeDee Lamb,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,C.Lamb,receptions,7.5,under,draftkings,-142.0,6.2,6.0,0.711,0.557,0.595,0.587,5.0,15.4,WATCH,DAL,CeeDee Lamb,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Cooper,rec_yds,30.5,over,draftkings,-115.0,32.4,26.7,0.444,0.5,0.486,0.535,-3.6,-5.6,PASS,PHI,Darius Cooper,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Cooper,rec_yds,30.5,under,draftkings,-109.0,32.4,26.7,0.556,0.5,0.514,0.522,1.4,5.6,PASS,PHI,Darius Cooper,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Cooper,receptions,2.5,over,draftkings,-106.0,2.7,2.0,0.488,0.479,0.481,0.515,-1.1,0.9,PASS,PHI,Darius Cooper,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Cooper,receptions,2.5,under,draftkings,-121.0,2.7,2.0,0.512,0.521,0.519,0.548,-1.4,-0.9,PASS,PHI,Darius Cooper,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Goedert,rec_yds,32.5,over,draftkings,-111.0,38.1,33.1,0.509,0.497,0.5,0.526,-0.7,1.2,PASS,PHI,Dallas Goedert,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Goedert,rec_yds,32.5,under,draftkings,-113.0,38.1,33.1,0.491,0.503,0.5,0.531,-1.6,-1.2,PASS,PHI,Dallas Goedert,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Goedert,receptions,3.5,over,draftkings,-109.0,3.7,3.0,0.485,0.469,0.473,0.522,-1.5,1.6,PASS,PHI,Dallas Goedert,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Goedert,receptions,3.5,under,draftkings,-117.0,3.7,3.0,0.515,0.531,0.527,0.539,-1.0,-1.6,PASS,PHI,Dallas Goedert,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Kincaid,rec_yds,36.5,over,draftkings,-109.0,41.2,35.5,0.487,0.492,0.491,0.522,-1.4,-0.4,PASS,BUF,Dalton Kincaid,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Kincaid,rec_yds,36.5,under,draftkings,-115.0,41.2,35.5,0.513,0.508,0.509,0.535,-0.9,0.4,PASS,BUF,Dalton Kincaid,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Kincaid,receptions,3.5,over,draftkings,137.0,3.5,3.0,0.456,0.404,0.417,0.422,1.3,5.1,PASS,BUF,Dalton Kincaid,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Kincaid,receptions,3.5,under,draftkings,-175.0,3.5,3.0,0.544,0.596,0.583,0.636,-3.7,-5.1,PASS,BUF,Dalton Kincaid,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Knox,rec_yds,11.5,over,draftkings,-106.0,19.0,14.5,0.571,0.492,0.512,0.515,2.3,7.9,WATCH,BUF,Dawson Knox,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Knox,rec_yds,11.5,under,draftkings,-118.0,19.0,14.5,0.429,0.508,0.488,0.541,-4.5,-7.9,PASS,BUF,Dawson Knox,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Knox,receptions,1.5,over,draftkings,101.0,2.1,2.0,0.59,0.48,0.507,0.498,3.7,11.0,WATCH,BUF,Dawson Knox,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Knox,receptions,1.5,under,draftkings,-129.0,2.1,2.0,0.41,0.52,0.493,0.563,-6.1,-11.0,PASS,BUF,Dawson Knox,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Moore,rec_yds,49.5,over,draftkings,-110.0,41.0,35.6,0.325,0.5,0.456,0.524,-7.9,-17.5,PASS,BUF,DJ Moore,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Moore,rec_yds,49.5,under,draftkings,-114.0,41.0,35.6,0.675,0.5,0.544,0.533,5.7,17.5,WATCH,BUF,DJ Moore,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Moore,receptions,3.5,over,draftkings,-133.0,3.7,3.0,0.488,0.541,0.528,0.571,-3.3,-5.3,PASS,BUF,DJ Moore,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Moore,receptions,3.5,under,draftkings,104.0,3.7,3.0,0.512,0.459,0.472,0.49,0.9,5.3,PASS,BUF,DJ Moore,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Smith,rec_yds,68.5,over,draftkings,-114.0,76.5,70.7,0.52,0.504,0.508,0.533,-0.5,1.6,PASS,PHI,DeVonta Smith,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Smith,rec_yds,68.5,under,draftkings,-110.0,76.5,70.7,0.48,0.496,0.492,0.524,-1.7,-1.6,PASS,PHI,DeVonta Smith,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Smith,receptions,5.5,over,draftkings,-112.0,6.3,6.0,0.576,0.512,0.528,0.528,1.9,6.4,WATCH,PHI,DeVonta Smith,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,D.Smith,receptions,5.5,under,draftkings,-114.0,6.3,6.0,0.424,0.488,0.472,0.533,-4.4,-6.4,PASS,PHI,DeVonta Smith,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,carries,20.5,over,draftkings,100.0,10.6,10.0,0.045,0.472,0.365,0.5,-18.2,-42.7,PASS,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,carries,20.5,under,draftkings,-127.0,10.6,10.0,0.955,0.528,0.635,0.559,15.8,42.7,WATCH,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,rec_yds,32.5,over,draftkings,-109.0,26.9,20.4,0.329,0.494,0.452,0.522,-7.7,-16.5,PASS,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,rec_yds,32.5,under,draftkings,-115.0,26.9,20.4,0.671,0.506,0.548,0.535,5.5,16.5,WATCH,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,receptions,3.5,over,draftkings,-137.0,2.5,2.0,0.261,0.545,0.474,0.578,-12.7,-28.4,PASS,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,receptions,3.5,under,draftkings,108.0,2.5,2.0,0.739,0.455,0.526,0.481,10.3,28.4,WATCH,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,rush_yds,81.5,over,draftkings,-111.0,46.2,41.3,0.123,0.5,0.406,0.526,-16.1,-37.7,PASS,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,E.Johnson,rush_yds,81.5,under,draftkings,-113.0,46.2,41.3,0.877,0.5,0.594,0.531,13.9,37.7,WATCH,KC,Emmett Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,G.Pickens,rec_yds,70.5,over,draftkings,-114.0,71.0,64.6,0.444,0.503,0.488,0.533,-3.5,-5.9,PASS,DAL,George Pickens,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,G.Pickens,rec_yds,70.5,under,draftkings,-110.0,71.0,64.6,0.556,0.497,0.512,0.524,1.3,5.9,PASS,DAL,George Pickens,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,G.Pickens,receptions,5.5,over,draftkings,116.0,5.0,5.0,0.386,0.433,0.422,0.463,-3.1,-4.7,PASS,DAL,George Pickens,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,G.Pickens,receptions,5.5,under,draftkings,-149.0,5.0,5.0,0.614,0.567,0.578,0.598,0.6,4.7,PASS,DAL,George Pickens,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,carries,19.5,over,draftkings,-123.0,17.3,17.0,0.34,0.525,0.479,0.552,-8.5,-18.5,PASS,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,carries,19.5,under,draftkings,-104.0,17.3,17.0,0.66,0.475,0.521,0.51,6.0,18.5,WATCH,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,rec_yds,7.5,over,draftkings,-112.0,12.3,7.3,0.494,0.502,0.5,0.528,-1.4,-0.8,PASS,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,rec_yds,7.5,under,draftkings,-112.0,12.3,7.3,0.506,0.498,0.5,0.528,-0.9,0.8,PASS,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,receptions,1.5,over,draftkings,135.0,1.5,1.0,0.431,0.407,0.413,0.426,0.2,2.4,PASS,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,receptions,1.5,under,draftkings,-172.0,1.5,1.0,0.569,0.593,0.587,0.632,-2.5,-2.4,PASS,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,rush_yds,87.5,over,draftkings,-114.0,87.5,83.2,0.455,0.5,0.489,0.533,-3.1,-4.5,PASS,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Cook,rush_yds,87.5,under,draftkings,-110.0,87.5,83.2,0.545,0.5,0.511,0.524,0.8,4.5,PASS,BUF,James Cook,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Corbin,rush_yds,12.5,over,draftkings,-113.0,21.7,15.5,0.564,0.501,0.517,0.531,1.3,6.3,PASS,DAL,Jashaun Corbin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Corbin,rush_yds,12.5,under,draftkings,-111.0,21.7,15.5,0.436,0.499,0.483,0.526,-3.6,-6.3,PASS,DAL,Jashaun Corbin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Downs,rec_yds,34.5,over,draftkings,-115.0,30.9,26.6,0.369,0.48,0.452,0.535,-6.6,-11.0,PASS,KC,Josh Downs,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Downs,rec_yds,34.5,under,draftkings,-109.0,30.9,26.6,0.631,0.52,0.548,0.522,4.4,11.0,WATCH,KC,Josh Downs,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Downs,receptions,3.5,over,draftkings,135.0,3.5,3.0,0.446,0.418,0.425,0.426,0.8,2.8,PASS,KC,Josh Downs,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Downs,receptions,3.5,under,draftkings,-173.0,3.5,3.0,0.554,0.582,0.575,0.634,-3.2,-2.8,PASS,KC,Josh Downs,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,carries,18.5,over,draftkings,-127.0,17.4,17.0,0.413,0.51,0.486,0.559,-5.9,-9.7,PASS,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,carries,18.5,under,draftkings,100.0,17.4,17.0,0.587,0.49,0.514,0.5,3.5,9.7,WATCH,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,rec_yds,7.5,over,draftkings,-118.0,11.1,6.9,0.48,0.516,0.507,0.541,-2.4,-3.5,PASS,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,rec_yds,7.5,under,draftkings,-106.0,11.1,6.9,0.52,0.484,0.493,0.515,0.2,3.5,PASS,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,receptions,1.5,over,draftkings,-158.0,1.7,1.0,0.468,0.57,0.545,0.612,-5.8,-10.3,PASS,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,receptions,1.5,under,draftkings,124.0,1.7,1.0,0.532,0.43,0.455,0.446,3.4,10.3,WATCH,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,rush_yds,76.5,over,draftkings,-111.0,77.5,73.1,0.462,0.493,0.486,0.526,-2.5,-3.1,PASS,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,J.Williams,rush_yds,76.5,under,draftkings,-113.0,77.5,73.1,0.538,0.507,0.514,0.531,0.3,3.1,PASS,DAL,Javonte Williams,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Coleman,rec_yds,21.5,over,draftkings,-113.0,27.7,23.0,0.527,0.503,0.509,0.531,-0.1,2.4,PASS,BUF,Keon Coleman,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Coleman,rec_yds,21.5,under,draftkings,-111.0,27.7,23.0,0.473,0.497,0.491,0.526,-2.1,-2.4,PASS,BUF,Keon Coleman,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Coleman,receptions,1.5,over,draftkings,-171.0,2.9,3.0,0.748,0.598,0.635,0.631,4.7,15.0,WATCH,BUF,Keon Coleman,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Coleman,receptions,1.5,under,draftkings,133.0,2.9,3.0,0.252,0.402,0.365,0.429,-7.1,-15.0,PASS,BUF,Keon Coleman,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Shakir,rec_yds,36.5,over,draftkings,-115.0,40.0,35.6,0.486,0.523,0.514,0.535,-1.9,-3.6,PASS,BUF,Khalil Shakir,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Shakir,rec_yds,36.5,under,draftkings,-109.0,40.0,35.6,0.514,0.477,0.486,0.522,-0.3,3.6,PASS,BUF,Khalil Shakir,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Shakir,receptions,3.5,over,draftkings,-123.0,4.3,4.0,0.595,0.48,0.508,0.552,1.7,11.5,WATCH,BUF,Khalil Shakir,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Shakir,receptions,3.5,under,draftkings,-103.0,4.3,4.0,0.405,0.52,0.492,0.507,-4.1,-11.5,PASS,BUF,Khalil Shakir,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Turpin,rec_yds,4.5,over,draftkings,-113.0,14.6,7.7,0.568,0.493,0.512,0.531,1.5,7.5,WATCH,DAL,KaVontae Turpin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Turpin,rec_yds,4.5,under,draftkings,-111.0,14.6,7.7,0.432,0.507,0.488,0.526,-3.8,-7.5,PASS,DAL,KaVontae Turpin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Turpin,receptions,0.5,over,draftkings,-153.0,1.2,1.0,0.646,0.559,0.58,0.605,1.6,8.7,WATCH,DAL,KaVontae Turpin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Turpin,receptions,0.5,under,draftkings,119.0,1.2,1.0,0.354,0.441,0.42,0.457,-4.1,-8.7,PASS,DAL,KaVontae Turpin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Turpin,rush_yds,2.5,over,draftkings,-114.0,6.4,2.6,0.512,0.504,0.506,0.533,-0.8,0.7,PASS,DAL,KaVontae Turpin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,K.Turpin,rush_yds,2.5,under,draftkings,-110.0,6.4,2.6,0.488,0.496,0.494,0.524,-1.4,-0.7,PASS,DAL,KaVontae Turpin,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,M.Lemon,rec_yds,30.5,over,draftkings,-111.0,38.5,34.0,0.554,0.5,0.514,0.526,1.1,5.4,PASS,PHI,Makai Lemon,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,M.Lemon,rec_yds,30.5,under,draftkings,-113.0,38.5,34.0,0.446,0.5,0.486,0.531,-3.4,-5.4,PASS,PHI,Makai Lemon,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,M.Lemon,receptions,3.5,over,draftkings,121.0,4.1,4.0,0.558,0.444,0.473,0.452,4.2,11.4,WATCH,PHI,Makai Lemon,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,M.Lemon,receptions,3.5,under,draftkings,-154.0,4.1,4.0,0.442,0.556,0.527,0.606,-6.6,-11.4,PASS,PHI,Makai Lemon,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,N.Gray,rec_yds,10.5,over,draftkings,-118.0,15.7,11.3,0.521,0.512,0.514,0.541,-0.8,1.0,PASS,KC,Noah Gray,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,N.Gray,rec_yds,10.5,under,draftkings,-107.0,15.7,11.3,0.479,0.488,0.486,0.517,-1.5,-1.0,PASS,KC,Noah Gray,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,N.Gray,receptions,1.5,over,draftkings,104.0,1.8,2.0,0.514,0.459,0.473,0.49,1.0,5.5,PASS,KC,Noah Gray,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,N.Gray,receptions,1.5,under,draftkings,-133.0,1.8,2.0,0.486,0.541,0.527,0.571,-3.4,-5.5,PASS,KC,Noah Gray,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Flournoy,rec_yds,30.5,over,draftkings,-115.0,29.4,23.7,0.397,0.5,0.474,0.535,-5.5,-10.3,PASS,DAL,Ryan Flournoy,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Flournoy,rec_yds,30.5,under,draftkings,-109.0,29.4,23.7,0.603,0.5,0.526,0.522,3.2,10.3,WATCH,DAL,Ryan Flournoy,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Flournoy,receptions,2.5,over,draftkings,-150.0,2.5,2.0,0.439,0.591,0.553,0.6,-6.5,-15.2,PASS,DAL,Ryan Flournoy,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Flournoy,receptions,2.5,under,draftkings,118.0,2.5,2.0,0.561,0.409,0.447,0.459,4.1,15.2,WATCH,DAL,Ryan Flournoy,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Rice,rec_yds,44.5,over,draftkings,-111.0,46.9,42.4,0.472,0.5,0.493,0.526,-2.2,-2.8,PASS,KC,Rashee Rice,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Rice,rec_yds,44.5,under,draftkings,-113.0,46.9,42.4,0.528,0.5,0.507,0.531,-0.1,2.8,PASS,KC,Rashee Rice,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Rice,receptions,4.5,over,draftkings,104.0,4.9,5.0,0.532,0.454,0.474,0.49,1.7,7.7,WATCH,KC,Rashee Rice,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,R.Rice,receptions,4.5,under,draftkings,-133.0,4.9,5.0,0.468,0.546,0.526,0.571,-4.1,-7.7,PASS,KC,Rashee Rice,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,carries,16.5,over,draftkings,-105.0,14.2,14.0,0.324,0.469,0.433,0.512,-7.5,-14.6,PASS,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,carries,16.5,under,draftkings,-121.0,14.2,14.0,0.676,0.531,0.567,0.548,5.1,14.6,WATCH,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,rec_yds,6.5,over,draftkings,-119.0,12.6,7.1,0.519,0.487,0.495,0.543,-1.0,3.2,PASS,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,rec_yds,6.5,under,draftkings,-105.0,12.6,7.1,0.481,0.513,0.505,0.512,-1.3,-3.2,PASS,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,receptions,1.5,over,draftkings,134.0,1.5,1.0,0.408,0.417,0.414,0.427,-0.8,-0.9,PASS,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,receptions,1.5,under,draftkings,-171.0,1.5,1.0,0.592,0.583,0.586,0.631,-1.6,0.9,PASS,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,rush_yds,64.5,over,draftkings,-114.0,58.5,54.2,0.375,0.5,0.469,0.533,-6.3,-12.5,PASS,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,S.Barkley,rush_yds,64.5,under,draftkings,-110.0,58.5,54.2,0.625,0.5,0.531,0.524,4.1,12.5,WATCH,PHI,Saquon Barkley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Johnson,rec_yds,16.5,over,draftkings,-109.0,20.7,16.2,0.494,0.504,0.501,0.522,-1.1,-1.0,PASS,BUF,Ty Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Johnson,rec_yds,16.5,under,draftkings,-115.0,20.7,16.2,0.506,0.496,0.499,0.535,-1.1,1.0,PASS,BUF,Ty Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Johnson,receptions,2.5,over,draftkings,121.0,2.3,2.0,0.402,0.426,0.42,0.452,-2.0,-2.4,PASS,BUF,Ty Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Johnson,receptions,2.5,under,draftkings,-155.0,2.3,2.0,0.598,0.574,0.58,0.608,-0.4,2.4,PASS,BUF,Ty Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Johnson,rush_yds,1.5,over,draftkings,-108.0,6.0,2.7,0.588,0.469,0.499,0.519,2.7,11.8,WATCH,BUF,Ty Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Johnson,rush_yds,1.5,under,draftkings,-116.0,6.0,2.7,0.412,0.531,0.501,0.537,-5.0,-11.8,PASS,BUF,Ty Johnson,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Kelce,rec_yds,42.5,over,draftkings,-114.0,40.9,36.0,0.411,0.5,0.478,0.533,-4.8,-8.9,PASS,KC,Travis Kelce,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Kelce,rec_yds,42.5,under,draftkings,-110.0,40.9,36.0,0.589,0.5,0.522,0.524,2.6,8.9,WATCH,KC,Travis Kelce,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Kelce,receptions,4.5,over,draftkings,123.0,4.0,4.0,0.366,0.405,0.395,0.448,-3.3,-3.9,PASS,KC,Travis Kelce,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,T.Kelce,receptions,4.5,under,draftkings,-157.0,4.0,4.0,0.634,0.595,0.605,0.611,0.9,3.9,PASS,KC,Travis Kelce,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,X.Worthy,rec_yds,19.5,over,draftkings,-115.0,28.0,23.5,0.575,0.531,0.542,0.535,1.6,4.5,WATCH,KC,Xavier Worthy,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,X.Worthy,rec_yds,19.5,under,draftkings,-109.0,28.0,23.5,0.425,0.469,0.458,0.522,-3.9,-4.5,PASS,KC,Xavier Worthy,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,X.Worthy,receptions,2.5,over,draftkings,118.0,3.0,3.0,0.551,0.423,0.455,0.459,3.7,12.7,WATCH,KC,Xavier Worthy,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,X.Worthy,receptions,2.5,under,draftkings,-150.0,3.0,3.0,0.449,0.577,0.545,0.6,-6.0,-12.7,PASS,KC,Xavier Worthy,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,Z.Ertz,rec_yds,0.5,over,draftkings,100.0,35.8,30.9,0.954,0.473,0.593,0.5,18.2,48.1,WATCH,PHI,Zach Ertz,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,Z.Ertz,rec_yds,0.5,under,draftkings,-126.0,35.8,30.9,0.046,0.527,0.407,0.558,-20.5,-48.1,PASS,PHI,Zach Ertz,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,Z.Ertz,receptions,0.5,over,draftkings,-110.0,3.5,3.0,0.956,0.5,0.614,0.524,17.3,45.6,WATCH,PHI,Zach Ertz,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,Z.Ertz,receptions,0.5,under,draftkings,-116.0,3.5,3.0,0.044,0.5,0.386,0.537,-19.7,-45.6,PASS,PHI,Zach Ertz,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Joe Milton,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Dallas Cowboys D/ST,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Dak Prescott,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Will Shipley,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Philadelphia Eagles D/ST,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Luke Schoonmaker,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Hunter Luepke,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Camden Brown,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Eli Stowers,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Johnny Mundt,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Grant Calcaterra,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Dallas Cowboys Defense,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Philadelphia Eagles Defense,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Jonathan Mingo,Philadelphia Eagles@Dallas Cowboys,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Josh Allen,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Patrick Mahomes,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Buffalo Bills D/ST,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Kansas City Chiefs D/ST,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Ray Davis,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Jaydn Ott,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Jackson Hawes,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Jake Briningstool,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Andrew Armstrong,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Buffalo Bills Defense,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Kansas City Chiefs Defense,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00
+2026-11-26,nfl v1.2,,,,,,,,,,,,,,,PASS,,Ben VanSumeren,Kansas City Chiefs@Buffalo Bills,afternoon_2026-11-26,2026-11-26T15:20-05:00

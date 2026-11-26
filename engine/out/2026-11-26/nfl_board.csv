@@ -1,0 +1,897 @@
+player,market,line,book,over,under,executable,game
+Javonte Williams,td,,draftkings,-180.0,,True,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,draftkings,-150.0,,True,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,draftkings,-120.0,,True,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,draftkings,100.0,,True,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,draftkings,180.0,,True,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,draftkings,280.0,,True,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,draftkings,280.0,,True,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,draftkings,320.0,,True,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,draftkings,400.0,,True,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,draftkings,400.0,,True,Philadelphia Eagles@Dallas Cowboys
+Dallas Cowboys D/ST,td,,draftkings,500.0,,True,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,draftkings,550.0,,True,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,draftkings,600.0,,True,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,draftkings,600.0,,True,Philadelphia Eagles@Dallas Cowboys
+Philadelphia Eagles D/ST,td,,draftkings,600.0,,True,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,draftkings,650.0,,True,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,td,,draftkings,700.0,,True,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,td,,draftkings,700.0,,True,Philadelphia Eagles@Dallas Cowboys
+Hunter Luepke,td,,draftkings,1100.0,,True,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,td,,draftkings,1500.0,,True,Philadelphia Eagles@Dallas Cowboys
+James Mitchell,td,,draftkings,1600.0,,True,Philadelphia Eagles@Dallas Cowboys
+Camden Brown,td,,draftkings,1900.0,,True,Philadelphia Eagles@Dallas Cowboys
+Elijah Moore,td,,draftkings,2200.0,,True,Philadelphia Eagles@Dallas Cowboys
+Britain Covey,td,,draftkings,2500.0,,True,Philadelphia Eagles@Dallas Cowboys
+Jaydon Blue,td,,draftkings,2800.0,,True,Philadelphia Eagles@Dallas Cowboys
+Eli Stowers,td,,draftkings,3000.0,,True,Philadelphia Eagles@Dallas Cowboys
+Johnny Mundt,td,,draftkings,3000.0,,True,Philadelphia Eagles@Dallas Cowboys
+Grant Calcaterra,td,,draftkings,3500.0,,True,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,rec_yds,91.5,draftkings,-110.0,-114.0,True,Philadelphia Eagles@Dallas Cowboys
+George Pickens,rec_yds,70.5,draftkings,-114.0,-110.0,True,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,rec_yds,68.5,draftkings,-114.0,-110.0,True,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,32.5,draftkings,-111.0,-113.0,True,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,rec_yds,30.5,draftkings,-115.0,-109.0,True,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,rec_yds,30.5,draftkings,-115.0,-109.0,True,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,rec_yds,30.5,draftkings,-111.0,-113.0,True,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,rec_yds,15.5,draftkings,-107.0,-117.0,True,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rec_yds,7.5,draftkings,-118.0,-106.0,True,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rec_yds,6.5,draftkings,-119.0,-105.0,True,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rec_yds,6.5,draftkings,-112.0,-112.0,True,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rec_yds,4.5,draftkings,-113.0,-111.0,True,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,rec_yds,3.5,draftkings,-111.0,-113.0,True,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,rec_yds,0.5,draftkings,100.0,-126.0,True,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,draftkings,111.0,-142.0,True,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,receptions,5.5,draftkings,-112.0,-114.0,True,Philadelphia Eagles@Dallas Cowboys
+George Pickens,receptions,5.5,draftkings,116.0,-149.0,True,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,receptions,3.5,draftkings,-109.0,-117.0,True,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,receptions,3.5,draftkings,121.0,-154.0,True,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,receptions,2.5,draftkings,-150.0,118.0,True,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,receptions,2.5,draftkings,-106.0,-121.0,True,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,receptions,1.5,draftkings,-172.0,134.0,True,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,receptions,1.5,draftkings,-158.0,124.0,True,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,receptions,1.5,draftkings,134.0,-171.0,True,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,receptions,1.5,draftkings,164.0,-212.0,True,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,receptions,0.5,draftkings,-171.0,134.0,True,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,receptions,0.5,draftkings,-153.0,119.0,True,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,receptions,0.5,draftkings,-110.0,-116.0,True,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,carries,18.5,draftkings,-127.0,100.0,True,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,carries,16.5,draftkings,-105.0,-121.0,True,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,carries,6.5,draftkings,-102.0,-125.0,True,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rush_yds,76.5,draftkings,-111.0,-113.0,True,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rush_yds,64.5,draftkings,-114.0,-110.0,True,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,rush_yds,33.5,draftkings,-110.0,-114.0,True,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rush_yds,12.5,draftkings,-117.0,-107.0,True,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,rush_yds,12.5,draftkings,-113.0,-111.0,True,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,rush_yds,9.5,draftkings,-114.0,-110.0,True,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rush_yds,2.5,draftkings,-114.0,-110.0,True,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,rec_yds,89.5,espnbet,-105.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,rec_yds,69.5,espnbet,-120.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,rec_yds,69.5,espnbet,-105.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,rec_yds,29.5,espnbet,-125.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,rec_yds,29.5,espnbet,-130.0,100.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,rec_yds,29.5,espnbet,-120.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,29.5,espnbet,-130.0,100.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,rec_yds,13.5,espnbet,-125.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rec_yds,5.5,espnbet,-125.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rec_yds,7.5,espnbet,-125.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rec_yds,7.5,espnbet,-105.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,rec_yds,2.5,espnbet,-150.0,115.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,espnbet,110.0,-140.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,receptions,5.5,espnbet,115.0,-150.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,receptions,5.5,espnbet,-120.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,receptions,3.5,espnbet,110.0,-140.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,receptions,2.5,espnbet,-180.0,135.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,receptions,3.5,espnbet,100.0,-130.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,receptions,1.5,espnbet,160.0,-220.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,receptions,1.5,espnbet,-150.0,115.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,receptions,1.5,espnbet,135.0,-180.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,receptions,2.5,espnbet,-105.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,receptions,1.5,espnbet,-170.0,130.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,receptions,0.5,espnbet,-160.0,125.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,receptions,0.5,espnbet,-135.0,105.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,carries,18.5,espnbet,-130.0,100.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,carries,16.5,espnbet,100.0,-130.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rush_yds,64.5,espnbet,-125.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rush_yds,74.5,espnbet,-120.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,rush_yds,9.5,espnbet,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rush_yds,12.5,espnbet,-110.0,-120.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rush_yds,3.5,espnbet,105.0,-135.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,td,,williamhill_us,-182.0,,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,williamhill_us,-152.0,,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,williamhill_us,-117.0,,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,williamhill_us,104.0,,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,williamhill_us,186.0,,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,williamhill_us,275.0,,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,williamhill_us,275.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,williamhill_us,305.0,,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,williamhill_us,360.0,,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,williamhill_us,390.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,williamhill_us,500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,williamhill_us,575.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,williamhill_us,575.0,,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,williamhill_us,650.0,,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,td,,williamhill_us,675.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,td,,williamhill_us,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Hunter Luepke,td,,williamhill_us,950.0,,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,td,,williamhill_us,1400.0,,False,Philadelphia Eagles@Dallas Cowboys
+James Mitchell,td,,williamhill_us,1600.0,,False,Philadelphia Eagles@Dallas Cowboys
+Camden Brown,td,,williamhill_us,2000.0,,False,Philadelphia Eagles@Dallas Cowboys
+Elijah Moore,td,,williamhill_us,2000.0,,False,Philadelphia Eagles@Dallas Cowboys
+Britain Covey,td,,williamhill_us,2200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jaydon Blue,td,,williamhill_us,2400.0,,False,Philadelphia Eagles@Dallas Cowboys
+Johnny Mundt,td,,williamhill_us,2900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Eli Stowers,td,,williamhill_us,3000.0,,False,Philadelphia Eagles@Dallas Cowboys
+Grant Calcaterra,td,,williamhill_us,3000.0,,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,td,,fanduel,-180.0,,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,fanduel,-155.0,,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,fanduel,-115.0,,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,fanduel,105.0,,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,fanduel,200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,fanduel,280.0,,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,fanduel,280.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,fanduel,330.0,,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,fanduel,360.0,,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,fanduel,410.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Cowboys Defense,td,,fanduel,500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,fanduel,550.0,,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,fanduel,600.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,fanduel,600.0,,False,Philadelphia Eagles@Dallas Cowboys
+Philadelphia Eagles Defense,td,,fanduel,650.0,,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,fanduel,650.0,,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,td,,fanduel,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,td,,fanduel,750.0,,False,Philadelphia Eagles@Dallas Cowboys
+Hunter Luepke,td,,fanduel,900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,td,,fanduel,1500.0,,False,Philadelphia Eagles@Dallas Cowboys
+James Mitchell,td,,fanduel,1700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Camden Brown,td,,fanduel,1900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Britain Covey,td,,fanduel,2000.0,,False,Philadelphia Eagles@Dallas Cowboys
+Elijah Moore,td,,fanduel,2200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jaydon Blue,td,,fanduel,2700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Eli Stowers,td,,fanduel,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Grant Calcaterra,td,,fanduel,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Johnny Mundt,td,,fanduel,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,rec_yds,30.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,rec_yds,3.5,fanduel,-115.0,-111.0,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,rec_yds,3.5,fanduel,108.0,-138.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,rec_yds,68.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rec_yds,8.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rec_yds,7.5,fanduel,-102.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,rec_yds,66.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,rec_yds,30.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,rec_yds,30.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,rec_yds,88.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,rec_yds,13.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rec_yds,5.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,30.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rec_yds,4.5,fanduel,-106.0,-120.0,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,receptions,0.5,fanduel,-122.0,-108.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,receptions,5.5,fanduel,-125.0,-106.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,receptions,0.5,fanduel,-162.0,122.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,fanduel,114.0,-152.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,receptions,3.5,fanduel,102.0,-136.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,receptions,2.5,fanduel,-108.0,-122.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,receptions,1.5,fanduel,-144.0,108.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,receptions,1.5,fanduel,-172.0,128.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,receptions,1.5,fanduel,154.0,-210.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,receptions,5.5,fanduel,116.0,-154.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,receptions,3.5,fanduel,120.0,-160.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,receptions,0.5,fanduel,-148.0,112.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,receptions,3.5,fanduel,-102.0,-130.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,receptions,1.5,fanduel,120.0,-160.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rush_yds,73.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,rush_yds,10.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,rush_yds,31.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rush_yds,12.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rush_yds,62.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rush_yds,3.5,fanduel,-102.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,rush_yds,9.5,fanduel,-113.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,betonlineag,-167.0,,False,Philadelphia Eagles@Dallas Cowboys
+Grant Calcaterra,td,,betonlineag,1900.0,,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,betonlineag,650.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,betonlineag,600.0,,False,Philadelphia Eagles@Dallas Cowboys
+Hunter Luepke,td,,betonlineag,900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Britain Covey,td,,betonlineag,1900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,betonlineag,290.0,,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,betonlineag,180.0,,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,betonlineag,100.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,td,,betonlineag,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,betonlineag,-125.0,,False,Philadelphia Eagles@Dallas Cowboys
+Eli Stowers,td,,betonlineag,2900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Camden Brown,td,,betonlineag,1900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,betonlineag,500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,td,,betonlineag,-200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Elijah Moore,td,,betonlineag,1900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Johnny Mundt,td,,betonlineag,2900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,betonlineag,280.0,,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,betonlineag,250.0,,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,betonlineag,350.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jaydon Blue,td,,betonlineag,1900.0,,False,Philadelphia Eagles@Dallas Cowboys
+James Mitchell,td,,betonlineag,1400.0,,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,td,,betonlineag,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,td,,betonlineag,1100.0,,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,betonlineag,350.0,,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,betonlineag,600.0,,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,rec_yds,66.5,betonlineag,-112.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rec_yds,8.5,betonlineag,-118.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,rec_yds,30.5,betonlineag,-116.0,-111.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,31.5,betonlineag,-115.0,-112.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rec_yds,7.5,betonlineag,-111.0,-116.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rec_yds,4.5,betonlineag,-112.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,rec_yds,14.5,betonlineag,-112.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,rec_yds,30.5,betonlineag,-115.0,-112.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rec_yds,5.5,betonlineag,-116.0,-111.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,rec_yds,68.5,betonlineag,-119.0,-109.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,rec_yds,91.5,betonlineag,-114.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,rec_yds,3.5,betonlineag,-114.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,rec_yds,30.5,betonlineag,-114.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,receptions,3.5,betonlineag,100.0,-130.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,receptions,3.5,betonlineag,118.0,-154.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,receptions,1.5,betonlineag,-154.0,119.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,receptions,5.5,betonlineag,-120.0,-108.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,receptions,2.5,betonlineag,-103.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,receptions,2.5,betonlineag,-169.0,130.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,betonlineag,115.0,-149.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,receptions,5.5,betonlineag,118.0,-154.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,receptions,1.5,betonlineag,122.0,-159.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,receptions,0.5,betonlineag,-143.0,110.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,receptions,1.5,betonlineag,-167.0,128.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,receptions,1.5,betonlineag,161.0,-213.0,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,receptions,0.5,betonlineag,-114.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,receptions,0.5,betonlineag,-169.0,129.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,carries,18.5,betonlineag,-119.0,-109.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,carries,6.5,betonlineag,-105.0,-123.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,carries,16.5,betonlineag,104.0,-135.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,rush_yds,9.5,betonlineag,-118.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,rush_yds,32.5,betonlineag,-111.0,-116.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rush_yds,76.5,betonlineag,-112.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rush_yds,3.5,betonlineag,-105.0,-123.0,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,rush_yds,12.5,betonlineag,-112.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rush_yds,12.5,betonlineag,-114.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rush_yds,63.5,betonlineag,-118.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,betmgm,210.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,betmgm,333.0,,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,betmgm,650.0,,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,td,,betmgm,750.0,,False,Philadelphia Eagles@Dallas Cowboys
+Hunter Luepke,td,,betmgm,900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Britain Covey,td,,betmgm,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Johnny Mundt,td,,betmgm,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,betmgm,550.0,,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,betmgm,400.0,,False,Philadelphia Eagles@Dallas Cowboys
+James Mitchell,td,,betmgm,1700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Elijah Moore,td,,betmgm,2500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Philadelphia Eagles D/ST,td,,betmgm,650.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jaydon Blue,td,,betmgm,2800.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Cowboys D/ST,td,,betmgm,450.0,,False,Philadelphia Eagles@Dallas Cowboys
+Grant Calcaterra,td,,betmgm,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,td,,betmgm,-175.0,,False,Philadelphia Eagles@Dallas Cowboys
+Eli Stowers,td,,betmgm,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,betmgm,280.0,,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,betmgm,625.0,,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,betmgm,110.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,td,,betmgm,775.0,,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,betmgm,-155.0,,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,betmgm,425.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,betmgm,625.0,,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,betmgm,280.0,,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,betmgm,-111.0,,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,td,,betmgm,1550.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,rec_yds,30.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,rec_yds,4.5,betmgm,110.0,-150.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,rec_yds,29.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rec_yds,7.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,rec_yds,72.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rec_yds,8.5,betmgm,-120.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,rec_yds,14.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,31.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,rec_yds,29.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rec_yds,5.5,betmgm,-111.0,-120.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rec_yds,4.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,rec_yds,65.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,rec_yds,91.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,receptions,0.5,betmgm,-175.0,130.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,betmgm,100.0,-135.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,receptions,5.5,betmgm,115.0,-155.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,receptions,2.5,betmgm,-165.0,125.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,receptions,1.5,betmgm,125.0,-165.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,receptions,3.5,betmgm,100.0,-135.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,receptions,5.5,betmgm,-125.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,receptions,3.5,betmgm,125.0,-165.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,receptions,1.5,betmgm,-165.0,125.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,receptions,1.5,betmgm,-165.0,125.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,receptions,1.5,betmgm,165.0,-220.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,receptions,0.5,betmgm,-160.0,120.0,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,receptions,0.5,betmgm,-110.0,-120.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,carries,15.5,betmgm,-135.0,100.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,carries,18.5,betmgm,-120.0,-111.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,rush_yds,32.5,betmgm,-111.0,-120.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rush_yds,76.5,betmgm,-110.0,-120.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,rush_yds,8.5,betmgm,-125.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rush_yds,63.5,betmgm,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Camden Brown,td,,betrivers,2000.0,,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,betrivers,-107.0,,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,td,,betrivers,-200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,td,,betrivers,1500.0,,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,betrivers,210.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,td,,betrivers,850.0,,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,betrivers,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Elijah Moore,td,,betrivers,1300.0,,False,Philadelphia Eagles@Dallas Cowboys
+Johnny Mundt,td,,betrivers,2000.0,,False,Philadelphia Eagles@Dallas Cowboys
+Eli Stowers,td,,betrivers,1700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,td,,betrivers,650.0,,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,betrivers,-109.0,,False,Philadelphia Eagles@Dallas Cowboys
+Hunter Luepke,td,,betrivers,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Grant Calcaterra,td,,betrivers,2200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,betrivers,250.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,betrivers,460.0,,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,betrivers,400.0,,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,betrivers,295.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,betrivers,320.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jonathan Mingo,td,,betrivers,1400.0,,False,Philadelphia Eagles@Dallas Cowboys
+Britain Covey,td,,betrivers,2400.0,,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,betrivers,420.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,betrivers,575.0,,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,betrivers,410.0,,False,Philadelphia Eagles@Dallas Cowboys
+James Mitchell,td,,betrivers,1000.0,,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,betrivers,-159.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jaydon Blue,td,,betrivers,2500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rec_yds,8.5,betrivers,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,rec_yds,92.5,betrivers,-117.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,rec_yds,32.5,betrivers,-118.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,rec_yds,15.5,betrivers,-117.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,32.5,betrivers,-114.0,-117.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,rec_yds,70.5,betrivers,-117.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,rec_yds,32.5,betrivers,-114.0,-117.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rec_yds,6.5,betrivers,-109.0,-122.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,rec_yds,29.5,betrivers,-112.0,-120.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,rec_yds,65.5,betrivers,-117.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,betrivers,102.0,,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,receptions,1.5,betrivers,-120.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,receptions,3.5,betrivers,100.0,,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,receptions,5.5,betrivers,-107.0,,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,receptions,3.5,betrivers,118.0,,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,receptions,3.5,betrivers,130.0,,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,receptions,5.5,betrivers,108.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,receptions,2.5,betrivers,-114.0,,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,receptions,1.5,betrivers,-167.0,,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,receptions,1.5,betrivers,120.0,,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,rush_yds,32.5,betrivers,-120.0,-112.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rush_yds,64.5,betrivers,-114.0,-117.0,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,rush_yds,12.5,betrivers,-118.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,rush_yds,10.5,betrivers,-113.0,-118.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rush_yds,77.5,betrivers,-118.0,-113.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,fanatics,600.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Cowboys D/ST,td,,fanatics,475.0,,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,fanatics,-165.0,,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,td,,fanatics,-185.0,,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,fanatics,-120.0,,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,fanatics,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Hunter Luepke,td,,fanatics,900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Luke Schoonmaker,td,,fanatics,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,fanatics,300.0,,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,fanatics,400.0,,False,Philadelphia Eagles@Dallas Cowboys
+Camden Brown,td,,fanatics,1900.0,,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,fanatics,-105.0,,False,Philadelphia Eagles@Dallas Cowboys
+Zach Ertz,td,,fanatics,1700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,fanatics,310.0,,False,Philadelphia Eagles@Dallas Cowboys
+Johnny Mundt,td,,fanatics,4000.0,,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,fanatics,185.0,,False,Philadelphia Eagles@Dallas Cowboys
+Elijah Moore,td,,fanatics,2200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Britain Covey,td,,fanatics,2200.0,,False,Philadelphia Eagles@Dallas Cowboys
+Grant Calcaterra,td,,fanatics,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,fanatics,550.0,,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,fanatics,270.0,,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,fanatics,475.0,,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,fanatics,420.0,,False,Philadelphia Eagles@Dallas Cowboys
+Eli Stowers,td,,fanatics,3500.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jaydon Blue,td,,fanatics,3000.0,,False,Philadelphia Eagles@Dallas Cowboys
+Philadelphia Eagles D/ST,td,,fanatics,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+James Mitchell,td,,fanatics,1700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Jashaun Corbin,td,,fanatics,700.0,,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,30.5,fanatics,-115.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,fanatics,115.0,-155.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,carries,18.5,fanatics,-120.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,rush_yds,30.5,fanatics,-135.0,100.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,td,,pinnacle,-172.0,141.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,td,,pinnacle,-147.0,121.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,td,,pinnacle,100.0,-121.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,td,,pinnacle,101.0,-122.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,td,,pinnacle,186.0,-231.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,td,,pinnacle,288.0,-376.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,td,,pinnacle,280.0,-363.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,td,,pinnacle,308.0,-406.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,td,,pinnacle,550.0,-841.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,td,,pinnacle,384.0,-528.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,td,,pinnacle,400.0,-557.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,td,,pinnacle,500.0,-740.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,td,,pinnacle,580.0,-906.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,td,,pinnacle,717.0,-1237.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,rec_yds,90.5,pinnacle,-110.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,rec_yds,31.5,pinnacle,-110.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,rec_yds,30.5,pinnacle,-106.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,rec_yds,66.5,pinnacle,-113.0,-107.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,rec_yds,69.5,pinnacle,-110.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rec_yds,7.5,pinnacle,-115.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,rec_yds,30.5,pinnacle,-109.0,-111.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,rec_yds,30.5,pinnacle,-110.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,rec_yds,13.5,pinnacle,-111.0,-109.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rec_yds,4.5,pinnacle,-105.0,-115.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rec_yds,7.5,pinnacle,-108.0,-112.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rec_yds,5.5,pinnacle,-116.0,-104.0,False,Philadelphia Eagles@Dallas Cowboys
+CeeDee Lamb,receptions,7.5,pinnacle,105.0,-127.0,False,Philadelphia Eagles@Dallas Cowboys
+Dallas Goedert,receptions,3.5,pinnacle,101.0,-122.0,False,Philadelphia Eagles@Dallas Cowboys
+Darius Cooper,receptions,2.5,pinnacle,100.0,-122.0,False,Philadelphia Eagles@Dallas Cowboys
+DeVonta Smith,receptions,5.5,pinnacle,-115.0,-105.0,False,Philadelphia Eagles@Dallas Cowboys
+George Pickens,receptions,5.5,pinnacle,118.0,-143.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,receptions,1.5,pinnacle,-149.0,123.0,False,Philadelphia Eagles@Dallas Cowboys
+Makai Lemon,receptions,3.5,pinnacle,115.0,-139.0,False,Philadelphia Eagles@Dallas Cowboys
+Ryan Flournoy,receptions,3.5,pinnacle,134.0,-163.0,False,Philadelphia Eagles@Dallas Cowboys
+Brevyn Spann-Ford,receptions,1.5,pinnacle,-162.0,133.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,receptions,0.5,pinnacle,-141.0,117.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,receptions,1.5,pinnacle,132.0,-160.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,receptions,1.5,pinnacle,166.0,-205.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,carries,18.5,pinnacle,-110.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,carries,6.5,pinnacle,-105.0,-116.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,carries,16.5,pinnacle,101.0,-122.0,False,Philadelphia Eagles@Dallas Cowboys
+Dak Prescott,rush_yds,9.5,pinnacle,-111.0,-109.0,False,Philadelphia Eagles@Dallas Cowboys
+Javonte Williams,rush_yds,73.5,pinnacle,-110.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Joe Milton,rush_yds,32.5,pinnacle,-106.0,-114.0,False,Philadelphia Eagles@Dallas Cowboys
+KaVontae Turpin,rush_yds,3.5,pinnacle,103.0,-125.0,False,Philadelphia Eagles@Dallas Cowboys
+Saquon Barkley,rush_yds,64.5,pinnacle,-110.0,-110.0,False,Philadelphia Eagles@Dallas Cowboys
+Will Shipley,rush_yds,12.5,pinnacle,-108.0,-112.0,False,Philadelphia Eagles@Dallas Cowboys
+Emmett Johnson,td,,draftkings,-170.0,,True,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,draftkings,-115.0,,True,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,draftkings,100.0,,True,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,draftkings,240.0,,True,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,draftkings,245.0,,True,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,draftkings,255.0,,True,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,draftkings,310.0,,True,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,td,,draftkings,310.0,,True,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,draftkings,340.0,,True,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,draftkings,450.0,,True,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,draftkings,475.0,,True,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,draftkings,500.0,,True,Kansas City Chiefs@Buffalo Bills
+Buffalo Bills D/ST,td,,draftkings,550.0,,True,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,draftkings,550.0,,True,Kansas City Chiefs@Buffalo Bills
+Kansas City Chiefs D/ST,td,,draftkings,600.0,,True,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,draftkings,650.0,,True,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,draftkings,900.0,,True,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,draftkings,900.0,,True,Kansas City Chiefs@Buffalo Bills
+Ray Davis,td,,draftkings,1200.0,,True,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,td,,draftkings,1200.0,,True,Kansas City Chiefs@Buffalo Bills
+Skyler Bell,td,,draftkings,1500.0,,True,Kansas City Chiefs@Buffalo Bills
+Keleki Latu,td,,draftkings,1600.0,,True,Kansas City Chiefs@Buffalo Bills
+Tyrell Shavers,td,,draftkings,1600.0,,True,Kansas City Chiefs@Buffalo Bills
+Jackson Hawes,td,,draftkings,1700.0,,True,Kansas City Chiefs@Buffalo Bills
+Jalen Royals,td,,draftkings,1900.0,,True,Kansas City Chiefs@Buffalo Bills
+Jake Briningstool,td,,draftkings,2000.0,,True,Kansas City Chiefs@Buffalo Bills
+Greg Dortch,td,,draftkings,2200.0,,True,Kansas City Chiefs@Buffalo Bills
+Andrew Armstrong,td,,draftkings,2500.0,,True,Kansas City Chiefs@Buffalo Bills
+DJ Moore,rec_yds,49.5,draftkings,-110.0,-114.0,True,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,44.5,draftkings,-111.0,-113.0,True,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,rec_yds,42.5,draftkings,-114.0,-110.0,True,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,rec_yds,36.5,draftkings,-115.0,-109.0,True,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,rec_yds,36.5,draftkings,-109.0,-115.0,True,Kansas City Chiefs@Buffalo Bills
+Josh Downs,rec_yds,34.5,draftkings,-115.0,-109.0,True,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rec_yds,32.5,draftkings,-109.0,-115.0,True,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,rec_yds,21.5,draftkings,-113.0,-111.0,True,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,rec_yds,19.5,draftkings,-115.0,-109.0,True,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rec_yds,16.5,draftkings,-109.0,-115.0,True,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,rec_yds,11.5,draftkings,-111.0,-113.0,True,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,rec_yds,11.5,draftkings,-106.0,-118.0,True,Kansas City Chiefs@Buffalo Bills
+Noah Gray,rec_yds,10.5,draftkings,-118.0,-107.0,True,Kansas City Chiefs@Buffalo Bills
+James Cook,rec_yds,7.5,draftkings,-112.0,-112.0,True,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,receptions,4.5,draftkings,104.0,-133.0,True,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,receptions,4.5,draftkings,123.0,-157.0,True,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,receptions,3.5,draftkings,-137.0,108.0,True,Kansas City Chiefs@Buffalo Bills
+DJ Moore,receptions,3.5,draftkings,-133.0,104.0,True,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,receptions,3.5,draftkings,-123.0,-103.0,True,Kansas City Chiefs@Buffalo Bills
+Josh Downs,receptions,3.5,draftkings,135.0,-173.0,True,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,receptions,3.5,draftkings,137.0,-175.0,True,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,receptions,2.5,draftkings,118.0,-150.0,True,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,receptions,2.5,draftkings,121.0,-155.0,True,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,receptions,1.5,draftkings,-171.0,133.0,True,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,receptions,1.5,draftkings,101.0,-129.0,True,Kansas City Chiefs@Buffalo Bills
+Noah Gray,receptions,1.5,draftkings,104.0,-133.0,True,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,draftkings,135.0,-172.0,True,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,receptions,1.5,draftkings,167.0,-216.0,True,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,carries,20.5,draftkings,100.0,-127.0,True,Kansas City Chiefs@Buffalo Bills
+James Cook,carries,19.5,draftkings,-123.0,-104.0,True,Kansas City Chiefs@Buffalo Bills
+Josh Allen,carries,8.5,draftkings,105.0,-133.0,True,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,carries,3.5,draftkings,124.0,-158.0,True,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,87.5,draftkings,-114.0,-110.0,True,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rush_yds,81.5,draftkings,-111.0,-113.0,True,Kansas City Chiefs@Buffalo Bills
+Josh Allen,rush_yds,39.5,draftkings,-111.0,-113.0,True,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,rush_yds,12.5,draftkings,-116.0,-108.0,True,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,rush_yds,5.5,draftkings,-106.0,-118.0,True,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rush_yds,1.5,draftkings,-108.0,-116.0,True,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,td,,fanduel,-165.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,fanduel,-115.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,fanduel,100.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,fanduel,240.0,,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,fanduel,260.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,fanduel,270.0,,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,td,,fanduel,310.0,,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,fanduel,320.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,fanduel,330.0,,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,fanduel,460.0,,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,fanduel,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,fanduel,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,fanduel,550.0,,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,fanduel,700.0,,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,fanduel,850.0,,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,fanduel,900.0,,False,Kansas City Chiefs@Buffalo Bills
+Buffalo Bills Defense,td,,fanduel,1000.0,,False,Kansas City Chiefs@Buffalo Bills
+Kansas City Chiefs Defense,td,,fanduel,1000.0,,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,td,,fanduel,1200.0,,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,td,,fanduel,1300.0,,False,Kansas City Chiefs@Buffalo Bills
+Jackson Hawes,td,,fanduel,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Skyler Bell,td,,fanduel,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Tyrell Shavers,td,,fanduel,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Keleki Latu,td,,fanduel,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Jake Briningstool,td,,fanduel,1800.0,,False,Kansas City Chiefs@Buffalo Bills
+Jalen Royals,td,,fanduel,1900.0,,False,Kansas City Chiefs@Buffalo Bills
+Greg Dortch,td,,fanduel,1900.0,,False,Kansas City Chiefs@Buffalo Bills
+Andrew Armstrong,td,,fanduel,2700.0,,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rec_yds,30.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,rec_yds,13.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,rec_yds,36.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,rec_yds,44.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,rec_yds,21.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rec_yds,7.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,rec_yds,36.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,rec_yds,34.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,rec_yds,49.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,rec_yds,11.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,rec_yds,21.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rec_yds,16.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,44.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,rec_yds,13.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,receptions,1.5,fanduel,-108.0,-122.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,receptions,2.5,fanduel,116.0,-154.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,receptions,3.5,fanduel,104.0,-138.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,receptions,1.5,fanduel,106.0,-140.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,receptions,3.5,fanduel,-132.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,receptions,1.5,fanduel,154.0,-210.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,receptions,1.5,fanduel,-188.0,140.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,receptions,4.5,fanduel,106.0,-140.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,receptions,2.5,fanduel,116.0,-154.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,receptions,3.5,fanduel,124.0,-166.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,receptions,3.5,fanduel,134.0,-180.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,fanduel,130.0,-174.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,receptions,3.5,fanduel,-148.0,112.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,receptions,4.5,fanduel,134.0,-180.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,rush_yds,38.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,rush_yds,3.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rush_yds,1.5,fanduel,102.0,-130.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rush_yds,80.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,rush_yds,11.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,rush_yds,5.5,fanduel,-106.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,87.5,fanduel,-113.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,rec_yds,49.5,espnbet,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,44.5,espnbet,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,rec_yds,44.5,espnbet,-110.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,rec_yds,21.5,espnbet,-120.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,rec_yds,19.5,espnbet,-130.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,rec_yds,34.5,espnbet,-105.0,-125.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,rec_yds,39.5,espnbet,100.0,-130.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,rec_yds,34.5,espnbet,100.0,-130.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rec_yds,30.5,espnbet,-120.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rec_yds,8.5,espnbet,100.0,-130.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rec_yds,15.5,espnbet,-130.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,rec_yds,12.5,espnbet,-120.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,rec_yds,14.5,espnbet,110.0,-140.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,receptions,3.5,espnbet,-140.0,110.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,receptions,4.5,espnbet,105.0,-135.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,receptions,4.5,espnbet,130.0,-170.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,receptions,1.5,espnbet,-180.0,135.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,receptions,3.5,espnbet,140.0,-190.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,receptions,3.5,espnbet,-105.0,-125.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,receptions,3.5,espnbet,-135.0,105.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,receptions,2.5,espnbet,-180.0,135.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,receptions,2.5,espnbet,120.0,-155.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,receptions,2.5,espnbet,120.0,-155.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,espnbet,130.0,-170.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,receptions,1.5,espnbet,-105.0,-125.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,receptions,1.5,espnbet,105.0,-135.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,receptions,1.5,espnbet,190.0,-260.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,carries,19.5,espnbet,-130.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,carries,19.5,espnbet,-130.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,carries,7.5,espnbet,-150.0,115.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,carries,3.5,espnbet,130.0,-170.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rush_yds,80.5,espnbet,-120.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,87.5,espnbet,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,rush_yds,12.5,espnbet,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,rush_yds,39.5,espnbet,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,rush_yds,3.5,espnbet,-125.0,-105.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rush_yds,1.5,espnbet,100.0,-130.0,False,Kansas City Chiefs@Buffalo Bills
+Jalen Royals,td,,betmgm,2000.0,,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,betmgm,425.0,,False,Kansas City Chiefs@Buffalo Bills
+Tyrell Shavers,td,,betmgm,1300.0,,False,Kansas City Chiefs@Buffalo Bills
+Greg Dortch,td,,betmgm,2500.0,,False,Kansas City Chiefs@Buffalo Bills
+Kansas City Chiefs D/ST,td,,betmgm,575.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,betmgm,225.0,,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,betmgm,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,betmgm,600.0,,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,betmgm,575.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,betmgm,250.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,betmgm,-105.0,,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,betmgm,525.0,,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,betmgm,290.0,,False,Kansas City Chiefs@Buffalo Bills
+Keleki Latu,td,,betmgm,1600.0,,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,betmgm,210.0,,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,betmgm,475.0,,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,betmgm,700.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,betmgm,-130.0,,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,td,,betmgm,750.0,,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,td,,betmgm,-175.0,,False,Kansas City Chiefs@Buffalo Bills
+Andrew Armstrong,td,,betmgm,2500.0,,False,Kansas City Chiefs@Buffalo Bills
+Jackson Hawes,td,,betmgm,1600.0,,False,Kansas City Chiefs@Buffalo Bills
+Jake Briningstool,td,,betmgm,1300.0,,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,td,,betmgm,1050.0,,False,Kansas City Chiefs@Buffalo Bills
+Buffalo Bills D/ST,td,,betmgm,600.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,betmgm,310.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rec_yds,7.5,betmgm,-120.0,-111.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,rec_yds,42.5,betmgm,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,rec_yds,35.5,betmgm,-111.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,rec_yds,12.5,betmgm,-111.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rec_yds,15.5,betmgm,-135.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,rec_yds,11.5,betmgm,-120.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rec_yds,28.5,betmgm,-135.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,rec_yds,36.5,betmgm,-135.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,rec_yds,47.5,betmgm,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,rec_yds,22.5,betmgm,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,44.5,betmgm,-111.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,rec_yds,18.5,betmgm,-120.0,-111.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,receptions,2.5,betmgm,135.0,-185.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,receptions,4.5,betmgm,105.0,-140.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,betmgm,115.0,-155.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,receptions,3.5,betmgm,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,receptions,1.5,betmgm,-220.0,160.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,receptions,3.5,betmgm,-185.0,135.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,receptions,3.5,betmgm,-135.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,receptions,3.5,betmgm,-140.0,105.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,receptions,1.5,betmgm,100.0,-135.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,receptions,1.5,betmgm,160.0,-220.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,receptions,1.5,betmgm,-175.0,130.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,receptions,2.5,betmgm,-210.0,155.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,carries,19.5,betmgm,-125.0,-105.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,carries,19.5,betmgm,-135.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rush_yds,1.5,betmgm,-120.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,rush_yds,37.5,betmgm,-140.0,105.0,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,rush_yds,5.5,betmgm,-105.0,-125.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,rush_yds,13.5,betmgm,-110.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rush_yds,81.5,betmgm,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,88.5,betmgm,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,td,,williamhill_us,-164.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,williamhill_us,-115.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,williamhill_us,-104.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,williamhill_us,230.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,williamhill_us,245.0,,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,williamhill_us,250.0,,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,td,,williamhill_us,295.0,,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,williamhill_us,305.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,williamhill_us,305.0,,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,williamhill_us,425.0,,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,williamhill_us,475.0,,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,williamhill_us,475.0,,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,williamhill_us,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,williamhill_us,625.0,,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,williamhill_us,750.0,,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,williamhill_us,800.0,,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,td,,williamhill_us,1100.0,,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,td,,williamhill_us,1100.0,,False,Kansas City Chiefs@Buffalo Bills
+Tyrell Shavers,td,,williamhill_us,1300.0,,False,Kansas City Chiefs@Buffalo Bills
+Skyler Bell,td,,williamhill_us,1400.0,,False,Kansas City Chiefs@Buffalo Bills
+Keleki Latu,td,,williamhill_us,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Jackson Hawes,td,,williamhill_us,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Jalen Royals,td,,williamhill_us,1750.0,,False,Kansas City Chiefs@Buffalo Bills
+Jake Briningstool,td,,williamhill_us,1800.0,,False,Kansas City Chiefs@Buffalo Bills
+Greg Dortch,td,,williamhill_us,2000.0,,False,Kansas City Chiefs@Buffalo Bills
+Andrew Armstrong,td,,williamhill_us,2200.0,,False,Kansas City Chiefs@Buffalo Bills
+Jalen Royals,td,,betrivers,2200.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,betrivers,320.0,,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,betrivers,360.0,,False,Kansas City Chiefs@Buffalo Bills
+Jackson Hawes,td,,betrivers,850.0,,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,betrivers,255.0,,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,betrivers,440.0,,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,betrivers,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Andrew Armstrong,td,,betrivers,2900.0,,False,Kansas City Chiefs@Buffalo Bills
+Jake Briningstool,td,,betrivers,1150.0,,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,betrivers,700.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,betrivers,210.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,betrivers,-107.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,betrivers,245.0,,False,Kansas City Chiefs@Buffalo Bills
+Tyrell Shavers,td,,betrivers,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,betrivers,-112.0,,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,betrivers,540.0,,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,td,,betrivers,-182.0,,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,betrivers,480.0,,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,td,,betrivers,1050.0,,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,betrivers,250.0,,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,td,,betrivers,350.0,,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,betrivers,750.0,,False,Kansas City Chiefs@Buffalo Bills
+Skyler Bell,td,,betrivers,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,td,,betrivers,900.0,,False,Kansas City Chiefs@Buffalo Bills
+Greg Dortch,td,,betrivers,2200.0,,False,Kansas City Chiefs@Buffalo Bills
+Keleki Latu,td,,betrivers,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,rec_yds,45.5,betrivers,-114.0,-117.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,rec_yds,38.5,betrivers,-117.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rec_yds,7.5,betrivers,-117.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rec_yds,28.5,betrivers,-112.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,rec_yds,38.5,betrivers,-114.0,-117.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,rec_yds,12.5,betrivers,-113.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,41.5,betrivers,-118.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,rec_yds,11.5,betrivers,-112.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,rec_yds,21.5,betrivers,-117.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,rec_yds,18.5,betrivers,-120.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,rec_yds,41.5,betrivers,-115.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,rec_yds,10.5,betrivers,-120.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,rec_yds,33.5,betrivers,-118.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rec_yds,16.5,betrivers,-120.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,receptions,1.5,betrivers,-167.0,,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,receptions,3.5,betrivers,-120.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,receptions,4.5,betrivers,102.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,receptions,3.5,betrivers,114.0,,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,receptions,1.5,betrivers,112.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,receptions,3.5,betrivers,-157.0,,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,receptions,1.5,betrivers,175.0,,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,receptions,3.5,betrivers,-141.0,,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,receptions,1.5,betrivers,114.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,betrivers,100.0,,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,receptions,2.5,betrivers,120.0,,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,receptions,2.5,betrivers,120.0,,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,receptions,4.5,betrivers,130.0,,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,receptions,3.5,betrivers,116.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,rush_yds,37.5,betrivers,-117.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,rush_yds,11.5,betrivers,-113.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rush_yds,83.5,betrivers,-114.0,-117.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,85.5,betrivers,-117.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,betonlineag,450.0,,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,betonlineag,300.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,betonlineag,-125.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,betonlineag,210.0,,False,Kansas City Chiefs@Buffalo Bills
+Tyrell Shavers,td,,betonlineag,1100.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,betonlineag,-111.0,,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,betonlineag,600.0,,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,betonlineag,400.0,,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,betonlineag,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,td,,betonlineag,290.0,,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,td,,betonlineag,1100.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,betonlineag,220.0,,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,betonlineag,240.0,,False,Kansas City Chiefs@Buffalo Bills
+Jalen Royals,td,,betonlineag,1700.0,,False,Kansas City Chiefs@Buffalo Bills
+Andrew Armstrong,td,,betonlineag,1700.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,betonlineag,280.0,,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,betonlineag,700.0,,False,Kansas City Chiefs@Buffalo Bills
+Greg Dortch,td,,betonlineag,1900.0,,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,td,,betonlineag,900.0,,False,Kansas City Chiefs@Buffalo Bills
+Keleki Latu,td,,betonlineag,1400.0,,False,Kansas City Chiefs@Buffalo Bills
+Jake Briningstool,td,,betonlineag,1400.0,,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,betonlineag,700.0,,False,Kansas City Chiefs@Buffalo Bills
+Jackson Hawes,td,,betonlineag,1400.0,,False,Kansas City Chiefs@Buffalo Bills
+Skyler Bell,td,,betonlineag,1100.0,,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,betonlineag,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,td,,betonlineag,-200.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,rec_yds,44.5,betonlineag,-114.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,rec_yds,36.5,betonlineag,-125.0,-103.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,rec_yds,49.5,betonlineag,-114.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,rec_yds,20.5,betonlineag,-116.0,-111.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,rec_yds,11.5,betonlineag,-116.0,-111.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rec_yds,7.5,betonlineag,-114.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rec_yds,30.5,betonlineag,-116.0,-111.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rec_yds,15.5,betonlineag,-130.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,rec_yds,12.5,betonlineag,-112.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,rec_yds,35.5,betonlineag,-114.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,44.5,betonlineag,-115.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,rec_yds,11.5,betonlineag,-110.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,rec_yds,36.5,betonlineag,-110.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,rec_yds,21.5,betonlineag,-115.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,receptions,4.5,betonlineag,128.0,-167.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,receptions,4.5,betonlineag,115.0,-149.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,receptions,3.5,betonlineag,-103.0,-125.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,receptions,2.5,betonlineag,130.0,-169.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,receptions,2.5,betonlineag,122.0,-159.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,receptions,3.5,betonlineag,122.0,-159.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,betonlineag,128.0,-167.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,receptions,3.5,betonlineag,-135.0,105.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,receptions,3.5,betonlineag,124.0,-161.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,receptions,1.5,betonlineag,164.0,-217.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,receptions,3.5,betonlineag,-149.0,115.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,receptions,1.5,betonlineag,-167.0,128.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,receptions,1.5,betonlineag,107.0,-139.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,receptions,1.5,betonlineag,110.0,-143.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,carries,19.5,betonlineag,-125.0,-103.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,carries,19.5,betonlineag,-123.0,-105.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,carries,8.5,betonlineag,106.0,-137.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,rush_yds,13.5,betonlineag,-120.0,-108.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rush_yds,1.5,betonlineag,-108.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rush_yds,81.5,betonlineag,-114.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,rush_yds,5.5,betonlineag,-108.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,rush_yds,38.5,betonlineag,-114.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,rush_yds,3.5,betonlineag,-109.0,-119.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,87.5,betonlineag,-115.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,fanatics,250.0,,False,Kansas City Chiefs@Buffalo Bills
+Greg Dortch,td,,fanatics,2500.0,,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,fanatics,650.0,,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,fanatics,525.0,,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,fanatics,330.0,,False,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,fanatics,-105.0,,False,Kansas City Chiefs@Buffalo Bills
+Tyrell Shavers,td,,fanatics,1900.0,,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,td,,fanatics,310.0,,False,Kansas City Chiefs@Buffalo Bills
+Ray Davis,td,,fanatics,1200.0,,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,fanatics,475.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,fanatics,-115.0,,False,Kansas City Chiefs@Buffalo Bills
+Jackson Hawes,td,,fanatics,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Keleki Latu,td,,fanatics,1700.0,,False,Kansas City Chiefs@Buffalo Bills
+Skyler Bell,td,,fanatics,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Buffalo Bills D/ST,td,,fanatics,475.0,,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,fanatics,500.0,,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,fanatics,235.0,,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,fanatics,525.0,,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,fanatics,310.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,fanatics,270.0,,False,Kansas City Chiefs@Buffalo Bills
+Ben VanSumeren,td,,fanatics,3500.0,,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,fanatics,475.0,,False,Kansas City Chiefs@Buffalo Bills
+Jalen Royals,td,,fanatics,1700.0,,False,Kansas City Chiefs@Buffalo Bills
+Jake Briningstool,td,,fanatics,2200.0,,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,td,,fanatics,-185.0,,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,fanatics,800.0,,False,Kansas City Chiefs@Buffalo Bills
+Jaydn Ott,td,,fanatics,1500.0,,False,Kansas City Chiefs@Buffalo Bills
+Kansas City Chiefs D/ST,td,,fanatics,550.0,,False,Kansas City Chiefs@Buffalo Bills
+Andrew Armstrong,td,,fanatics,2500.0,,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,45.5,fanatics,-110.0,-120.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,fanatics,130.0,-180.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,carries,19.5,fanatics,-135.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,85.5,fanatics,-135.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,td,,pinnacle,-160.0,131.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,td,,pinnacle,-120.0,-101.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,td,,pinnacle,-102.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,td,,pinnacle,230.0,-292.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,td,,pinnacle,225.0,-284.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,td,,pinnacle,246.0,-315.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,td,,pinnacle,285.0,-371.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,td,,pinnacle,283.0,-369.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,td,,pinnacle,298.0,-392.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,td,,pinnacle,436.0,-621.0,False,Kansas City Chiefs@Buffalo Bills
+Dawson Knox,td,,pinnacle,511.0,-761.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,td,,pinnacle,512.0,-764.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,td,,pinnacle,550.0,-842.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,td,,pinnacle,622.0,-1000.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,td,,pinnacle,616.0,-987.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,td,,pinnacle,799.0,-1472.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,rec_yds,48.5,pinnacle,-108.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rec_yds,8.5,pinnacle,-103.0,-118.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,rec_yds,35.5,pinnacle,104.0,-126.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,rec_yds,22.5,pinnacle,-106.0,-114.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,rec_yds,37.5,pinnacle,-110.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,rec_yds,45.5,pinnacle,-108.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,rec_yds,44.5,pinnacle,-108.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rec_yds,15.5,pinnacle,-121.0,100.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,rec_yds,20.5,pinnacle,-107.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,rec_yds,11.5,pinnacle,-116.0,-104.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,rec_yds,35.5,pinnacle,-107.0,-113.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rec_yds,30.5,pinnacle,-110.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,rec_yds,12.5,pinnacle,-110.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+DJ Moore,receptions,3.5,pinnacle,-127.0,105.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,receptions,1.5,pinnacle,135.0,-165.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Downs,receptions,3.5,pinnacle,128.0,-156.0,False,Kansas City Chiefs@Buffalo Bills
+Keon Coleman,receptions,2.5,pinnacle,176.0,-218.0,False,Kansas City Chiefs@Buffalo Bills
+Khalil Shakir,receptions,3.5,pinnacle,-110.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
+Rashee Rice,receptions,4.5,pinnacle,115.0,-139.0,False,Kansas City Chiefs@Buffalo Bills
+Travis Kelce,receptions,4.5,pinnacle,138.0,-168.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,receptions,2.5,pinnacle,124.0,-151.0,False,Kansas City Chiefs@Buffalo Bills
+Xavier Worthy,receptions,2.5,pinnacle,128.0,-155.0,False,Kansas City Chiefs@Buffalo Bills
+Cyrus Allen,receptions,1.5,pinnacle,178.0,-220.0,False,Kansas City Chiefs@Buffalo Bills
+Dalton Kincaid,receptions,3.5,pinnacle,136.0,-166.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,receptions,3.5,pinnacle,-134.0,111.0,False,Kansas City Chiefs@Buffalo Bills
+Noah Gray,receptions,1.5,pinnacle,104.0,-126.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,carries,19.5,pinnacle,-122.0,101.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,carries,7.5,pinnacle,-126.0,104.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,carries,3.5,pinnacle,129.0,-157.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,carries,19.5,pinnacle,-108.0,-112.0,False,Kansas City Chiefs@Buffalo Bills
+James Cook,rush_yds,86.5,pinnacle,-115.0,-105.0,False,Kansas City Chiefs@Buffalo Bills
+Josh Allen,rush_yds,38.5,pinnacle,-112.0,-108.0,False,Kansas City Chiefs@Buffalo Bills
+Patrick Mahomes,rush_yds,12.5,pinnacle,-105.0,-115.0,False,Kansas City Chiefs@Buffalo Bills
+Ty Johnson,rush_yds,1.5,pinnacle,104.0,-127.0,False,Kansas City Chiefs@Buffalo Bills
+Emmett Johnson,rush_yds,79.5,pinnacle,-110.0,-110.0,False,Kansas City Chiefs@Buffalo Bills
