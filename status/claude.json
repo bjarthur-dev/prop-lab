@@ -1,10 +1,10 @@
 {
   "morning_settlement": {
-    "last_ok": "2026-11-26T08:33:54-05:00",
-    "date": "2026-11-25",
-    "settled": 14,
-    "flags": 6,
-    "shadow_graded_total": 10722,
+    "last_ok": "2026-11-27T08:31:14-05:00",
+    "date": "2026-11-26",
+    "settled": 9,
+    "flags": 5,
+    "shadow_graded_total": 10781,
     "nba_logs_through": "2026-11-25",
     "nba_logs_incomplete": [
       "MIL 2026-11-06",
@@ -14,7 +14,7 @@
       "NOP 2026-11-16",
       "DEN 2026-11-24"
     ],
-    "tracker_settled": 16
+    "tracker_settled": 11
   },
   "afternoon_card": {
     "last_ok": "2026-11-26T15:28:00-05:00",
