@@ -1,525 +1,564 @@
 sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books,how,pick6_price,pick_mult
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Max Hurleman,player_reception_yds,0.5,MORE,0.88,2.5,0.453,1,fit from 2.5 (sd 1.6),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Troy Franklin,player_reception_yds,3.5,MORE,0.64,4.5,0.5,2,fit from 4.5 (sd 2.8),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_assists,2.5,MORE,0.611,2.5,0.611,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Mason Rudolph,player_rush_yds,6.5,LESS,0.598,5.5,0.533,2,fit from 5.5 (sd 3.0),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_points,11.5,LESS,0.589,9.5,0.514,1,fit from 9.5 (sd 7.6),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Marvin Mims Jr.,player_reception_yds,9.5,LESS,0.584,8.5,0.491,1,fit from 8.5 (sd 5.3),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jusuf Nurkic,player_points,8.5,LESS,0.575,7.5,0.496,1,fit from 7.5 (sd 5.6),-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_points,10.5,MORE,0.575,11.5,0.469,2,fit from 11.5 (sd 3.7),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Nikola Jokic,player_points,25.5,MORE,0.563,26.5,0.515,1,fit from 26.5 (sd 8.1),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Evan Engram,player_reception_yds,20.5,MORE,0.562,22.5,0.505,2,fit from 22.5 (sd 13.9),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_assists,6.5,LESS,0.561,6.5,0.439,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Pat Freiermuth,player_reception_yds,22.5,LESS,0.56,20.5,0.502,2,fit from 20.5 (sd 12.7),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Waddle,player_receptions,3.5,MORE,0.559,3.5,0.559,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brandon Ingram,player_points,17.5,MORE,0.557,18.5,0.503,2,fit from 18.5 (sd 7.4),-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_threes,1.5,LESS,0.555,1.5,0.445,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaylen Wells,player_points,10.5,LESS,0.555,9.5,0.514,1,fit from 9.5 (sd 5.7),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_points,18.5,MORE,0.553,19.5,0.495,2,fit from 19.5 (sd 6.9),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_assists,5.5,LESS,0.553,5.5,0.447,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Roman Wilson,player_reception_yds,11.5,MORE,0.553,12.5,0.502,2,fit from 12.5 (sd 7.8),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jonah Coleman,player_reception_yds,23.5,LESS,0.553,21.5,0.507,2,fit from 21.5 (sd 13.3),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_points,25.5,LESS,0.549,24.5,0.51,1,fit from 24.5 (sd 6.7),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_assists,6.5,LESS,0.549,6.5,0.451,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_points,19.5,LESS,0.548,18.5,0.517,1,fit from 18.5 (sd 6.1),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_points,12.5,LESS,0.552,11.5,0.514,2,fit from 11.5 (sd 6.0),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_points,16.5,LESS,0.552,15.5,0.504,1,fit from 15.5 (sd 7.1),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_points,10.5,MORE,0.547,11.5,0.478,2,fit from 11.5 (sd 5.7),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Warren,player_rush_yds,66.5,LESS,0.546,62.5,0.5,1,fit from 62.5 (sd 34.4),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_points,12.5,LESS,0.545,12.5,0.455,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_points,11.5,LESS,0.544,11.5,0.456,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Isaiah Joe,player_points,16.5,LESS,0.543,15.5,0.521,1,fit from 15.5 (sd 6.2),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_points,15.5,MORE,0.542,16.5,0.476,2,fit from 16.5 (sd 6.1),-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Giannis Antetokounmpo,player_points,26.5,MORE,0.542,27.5,0.477,2,fit from 27.5 (sd 6.2),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_points,14.5,LESS,0.545,13.5,0.524,1,fit from 13.5 (sd 5.8),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Cameron Johnson,player_points,13.5,LESS,0.543,12.5,0.529,2,fit from 12.5 (sd 5.6),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_points,11.5,MORE,0.543,12.5,0.483,2,fit from 12.5 (sd 6.6),-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_points,23.5,LESS,0.541,22.5,0.524,1,fit from 22.5 (sd 6.1),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Davion Mitchell,player_assists,7.5,LESS,0.539,7.5,0.461,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jaxson Hayes,player_points,8.5,MORE,0.539,9.5,0.469,2,fit from 9.5 (sd 5.7),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Isaiah Joe,player_points,16.5,LESS,0.539,15.5,0.525,1,fit from 15.5 (sd 6.2),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Michael Pittman Jr.,player_reception_yds,11.5,LESS,0.539,10.5,0.523,1,fit from 10.5 (sd 6.5),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jaxson Hayes,player_points,8.5,MORE,0.538,9.5,0.468,1,fit from 9.5 (sd 5.7),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Christian Braun,player_points,12.5,LESS,0.538,12.5,0.462,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_assists,5.5,MORE,0.538,5.5,0.538,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jayson Tatum,player_points,26.5,LESS,0.538,26.5,0.462,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Brayden Burries,player_points,10.5,LESS,0.538,10.5,0.462,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Aaron Wiggins,player_points,12.5,LESS,0.538,12.5,0.462,1,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Ace Bailey,player_points,15.5,LESS,0.533,15.5,0.467,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_points,20.5,LESS,0.532,20.5,0.468,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Allen Graves,player_points,10.5,LESS,0.532,10.5,0.468,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_points,22.5,LESS,0.532,22.5,0.468,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,LeBron James,player_points,18.5,LESS,0.532,17.5,0.538,1,fit from 17.5 (sd 5.7),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_assists,7.5,LESS,0.532,7.5,0.468,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_points,10.5,LESS,0.532,9.5,0.528,2,fit from 9.5 (sd 6.6),-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_points,19.5,LESS,0.531,18.5,0.526,2,fit from 18.5 (sd 7.0),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_points,25.5,LESS,0.531,25.5,0.469,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Christian Braun,player_points,12.5,LESS,0.53,12.5,0.47,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cedric Coward,player_points,16.5,LESS,0.53,16.5,0.47,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_points,25.5,MORE,0.53,25.5,0.53,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_points,11.5,LESS,0.53,11.5,0.47,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_threes,1.5,MORE,0.537,1.5,0.537,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_points,15.5,MORE,0.537,16.5,0.471,2,fit from 16.5 (sd 6.1),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kel'el Ware,player_points,9.5,LESS,0.537,9.5,0.463,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_points,25.5,LESS,0.536,24.5,0.524,1,fit from 24.5 (sd 6.7),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_points,10.5,LESS,0.534,9.5,0.527,2,fit from 9.5 (sd 6.6),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_assists,6.5,LESS,0.534,6.5,0.466,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Kentavious Caldwell-Pope,player_points,7.5,LESS,0.533,7.5,0.467,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_points,13.5,LESS,0.533,13.5,0.467,1,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_points,25.5,MORE,0.533,25.5,0.533,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Pelle Larsson,player_points,9.5,MORE,0.531,9.5,0.531,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Ace Bailey,player_points,15.5,LESS,0.53,15.5,0.47,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_points,16.5,MORE,0.529,16.5,0.529,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_assists,1.5,LESS,0.529,1.5,0.471,3,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_assists,1.5,LESS,0.529,1.5,0.471,4,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Germie Bernard,player_reception_yds,21.5,MORE,0.529,22.5,0.5,2,fit from 22.5 (sd 13.9),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_assists,1.5,MORE,0.528,1.5,0.528,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_threes,1.5,MORE,0.528,1.5,0.528,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Javonte Green,player_points,8.5,MORE,0.528,8.5,0.528,1,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Cameron Johnson,player_points,12.5,MORE,0.528,12.5,0.528,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derik Queen,player_points,9.5,MORE,0.528,9.5,0.528,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_points,10.5,LESS,0.529,10.5,0.471,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_assists,2.5,LESS,0.529,2.5,0.471,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_threes,2.5,LESS,0.529,2.5,0.471,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_points,22.5,LESS,0.529,22.5,0.471,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_points,25.5,LESS,0.529,25.5,0.471,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_points,18.5,MORE,0.528,18.5,0.528,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brook Lopez,player_points,10.5,LESS,0.528,9.5,0.529,2,fit from 9.5 (sd 7.0),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_points,19.5,MORE,0.527,20.5,0.465,2,fit from 20.5 (sd 6.4),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Pat Bryant,player_reception_yds,24.5,LESS,0.527,23.5,0.5,2,fit from 23.5 (sd 14.6),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jonah Coleman,player_rush_yds,75.5,LESS,0.527,73.5,0.492,2,fit from 73.5 (sd 40.4),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brook Lopez,player_points,10.5,LESS,0.527,9.5,0.53,2,fit from 9.5 (sd 7.0),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_assists,1.5,MORE,0.527,1.5,0.527,3,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_assists,4.5,MORE,0.527,4.5,0.527,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_points,21.5,MORE,0.527,22.5,0.481,2,fit from 22.5 (sd 8.6),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Anfernee Simons,player_points,8.5,MORE,0.527,9.5,0.468,1,fit from 9.5 (sd 6.7),-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_points,13.5,MORE,0.526,13.5,0.526,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_assists,4.5,LESS,0.527,4.5,0.473,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_threes,2.5,LESS,0.526,2.5,0.474,2,same line,-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_points,20.5,LESS,0.526,20.5,0.474,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Darnell Washington,player_reception_yds,16.5,MORE,0.526,17.5,0.489,2,fit from 17.5 (sd 10.8),-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Anfernee Simons,player_points,8.5,MORE,0.526,9.5,0.467,1,fit from 9.5 (sd 6.7),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,DK Metcalf,player_receptions,2.5,MORE,0.525,2.5,0.525,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_assists,2.5,MORE,0.524,2.5,0.524,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_points,32.5,MORE,0.524,33.5,0.48,2,fit from 33.5 (sd 9.2),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_points_rebounds_assists,24.5,MORE,0.524,24.5,0.524,1,same line,-137.0,1.0
 nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Onyeka Okongwu,player_points,13.5,MORE,0.524,14.5,0.465,2,fit from 14.5 (sd 6.8),-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Julius Randle,player_points,20.5,MORE,0.524,20.5,0.524,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_points,12.5,MORE,0.524,12.5,0.524,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Klay Thompson,player_assists,1.5,MORE,0.524,1.5,0.524,4,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_assists,2.5,MORE,0.524,2.5,0.524,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_points,25.5,LESS,0.524,24.5,0.531,2,fit from 24.5 (sd 7.3),-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,LaMelo Ball,player_points,18.5,LESS,0.524,18.5,0.476,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Neemias Queta,player_points,11.5,LESS,0.523,11.5,0.477,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_points,20.5,LESS,0.524,20.5,0.476,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_points,18.5,LESS,0.524,18.5,0.476,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,DK Metcalf,player_reception_yds,26.5,MORE,0.523,27.5,0.5,1,fit from 27.5 (sd 17.1),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_assists,5.5,MORE,0.522,5.5,0.522,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Neemias Queta,player_points,11.5,LESS,0.523,11.5,0.477,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_points,22.5,LESS,0.522,21.5,0.524,1,fit from 21.5 (sd 8.6),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Courtland Sutton,player_reception_yds,25.5,MORE,0.522,26.5,0.498,2,fit from 26.5 (sd 16.4),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_points,10.5,LESS,0.522,10.5,0.478,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_threes,2.5,LESS,0.522,2.5,0.478,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Stephon Castle,player_points,16.5,MORE,0.521,17.5,0.462,2,fit from 17.5 (sd 6.8),-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jayson Tatum,player_points,26.5,LESS,0.521,26.5,0.479,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_assists,5.5,LESS,0.521,5.5,0.479,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_threes,2.5,LESS,0.521,2.5,0.479,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Collin Gillespie,player_points,9.5,MORE,0.52,10.5,0.46,2,fit from 10.5 (sd 6.7),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Darryn Peterson,player_points,16.5,MORE,0.52,16.5,0.52,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_points,13.5,MORE,0.52,13.5,0.52,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_points,25.5,LESS,0.519,24.5,0.535,2,fit from 24.5 (sd 7.3),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kel'el Ware,player_points,9.5,LESS,0.519,9.5,0.481,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Terrence Shannon Jr.,player_points,16.5,LESS,0.519,16.5,0.481,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_threes,2.5,LESS,0.519,2.5,0.481,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derik Queen,player_points,9.5,MORE,0.521,9.5,0.521,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cedric Coward,player_points,16.5,LESS,0.52,16.5,0.48,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_assists,1.5,MORE,0.52,1.5,0.52,3,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_threes,1.5,MORE,0.519,1.5,0.519,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Stephon Castle,player_points,16.5,MORE,0.519,17.5,0.46,2,fit from 17.5 (sd 6.8),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Baylor Scheierman,player_points,5.5,LESS,0.519,5.5,0.481,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_assists,3.5,MORE,0.519,3.5,0.519,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Mason Rudolph,player_pass_yds,169.5,MORE,0.519,171.5,0.5,1,fit from 171.5 (sd 41.2),-137.0,1.0
 nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Andrew Nembhard,player_points,15.5,MORE,0.519,15.5,0.519,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Jaime Jaquez Jr,player_assists,2.5,MORE,0.519,2.5,0.519,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_points,14.5,MORE,0.519,14.5,0.519,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Kentavious Caldwell-Pope,player_points,7.5,LESS,0.519,7.5,0.481,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Baylor Scheierman,player_points,5.5,LESS,0.519,5.5,0.481,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_points,17.5,LESS,0.518,16.5,0.528,1,fit from 16.5 (sd 8.7),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_assists,7.5,MORE,0.518,7.5,0.518,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_assists,3.5,LESS,0.518,3.5,0.482,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bam Adebayo,player_points,17.5,MORE,0.517,17.5,0.517,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_points,24.5,MORE,0.517,23.5,0.559,1,fit from 23.5 (sd 9.5),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_assists,3.5,MORE,0.517,3.5,0.517,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Jaime Jaquez Jr,player_points,12.5,MORE,0.517,12.5,0.517,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_assists,4.5,MORE,0.516,4.5,0.516,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,John Collins,player_points,11.5,LESS,0.516,11.5,0.484,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_assists,2.5,LESS,0.516,2.5,0.484,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_threes,2.5,MORE,0.516,2.5,0.516,3,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_points,11.5,MORE,0.519,12.5,0.458,2,fit from 12.5 (sd 6.5),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_points,10.5,MORE,0.519,10.5,0.519,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_threes,2.5,LESS,0.519,2.5,0.481,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_points,15.5,LESS,0.517,15.5,0.483,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_assists,2.5,MORE,0.516,2.5,0.516,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bam Adebayo,player_points,17.5,MORE,0.516,17.5,0.516,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,DeMar DeRozan,player_points,8.5,MORE,0.516,9.5,0.472,2,fit from 9.5 (sd 9.2),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Bo Nix,player_pass_yds,199.5,MORE,0.516,201.5,0.5,1,fit from 201.5 (sd 48.4),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Ivica Zubac,player_points,12.5,LESS,0.516,12.5,0.484,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,DeMar DeRozan,player_points,8.5,MORE,0.515,9.5,0.472,2,fit from 9.5 (sd 9.2),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_points,11.5,LESS,0.515,10.5,0.533,1,fit from 10.5 (sd 8.2),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_assists,4.5,MORE,0.515,4.5,0.515,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_points,12.5,LESS,0.515,12.5,0.485,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_points,12.5,LESS,0.515,12.5,0.485,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Terrence Shannon Jr.,player_threes,1.5,MORE,0.514,1.5,0.514,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_points_rebounds_assists,17.5,MORE,0.514,17.5,0.514,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_assists,2.5,MORE,0.514,2.5,0.514,1,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_points,25.5,LESS,0.514,25.5,0.486,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Karl-Anthony Towns,player_points,21.5,MORE,0.513,21.5,0.513,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,De'Aaron Fox,player_assists,5.5,LESS,0.512,5.5,0.488,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Nikola Jokic,player_points,26.5,MORE,0.512,26.5,0.512,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Derrick White,player_points,12.5,MORE,0.511,12.5,0.511,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_assists,5.5,MORE,0.516,5.5,0.516,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Jaime Jaquez Jr,player_points,12.5,MORE,0.516,12.5,0.516,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_assists,3.5,MORE,0.515,3.5,0.515,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_assists,6.5,LESS,0.515,6.5,0.485,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_rebounds,3.5,MORE,0.515,3.5,0.515,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_points,14.5,LESS,0.515,14.5,0.485,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_points,25.5,LESS,0.515,25.5,0.485,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_points,9.5,MORE,0.515,9.5,0.515,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_points,18.5,LESS,0.515,18.5,0.485,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Karl-Anthony Towns,player_points,21.5,LESS,0.515,21.5,0.485,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_points,19.5,LESS,0.514,19.5,0.486,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brandon Ingram,player_points,18.5,MORE,0.514,18.5,0.514,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_assists,7.5,MORE,0.514,7.5,0.514,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_points,10.5,LESS,0.514,10.5,0.486,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Giannis Antetokounmpo,player_points,27.5,LESS,0.514,27.5,0.486,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_points,15.5,LESS,0.513,14.5,0.541,2,fit from 14.5 (sd 7.4),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_points,12.5,MORE,0.513,12.5,0.513,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,LeBron James,player_points,18.5,LESS,0.513,18.5,0.487,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_assists,5.5,MORE,0.512,5.5,0.512,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_points,25.5,LESS,0.512,25.5,0.488,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_threes,2.5,LESS,0.512,2.5,0.488,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Victor Wembanyama,player_points,30.5,LESS,0.511,29.5,0.529,1,fit from 29.5 (sd 10.1),-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_points,14.5,LESS,0.511,13.5,0.559,1,fit from 13.5 (sd 5.7),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_points,19.5,MORE,0.511,19.5,0.511,2,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,LaMelo Ball,player_assists,5.5,LESS,0.51,5.5,0.49,1,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_threes,2.5,LESS,0.51,2.5,0.49,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_points_rebounds_assists,25.5,MORE,0.51,25.5,0.51,1,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Jakob Poeltl,player_points,9.5,MORE,0.51,9.5,0.51,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Joel Embiid,player_points,23.5,LESS,0.509,23.5,0.491,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Collin Gillespie,player_assists,3.5,LESS,0.508,3.5,0.492,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_threes,1.5,MORE,0.508,1.5,0.508,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_assists,6.5,LESS,0.508,6.5,0.492,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_points,28.5,LESS,0.508,28.5,0.492,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Payton Pritchard,player_points,12.5,MORE,0.51,12.5,0.51,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_points,28.5,LESS,0.51,28.5,0.49,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Rudy Gobert,player_assists,1.5,LESS,0.51,1.5,0.49,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_assists,2.5,MORE,0.51,2.5,0.51,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Egor Demin,player_points,10.5,MORE,0.51,10.5,0.51,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Trey Murphy III,player_points,15.5,MORE,0.509,15.5,0.509,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_assists,1.5,LESS,0.509,1.5,0.491,3,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jordan Poole,player_points,11.5,MORE,0.509,11.5,0.509,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Joel Embiid,player_points,23.5,LESS,0.508,23.5,0.492,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Warren,player_reception_yds,18.5,MORE,0.508,18.5,0.508,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_points_rebounds_assists,31.5,MORE,0.507,31.5,0.507,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Payton Pritchard,player_points,12.5,MORE,0.506,12.5,0.506,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_points,18.5,LESS,0.506,18.5,0.494,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_points,20.5,LESS,0.506,20.5,0.494,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Trey Murphy III,player_points,15.5,MORE,0.506,15.5,0.506,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_points,15.5,LESS,0.506,15.5,0.494,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Pelle Larsson,player_points,9.5,LESS,0.506,9.5,0.494,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_points_rebounds_assists,22.5,MORE,0.506,22.5,0.506,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_points,14.5,LESS,0.506,14.5,0.494,1,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Egor Demin,player_points,10.5,MORE,0.506,10.5,0.506,1,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_assists,6.5,LESS,0.506,6.5,0.494,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_assists,2.5,MORE,0.506,2.5,0.506,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_assists,6.5,LESS,0.508,6.5,0.492,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Jakob Poeltl,player_points,9.5,MORE,0.507,9.5,0.507,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Ivica Zubac,player_points,12.5,LESS,0.507,12.5,0.493,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_assists,6.5,LESS,0.507,6.5,0.493,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_points,13.5,LESS,0.506,13.5,0.494,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Brice Sensabaugh,player_assists,1.5,MORE,0.506,1.5,0.506,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_assists,5.5,LESS,0.506,5.5,0.494,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Collin Gillespie,player_assists,3.5,LESS,0.505,3.5,0.495,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Derrick White,player_points,12.5,LESS,0.505,12.5,0.495,2,same line,-137.0,1.0
 nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_threes,1.5,LESS,0.505,1.5,0.495,2,same line,-137.0,1.0
-nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Rico Dowdle,player_rush_yds,31.5,LESS,0.504,31.5,0.496,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Dillon Brooks,player_points,15.5,LESS,0.504,15.5,0.496,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Victor Wembanyama,player_points,30.5,LESS,0.504,30.5,0.496,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_points,18.5,LESS,0.505,18.5,0.495,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_rebounds,5.5,MORE,0.505,5.5,0.505,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_points,12.5,LESS,0.505,12.5,0.495,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_points,15.5,LESS,0.505,15.5,0.495,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_threes,1.5,MORE,0.505,1.5,0.505,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Terrence Shannon Jr.,player_points,16.5,LESS,0.504,16.5,0.496,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Collin Sexton,player_points,8.5,MORE,0.504,8.5,0.504,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:05-05:00,Tyler Badie,player_rush_yds,5.5,MORE,0.504,5.5,0.504,1,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jusuf Nurkic,player_points,7.5,LESS,0.504,7.5,0.496,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaylen Wells,player_threes,1.5,LESS,0.504,1.5,0.496,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_points,15.5,MORE,0.504,15.5,0.504,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_assists,1.5,LESS,0.504,1.5,0.496,3,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_points,8.5,MORE,0.503,8.5,0.503,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_assists,2.5,MORE,0.504,2.5,0.504,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_points,22.5,MORE,0.504,22.5,0.504,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Egor Demin,player_assists,2.5,MORE,0.504,2.5,0.504,1,same line,-137.0,1.0
+nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Rico Dowdle,player_rush_yds,31.5,LESS,0.504,31.5,0.496,1,same line,-137.0,1.0
 nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kyle Kuzma,player_points,12.5,MORE,0.503,12.5,0.503,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_points,22.5,LESS,0.503,22.5,0.497,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Daniel Gafford,player_points,9.5,MORE,0.503,9.5,0.503,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_points,8.5,MORE,0.503,8.5,0.503,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,John Collins,player_points,11.5,MORE,0.503,11.5,0.503,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_points,12.5,LESS,0.503,12.5,0.497,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Allen Graves,player_points,9.5,MORE,0.502,9.5,0.502,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Paul Reed Jr,player_points,12.5,MORE,0.502,12.5,0.502,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_assists,3.5,LESS,0.502,3.5,0.498,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_assists,1.5,MORE,0.502,1.5,0.502,3,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,LaMelo Ball,player_rebounds,4.5,MORE,0.502,4.5,0.502,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jayson Tatum,player_assists,6.5,LESS,0.502,6.5,0.498,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Dyson Daniels,player_assists,5.5,MORE,0.502,5.5,0.502,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Collin Sexton,player_points,9.5,MORE,0.502,9.5,0.502,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Marvin Mims Jr.,player_rush_yds,3.5,LESS,0.502,3.5,0.498,1,same line,-137.0,1.0
-nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Adam Trautman,player_reception_yds,4.5,LESS,0.501,4.5,0.499,2,same line,-137.0,1.0
-nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Rico Dowdle,player_reception_yds,8.5,LESS,0.501,8.5,0.499,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Bo Nix,player_rush_yds,10.5,MORE,0.501,10.5,0.501,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_points,33.5,LESS,0.501,33.5,0.499,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_assists,3.5,LESS,0.501,3.5,0.499,2,same line,-137.0,1.0
+nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Rico Dowdle,player_reception_yds,8.5,LESS,0.501,8.5,0.499,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaylen Wells,player_threes,1.5,LESS,0.501,1.5,0.499,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_assists,1.5,LESS,0.501,1.5,0.499,4,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_assists,4.5,LESS,0.501,4.5,0.499,2,same line,-137.0,1.0
+nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Adam Trautman,player_reception_yds,4.5,LESS,0.501,4.5,0.499,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Julius Randle,player_points,20.5,LESS,0.5,20.5,0.5,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Rudy Gobert,player_points,8.5,MORE,0.5,8.5,0.5,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Julius Randle,player_points,20.5,MORE,0.5,20.5,0.5,1,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_assists,3.5,LESS,0.5,3.5,0.5,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Javonte Green,player_points,8.5,MORE,0.5,8.5,0.5,1,same line,-137.0,1.0
 nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Derrick White,player_assists,4.5,MORE,0.5,4.5,0.5,2,same line,-137.0,1.0
 nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Derrick White,player_assists,4.5,LESS,0.5,4.5,0.5,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Rudy Gobert,player_assists,1.5,LESS,0.5,1.5,0.5,1,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_points,12.5,LESS,0.5,12.5,0.5,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_points,12.5,MORE,0.5,12.5,0.5,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_points_rebounds_assists,33.5,MORE,0.5,33.5,0.5,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_points_rebounds_assists,11.5,MORE,0.5,11.5,0.5,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brandon Ingram,player_points_rebounds_assists,27.5,MORE,0.5,27.5,0.5,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Javonte Green,player_points,8.5,LESS,0.5,8.5,0.5,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Waddle,player_reception_yds,43.5,LESS,0.5,43.5,0.5,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_points_rebounds_assists,22.5,MORE,0.5,22.5,0.5,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Waddle,player_reception_yds,43.5,MORE,0.5,43.5,0.5,1,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Paul Reed Jr,player_points,12.5,MORE,0.5,12.5,0.5,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Paul Reed Jr,player_points,12.5,LESS,0.5,12.5,0.5,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Davion Mitchell,player_points_rebounds_assists,25.5,MORE,0.5,25.5,0.5,2,same line,-137.0,1.0
-nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Adam Trautman,player_reception_yds,4.5,MORE,0.499,4.5,0.499,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_points,33.5,MORE,0.499,33.5,0.499,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brandon Ingram,player_points_rebounds_assists,27.5,MORE,0.5,27.5,0.5,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Rico Dowdle,player_reception_yds,8.5,MORE,0.499,8.5,0.499,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_assists,1.5,MORE,0.499,1.5,0.499,4,same line,-137.0,1.0
+nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Adam Trautman,player_reception_yds,4.5,MORE,0.499,4.5,0.499,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_assists,4.5,MORE,0.499,4.5,0.499,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jayson Tatum,player_assists,6.5,LESS,0.499,6.5,0.501,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Bo Nix,player_rush_yds,10.5,LESS,0.499,10.5,0.501,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Collin Sexton,player_points,9.5,LESS,0.498,9.5,0.502,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_assists,1.5,LESS,0.498,1.5,0.502,3,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Allen Graves,player_points,9.5,LESS,0.498,9.5,0.502,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Paul Reed Jr,player_points,12.5,LESS,0.498,12.5,0.502,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Marvin Mims Jr.,player_rush_yds,3.5,MORE,0.498,3.5,0.498,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_points,22.5,MORE,0.497,22.5,0.497,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Daniel Gafford,player_points,9.5,LESS,0.497,9.5,0.503,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_assists,3.5,MORE,0.498,3.5,0.498,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kyle Kuzma,player_points,12.5,LESS,0.497,12.5,0.503,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Rudy Gobert,player_points,8.5,MORE,0.497,8.5,0.497,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,John Collins,player_points,11.5,LESS,0.497,11.5,0.503,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_points,12.5,MORE,0.497,12.5,0.497,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_assists,2.5,LESS,0.496,2.5,0.504,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_points,22.5,LESS,0.496,22.5,0.504,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Josh Green,player_points,5.5,MORE,0.496,5.5,0.496,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Rico Dowdle,player_rush_yds,31.5,MORE,0.496,31.5,0.496,1,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_points,15.5,LESS,0.496,15.5,0.504,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Dillon Brooks,player_points,15.5,MORE,0.496,15.5,0.496,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_assists,1.5,MORE,0.496,1.5,0.496,3,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Terrence Shannon Jr.,player_points,16.5,MORE,0.496,16.5,0.496,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Aaron Wiggins,player_points,11.5,LESS,0.496,11.5,0.504,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:05-05:00,Tyler Badie,player_rush_yds,5.5,LESS,0.496,5.5,0.504,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Victor Wembanyama,player_points,30.5,MORE,0.496,30.5,0.496,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Egor Demin,player_assists,2.5,LESS,0.496,2.5,0.504,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Dyson Daniels,player_assists,5.5,MORE,0.496,5.5,0.496,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Collin Sexton,player_points,8.5,LESS,0.496,8.5,0.504,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_points_rebounds_assists,16.5,MORE,0.496,16.5,0.496,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_points,12.5,MORE,0.495,12.5,0.495,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_points,18.5,MORE,0.495,18.5,0.495,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_threes,1.5,LESS,0.495,1.5,0.505,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Collin Gillespie,player_assists,3.5,MORE,0.495,3.5,0.495,2,same line,-137.0,1.0
 nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_threes,1.5,MORE,0.495,1.5,0.495,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_assists,1.5,LESS,0.495,1.5,0.505,4,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_rebounds,5.5,MORE,0.495,5.5,0.495,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Trey Murphy III,player_points,15.5,LESS,0.494,15.5,0.506,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_points,18.5,MORE,0.494,18.5,0.494,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Julius Randle,player_points_rebounds_assists,32.5,MORE,0.494,32.5,0.494,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_assists,2.5,LESS,0.494,2.5,0.506,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Payton Pritchard,player_points,12.5,LESS,0.494,12.5,0.506,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_points,14.5,MORE,0.494,14.5,0.494,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_points_rebounds_assists,39.5,MORE,0.494,39.5,0.494,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Josh Green,player_points,5.5,MORE,0.494,5.5,0.494,1,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_assists,6.5,MORE,0.494,6.5,0.494,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_points,15.5,MORE,0.494,15.5,0.494,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Egor Demin,player_points,10.5,LESS,0.494,10.5,0.506,1,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_points_rebounds_assists,16.5,MORE,0.494,16.5,0.494,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_threes,1.5,LESS,0.494,1.5,0.506,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_points,20.5,MORE,0.494,20.5,0.494,1,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jaxson Hayes,player_rebounds,5.5,MORE,0.494,5.5,0.494,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_rebounds,10.5,MORE,0.493,10.5,0.493,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_assists,2.5,LESS,0.492,2.5,0.508,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_assists,6.5,MORE,0.492,6.5,0.492,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_threes,1.5,LESS,0.492,1.5,0.508,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jalen Green,player_points,15.5,MORE,0.495,15.5,0.495,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Derrick White,player_points,12.5,MORE,0.495,12.5,0.495,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bam Adebayo,player_points_rebounds_assists,29.5,MORE,0.495,29.5,0.495,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Day'Ron Sharpe,player_points,9.5,LESS,0.494,9.5,0.506,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_points,13.5,MORE,0.494,13.5,0.494,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_assists,5.5,MORE,0.494,5.5,0.494,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_assists,6.5,MORE,0.493,6.5,0.493,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Jakob Poeltl,player_points,9.5,LESS,0.493,9.5,0.507,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Ivica Zubac,player_points,12.5,MORE,0.493,12.5,0.493,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_rebounds,5.5,MORE,0.493,5.5,0.493,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_points_rebounds_assists,19.5,MORE,0.493,19.5,0.493,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_threes,1.5,LESS,0.493,1.5,0.507,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kyle Kuzma,player_threes,1.5,MORE,0.492,1.5,0.492,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Collin Gillespie,player_assists,3.5,MORE,0.492,3.5,0.492,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Joel Embiid,player_points,23.5,MORE,0.492,23.5,0.492,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Warren,player_reception_yds,18.5,LESS,0.492,18.5,0.508,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_points,28.5,MORE,0.492,28.5,0.492,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Joel Embiid,player_points,23.5,MORE,0.491,23.5,0.491,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_assists,3.5,LESS,0.491,3.5,0.509,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_points_rebounds_assists,18.5,MORE,0.491,18.5,0.491,4,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Jakob Poeltl,player_points,9.5,LESS,0.49,9.5,0.51,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_points_rebounds_assists,18.5,MORE,0.49,18.5,0.49,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_assists,6.5,MORE,0.492,6.5,0.492,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Yves Missi,player_points_rebounds_assists,16.5,MORE,0.491,16.5,0.491,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Trey Murphy III,player_points,15.5,LESS,0.491,15.5,0.509,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jordan Poole,player_points,11.5,LESS,0.491,11.5,0.509,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_points_rebounds_assists,34.5,MORE,0.491,34.5,0.491,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_assists,1.5,MORE,0.491,1.5,0.491,3,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derik Queen,player_points_rebounds_assists,18.5,MORE,0.49,18.5,0.49,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Egor Demin,player_points,10.5,LESS,0.49,10.5,0.51,1,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,LaMelo Ball,player_assists,5.5,MORE,0.49,5.5,0.49,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derrick Jones,player_points,7.5,MORE,0.489,7.5,0.489,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Derrick White,player_points,12.5,LESS,0.489,12.5,0.511,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jaxson Hayes,player_rebounds,5.5,MORE,0.49,5.5,0.49,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Dillon Brooks,player_points,15.5,MORE,0.49,15.5,0.49,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Rudy Gobert,player_assists,1.5,MORE,0.49,1.5,0.49,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_assists,2.5,LESS,0.49,2.5,0.51,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Brice Sensabaugh,player_threes,1.5,LESS,0.49,1.5,0.51,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_points,28.5,MORE,0.49,28.5,0.49,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_points_rebounds_assists,33.5,MORE,0.49,33.5,0.49,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Onyeka Okongwu,player_points_rebounds_assists,24.5,MORE,0.49,24.5,0.49,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_points_rebounds_assists,30.5,MORE,0.49,30.5,0.49,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Payton Pritchard,player_points,12.5,LESS,0.49,12.5,0.51,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Victor Wembanyama,player_points,30.5,MORE,0.489,29.5,0.529,1,fit from 29.5 (sd 10.1),-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_points,14.5,MORE,0.489,13.5,0.559,1,fit from 13.5 (sd 5.7),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,De'Aaron Fox,player_assists,5.5,MORE,0.488,5.5,0.488,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Andrew Nembhard,player_assists,7.5,LESS,0.488,7.5,0.512,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Nikola Jokic,player_points,26.5,LESS,0.488,26.5,0.512,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_points_rebounds_assists,29.5,MORE,0.489,29.5,0.489,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_points,19.5,LESS,0.489,19.5,0.511,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Cameron Johnson,player_points_rebounds_assists,19.5,MORE,0.489,19.5,0.489,5,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_points,25.5,MORE,0.488,25.5,0.488,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_assists,5.5,LESS,0.488,5.5,0.512,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_rebounds,5.5,MORE,0.488,5.5,0.488,2,same line,-137.0,1.0
 nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,De'Anthony Melton,player_points,11.5,MORE,0.488,11.5,0.488,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jordan Poole,player_points,11.5,LESS,0.488,11.5,0.512,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_points_rebounds_assists,34.5,MORE,0.488,34.5,0.488,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bam Adebayo,player_points_rebounds_assists,29.5,MORE,0.487,29.5,0.487,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Karl-Anthony Towns,player_points,21.5,LESS,0.487,21.5,0.513,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_threes,0.5,LESS,0.487,0.5,0.513,3,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_assists,2.5,LESS,0.487,2.5,0.513,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_points,15.5,MORE,0.487,14.5,0.54,2,fit from 14.5 (sd 7.4),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Ivica Zubac,player_points_rebounds_assists,24.5,MORE,0.486,24.5,0.486,4,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_points,12.5,LESS,0.487,12.5,0.513,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_points,15.5,MORE,0.487,14.5,0.541,2,fit from 14.5 (sd 7.4),-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,LeBron James,player_points,18.5,MORE,0.487,18.5,0.487,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_assists,7.5,LESS,0.486,7.5,0.514,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Yves Missi,player_points,6.5,MORE,0.486,6.5,0.486,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_points,19.5,MORE,0.486,19.5,0.486,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brook Lopez,player_assists,1.5,MORE,0.486,1.5,0.486,4,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_points_rebounds_assists,11.5,MORE,0.486,11.5,0.486,4,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_points,25.5,MORE,0.486,25.5,0.486,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Cameron Johnson,player_points_rebounds_assists,19.5,MORE,0.486,19.5,0.486,4,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Terrence Shannon Jr.,player_threes,1.5,LESS,0.486,1.5,0.514,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_points_rebounds_assists,24.5,MORE,0.486,24.5,0.486,1,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_points_rebounds_assists,24.5,MORE,0.486,24.5,0.486,1,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Noah Clowney,player_points_rebounds_assists,13.5,MORE,0.486,13.5,0.486,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_assists,2.5,LESS,0.486,2.5,0.514,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_assists,4.5,LESS,0.485,4.5,0.515,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_threes,1.5,MORE,0.485,1.5,0.485,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_points,11.5,MORE,0.485,10.5,0.533,1,fit from 10.5 (sd 8.2),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,DeMar DeRozan,player_points,8.5,LESS,0.485,9.5,0.472,2,fit from 9.5 (sd 9.2),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_points,12.5,MORE,0.485,12.5,0.485,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_points,12.5,MORE,0.485,12.5,0.485,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_assists,2.5,MORE,0.484,2.5,0.484,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,De'Aaron Fox,player_assists,5.5,MORE,0.486,5.5,0.486,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_points,10.5,MORE,0.486,10.5,0.486,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Giannis Antetokounmpo,player_points,27.5,MORE,0.486,27.5,0.486,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brandon Ingram,player_points,18.5,LESS,0.486,18.5,0.514,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_points_rebounds_assists,34.5,MORE,0.486,34.5,0.486,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Brayden Burries,player_assists,2.5,LESS,0.485,2.5,0.515,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_assists,3.5,LESS,0.485,3.5,0.515,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_points,14.5,MORE,0.485,14.5,0.485,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_assists,6.5,MORE,0.485,6.5,0.485,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_assists,2.5,LESS,0.485,2.5,0.515,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_points,9.5,LESS,0.485,9.5,0.515,1,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_points,18.5,MORE,0.485,18.5,0.485,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,LeBron James,player_points_rebounds_assists,32.5,MORE,0.485,32.5,0.485,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Karl-Anthony Towns,player_points,21.5,MORE,0.485,21.5,0.485,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_points,25.5,MORE,0.485,25.5,0.485,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_points_rebounds_assists,24.5,MORE,0.485,24.5,0.485,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_assists,2.5,LESS,0.484,2.5,0.516,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Bo Nix,player_pass_yds,199.5,LESS,0.484,201.5,0.5,1,fit from 201.5 (sd 48.4),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_threes,1.5,MORE,0.484,1.5,0.484,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,DeMar DeRozan,player_points,8.5,LESS,0.484,9.5,0.472,2,fit from 9.5 (sd 9.2),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bam Adebayo,player_points,17.5,LESS,0.484,17.5,0.516,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:05-05:00,Rico Dowdle,player_rush_attempts,8.5,MORE,0.484,8.5,0.484,1,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,John Collins,player_points,11.5,MORE,0.484,11.5,0.484,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Ivica Zubac,player_points,12.5,MORE,0.484,12.5,0.484,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_threes,2.5,LESS,0.484,2.5,0.516,3,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_assists,4.5,LESS,0.484,4.5,0.516,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_assists,3.5,LESS,0.483,3.5,0.517,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_threes,1.5,MORE,0.483,1.5,0.483,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Jaime Jaquez Jr,player_points,12.5,LESS,0.483,12.5,0.517,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Julius Randle,player_rebounds,6.5,MORE,0.483,6.5,0.483,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_threes,1.5,MORE,0.483,1.5,0.483,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_points,24.5,LESS,0.483,23.5,0.559,1,fit from 23.5 (sd 9.5),-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_points,10.5,MORE,0.483,10.5,0.483,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bam Adebayo,player_points,17.5,LESS,0.483,17.5,0.517,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_assists,3.5,MORE,0.482,3.5,0.482,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_assists,7.5,LESS,0.482,7.5,0.518,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_points,17.5,MORE,0.482,16.5,0.528,1,fit from 16.5 (sd 8.7),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brook Lopez,player_assists,1.5,MORE,0.482,1.5,0.482,4,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Baylor Scheierman,player_points,5.5,MORE,0.481,5.5,0.481,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_threes,2.5,MORE,0.481,2.5,0.481,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_points_rebounds_assists,19.5,MORE,0.481,19.5,0.481,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_points_rebounds_assists,21.5,MORE,0.481,21.5,0.481,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_points,25.5,MORE,0.481,24.5,0.535,2,fit from 24.5 (sd 7.3),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Jaime Jaquez Jr,player_assists,2.5,LESS,0.481,2.5,0.519,1,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_assists,5.5,LESS,0.484,5.5,0.516,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Jaime Jaquez Jr,player_points,12.5,LESS,0.484,12.5,0.516,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_rebounds,5.5,MORE,0.483,5.5,0.483,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_assists,5.5,LESS,0.483,5.5,0.517,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_points,15.5,MORE,0.483,15.5,0.483,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Andrew Nembhard,player_assists,8.5,MORE,0.483,7.5,0.602,1,fit from 7.5 (sd 3.3),-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_threes,2.5,MORE,0.482,2.5,0.482,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_points_rebounds_assists,18.5,MORE,0.482,18.5,0.482,4,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Terrence Shannon Jr.,player_threes,1.5,LESS,0.481,1.5,0.519,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,LeBron James,player_rebounds,6.5,MORE,0.481,6.5,0.481,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Giannis Antetokounmpo,player_rebounds,12.5,MORE,0.481,11.5,0.583,1,fit from 11.5 (sd 3.9),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_threes,1.5,LESS,0.481,1.5,0.519,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Collin Gillespie,player_points,9.5,LESS,0.481,10.5,0.459,2,fit from 10.5 (sd 6.7),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Stephon Castle,player_points,16.5,LESS,0.481,17.5,0.46,2,fit from 17.5 (sd 6.8),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_points_rebounds_assists,11.5,MORE,0.481,11.5,0.481,1,same line,-137.0,1.0
 nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Andrew Nembhard,player_points,15.5,LESS,0.481,15.5,0.519,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Mason Rudolph,player_pass_yds,169.5,LESS,0.481,171.5,0.5,1,fit from 171.5 (sd 41.2),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Brayden Burries,player_assists,2.5,LESS,0.481,2.5,0.519,1,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_points_rebounds_assists,30.5,MORE,0.481,30.5,0.481,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_points_rebounds_assists,19.5,MORE,0.481,19.5,0.481,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kel'el Ware,player_points,9.5,MORE,0.481,9.5,0.481,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Kentavious Caldwell-Pope,player_points,7.5,MORE,0.481,7.5,0.481,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_points,14.5,LESS,0.481,14.5,0.519,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Yves Missi,player_points_rebounds_assists,16.5,MORE,0.481,16.5,0.481,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_rebounds,5.5,MORE,0.481,5.5,0.481,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Terrence Shannon Jr.,player_points,16.5,MORE,0.481,16.5,0.481,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_points_rebounds_assists,21.5,MORE,0.481,21.5,0.481,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_assists,3.5,LESS,0.481,3.5,0.519,1,same line,-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Max Strus,player_points_rebounds_assists,14.5,MORE,0.481,14.5,0.481,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_points,13.5,LESS,0.48,13.5,0.52,1,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Charles Bassey,player_points_rebounds_assists,19.5,MORE,0.48,19.5,0.48,1,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Collin Gillespie,player_points,9.5,LESS,0.48,10.5,0.46,2,fit from 10.5 (sd 6.7),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Darryn Peterson,player_points,16.5,LESS,0.48,16.5,0.52,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jayson Tatum,player_points,26.5,MORE,0.479,26.5,0.479,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_assists,5.5,MORE,0.479,5.5,0.479,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_threes,2.5,MORE,0.479,2.5,0.479,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Stephon Castle,player_points,16.5,LESS,0.479,17.5,0.462,2,fit from 17.5 (sd 6.8),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_assists,5.5,LESS,0.478,5.5,0.522,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Kris Dunn,player_threes,0.5,LESS,0.478,0.5,0.522,3,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_threes,2.5,MORE,0.478,2.5,0.478,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_points,10.5,MORE,0.478,10.5,0.478,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_points_rebounds_assists,18.5,MORE,0.481,18.5,0.481,1,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_points,11.5,LESS,0.481,12.5,0.458,2,fit from 12.5 (sd 6.5),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Javonte Green,player_rebounds,3.5,MORE,0.481,3.5,0.481,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_points_rebounds_assists,26.5,MORE,0.481,26.5,0.481,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Dillon Brooks,player_points_rebounds_assists,21.5,MORE,0.481,21.5,0.481,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_points,10.5,LESS,0.481,10.5,0.519,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_threes,2.5,MORE,0.481,2.5,0.481,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Baylor Scheierman,player_points,5.5,MORE,0.481,5.5,0.481,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cedric Coward,player_points,16.5,MORE,0.48,16.5,0.48,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_assists,1.5,LESS,0.48,1.5,0.52,3,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derrick Jones,player_rebounds,3.5,MORE,0.479,3.5,0.479,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derik Queen,player_points,9.5,LESS,0.479,9.5,0.521,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Charles Bassey,player_points_rebounds_assists,19.5,MORE,0.479,19.5,0.479,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_points,22.5,MORE,0.478,21.5,0.524,1,fit from 21.5 (sd 8.6),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Courtland Sutton,player_reception_yds,25.5,LESS,0.478,26.5,0.498,2,fit from 26.5 (sd 16.4),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Charles Bassey,player_points,9.5,LESS,0.478,9.5,0.522,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_threes,1.5,MORE,0.478,1.5,0.478,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,DK Metcalf,player_reception_yds,26.5,LESS,0.477,27.5,0.5,1,fit from 27.5 (sd 17.1),-137.0,1.0
 nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Neemias Queta,player_points,11.5,MORE,0.477,11.5,0.477,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Andrew Wiggins,player_assists,1.5,MORE,0.477,1.5,0.477,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Julius Randle,player_points,20.5,LESS,0.476,20.5,0.524,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Onyeka Okongwu,player_points_rebounds_assists,24.5,MORE,0.476,24.5,0.476,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,LaMelo Ball,player_points,18.5,MORE,0.476,18.5,0.476,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_points,12.5,LESS,0.476,12.5,0.524,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Onyeka Okongwu,player_points,13.5,LESS,0.476,14.5,0.465,2,fit from 14.5 (sd 6.8),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derrick Jones,player_rebounds,3.5,MORE,0.476,3.5,0.476,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_rebounds,5.5,MORE,0.476,5.5,0.476,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_assists,1.5,MORE,0.476,1.5,0.476,4,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_points,11.5,LESS,0.476,12.5,0.463,2,fit from 12.5 (sd 6.5),-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Klay Thompson,player_assists,1.5,LESS,0.476,1.5,0.524,4,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_assists,2.5,LESS,0.476,2.5,0.524,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_points_rebounds_assists,16.5,MORE,0.476,16.5,0.476,1,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_threes,1.5,LESS,0.476,1.5,0.524,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bobby Portis,player_points,6.5,MORE,0.477,6.5,0.477,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Baylor Scheierman,player_points_rebounds_assists,10.5,MORE,0.477,10.5,0.477,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_points,25.5,MORE,0.476,24.5,0.531,2,fit from 24.5 (sd 7.3),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_points_rebounds_assists,19.5,MORE,0.476,19.5,0.476,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Neemias Queta,player_points_rebounds_assists,22.5,MORE,0.476,22.5,0.476,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_points,32.5,LESS,0.476,33.5,0.48,2,fit from 33.5 (sd 9.2),-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Herb Jones,player_points,7.5,MORE,0.476,7.5,0.476,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_assists,2.5,LESS,0.476,2.5,0.524,1,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_points,20.5,MORE,0.476,20.5,0.476,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Davion Mitchell,player_points,14.5,MORE,0.476,14.5,0.476,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Onyeka Okongwu,player_points,13.5,LESS,0.476,14.5,0.465,2,fit from 14.5 (sd 6.8),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_points,18.5,MORE,0.476,18.5,0.476,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,LaMelo Ball,player_points,18.5,MORE,0.476,18.5,0.476,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_points_rebounds_assists,25.5,MORE,0.476,25.5,0.476,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,DK Metcalf,player_receptions,2.5,LESS,0.475,2.5,0.525,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_rebounds,5.5,MORE,0.474,5.5,0.474,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Darnell Washington,player_reception_yds,16.5,LESS,0.474,17.5,0.489,2,fit from 17.5 (sd 10.8),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_points,14.5,MORE,0.474,14.5,0.474,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_points,13.5,LESS,0.474,13.5,0.526,2,same line,-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_points,20.5,MORE,0.474,20.5,0.474,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_threes,2.5,MORE,0.474,2.5,0.474,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_rebounds,11.5,MORE,0.474,11.5,0.474,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_threes,2.5,MORE,0.474,2.5,0.474,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_threes,1.5,LESS,0.474,1.5,0.526,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Anfernee Simons,player_points,8.5,LESS,0.474,9.5,0.467,1,fit from 9.5 (sd 6.7),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jonah Coleman,player_rush_yds,75.5,MORE,0.473,73.5,0.492,2,fit from 73.5 (sd 40.4),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Pat Bryant,player_reception_yds,24.5,MORE,0.473,23.5,0.5,2,fit from 23.5 (sd 14.6),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_assists,4.5,LESS,0.473,4.5,0.527,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Anfernee Simons,player_points,8.5,LESS,0.473,9.5,0.468,1,fit from 9.5 (sd 6.7),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Kyrie Irving,player_points,21.5,LESS,0.473,22.5,0.481,2,fit from 22.5 (sd 8.6),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brook Lopez,player_points,10.5,MORE,0.473,9.5,0.53,2,fit from 9.5 (sd 7.0),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_assists,1.5,LESS,0.473,1.5,0.527,4,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_assists,3.5,LESS,0.473,3.5,0.527,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_points,19.5,LESS,0.473,20.5,0.465,2,fit from 20.5 (sd 6.4),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jonah Coleman,player_receptions,3.5,MORE,0.473,3.5,0.473,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_assists,1.5,LESS,0.473,1.5,0.527,3,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Mikal Bridges,player_points_rebounds_assists,19.5,MORE,0.472,19.5,0.472,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derik Queen,player_points,9.5,LESS,0.472,9.5,0.528,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_rebounds,6.5,MORE,0.472,6.5,0.472,2,same line,-137.0,1.0
-nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Evan Engram,player_receptions,2.5,MORE,0.472,2.5,0.472,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_assists,3.5,LESS,0.472,3.5,0.528,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brook Lopez,player_points,10.5,MORE,0.472,9.5,0.529,2,fit from 9.5 (sd 7.0),-137.0,1.0
 nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_assists,1.5,LESS,0.472,1.5,0.528,1,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Cameron Johnson,player_points,12.5,LESS,0.472,12.5,0.528,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_threes,1.5,LESS,0.472,1.5,0.528,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Javonte Green,player_points,8.5,LESS,0.472,8.5,0.528,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Victor Wembanyama,player_rebounds,12.5,MORE,0.472,12.5,0.472,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Kris Dunn,player_threes,0.5,LESS,0.472,0.5,0.528,3,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_points,18.5,LESS,0.472,18.5,0.528,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_points,21.5,MORE,0.472,20.5,0.522,2,fit from 20.5 (sd 7.9),-137.0,1.0
+nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Evan Engram,player_receptions,2.5,MORE,0.472,2.5,0.472,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Germie Bernard,player_reception_yds,21.5,LESS,0.471,22.5,0.5,2,fit from 22.5 (sd 13.9),-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Davion Mitchell,player_assists,7.5,LESS,0.471,7.5,0.529,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_assists,1.5,MORE,0.471,1.5,0.471,3,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ryan Rollins,player_points,10.5,MORE,0.471,10.5,0.471,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_points_rebounds_assists,17.5,MORE,0.471,17.5,0.471,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_rebounds,6.5,MORE,0.471,6.5,0.471,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_assists,1.5,MORE,0.471,1.5,0.471,4,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Christian Braun,player_rebounds,4.5,MORE,0.471,4.5,0.471,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_assists,2.5,MORE,0.471,2.5,0.471,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jordan Goodwin,player_points,7.5,MORE,0.471,7.5,0.471,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Austin Reaves,player_points,16.5,LESS,0.471,16.5,0.529,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_assists,2.5,MORE,0.471,2.5,0.471,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_points,25.5,MORE,0.471,25.5,0.471,2,same line,-137.0,1.0
 nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_threes,2.5,LESS,0.471,2.5,0.529,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Christian Braun,player_rebounds,4.5,MORE,0.47,4.5,0.47,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Christian Braun,player_points,12.5,MORE,0.47,12.5,0.47,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_points,11.5,MORE,0.47,11.5,0.47,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_points,25.5,LESS,0.47,25.5,0.53,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cedric Coward,player_points,16.5,MORE,0.47,16.5,0.47,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_points,22.5,MORE,0.471,22.5,0.471,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_threes,2.5,MORE,0.471,2.5,0.471,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Caleb Martin,player_points_rebounds_assists,14.5,MORE,0.471,14.5,0.471,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Klay Thompson,player_points_rebounds_assists,16.5,MORE,0.471,16.5,0.471,1,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Ace Bailey,player_points,15.5,MORE,0.47,15.5,0.47,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Michael Porter Jr,player_threes,2.5,LESS,0.47,2.5,0.53,2,same line,-137.0,1.0
 nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Collin Murray-Boyles,player_points,10.5,MORE,0.47,10.5,0.47,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_points,21.5,MORE,0.47,20.5,0.52,2,fit from 20.5 (sd 7.9),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_assists,1.5,LESS,0.469,1.5,0.531,3,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_points,10.5,LESS,0.469,11.5,0.465,2,fit from 11.5 (sd 6.1),-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_points,19.5,MORE,0.469,18.5,0.526,2,fit from 18.5 (sd 7.0),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Pelle Larsson,player_points,9.5,LESS,0.469,9.5,0.531,2,same line,-137.0,1.0
 nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_points,6.5,MORE,0.469,5.5,0.54,2,fit from 5.5 (sd 5.6),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_points,25.5,MORE,0.469,25.5,0.469,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_points,10.5,MORE,0.468,9.5,0.528,2,fit from 9.5 (sd 6.6),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_rebounds,3.5,MORE,0.468,3.5,0.468,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_points,20.5,MORE,0.468,20.5,0.468,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,LeBron James,player_points,18.5,MORE,0.468,17.5,0.538,1,fit from 17.5 (sd 5.7),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_assists,7.5,MORE,0.468,7.5,0.468,2,same line,-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jordan Poole,player_threes,1.5,LESS,0.468,1.5,0.532,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Kingston Flemings,player_points_rebounds_assists,16.5,MORE,0.468,16.5,0.468,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_points,22.5,MORE,0.468,22.5,0.468,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Allen Graves,player_points,10.5,MORE,0.468,10.5,0.468,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kevin Huerter,player_assists,3.5,LESS,0.468,3.5,0.532,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Victor Wembanyama,player_rebounds,12.5,MORE,0.468,12.5,0.468,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Gui Santos,player_points,9.5,MORE,0.467,9.5,0.467,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Ace Bailey,player_points,15.5,MORE,0.467,15.5,0.467,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_threes,2.5,MORE,0.467,2.5,0.467,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Klay Thompson,player_assists,1.5,LESS,0.467,1.5,0.533,4,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_points,25.5,LESS,0.467,25.5,0.533,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_points,13.5,MORE,0.467,13.5,0.467,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Neemias Queta,player_rebounds,8.5,MORE,0.467,8.5,0.467,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Kentavious Caldwell-Pope,player_points,7.5,MORE,0.467,7.5,0.467,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_points,10.5,MORE,0.466,9.5,0.527,2,fit from 9.5 (sd 6.6),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Gui Santos,player_points,9.5,MORE,0.466,9.5,0.466,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Michael Pittman Jr.,player_receptions,1.5,MORE,0.466,1.5,0.466,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_assists,6.5,MORE,0.466,6.5,0.466,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Rudy Gobert,player_rebounds,10.5,MORE,0.466,10.5,0.466,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Landry Shamet,player_assists,1.5,LESS,0.465,1.5,0.535,3,same line,-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brook Lopez,player_rebounds,4.5,MORE,0.465,4.5,0.465,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Julian Champagnie,player_points,11.5,MORE,0.465,11.5,0.465,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_assists,4.5,LESS,0.465,4.5,0.535,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_threes,1.5,LESS,0.465,1.5,0.535,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_assists,5.5,MORE,0.465,5.5,0.465,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_points,10.5,MORE,0.465,9.5,0.517,2,fit from 9.5 (sd 7.6),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kel'el Ware,player_rebounds,7.5,MORE,0.465,7.5,0.465,4,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Zach Edey,player_points,8.5,MORE,0.465,8.5,0.465,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Zach Edey,player_points,8.5,MORE,0.464,8.5,0.464,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kel'el Ware,player_rebounds,7.5,MORE,0.464,7.5,0.464,4,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_points,25.5,MORE,0.464,24.5,0.524,1,fit from 24.5 (sd 6.7),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Myles Turner,player_assists,1.5,LESS,0.464,1.5,0.536,4,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Michael Porter Jr,player_points,19.5,MORE,0.464,18.5,0.515,1,fit from 18.5 (sd 7.8),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_rebounds,10.5,MORE,0.464,10.5,0.464,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:05-05:00,Jaylen Warren,player_rush_attempts,15.5,MORE,0.464,14.5,0.556,1,fit from 14.5 (sd 4.3),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,LeBron James,player_rebounds,6.5,MORE,0.463,6.5,0.463,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_rebounds,7.5,MORE,0.463,6.5,0.567,2,fit from 6.5 (sd 3.8),-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Michael Porter Jr,player_points,19.5,MORE,0.463,19.5,0.463,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Noah Clowney,player_points,8.5,MORE,0.462,8.5,0.462,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Aaron Wiggins,player_points,12.5,MORE,0.462,12.5,0.462,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_threes,1.5,MORE,0.462,1.5,0.462,1,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaylen Wells,player_rebounds,3.5,MORE,0.462,3.5,0.462,1,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jaxson Hayes,player_points,8.5,LESS,0.462,9.5,0.468,1,fit from 9.5 (sd 5.7),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Rudy Gobert,player_rebounds,10.5,MORE,0.462,10.5,0.462,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Aaron Gordon,player_points,12.5,LESS,0.463,12.5,0.537,1,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_assists,5.5,MORE,0.463,5.5,0.463,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_threes,1.5,LESS,0.463,1.5,0.537,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_threes,0.5,LESS,0.463,0.5,0.537,3,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Pelle Larsson,player_assists,2.5,LESS,0.463,2.5,0.537,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Julius Randle,player_rebounds,6.5,MORE,0.463,6.5,0.463,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_points,15.5,LESS,0.463,16.5,0.471,2,fit from 16.5 (sd 6.1),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kel'el Ware,player_points,9.5,MORE,0.463,9.5,0.463,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_assists,2.5,LESS,0.463,2.5,0.537,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Daniel Gafford,player_points,10.5,MORE,0.463,9.5,0.533,2,fit from 9.5 (sd 5.7),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Christian Braun,player_points,12.5,MORE,0.462,12.5,0.462,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_rebounds,7.5,MORE,0.462,6.5,0.565,2,fit from 6.5 (sd 3.8),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jayson Tatum,player_points,26.5,MORE,0.462,26.5,0.462,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Scottie Barnes,player_assists,5.5,LESS,0.462,5.5,0.538,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_threes,1.5,LESS,0.462,1.5,0.538,2,same line,-137.0,1.0
 nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Brayden Burries,player_points,10.5,MORE,0.462,10.5,0.462,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Collin Sexton,player_rebounds,1.5,MORE,0.462,1.5,0.462,3,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Day'Ron Sharpe,player_points,9.5,LESS,0.462,9.5,0.538,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_assists,3.5,LESS,0.461,3.5,0.539,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Isaiah Joe,player_points,16.5,MORE,0.461,15.5,0.525,1,fit from 15.5 (sd 6.2),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jaxson Hayes,player_points,8.5,LESS,0.461,9.5,0.469,2,fit from 9.5 (sd 5.7),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Davion Mitchell,player_assists,7.5,MORE,0.461,7.5,0.461,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Michael Pittman Jr.,player_reception_yds,11.5,MORE,0.461,10.5,0.523,1,fit from 10.5 (sd 6.5),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_rebounds,2.5,MORE,0.461,2.5,0.461,4,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Stephon Castle,player_assists,6.5,LESS,0.461,6.5,0.539,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_threes,1.5,MORE,0.46,1.5,0.46,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Landry Shamet,player_assists,1.5,LESS,0.46,1.5,0.54,3,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_threes,1.5,LESS,0.46,1.5,0.54,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Klay Thompson,player_points,12.5,MORE,0.46,12.5,0.46,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_points,18.5,MORE,0.46,18.5,0.46,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Aaron Gordon,player_points,12.5,LESS,0.458,12.5,0.542,1,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_rebounds,3.5,MORE,0.458,3.5,0.458,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_points,15.5,LESS,0.458,16.5,0.476,2,fit from 16.5 (sd 6.1),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_rebounds,4.5,MORE,0.458,4.5,0.458,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_points,19.5,MORE,0.458,18.5,0.502,2,fit from 18.5 (sd 9.0),-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Giannis Antetokounmpo,player_points,26.5,LESS,0.458,27.5,0.477,2,fit from 27.5 (sd 6.2),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Andrew Nembhard,player_threes,1.5,LESS,0.458,1.5,0.542,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Isaiah Joe,player_points,16.5,MORE,0.457,15.5,0.521,1,fit from 15.5 (sd 6.2),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_points,13.5,LESS,0.457,14.5,0.474,2,fit from 14.5 (sd 5.8),-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_rebounds,3.5,MORE,0.456,3.5,0.456,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Noah Clowney,player_points,8.5,MORE,0.46,8.5,0.46,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_threes,1.5,LESS,0.46,1.5,0.54,5,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Darryn Peterson,player_points,17.5,MORE,0.46,16.5,0.52,2,fit from 16.5 (sd 6.5),-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_points,23.5,MORE,0.459,22.5,0.524,1,fit from 22.5 (sd 6.1),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_assists,3.5,LESS,0.459,3.5,0.541,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,De'Anthony Melton,player_points,10.5,LESS,0.459,11.5,0.488,2,fit from 11.5 (sd 7.4),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_rebounds,3.5,MORE,0.459,3.5,0.459,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_threes,1.5,LESS,0.459,1.5,0.541,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Collin Sexton,player_rebounds,1.5,MORE,0.459,1.5,0.459,3,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derik Queen,player_rebounds,6.5,MORE,0.458,5.5,0.567,2,fit from 5.5 (sd 3.6),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Davion Mitchell,player_points_rebounds_assists,25.5,MORE,0.458,25.5,0.458,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_threes,1.5,MORE,0.458,1.5,0.458,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Klay Thompson,player_points,12.5,MORE,0.458,12.5,0.458,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Cameron Johnson,player_points,13.5,MORE,0.457,12.5,0.529,2,fit from 12.5 (sd 5.6),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Zaccharie Risacher,player_rebounds,4.5,MORE,0.457,4.5,0.457,5,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Ja'Kobe Walter,player_points,12.5,LESS,0.457,13.5,0.471,1,fit from 13.5 (sd 5.5),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Walker Kessler,player_points,11.5,LESS,0.457,12.5,0.483,2,fit from 12.5 (sd 6.6),-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derrick Jones,player_points,8.5,MORE,0.457,7.5,0.537,1,fit from 7.5 (sd 5.0),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Toumani Camara,player_rebounds,4.5,MORE,0.457,4.5,0.457,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Jaime Jaquez Jr,player_assists,2.5,LESS,0.457,2.5,0.543,1,same line,-137.0,1.0
 nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_rebounds,6.5,MORE,0.456,6.5,0.456,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_points,11.5,MORE,0.456,11.5,0.456,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_rebounds,2.5,MORE,0.456,2.5,0.456,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Michael Porter Jr,player_assists,1.5,LESS,0.456,1.5,0.544,4,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_points,12.5,MORE,0.455,12.5,0.455,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Egor Demin,player_assists,2.5,LESS,0.454,2.5,0.546,1,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_threes,2.5,MORE,0.454,2.5,0.454,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_rebounds,2.5,MORE,0.456,2.5,0.456,4,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Andrew Nembhard,player_threes,1.5,LESS,0.456,1.5,0.544,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_points,19.5,MORE,0.456,18.5,0.5,2,fit from 18.5 (sd 9.0),-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Danny Wolf,player_assists,1.5,LESS,0.455,1.5,0.545,4,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_assists,7.5,MORE,0.455,7.5,0.455,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_points,14.5,MORE,0.455,13.5,0.524,1,fit from 13.5 (sd 5.8),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Landry Shamet,player_rebounds,2.5,MORE,0.454,2.5,0.454,3,same line,-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Max Strus,player_threes,1.5,LESS,0.454,1.5,0.546,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_threes,3.5,MORE,0.454,3.5,0.454,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Zion Williamson,player_rebounds,5.5,MORE,0.454,5.5,0.454,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Warren,player_rush_yds,66.5,MORE,0.454,62.5,0.5,1,fit from 62.5 (sd 34.4),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Caleb Martin,player_assists,2.5,MORE,0.454,2.5,0.454,1,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_threes,3.5,MORE,0.454,3.5,0.454,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Brandin Podziemski,player_threes,2.5,MORE,0.454,2.5,0.454,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_rebounds,4.5,MORE,0.453,4.5,0.453,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_assists,3.5,LESS,0.453,3.5,0.547,2,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Giannis Antetokounmpo,player_assists,5.5,MORE,0.453,5.5,0.453,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_points,10.5,LESS,0.453,11.5,0.478,2,fit from 11.5 (sd 5.7),-137.0,1.0
 nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Darryn Peterson,player_rebounds,4.5,MORE,0.453,4.5,0.453,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_rebounds,4.5,MORE,0.452,4.5,0.452,2,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Donovan Clingan,player_rebounds,11.5,MORE,0.452,11.5,0.452,2,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Jake LaRavia,player_threes,0.5,LESS,0.452,0.5,0.548,3,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Michael Porter Jr,player_threes,2.5,LESS,0.452,2.5,0.548,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_points,19.5,MORE,0.452,18.5,0.517,1,fit from 18.5 (sd 6.1),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Deni Avdija,player_assists,6.5,MORE,0.451,6.5,0.451,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_points,25.5,MORE,0.451,24.5,0.51,1,fit from 24.5 (sd 6.7),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Brice Sensabaugh,player_points,11.5,MORE,0.453,10.5,0.496,1,fit from 10.5 (sd 9.3),-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Collin Murray-Boyles,player_rebounds,5.5,MORE,0.452,5.5,0.452,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Rico Dowdle,player_receptions,1.5,LESS,0.451,1.5,0.549,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Giannis Antetokounmpo,player_rebounds,12.5,MORE,0.451,11.5,0.553,1,fit from 11.5 (sd 3.9),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jeremiah Fears,player_points,18.5,MORE,0.45,17.5,0.5,2,fit from 17.5 (sd 7.9),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Matisse Thybulle,player_threes,1.5,MORE,0.449,1.5,0.449,1,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_rebounds,2.5,MORE,0.449,2.5,0.449,4,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_rebounds,3.5,MORE,0.449,3.5,0.449,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_rebounds,3.5,MORE,0.451,3.5,0.451,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ty Jerome,player_rebounds,3.5,MORE,0.451,3.5,0.451,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Caleb Martin,player_points,7.5,MORE,0.45,6.5,0.524,1,fit from 6.5 (sd 5.4),-137.0,1.0
 nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,De'Aaron Fox,player_rebounds,3.5,MORE,0.449,3.5,0.449,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Miles Bridges,player_assists,2.5,LESS,0.449,2.5,0.551,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Dean Wade,player_rebounds,4.5,MORE,0.449,4.5,0.449,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Jamal Shead,player_assists,5.5,LESS,0.449,5.5,0.551,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,P.J. Washington,player_points,12.5,MORE,0.448,11.5,0.514,2,fit from 11.5 (sd 6.0),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Courtland Sutton,player_receptions,2.5,LESS,0.448,2.5,0.552,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_assists,6.5,LESS,0.448,6.5,0.552,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Derik Queen,player_rebounds,6.5,MORE,0.448,5.5,0.558,2,fit from 5.5 (sd 3.6),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,De'Aaron Fox,player_points,13.5,MORE,0.447,12.5,0.515,2,fit from 12.5 (sd 5.9),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Jrue Holiday,player_points,16.5,MORE,0.448,15.5,0.504,1,fit from 15.5 (sd 7.1),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Andrew Wiggins,player_assists,1.5,MORE,0.448,1.5,0.448,3,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jonah Coleman,player_reception_yds,23.5,MORE,0.447,21.5,0.507,2,fit from 21.5 (sd 13.3),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Tyrese Maxey,player_assists,5.5,MORE,0.447,5.5,0.447,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaden McDaniels,player_points,18.5,LESS,0.447,19.5,0.495,2,fit from 19.5 (sd 6.9),-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_assists,6.5,MORE,0.447,6.5,0.447,2,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jordan Poole,player_assists,2.5,LESS,0.447,2.5,0.553,3,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Roman Wilson,player_reception_yds,11.5,LESS,0.447,12.5,0.502,2,fit from 12.5 (sd 7.8),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kevin Huerter,player_points,14.5,MORE,0.446,13.5,0.524,2,fit from 13.5 (sd 5.1),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Nate Ament,player_rebounds,3.5,MORE,0.446,3.5,0.446,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ausar Thompson,player_assists,5.5,LESS,0.446,5.5,0.554,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_assists,1.5,LESS,0.445,1.5,0.555,4,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaylen Wells,player_points,10.5,MORE,0.445,9.5,0.514,1,fit from 9.5 (sd 5.7),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_threes,1.5,MORE,0.445,1.5,0.445,1,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Nikola Jokic,player_rebounds,12.5,MORE,0.447,12.5,0.447,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_assists,6.5,MORE,0.447,6.5,0.447,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,De'Aaron Fox,player_points,13.5,MORE,0.447,12.5,0.514,2,fit from 12.5 (sd 5.9),-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_threes,1.5,MORE,0.445,1.5,0.445,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Ace Bailey,player_rebounds,5.5,MORE,0.445,5.5,0.445,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_threes,1.5,MORE,0.445,1.5,0.445,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Pelle Larsson,player_assists,2.5,LESS,0.445,2.5,0.555,1,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Neemias Queta,player_rebounds,8.5,MORE,0.444,8.5,0.444,2,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Dean Wade,player_rebounds,4.5,MORE,0.444,4.5,0.444,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_threes,2.5,LESS,0.445,2.5,0.555,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaylen Wells,player_points,10.5,MORE,0.445,9.5,0.515,1,fit from 9.5 (sd 5.7),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Derrick White,player_rebounds,3.5,MORE,0.445,3.5,0.445,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jeremiah Fears,player_points,18.5,MORE,0.445,17.5,0.495,2,fit from 17.5 (sd 7.9),-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Darius Garland,player_assists,6.5,LESS,0.444,6.5,0.556,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:05-05:00,Jaylen Warren,player_rush_attempts,14.5,LESS,0.444,14.5,0.556,1,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_assists,1.5,MORE,0.444,1.5,0.444,3,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brandon Ingram,player_points,17.5,LESS,0.443,18.5,0.503,2,fit from 18.5 (sd 7.4),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Nikola Jokic,player_rebounds,12.5,MORE,0.442,12.5,0.442,2,same line,-137.0,1.0
-nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Waddle,player_receptions,3.5,LESS,0.441,3.5,0.559,1,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Karl-Anthony Towns,player_rebounds,13.5,MORE,0.441,12.5,0.541,2,fit from 12.5 (sd 4.0),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Nikola Jokic,player_assists,9.5,MORE,0.444,9.5,0.444,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jonathan Kuminga,player_threes,1.5,MORE,0.444,1.5,0.444,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_threes,0.5,LESS,0.443,0.5,0.557,4,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Ace Bailey,player_rebounds,5.5,MORE,0.443,5.5,0.443,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Michael Porter Jr,player_assists,1.5,LESS,0.442,1.5,0.558,4,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_threes,1.5,LESS,0.442,1.5,0.558,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Nate Ament,player_rebounds,3.5,MORE,0.442,3.5,0.442,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Matisse Thybulle,player_points,6.5,MORE,0.442,5.5,0.524,1,fit from 5.5 (sd 4.9),-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Brandon Ingram,player_assists,3.5,LESS,0.441,3.5,0.559,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jeremiah Fears,player_threes,1.5,MORE,0.441,1.5,0.441,2,same line,-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Sidy Cissoko,player_threes,1.5,MORE,0.441,1.5,0.441,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Karl-Anthony Towns,player_rebounds,13.5,MORE,0.441,12.5,0.542,2,fit from 12.5 (sd 4.0),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Quentin Grimes,player_threes,1.5,MORE,0.441,1.5,0.441,1,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Aaron Gordon,player_assists,2.5,MORE,0.441,2.5,0.441,1,same line,-137.0,1.0
 nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_rebounds,2.5,MORE,0.441,2.5,0.441,1,same line,-137.0,1.0
+nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Jaylen Waddle,player_receptions,3.5,LESS,0.441,3.5,0.559,1,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Keyonte George,player_assists,6.5,LESS,0.441,6.5,0.559,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Matisse Thybulle,player_threes,1.5,MORE,0.441,1.5,0.441,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_threes,1.5,MORE,0.441,1.5,0.441,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Pat Freiermuth,player_reception_yds,22.5,MORE,0.44,20.5,0.502,2,fit from 20.5 (sd 12.7),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_threes,1.5,LESS,0.44,1.5,0.56,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Cooper Flagg,player_assists,6.5,MORE,0.439,6.5,0.439,2,same line,-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Aaron Wiggins,player_rebounds,3.5,MORE,0.439,3.5,0.439,4,same line,-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jeremiah Fears,player_threes,1.5,MORE,0.439,1.5,0.439,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Kris Murray,player_threes,0.5,LESS,0.439,0.5,0.561,4,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_threes,4.5,MORE,0.439,4.5,0.439,2,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ausar Thompson,player_points,12.5,MORE,0.438,11.5,0.536,2,fit from 11.5 (sd 4.0),-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Kris Dunn,player_points,5.5,MORE,0.439,4.5,0.532,2,fit from 4.5 (sd 4.3),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Cam Spencer,player_assists,4.5,LESS,0.439,4.5,0.561,2,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Luka Doncic,player_threes,4.5,MORE,0.438,4.5,0.438,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Evan Engram,player_reception_yds,20.5,LESS,0.438,22.5,0.505,2,fit from 22.5 (sd 13.9),-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_rebounds,9.5,MORE,0.437,8.5,0.565,2,fit from 8.5 (sd 3.1),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Sidy Cissoko,player_threes,1.5,MORE,0.437,1.5,0.437,1,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Pat Bryant,player_receptions,2.5,MORE,0.437,2.5,0.437,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Ja'Kobe Walter,player_rebounds,4.5,MORE,0.437,4.5,0.437,2,same line,-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Landry Shamet,player_points,14.5,MORE,0.435,13.5,0.5,2,fit from 13.5 (sd 6.1),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Yves Missi,player_rebounds,8.5,MORE,0.435,8.5,0.435,2,same line,-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Immanuel Quickley,player_threes,2.5,LESS,0.433,2.5,0.567,2,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Caleb Martin,player_assists,2.5,LESS,0.437,2.5,0.563,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Bam Adebayo,player_rebounds,8.5,MORE,0.437,8.5,0.437,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Nikola Jokic,player_points,25.5,LESS,0.437,26.5,0.515,1,fit from 26.5 (sd 8.1),-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Yves Missi,player_rebounds,8.5,MORE,0.437,8.5,0.437,2,same line,-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_rebounds,2.5,MORE,0.436,2.5,0.436,3,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Mikel Brown Jr.,player_rebounds,2.5,MORE,0.436,2.5,0.436,4,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Aaron Wiggins,player_rebounds,3.5,MORE,0.434,3.5,0.434,4,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Landry Shamet,player_points,14.5,MORE,0.434,13.5,0.499,2,fit from 13.5 (sd 6.1),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_rebounds,9.5,MORE,0.434,8.5,0.561,2,fit from 8.5 (sd 3.1),-137.0,1.0
 nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_rebounds,3.5,MORE,0.433,3.5,0.433,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kevin Huerter,player_assists,3.5,LESS,0.433,3.5,0.567,1,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jeremiah Fears,player_assists,6.5,MORE,0.432,5.5,0.599,1,fit from 5.5 (sd 2.4),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kevin Huerter,player_points,14.5,MORE,0.432,13.5,0.51,2,fit from 13.5 (sd 5.1),-137.0,1.0
 nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Baylor Scheierman,player_assists,1.5,MORE,0.431,1.5,0.431,1,same line,-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Joel Embiid,player_rebounds,8.5,MORE,0.431,7.5,0.555,1,fit from 7.5 (sd 3.2),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Aaron Gordon,player_assists,2.5,MORE,0.428,2.5,0.428,1,same line,-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_threes,1.5,LESS,0.428,1.5,0.572,1,same line,-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_rebounds,4.5,MORE,0.428,3.5,0.587,2,fit from 3.5 (sd 2.5),-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Ja'Kobe Walter,player_points,14.5,MORE,0.428,13.5,0.5,1,fit from 13.5 (sd 5.5),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_rebounds,4.5,MORE,0.428,4.5,0.428,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Caleb Martin,player_points,6.5,MORE,0.426,5.5,0.5,1,fit from 5.5 (sd 5.4),-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Jalen Johnson,player_points,19.5,MORE,0.424,18.5,0.482,2,fit from 18.5 (sd 6.9),-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Joel Embiid,player_rebounds,8.5,MORE,0.431,7.5,0.554,1,fit from 7.5 (sd 3.2),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_rebounds,4.5,MORE,0.43,3.5,0.588,2,fit from 3.5 (sd 2.5),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Jaylen Wells,player_rebounds,3.5,MORE,0.428,3.5,0.428,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Caleb Martin,player_rebounds,4.5,MORE,0.428,4.5,0.428,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_rebounds,3.5,MORE,0.428,3.5,0.428,5,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Ja'Kobe Walter,player_threes,2.5,LESS,0.427,2.5,0.573,2,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_threes,2.5,LESS,0.427,2.5,0.573,2,same line,-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jordan Poole,player_assists,2.5,LESS,0.426,2.5,0.574,3,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jusuf Nurkic,player_points,8.5,MORE,0.425,7.5,0.496,1,fit from 7.5 (sd 5.6),-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_rebounds,4.5,MORE,0.425,4.5,0.425,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Obi Toppin,player_points,10.5,LESS,0.425,11.5,0.469,2,fit from 11.5 (sd 3.7),-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Paul George,player_threes,2.5,LESS,0.425,2.5,0.575,2,same line,-137.0,1.0
 nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Sidy Cissoko,player_points,9.5,MORE,0.424,8.5,0.5,1,fit from 8.5 (sd 5.2),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Pascal Siakam,player_points,24.5,MORE,0.423,23.5,0.488,2,fit from 23.5 (sd 6.1),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Jamal Murray,player_threes,2.5,LESS,0.423,2.5,0.577,2,same line,-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Brice Sensabaugh,player_points,11.5,MORE,0.421,9.5,0.506,1,fit from 9.5 (sd 9.3),-137.0,1.0
-nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Collin Murray-Boyles,player_rebounds,5.5,MORE,0.419,5.5,0.419,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Davion Mitchell,player_threes,1.5,LESS,0.423,1.5,0.577,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Aaron Nesmith,player_assists,1.5,LESS,0.422,1.5,0.578,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jordan Goodwin,player_threes,1.5,MORE,0.422,1.5,0.422,1,same line,-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Devin Vassell,player_threes,1.5,LESS,0.422,1.5,0.578,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_rebounds,6.5,MORE,0.42,5.5,0.575,1,fit from 5.5 (sd 2.6),-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Rui Hachimura,player_rebounds,5.5,MORE,0.419,5.5,0.419,2,same line,-137.0,1.0
-nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_rebounds,5.5,MORE,0.418,4.5,0.553,2,fit from 4.5 (sd 2.9),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Bones Hyland,player_assists,3.5,LESS,0.417,3.5,0.583,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_threes,1.5,LESS,0.417,1.5,0.583,2,same line,-137.0,1.0
 nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Gui Santos,player_rebounds,4.5,MORE,0.417,3.5,0.572,1,fit from 3.5 (sd 2.6),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Marvin Mims Jr.,player_reception_yds,9.5,MORE,0.416,8.5,0.491,1,fit from 8.5 (sd 5.3),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Oso Ighodaro,player_points,7.5,MORE,0.416,6.5,0.512,2,fit from 6.5 (sd 4.1),-137.0,1.0
 nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jeremiah Fears,player_rebounds,5.5,MORE,0.415,5.5,0.415,2,same line,-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Devin Booker,player_threes,1.5,LESS,0.415,1.5,0.585,2,same line,-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Daniss Jenkins,player_rebounds,4.5,MORE,0.412,4.5,0.412,2,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Nickeil Alexander-Walker,player_rebounds,3.5,MORE,0.411,3.5,0.411,1,same line,-137.0,1.0
 nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,Dean Wade,player_points,5.5,MORE,0.411,4.5,0.519,1,fit from 4.5 (sd 3.7),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Oso Ighodaro,player_points,7.5,MORE,0.41,6.5,0.506,2,fit from 6.5 (sd 4.1),-137.0,1.0
-nba,Philadelphia 76ers@Indiana Pacers,2026-11-27T19:40-05:00,VJ Edgecombe,player_rebounds,6.5,MORE,0.409,5.5,0.563,1,fit from 5.5 (sd 2.6),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kyle Kuzma,player_assists,2.5,MORE,0.406,2.5,0.406,1,same line,-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_rebounds,7.5,MORE,0.405,6.5,0.539,2,fit from 6.5 (sd 3.0),-137.0,1.0
-nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_assists,3.5,LESS,0.403,4.5,0.419,2,fit from 4.5 (sd 2.2),-137.0,1.0
-nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Spencer Jones,player_points,5.5,MORE,0.403,3.5,0.542,2,fit from 3.5 (sd 5.7),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Kyle Kuzma,player_assists,2.5,MORE,0.411,2.5,0.411,1,same line,-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_points,11.5,MORE,0.411,9.5,0.514,1,fit from 9.5 (sd 7.6),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ausar Thompson,player_assists,6.5,MORE,0.408,5.5,0.568,2,fit from 5.5 (sd 2.5),-137.0,1.0
+nba,Memphis Grizzlies@Minnesota Timberwolves,2026-11-27T20:40-05:00,Ayo Dosunmu,player_rebounds,5.5,MORE,0.407,4.5,0.542,2,fit from 4.5 (sd 2.9),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Ausar Thompson,player_points,12.5,MORE,0.406,11.5,0.505,2,fit from 11.5 (sd 4.0),-137.0,1.0
+nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Yaxel Lendeborg,player_rebounds,7.5,MORE,0.405,6.5,0.538,2,fit from 6.5 (sd 3.0),-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Allen Graves,player_rebounds,5.5,MORE,0.405,5.5,0.405,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Toronto Raptors,2026-11-27T19:40-05:00,Ja'Kobe Walter,player_rebounds,4.5,MORE,0.403,4.5,0.403,2,same line,-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Mason Rudolph,player_rush_yds,6.5,MORE,0.402,5.5,0.533,2,fit from 5.5 (sd 3.0),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Jeremiah Fears,player_assists,6.5,MORE,0.4,5.5,0.566,2,fit from 5.5 (sd 2.4),-137.0,1.0
-nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Matisse Thybulle,player_points,7.5,MORE,0.4,6.5,0.481,1,fit from 6.5 (sd 4.9),-137.0,1.0
-nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_rebounds,9.5,MORE,0.395,8.5,0.532,2,fit from 8.5 (sd 2.9),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_rebounds,3.5,MORE,0.39,2.5,0.548,4,fit from 2.5 (sd 2.5),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_rebounds,5.5,MORE,0.389,4.5,0.549,2,fit from 4.5 (sd 2.5),-137.0,1.0
-nba,Golden State Warriors@Portland Trail Blazers,2026-11-27T21:40-05:00,Charles Bassey,player_points,10.5,MORE,0.386,9.5,0.524,2,fit from 9.5 (sd 2.9),-137.0,1.0
+nba,Milwaukee Bucks@Detroit Pistons,2026-11-27T19:40-05:00,Tyler Herro,player_assists,3.5,LESS,0.4,4.5,0.422,2,fit from 4.5 (sd 2.2),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Jordan Goodwin,player_rebounds,4.5,MORE,0.399,3.5,0.541,5,fit from 3.5 (sd 2.8),-137.0,1.0
+nba,Los Angeles Lakers@San Antonio Spurs,2026-11-27T21:40-05:00,Stephon Castle,player_assists,6.5,LESS,0.396,6.5,0.604,1,same line,-137.0,1.0
+nba,Denver Nuggets@Utah Jazz,2026-11-27T21:40-05:00,Spencer Jones,player_points,5.5,MORE,0.389,3.5,0.528,2,fit from 3.5 (sd 5.7),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_assists,2.5,LESS,0.389,2.5,0.611,1,same line,-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Pelle Larsson,player_rebounds,3.5,MORE,0.389,3.5,0.389,1,same line,-137.0,1.0
 nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Jalen Brunson,player_rebounds,3.5,MORE,0.382,2.5,0.583,1,fit from 2.5 (sd 2.0),-137.0,1.0
-nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Yves Missi,player_points,7.5,MORE,0.376,6.5,0.488,2,fit from 6.5 (sd 3.5),-137.0,1.0
-nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Zaccharie Risacher,player_rebounds,4.5,MORE,0.372,3.5,0.546,5,fit from 3.5 (sd 2.3),-137.0,1.0
+nba,Dallas Mavericks@Phoenix Suns,2026-11-27T21:10-05:00,Naji Marshall,player_threes,0.5,LESS,0.38,0.5,0.62,4,same line,-137.0,1.0
+nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Kingston Flemings,player_points,9.5,MORE,0.36,8.5,0.514,2,fit from 8.5 (sd 2.5),-137.0,1.0
 nfl,Denver Broncos@Pittsburgh Steelers,2026-11-27T15:00-05:00,Troy Franklin,player_reception_yds,3.5,LESS,0.36,4.5,0.5,2,fit from 4.5 (sd 2.8),-137.0,1.0
-nba,Atlanta Hawks@Boston Celtics,2026-11-27T20:10-05:00,Kingston Flemings,player_points,9.5,MORE,0.358,8.5,0.512,2,fit from 8.5 (sd 2.5),-137.0,1.0
+nba,New Orleans Pelicans@Los Angeles Clippers,2026-11-27T21:40-05:00,Saddiq Bey,player_rebounds,5.5,MORE,0.359,4.5,0.518,2,fit from 4.5 (sd 2.5),-137.0,1.0
+nba,Miami Heat@New York Knicks,2026-11-27T19:10-05:00,Josh Hart,player_rebounds,9.5,MORE,0.34,8.5,0.473,2,fit from 8.5 (sd 2.9),-137.0,1.0
