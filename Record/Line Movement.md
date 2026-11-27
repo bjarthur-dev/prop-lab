@@ -2,15 +2,15 @@
 
 Opening = first saved snapshot, closing = last saved snapshot before start (no-vig consensus, Pinnacle 2x, FanDuel 1.5x).
 
-## Game moneylines (ncaab 795, ncaaf 88, nfl 8)
-691 games with 2+ snapshots. Brier (lower = more accurate): open 0.1563, close 0.1544 -> close more accurate.
+## Game moneylines (ncaab 819, ncaaf 88, nfl 10)
+710 games with 2+ snapshots. Brier (lower = more accurate): open 0.1578, close 0.1561 -> close more accurate.
 
 | moved toward a side by | n | open said | close said | that side won | won - open | noise ± |
 |---|---|---|---|---|---|---|
-| 1-2 pts | 137 | 48.4% | 49.9% | 52.6% | +4.1 | 3.5 |
-| 2-4 pts | 125 | 51.6% | 54.4% | 61.6% | +10.0 | 4.0 |
-| 4-8 pts | 69 | 48.5% | 53.9% | 52.2% | +3.7 | 5.6 |
-| 8-100 pts | 21 | 53.1% | 64.2% | 66.7% | +13.6 | 10.2 |
+| 1-2 pts | 144 | 48.5% | 50.0% | 51.4% | +2.9 | 3.5 |
+| 2-4 pts | 121 | 51.6% | 54.5% | 60.3% | +8.7 | 4.1 |
+| 4-8 pts | 71 | 48.4% | 53.9% | 53.5% | +5.1 | 5.6 |
+| 8-100 pts | 22 | 52.4% | 63.4% | 63.6% | +11.3 | 10.0 |
 
 ## NBA player props (over side, same line at open and close)
 198 props with 2+ snapshots. Brier (lower = more accurate): open 0.2436, close 0.2472 -> open more accurate.
