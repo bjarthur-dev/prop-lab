@@ -17,6 +17,7 @@ def scan(date, sport):
         if b.startswith("games") or "alt" in b: continue
         o = pd.read_csv(f)
         if o.empty or "snap_et" not in o: continue
+        if "over" not in o or "under" not in o: continue   # long-format snapshots (live_/nflx_/cbbprops_: one row per side) carry no two-way price
         o = o[o.market.isin(MK[sport]) & o.over.notna() & o.under.notna()].copy()
         o["t"] = o.snap_et.astype(str).str[11:16]; rows.append(o)
     if not rows: return pd.DataFrame()
