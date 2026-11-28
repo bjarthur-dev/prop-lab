@@ -24,7 +24,7 @@ Opening = first saved snapshot, closing = last saved snapshot before start (no-v
 
 Read: if 'that side won' beats 'open said' by more than ~2x noise, line moves carry information -> bet early with the move / avoid betting against it. If close is more accurate than open, our prices should always come from the latest snapshot.
 ## NBA props by implied mean (line changes included)
-11249 player-stat-days with an open and a close snapshot (median gap 5.2 h).
+11273 player-stat-days with an open and a close snapshot (median gap 5.2 h).
 Average miss: open mean 3.05, close mean 3.04 (close more accurate).
 
 ### Found on (Oct 24 - Nov 14)
@@ -44,20 +44,20 @@ Average miss: open mean 3.05, close mean 3.04 (close more accurate).
 | ALL | 0.75-1.5 | 251 | 1.02 | +1.36 ± 0.44 | 133% |
 | ALL | 1.5-99 | 111 | 2.32 | +1.47 ± 0.73 | 63% |
 
-### Forward test (from Nov 15, 4776 so far)
+### Forward test (from Nov 15, 4800 so far)
 | stat | mean moved by | n | avg move | result vs open, in move direction | share of move realised |
 |---|---|---|---|---|---|
 | 3pm | 0.25-0.75 | 16 | 0.31 | +0.44 ± 0.30 | 140% |
 | ast | 0.25-0.75 | 98 | 0.38 | +0.49 ± 0.22 | 130% |
-| pra | 0.25-0.75 | 181 | 0.45 | -0.17 ± 0.61 | -39% |
+| pra | 0.25-0.75 | 183 | 0.45 | -0.14 ± 0.60 | -31% |
 | pra | 0.75-1.5 | 49 | 0.96 | +0.86 ± 0.96 | 90% |
 | pra | 1.5-99 | 16 | 2.07 | +2.36 ± 1.80 | 114% |
 | pts | 0.25-0.75 | 251 | 0.45 | +0.18 ± 0.42 | 39% |
-| pts | 0.75-1.5 | 126 | 0.97 | -0.01 ± 0.55 | -1% |
+| pts | 0.75-1.5 | 127 | 0.97 | +0.07 ± 0.55 | 7% |
 | pts | 1.5-99 | 27 | 2.07 | +2.44 ± 0.90 | 118% |
 | reb | 0.25-0.75 | 131 | 0.39 | +0.29 ± 0.24 | 74% |
-| ALL | 0.25-0.75 | 677 | 0.43 | +0.16 ± 0.23 | 37% |
-| ALL | 0.75-1.5 | 194 | 0.96 | +0.27 ± 0.43 | 28% |
+| ALL | 0.25-0.75 | 679 | 0.42 | +0.17 ± 0.23 | 39% |
+| ALL | 0.75-1.5 | 195 | 0.96 | +0.32 ± 0.43 | 34% |
 | ALL | 1.5-99 | 45 | 2.06 | +2.38 ± 0.83 | 116% |
 
 Share realised ~100% = the move was right and the close is fair; >100% = moves under-react (bet with moves early); <0% = moves are noise/overreaction.
