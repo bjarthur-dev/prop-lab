@@ -1,0 +1,149 @@
+sport,game,start,player,market,pick6_line,side,p,sharp_line,sharp_p_over,n_books,how,pick6_price,pick_mult
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Jared McCain,player_points,15.5,LESS,0.556,14.5,0.519,2,fit from 14.5 (sd 5.3),-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Matas Buzelis,player_points,18.5,LESS,0.551,17.5,0.51,1,fit from 17.5 (sd 6.5),-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Shai Gilgeous-Alexander,player_points,31.5,MORE,0.551,32.5,0.498,2,fit from 32.5 (sd 7.5),-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Jalen Smith,player_points,13.5,MORE,0.55,14.5,0.454,2,fit from 14.5 (sd 4.1),-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Ajay Mitchell,player_points,17.5,MORE,0.547,18.5,0.481,2,fit from 18.5 (sd 6.1),-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Ajay Mitchell,player_assists,3.5,MORE,0.542,3.5,0.542,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Fred VanVleet,player_points,12.5,MORE,0.539,13.5,0.474,2,fit from 13.5 (sd 6.1),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Franz Wagner,player_points,24.5,MORE,0.538,25.5,0.481,2,fit from 25.5 (sd 7.0),-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Julius Randle,player_points,20.5,LESS,0.533,19.5,0.519,1,fit from 19.5 (sd 7.6),-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Bennett Stirtz,player_points,8.5,MORE,0.532,8.5,0.532,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Brandon Miller,player_threes,3.5,LESS,0.529,3.5,0.471,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Josh Giddey,player_points,12.5,MORE,0.528,12.5,0.528,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Desmond Bane,player_points,18.5,MORE,0.528,19.5,0.467,2,fit from 19.5 (sd 6.6),-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Coby White,player_points,17.5,LESS,0.526,17.5,0.474,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Amen Thompson,player_points,15.5,MORE,0.525,15.5,0.525,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Coby White,player_assists,4.5,LESS,0.524,4.5,0.476,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Michael Porter Jr,player_threes,2.5,MORE,0.524,2.5,0.524,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Naz Reid,player_threes,2.5,LESS,0.524,2.5,0.476,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Tyrese Maxey,player_points,26.5,MORE,0.524,26.5,0.524,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Naz Reid,player_assists,2.5,LESS,0.52,2.5,0.48,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Alperen Sengun,player_points,20.5,LESS,0.52,20.5,0.48,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Michael Porter Jr,player_points,18.5,MORE,0.516,18.5,0.516,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Kyshawn George,player_points,16.5,MORE,0.515,15.5,0.571,1,fit from 15.5 (sd 7.1),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Jalen Suggs,player_points,11.5,MORE,0.515,11.5,0.515,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,AJ Dybantsa,player_points,17.5,MORE,0.515,17.5,0.515,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Anthony Davis,player_points,23.5,LESS,0.513,23.5,0.487,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Pascal Siakam,player_points,23.5,LESS,0.512,23.5,0.488,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Josh Giddey,player_assists,8.5,MORE,0.512,8.5,0.512,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Trae Young,player_points,15.5,LESS,0.51,15.5,0.49,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Shai Gilgeous-Alexander,player_assists,5.5,LESS,0.508,5.5,0.492,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Jabari Smith Jr,player_points,13.5,MORE,0.508,13.5,0.508,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Jared McCain,player_threes,2.5,MORE,0.507,2.5,0.507,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Isaiah Hartenstein,player_points,9.5,MORE,0.506,9.5,0.506,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Anfernee Simons,player_points_rebounds_assists,21.5,MORE,0.506,21.5,0.506,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Brandon Miller,player_points,21.5,LESS,0.506,21.5,0.494,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Jalen Suggs,player_assists,4.5,MORE,0.505,4.5,0.505,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Aaron Nesmith,player_points,12.5,LESS,0.504,12.5,0.496,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Jared McCain,player_assists,1.5,LESS,0.503,1.5,0.497,5,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Franz Wagner,player_points_rebounds_assists,39.5,MORE,0.503,39.5,0.503,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Naz Reid,player_points,18.5,MORE,0.501,18.5,0.501,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Fred VanVleet,player_threes,2.5,MORE,0.5,2.5,0.5,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Fred VanVleet,player_threes,2.5,LESS,0.5,2.5,0.5,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Anfernee Simons,player_points,16.5,MORE,0.5,16.5,0.5,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Anfernee Simons,player_points,16.5,LESS,0.5,16.5,0.5,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Anthony Black,player_points,14.5,MORE,0.499,14.5,0.499,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Naz Reid,player_points,18.5,LESS,0.499,18.5,0.501,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Jared McCain,player_assists,1.5,MORE,0.497,1.5,0.497,5,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Aaron Nesmith,player_points,12.5,MORE,0.496,12.5,0.496,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Jalen Suggs,player_assists,4.5,LESS,0.495,4.5,0.505,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Isaiah Hartenstein,player_points,9.5,LESS,0.494,9.5,0.506,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Alex Caruso,player_points,7.5,MORE,0.494,7.5,0.494,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Ajay Mitchell,player_points_rebounds_assists,26.5,MORE,0.494,26.5,0.494,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Brandon Miller,player_points,21.5,MORE,0.494,21.5,0.494,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Shai Gilgeous-Alexander,player_assists,5.5,MORE,0.492,5.5,0.492,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Kevin Durant,player_points,20.5,MORE,0.492,20.5,0.492,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Jabari Smith Jr,player_points,13.5,LESS,0.492,13.5,0.508,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,AJ Dybantsa,player_assists,3.5,LESS,0.492,3.5,0.508,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Naz Reid,player_points_rebounds_assists,29.5,MORE,0.491,29.5,0.491,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Kentavious Caldwell-Pope,player_points_rebounds_assists,14.5,MORE,0.49,14.5,0.49,1,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Trae Young,player_points,15.5,MORE,0.49,15.5,0.49,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Wendell Carter Jr,player_points,11.5,MORE,0.489,11.5,0.489,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Josh Giddey,player_assists,8.5,LESS,0.488,8.5,0.512,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Pascal Siakam,player_points,23.5,MORE,0.488,23.5,0.488,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Anthony Davis,player_points,23.5,MORE,0.487,23.5,0.487,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Buddy Hield,player_assists,2.5,LESS,0.486,2.5,0.514,1,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Kyshawn George,player_points,16.5,LESS,0.485,15.5,0.571,1,fit from 15.5 (sd 7.1),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,AJ Dybantsa,player_points,17.5,LESS,0.485,17.5,0.515,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Michael Porter Jr,player_points,18.5,LESS,0.484,18.5,0.516,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Aaron Nesmith,player_points_rebounds_assists,19.5,MORE,0.481,19.5,0.481,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Grayson Allen,player_points,12.5,MORE,0.481,12.5,0.481,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Kevin Durant,player_threes,1.5,LESS,0.481,1.5,0.519,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Naz Reid,player_assists,2.5,MORE,0.48,2.5,0.48,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Alperen Sengun,player_points,20.5,MORE,0.48,20.5,0.48,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Sion James,player_points,5.5,MORE,0.478,5.5,0.478,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Tristan da Silva,player_threes,2.5,MORE,0.477,2.5,0.477,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,VJ Edgecombe,player_points,17.5,MORE,0.476,17.5,0.476,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Naz Reid,player_threes,2.5,MORE,0.476,2.5,0.476,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Day'Ron Sharpe,player_assists,3.5,LESS,0.476,3.5,0.524,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Michael Porter Jr,player_threes,2.5,LESS,0.476,2.5,0.524,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Coby White,player_assists,4.5,MORE,0.476,4.5,0.476,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Tyrese Maxey,player_points,26.5,LESS,0.476,26.5,0.524,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Amen Thompson,player_points,15.5,LESS,0.475,15.5,0.525,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Sion James,player_assists,2.5,LESS,0.474,2.5,0.526,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Coby White,player_points,17.5,MORE,0.474,17.5,0.474,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Desmond Bane,player_points,18.5,LESS,0.472,19.5,0.467,2,fit from 19.5 (sd 6.6),-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Day'Ron Sharpe,player_rebounds,7.5,MORE,0.472,7.5,0.472,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Josh Giddey,player_points,12.5,LESS,0.472,12.5,0.528,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Kyshawn George,player_rebounds,4.5,MORE,0.471,4.5,0.471,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Desmond Bane,player_threes,3.5,MORE,0.471,3.5,0.471,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Brandon Miller,player_threes,3.5,MORE,0.471,3.5,0.471,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Desmond Bane,player_assists,3.5,MORE,0.471,3.5,0.471,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Tre Jones,player_threes,0.5,MORE,0.469,0.5,0.469,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Tyrese Maxey,player_threes,2.5,MORE,0.468,2.5,0.468,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Bennett Stirtz,player_points,8.5,LESS,0.468,8.5,0.532,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Reed Sheppard,player_threes,1.5,LESS,0.468,1.5,0.532,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Brandon Miller,player_assists,3.5,MORE,0.467,3.5,0.467,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Julius Randle,player_points,20.5,MORE,0.467,19.5,0.519,1,fit from 19.5 (sd 7.6),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Wendell Carter Jr,player_rebounds,8.5,MORE,0.463,8.5,0.463,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Franz Wagner,player_points,24.5,LESS,0.462,25.5,0.481,2,fit from 25.5 (sd 7.0),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Kyshawn George,player_threes,2.5,MORE,0.461,2.5,0.461,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Fred VanVleet,player_points,12.5,LESS,0.461,13.5,0.474,2,fit from 13.5 (sd 6.1),-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Tari Eason,player_points,9.5,MORE,0.46,9.5,0.46,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Trae Young,player_rebounds,2.5,MORE,0.459,2.5,0.459,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Alex Sarr,player_points,9.5,MORE,0.459,9.5,0.459,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Reed Sheppard,player_points,7.5,MORE,0.458,7.5,0.458,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Ajay Mitchell,player_assists,3.5,LESS,0.458,3.5,0.542,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Matas Buzelis,player_threes,2.5,MORE,0.458,2.5,0.458,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Kelly Oubre Jr.,player_threes,1.5,MORE,0.456,1.5,0.456,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Kenrich Williams,player_points,9.5,MORE,0.453,8.5,0.532,1,fit from 8.5 (sd 5.0),-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Ajay Mitchell,player_points,17.5,LESS,0.453,18.5,0.481,2,fit from 18.5 (sd 6.1),-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,VJ Edgecombe,player_assists,4.5,LESS,0.453,4.5,0.547,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Fred VanVleet,player_assists,4.5,LESS,0.451,4.5,0.549,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Tre Jones,player_points,14.5,MORE,0.451,13.5,0.514,1,fit from 13.5 (sd 6.3),-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,VJ Edgecombe,player_rebounds,6.5,MORE,0.451,6.5,0.451,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Jalen Smith,player_points,13.5,LESS,0.45,14.5,0.454,2,fit from 14.5 (sd 4.1),-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Anfernee Simons,player_rebounds,2.5,MORE,0.449,2.5,0.449,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Shai Gilgeous-Alexander,player_points,31.5,LESS,0.449,32.5,0.498,2,fit from 32.5 (sd 7.5),-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Matas Buzelis,player_points,18.5,MORE,0.449,17.5,0.51,1,fit from 17.5 (sd 6.5),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,AJ Dybantsa,player_rebounds,7.5,MORE,0.447,7.5,0.447,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Matas Buzelis,player_rebounds,5.5,MORE,0.446,5.5,0.446,2,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Anthony Black,player_points,13.5,LESS,0.446,14.5,0.499,2,fit from 14.5 (sd 7.2),-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Danny Wolf,player_rebounds,4.5,MORE,0.446,4.5,0.446,1,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Julius Randle,player_assists,4.5,MORE,0.444,4.5,0.444,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Jared McCain,player_points,15.5,MORE,0.444,14.5,0.519,2,fit from 14.5 (sd 5.3),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Alex Sarr,player_rebounds,6.5,MORE,0.442,5.5,0.551,1,fit from 5.5 (sd 3.6),-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Kentavious Caldwell-Pope,player_points,8.5,MORE,0.441,7.5,0.532,1,fit from 7.5 (sd 4.4),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Trae Young,player_assists,8.5,MORE,0.441,7.5,0.559,1,fit from 7.5 (sd 3.4),-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Nic Claxton,player_points,9.5,MORE,0.439,8.5,0.524,2,fit from 8.5 (sd 4.7),-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Coby White,player_threes,2.5,MORE,0.439,2.5,0.439,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Moussa Diabate,player_rebounds,10.5,MORE,0.439,9.5,0.546,2,fit from 9.5 (sd 3.7),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Franz Wagner,player_assists,7.5,MORE,0.437,7.5,0.437,2,same line,-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Day'Ron Sharpe,player_points,8.5,MORE,0.437,7.5,0.517,2,fit from 7.5 (sd 5.0),-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Ivica Zubac,player_points,14.5,MORE,0.437,13.5,0.5,1,fit from 13.5 (sd 6.3),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Bilal Coulibaly,player_points,7.5,MORE,0.436,6.5,0.5,2,fit from 6.5 (sd 6.2),-137.0,1.0
+nba,Brooklyn Nets@Charlotte Hornets,2026-11-28T18:10-05:00,Julius Randle,player_rebounds,6.5,MORE,0.433,6.5,0.433,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Jabari Smith Jr,player_rebounds,6.5,MORE,0.433,6.5,0.433,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Kelly Oubre Jr.,player_points,12.5,LESS,0.431,13.5,0.509,2,fit from 13.5 (sd 6.6),-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Anthony Davis,player_rebounds,10.5,MORE,0.431,9.5,0.547,1,fit from 9.5 (sd 3.4),-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Kelly Oubre Jr.,player_rebounds,4.5,MORE,0.429,3.5,0.59,1,fit from 3.5 (sd 2.5),-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Isaac Okoro,player_points,11.5,MORE,0.427,10.5,0.511,2,fit from 10.5 (sd 4.8),-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Amen Thompson,player_rebounds,7.5,MORE,0.425,7.5,0.425,2,same line,-137.0,1.0
+nba,Indiana Pacers@Chicago Bulls,2026-11-28T20:10-05:00,Tre Jones,player_assists,6.5,MORE,0.425,6.5,0.425,1,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Kenrich Williams,player_threes,1.5,MORE,0.425,1.5,0.425,2,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Tyrese Maxey,player_assists,5.5,LESS,0.425,5.5,0.575,1,same line,-137.0,1.0
+nba,Philadelphia 76ers@Houston Rockets,2026-11-28T20:40-05:00,Tari Eason,player_rebounds,5.5,MORE,0.419,5.5,0.419,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Alex Caruso,player_rebounds,3.5,MORE,0.417,3.5,0.417,1,same line,-137.0,1.0
+nba,Orlando Magic@Washington Wizards,2026-11-28T17:10-05:00,Alex Sarr,player_assists,1.5,MORE,0.402,1.5,0.402,2,same line,-137.0,1.0
+nba,Oklahoma City Thunder@Milwaukee Bucks,2026-11-28T20:10-05:00,Isaiah Hartenstein,player_rebounds,12.5,MORE,0.394,11.5,0.499,2,fit from 11.5 (sd 3.7),-137.0,1.0

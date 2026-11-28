@@ -1,0 +1,212 @@
+date,player,market,ctx_mean,sd,line,proj_min,p_ctx,p_mkt,model_version
+2026-11-28,AJ Dybantsa,player_points,17.13,6.1,17.5,35.7,0.44,0.515,matchup v1
+2026-11-28,AJ Dybantsa,player_rebounds,7.03,2.4,7.5,35.7,0.405,0.447,matchup v1
+2026-11-28,AJ Dybantsa,player_assists,3.16,1.79,3.5,35.7,0.389,0.508,matchup v1
+2026-11-28,AJ Dybantsa,player_threes,0.95,0.9,0.5,35.7,0.605,0.656,matchup v1
+2026-11-28,Aaron Nesmith,player_points,11.89,6.33,12.5,27.9,0.403,0.494,matchup v1
+2026-11-28,Aaron Nesmith,player_rebounds,3.3,2.35,3.5,27.9,0.4,0.55,matchup v1
+2026-11-28,Aaron Nesmith,player_assists,2.16,1.56,1.5,27.9,0.618,0.579,matchup v1
+2026-11-28,Aaron Nesmith,player_threes,1.63,1.51,1.5,27.9,0.449,0.579,matchup v1
+2026-11-28,Ajay Mitchell,player_points,16.62,6.44,18.5,28.6,0.349,0.481,matchup v1
+2026-11-28,Ajay Mitchell,player_rebounds,3.69,2.21,4.5,28.6,0.318,0.409,matchup v1
+2026-11-28,Ajay Mitchell,player_assists,3.74,1.97,3.5,28.6,0.51,0.542,matchup v1
+2026-11-28,Ajay Mitchell,player_threes,1.06,0.98,1.5,28.6,0.286,0.353,matchup v1
+2026-11-28,Alex Caruso,player_points,6.21,3.75,7.5,19.6,0.315,0.494,matchup v1
+2026-11-28,Alex Caruso,player_rebounds,3.99,2.36,3.5,19.6,0.533,0.417,matchup v1
+2026-11-28,Alex Caruso,player_assists,2.14,1.41,2.5,19.6,0.36,0.417,matchup v1
+2026-11-28,Alex Caruso,player_threes,1.12,0.9,1.5,19.6,0.308,0.386,matchup v1
+2026-11-28,Alex Sarr,player_points,11.66,6.63,9.5,25.0,0.57,0.459,matchup v1
+2026-11-28,Alex Sarr,player_rebounds,5.98,3.16,5.5,25.0,0.511,0.551,matchup v1
+2026-11-28,Alex Sarr,player_assists,1.77,1.71,1.5,25.0,0.469,0.402,matchup v1
+2026-11-28,Alex Sarr,player_threes,1.07,1.04,1.5,25.0,0.29,0.315,matchup v1
+2026-11-28,Alperen Sengun,player_points,20.64,7.44,20.5,33.0,0.468,0.48,matchup v1
+2026-11-28,Alperen Sengun,player_rebounds,9.4,3.54,9.5,33.0,0.457,0.465,matchup v1
+2026-11-28,Alperen Sengun,player_assists,6.53,2.58,6.5,33.0,0.476,0.525,matchup v1
+2026-11-28,Alperen Sengun,player_threes,0.91,0.91,0.5,33.0,0.59,0.554,matchup v1
+2026-11-28,Amen Thompson,player_points,15.07,5.68,15.5,31.6,0.432,0.525,matchup v1
+2026-11-28,Amen Thompson,player_rebounds,6.88,2.53,7.5,31.6,0.384,0.425,matchup v1
+2026-11-28,Amen Thompson,player_assists,3.4,2.01,2.5,31.6,0.636,0.607,matchup v1
+2026-11-28,Amen Thompson,player_threes,0.3,0.9,0.5,31.6,0.159,0.274,matchup v1
+2026-11-28,Andrew Nembhard,player_points,16.93,6.25,15.5,32.2,0.554,0.508,matchup v1
+2026-11-28,Andrew Nembhard,player_rebounds,2.35,1.69,2.5,32.2,0.408,0.524,matchup v1
+2026-11-28,Andrew Nembhard,player_assists,7.82,3.3,8.5,32.2,0.385,0.432,matchup v1
+2026-11-28,Andrew Nembhard,player_threes,2.18,1.34,1.5,32.2,0.633,0.567,matchup v1
+2026-11-28,Anfernee Simons,player_points,13.6,5.19,16.5,27.0,0.266,0.5,matchup v1
+2026-11-28,Anfernee Simons,player_rebounds,2.58,1.24,2.5,27.0,0.472,0.449,matchup v1
+2026-11-28,Anfernee Simons,player_assists,1.88,1.33,2.5,27.0,0.291,0.428,matchup v1
+2026-11-28,Anfernee Simons,player_threes,2.79,1.46,2.5,27.0,0.524,0.575,matchup v1
+2026-11-28,Anthony Black,player_points,15.36,7.33,14.5,32.8,0.492,0.499,matchup v1
+2026-11-28,Anthony Black,player_rebounds,4.44,2.39,4.5,32.8,0.445,0.432,matchup v1
+2026-11-28,Anthony Black,player_assists,4.61,1.91,4.5,32.8,0.486,0.444,matchup v1
+2026-11-28,Anthony Black,player_threes,1.82,1.59,1.5,32.8,0.502,0.488,matchup v1
+2026-11-28,Anthony Davis,player_points,24.38,8.64,23.5,34.2,0.502,0.487,matchup v1
+2026-11-28,Anthony Davis,player_rebounds,10.08,3.63,9.5,34.2,0.534,0.547,matchup v1
+2026-11-28,Anthony Davis,player_assists,2.34,1.94,1.5,34.2,0.604,0.607,matchup v1
+2026-11-28,Anthony Davis,player_threes,0.72,0.93,0.5,34.2,0.484,0.551,matchup v1
+2026-11-28,Bennett Stirtz,player_points,9.33,4.63,8.5,22.2,0.52,0.532,matchup v1
+2026-11-28,Bennett Stirtz,player_rebounds,1.89,1.2,2.5,22.2,0.293,0.449,matchup v1
+2026-11-28,Bennett Stirtz,player_assists,1.88,1.2,2.5,22.2,0.292,0.425,matchup v1
+2026-11-28,Bennett Stirtz,player_threes,2.03,1.26,1.5,22.2,0.595,0.564,matchup v1
+2026-11-28,Bilal Coulibaly,player_points,8.13,5.72,6.5,24.3,0.537,0.5,matchup v1
+2026-11-28,Bilal Coulibaly,player_rebounds,3.86,1.97,3.5,24.3,0.534,0.467,matchup v1
+2026-11-28,Brandon Miller,player_points,21.14,7.88,21.5,32.5,0.441,0.494,matchup v1
+2026-11-28,Brandon Miller,player_rebounds,5.38,2.72,4.5,32.5,0.588,0.51,matchup v1
+2026-11-28,Brandon Miller,player_assists,3.02,1.92,3.5,32.5,0.357,0.467,matchup v1
+2026-11-28,Brandon Miller,player_threes,3.12,1.76,3.5,32.5,0.378,0.471,matchup v1
+2026-11-28,Buddy Hield,player_points,13.32,6.85,14.5,24.9,0.376,0.47,matchup v1
+2026-11-28,Buddy Hield,player_rebounds,3.44,2.14,3.5,24.9,0.437,0.481,matchup v1
+2026-11-28,Buddy Hield,player_assists,2.61,1.36,2.5,24.9,0.48,0.514,matchup v1
+2026-11-28,Buddy Hield,player_threes,2.85,1.98,3.5,24.9,0.322,0.383,matchup v1
+2026-11-28,Coby White,player_points,15.5,6.12,17.5,24.3,0.337,0.474,matchup v1
+2026-11-28,Coby White,player_rebounds,3.4,1.77,2.5,24.3,0.654,0.595,matchup v1
+2026-11-28,Coby White,player_assists,4.25,2.29,4.5,24.3,0.414,0.476,matchup v1
+2026-11-28,Coby White,player_threes,1.74,1.51,2.5,24.3,0.259,0.439,matchup v1
+2026-11-28,Danny Wolf,player_points,8.86,4.48,7.5,22.2,0.572,0.503,matchup v1
+2026-11-28,Danny Wolf,player_rebounds,4.89,2.23,4.5,22.2,0.536,0.446,matchup v1
+2026-11-28,Danny Wolf,player_threes,1.62,0.98,1.5,22.2,0.476,0.38,matchup v1
+2026-11-28,Day'Ron Sharpe,player_points,9.14,5.03,7.5,24.5,0.575,0.517,matchup v1
+2026-11-28,Day'Ron Sharpe,player_rebounds,7.95,3.41,7.5,24.5,0.515,0.472,matchup v1
+2026-11-28,Day'Ron Sharpe,player_assists,3.56,2.36,3.5,24.5,0.448,0.524,matchup v1
+2026-11-28,Desmond Bane,player_points,18.32,6.62,19.5,33.6,0.393,0.467,matchup v1
+2026-11-28,Desmond Bane,player_rebounds,3.58,1.94,3.5,33.6,0.478,0.541,matchup v1
+2026-11-28,Desmond Bane,player_assists,3.22,1.9,3.5,33.6,0.398,0.471,matchup v1
+2026-11-28,Desmond Bane,player_threes,3.32,1.81,3.5,33.6,0.422,0.471,matchup v1
+2026-11-28,Franz Wagner,player_points,23.23,6.9,25.5,35.4,0.346,0.481,matchup v1
+2026-11-28,Franz Wagner,player_rebounds,6.2,2.62,6.5,35.4,0.424,0.507,matchup v1
+2026-11-28,Franz Wagner,player_assists,6.42,3.08,7.5,35.4,0.329,0.437,matchup v1
+2026-11-28,Franz Wagner,player_threes,1.28,1.36,1.5,35.4,0.345,0.442,matchup v1
+2026-11-28,Fred VanVleet,player_points,13.65,6.32,13.5,31.5,0.458,0.474,matchup v1
+2026-11-28,Fred VanVleet,player_rebounds,3.05,1.67,2.5,31.5,0.582,0.55,matchup v1
+2026-11-28,Fred VanVleet,player_assists,5.53,2.72,4.5,31.5,0.612,0.549,matchup v1
+2026-11-28,Fred VanVleet,player_threes,2.84,1.14,2.5,31.5,0.536,0.5,matchup v1
+2026-11-28,Grayson Allen,player_points,15.89,7.43,12.5,29.2,0.637,0.481,matchup v1
+2026-11-28,Grayson Allen,player_rebounds,3.52,1.79,2.5,29.2,0.677,0.504,matchup v1
+2026-11-28,Grayson Allen,player_threes,3.31,2.11,2.5,29.2,0.603,0.465,matchup v1
+2026-11-28,Isaac Okoro,player_points,9.9,4.62,10.5,29.3,0.402,0.511,matchup v1
+2026-11-28,Isaac Okoro,player_rebounds,2.93,1.58,3.5,29.3,0.337,0.386,matchup v1
+2026-11-28,Isaac Okoro,player_assists,2.08,1.41,2.5,29.3,0.345,0.406,matchup v1
+2026-11-28,Isaac Okoro,player_threes,1.27,1.24,1.5,29.3,0.354,0.414,matchup v1
+2026-11-28,Isaiah Hartenstein,player_points,9.19,5.42,9.5,26.7,0.412,0.506,matchup v1
+2026-11-28,Isaiah Hartenstein,player_rebounds,11.13,3.95,11.5,26.7,0.433,0.499,matchup v1
+2026-11-28,Isaiah Hartenstein,player_assists,4.08,2.78,4.5,26.7,0.376,0.425,matchup v1
+2026-11-28,Ivica Zubac,player_points,12.0,5.2,13.5,26.2,0.348,0.5,matchup v1
+2026-11-28,Ivica Zubac,player_rebounds,9.12,3.61,10.5,26.2,0.324,0.481,matchup v1
+2026-11-28,Ivica Zubac,player_assists,2.0,1.24,2.5,26.2,0.324,0.395,matchup v1
+2026-11-28,Jabari Smith Jr,player_points,14.08,5.87,13.5,31.9,0.495,0.508,matchup v1
+2026-11-28,Jabari Smith Jr,player_rebounds,6.16,2.6,6.5,31.9,0.418,0.433,matchup v1
+2026-11-28,Jabari Smith Jr,player_assists,1.83,1.34,1.5,31.9,0.541,0.547,matchup v1
+2026-11-28,Jabari Smith Jr,player_threes,2.14,1.38,1.5,31.9,0.624,0.573,matchup v1
+2026-11-28,Jabari Walker,player_points,4.1,3.19,9.5,11.8,0.065,0.51,matchup v1
+2026-11-28,Jabari Walker,player_rebounds,2.72,2.18,6.5,11.8,0.062,0.497,matchup v1
+2026-11-28,Jalen Smith,player_points,14.05,4.19,14.5,25.6,0.434,0.454,matchup v1
+2026-11-28,Jalen Smith,player_rebounds,7.47,3.38,7.5,25.6,0.455,0.491,matchup v1
+2026-11-28,Jalen Smith,player_assists,2.1,1.25,1.5,25.6,0.612,0.618,matchup v1
+2026-11-28,Jalen Smith,player_threes,2.08,1.17,1.5,25.6,0.609,0.588,matchup v1
+2026-11-28,Jalen Suggs,player_points,10.94,5.88,11.5,28.5,0.403,0.515,matchup v1
+2026-11-28,Jalen Suggs,player_rebounds,4.17,2.01,4.5,28.5,0.404,0.474,matchup v1
+2026-11-28,Jalen Suggs,player_assists,4.66,2.39,4.5,28.5,0.487,0.505,matchup v1
+2026-11-28,Jalen Suggs,player_threes,1.65,1.56,1.5,28.5,0.45,0.553,matchup v1
+2026-11-28,Jared McCain,player_points,14.25,6.02,14.5,28.7,0.439,0.519,matchup v1
+2026-11-28,Jared McCain,player_rebounds,3.43,2.0,2.5,28.7,0.644,0.604,matchup v1
+2026-11-28,Jared McCain,player_assists,1.84,1.47,1.5,28.7,0.53,0.494,matchup v1
+2026-11-28,Jared McCain,player_threes,2.33,1.84,2.5,28.7,0.395,0.507,matchup v1
+2026-11-28,Josh Giddey,player_points,13.16,6.21,12.5,30.7,0.49,0.528,matchup v1
+2026-11-28,Josh Giddey,player_rebounds,6.83,3.26,6.5,30.7,0.497,0.542,matchup v1
+2026-11-28,Josh Giddey,player_assists,10.07,3.18,8.5,30.7,0.67,0.512,matchup v1
+2026-11-28,Josh Giddey,player_threes,1.38,1.36,1.5,30.7,0.38,0.437,matchup v1
+2026-11-28,Julius Randle,player_points,21.08,7.5,19.5,34.1,0.547,0.519,matchup v1
+2026-11-28,Julius Randle,player_rebounds,6.45,2.76,6.5,34.1,0.46,0.433,matchup v1
+2026-11-28,Julius Randle,player_assists,4.61,2.18,4.5,34.1,0.486,0.444,matchup v1
+2026-11-28,Julius Randle,player_threes,1.47,1.35,1.5,34.1,0.416,0.429,matchup v1
+2026-11-28,Kel'el Ware,player_points,9.52,4.61,14.5,20.8,0.139,0.524,matchup v1
+2026-11-28,Kelly Oubre Jr.,player_points,12.26,5.18,13.5,24.7,0.366,0.509,matchup v1
+2026-11-28,Kelly Oubre Jr.,player_rebounds,3.34,1.77,3.5,24.7,0.427,0.59,matchup v1
+2026-11-28,Kelly Oubre Jr.,player_assists,1.19,1.2,1.5,24.7,0.326,0.428,matchup v1
+2026-11-28,Kelly Oubre Jr.,player_threes,1.27,1.05,1.5,24.7,0.361,0.456,matchup v1
+2026-11-28,Kenrich Williams,player_points,9.44,4.11,8.5,23.2,0.551,0.532,matchup v1
+2026-11-28,Kenrich Williams,player_rebounds,4.56,2.23,5.5,23.2,0.311,0.432,matchup v1
+2026-11-28,Kenrich Williams,player_assists,1.85,1.57,1.5,23.2,0.517,0.553,matchup v1
+2026-11-28,Kenrich Williams,player_threes,1.53,1.07,1.5,23.2,0.447,0.425,matchup v1
+2026-11-28,Kentavious Caldwell-Pope,player_points,7.33,4.6,7.5,25.5,0.416,0.532,matchup v1
+2026-11-28,Kentavious Caldwell-Pope,player_rebounds,3.28,1.69,3.5,25.5,0.414,0.433,matchup v1
+2026-11-28,Kentavious Caldwell-Pope,player_assists,2.18,1.6,2.5,25.5,0.368,0.445,matchup v1
+2026-11-28,Kentavious Caldwell-Pope,player_threes,1.6,1.21,1.5,25.5,0.471,0.519,matchup v1
+2026-11-28,Kevin Durant,player_points,21.43,6.25,20.5,33.8,0.532,0.492,matchup v1
+2026-11-28,Kevin Durant,player_rebounds,5.62,2.17,5.5,33.8,0.489,0.485,matchup v1
+2026-11-28,Kevin Durant,player_assists,3.71,2.36,3.5,33.8,0.479,0.561,matchup v1
+2026-11-28,Kevin Durant,player_threes,1.77,1.35,1.5,33.8,0.521,0.519,matchup v1
+2026-11-28,Kyshawn George,player_points,18.1,7.21,15.5,34.9,0.604,0.571,matchup v1
+2026-11-28,Kyshawn George,player_rebounds,4.81,2.89,4.5,34.9,0.485,0.471,matchup v1
+2026-11-28,Kyshawn George,player_assists,4.66,2.14,4.5,34.9,0.496,0.418,matchup v1
+2026-11-28,Kyshawn George,player_threes,2.58,1.69,2.5,34.9,0.469,0.461,matchup v1
+2026-11-28,Marcus Smart,player_points,6.94,4.53,5.5,22.3,0.56,0.506,matchup v1
+2026-11-28,Marcus Smart,player_rebounds,2.53,1.32,2.5,22.3,0.461,0.433,matchup v1
+2026-11-28,Marcus Smart,player_assists,2.26,1.67,1.5,22.3,0.628,0.588,matchup v1
+2026-11-28,Marcus Smart,player_threes,1.33,1.3,1.5,22.3,0.37,0.349,matchup v1
+2026-11-28,Matas Buzelis,player_points,17.58,5.56,17.5,30.7,0.475,0.51,matchup v1
+2026-11-28,Matas Buzelis,player_rebounds,5.24,2.15,5.5,30.7,0.425,0.446,matchup v1
+2026-11-28,Matas Buzelis,player_assists,2.11,1.7,1.5,30.7,0.579,0.61,matchup v1
+2026-11-28,Matas Buzelis,player_threes,2.37,1.39,2.5,30.7,0.419,0.458,matchup v1
+2026-11-28,Michael Porter Jr,player_points,19.46,6.81,18.5,32.3,0.52,0.516,matchup v1
+2026-11-28,Michael Porter Jr,player_rebounds,6.82,3.05,6.5,32.3,0.503,0.465,matchup v1
+2026-11-28,Michael Porter Jr,player_assists,1.96,1.76,1.5,32.3,0.523,0.563,matchup v1
+2026-11-28,Michael Porter Jr,player_threes,2.92,1.85,2.5,32.3,0.541,0.524,matchup v1
+2026-11-28,Mikel Brown Jr.,player_points,12.62,5.56,12.5,24.6,0.462,0.519,matchup v1
+2026-11-28,Mikel Brown Jr.,player_assists,3.47,1.79,3.5,24.6,0.454,0.471,matchup v1
+2026-11-28,Mikel Brown Jr.,player_threes,2.14,1.4,1.5,24.6,0.624,0.611,matchup v1
+2026-11-28,Moussa Diabate,player_points,9.93,4.84,9.5,32.1,0.484,0.492,matchup v1
+2026-11-28,Moussa Diabate,player_rebounds,12.15,3.74,9.5,32.1,0.751,0.546,matchup v1
+2026-11-28,Moussa Diabate,player_assists,2.25,1.61,1.5,32.1,0.637,0.601,matchup v1
+2026-11-28,Myles Turner,player_points,9.39,6.03,12.5,27.3,0.256,0.486,matchup v1
+2026-11-28,Myles Turner,player_rebounds,6.25,2.88,6.5,27.3,0.428,0.567,matchup v1
+2026-11-28,Myles Turner,player_assists,2.19,1.57,1.5,27.3,0.626,0.592,matchup v1
+2026-11-28,Myles Turner,player_threes,1.71,1.29,1.5,27.3,0.505,0.542,matchup v1
+2026-11-28,Naz Reid,player_points,18.06,7.56,18.5,34.1,0.43,0.501,matchup v1
+2026-11-28,Naz Reid,player_rebounds,9.46,2.97,7.5,34.1,0.72,0.504,matchup v1
+2026-11-28,Naz Reid,player_assists,2.7,1.65,2.5,34.1,0.501,0.48,matchup v1
+2026-11-28,Naz Reid,player_threes,2.57,1.9,2.5,34.1,0.448,0.476,matchup v1
+2026-11-28,Nic Claxton,player_points,10.84,4.25,8.5,25.3,0.687,0.524,matchup v1
+2026-11-28,Nic Claxton,player_rebounds,5.51,2.38,5.5,25.3,0.471,0.508,matchup v1
+2026-11-28,Nic Claxton,player_assists,2.51,2.07,1.5,25.3,0.63,0.59,matchup v1
+2026-11-28,Pascal Siakam,player_points,22.85,6.64,23.5,31.6,0.433,0.488,matchup v1
+2026-11-28,Pascal Siakam,player_rebounds,5.53,2.53,6.5,31.6,0.324,0.5,matchup v1
+2026-11-28,Pascal Siakam,player_assists,3.75,1.8,3.5,31.6,0.513,0.567,matchup v1
+2026-11-28,Pascal Siakam,player_threes,1.67,1.36,1.5,31.6,0.486,0.542,matchup v1
+2026-11-28,Reed Sheppard,player_points,7.94,3.29,7.5,18.1,0.519,0.458,matchup v1
+2026-11-28,Reed Sheppard,player_threes,1.84,1.07,1.5,18.1,0.544,0.532,matchup v1
+2026-11-28,Ryan Rollins,player_points,10.72,4.96,17.5,24.6,0.096,0.472,matchup v1
+2026-11-28,Ryan Rollins,player_rebounds,4.44,2.01,4.5,24.6,0.455,0.572,matchup v1
+2026-11-28,Ryan Rollins,player_assists,3.84,2.01,6.5,24.6,0.1,0.494,matchup v1
+2026-11-28,Ryan Rollins,player_threes,1.52,1.17,1.5,24.6,0.446,0.575,matchup v1
+2026-11-28,Shai Gilgeous-Alexander,player_points,33.8,7.33,32.5,35.5,0.551,0.498,matchup v1
+2026-11-28,Shai Gilgeous-Alexander,player_rebounds,4.45,2.17,4.5,35.5,0.455,0.444,matchup v1
+2026-11-28,Shai Gilgeous-Alexander,player_assists,6.22,3.12,5.5,35.5,0.549,0.492,matchup v1
+2026-11-28,Shai Gilgeous-Alexander,player_threes,2.15,1.29,2.5,35.5,0.364,0.372,matchup v1
+2026-11-28,Sion James,player_points,5.9,4.5,5.5,27.6,0.448,0.478,matchup v1
+2026-11-28,Sion James,player_rebounds,4.42,2.16,3.5,27.6,0.637,0.523,matchup v1
+2026-11-28,Sion James,player_assists,2.85,1.82,2.5,27.6,0.527,0.526,matchup v1
+2026-11-28,Tari Eason,player_points,8.86,4.68,9.5,22.2,0.391,0.46,matchup v1
+2026-11-28,Tari Eason,player_rebounds,5.42,2.38,5.5,22.2,0.455,0.419,matchup v1
+2026-11-28,Tari Eason,player_threes,1.05,1.04,0.5,22.2,0.64,0.636,matchup v1
+2026-11-28,Trae Young,player_points,18.03,8.62,15.5,33.0,0.565,0.49,matchup v1
+2026-11-28,Trae Young,player_rebounds,2.37,1.82,2.5,33.0,0.405,0.459,matchup v1
+2026-11-28,Trae Young,player_assists,9.05,3.57,7.5,33.0,0.642,0.559,matchup v1
+2026-11-28,Trae Young,player_threes,2.04,1.96,1.5,33.0,0.518,0.576,matchup v1
+2026-11-28,Tre Jones,player_points,11.49,4.86,13.5,20.1,0.308,0.514,matchup v1
+2026-11-28,Tre Jones,player_rebounds,2.23,1.56,2.5,20.1,0.383,0.532,matchup v1
+2026-11-28,Tre Jones,player_assists,4.49,2.33,6.5,20.1,0.184,0.425,matchup v1
+2026-11-28,Tre Jones,player_threes,0.39,0.9,0.5,20.1,0.234,0.469,matchup v1
+2026-11-28,Tristan da Silva,player_points,11.22,5.18,11.5,26.8,0.431,0.581,matchup v1
+2026-11-28,Tristan da Silva,player_rebounds,3.03,1.96,3.5,26.8,0.358,0.565,matchup v1
+2026-11-28,Tristan da Silva,player_threes,2.19,1.26,2.5,26.8,0.373,0.477,matchup v1
+2026-11-28,Tyrese Maxey,player_points,30.0,6.63,26.5,39.1,0.689,0.524,matchup v1
+2026-11-28,Tyrese Maxey,player_rebounds,4.18,2.14,2.5,39.1,0.773,0.59,matchup v1
+2026-11-28,Tyrese Maxey,player_assists,6.86,2.6,5.5,39.1,0.674,0.575,matchup v1
+2026-11-28,Tyrese Maxey,player_threes,3.29,1.52,2.5,39.1,0.633,0.468,matchup v1
+2026-11-28,VJ Edgecombe,player_points,17.69,6.24,17.5,36.8,0.476,0.476,matchup v1
+2026-11-28,VJ Edgecombe,player_rebounds,5.61,2.54,6.5,36.8,0.335,0.451,matchup v1
+2026-11-28,VJ Edgecombe,player_assists,3.88,2.57,4.5,36.8,0.349,0.547,matchup v1
+2026-11-28,VJ Edgecombe,player_threes,2.12,1.48,1.5,36.8,0.618,0.544,matchup v1
+2026-11-28,Wendell Carter Jr,player_points,12.46,6.02,11.5,32.5,0.511,0.489,matchup v1
+2026-11-28,Wendell Carter Jr,player_rebounds,8.15,2.7,8.5,32.5,0.428,0.463,matchup v1
+2026-11-28,Wendell Carter Jr,player_assists,1.61,1.34,1.5,32.5,0.469,0.55,matchup v1
